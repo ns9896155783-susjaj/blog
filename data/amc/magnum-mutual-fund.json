@@ -1,57 +1,22 @@
 {
   "meta": {
     "amc": "Magnum Mutual Fund",
-    "total_schemes": 1,
-    "last_updated": "2026-02-01 13:25"
+    "total_schemes": 1
   },
   "schemes": {
-    "Magnum Hybrid Long Short Fund-Reg(G)": {
-      "amc_list": null,
-      "fund_manager": "Gaurav Mehta",
+    "magnum-hybrid-long-short-fund-reg-g": {
+      "name": "Magnum Hybrid Long Short Fund-Reg(G)",
       "category": "HY-EQ",
-      "rupeevestrating": "Unrated",
-      "aum_in_rs_cr_": 2118.9,
-      "expenseratio_": 1.22,
-      "fund_type": "Open Ended",
-      "inception_date": "2025-10-22T18:30:00.000Z",
-      "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
       "nav": 10.12,
-      "52_weekhigh_nav_": 10.25,
-      "52_weeklow_nav_": 9.99,
-      "return_1_mo": null,
-      "return_3_mo": null,
-      "return_6_mo": null,
-      "return_1_yr": null,
-      "return_2_yrs": null,
-      "return_3_yrs": null,
-      "return_5_yrs": null,
-      "return_10_yrs": null,
-      "pe_ratio": 27.55,
-      "pb_ratio": 3.43,
-      "turnover_ratio_": null,
-      "no_ofstocks": 37,
-      "avg_market_cap_in_rs_cr_": 239707,
-      "large_cap_": 61.99,
-      "mid_cap_": 4.54,
-      "small_cap_": 0.79,
-      "highest_sector": "Financials",
-      "avg_maturity_in_yrs_": null,
-      "mod_duration_in_yrs_": null,
-      "yield_to_maturity_": null,
-      "alpha": null,
-      "sharpe": null,
-      "sortino": null,
-      "beta": null,
-      "standard_deviation": null,
-      "classification": "Hybrid : Equity Oriented",
-      "exit_load_remarks": "0.50% on or before 15D 0.25% after 15D but on on or before 30D Nil after 30D",
-      "": null,
-      "investment_objective": "#REF!",
-      "minimum_investment_fresh_folio_": null,
-      "minimum_additional_investment": null,
-      "minimum_sip": null,
-      "minimum_swp": null,
-      "taxation": null
+      "nav_date": "01 Feb 2026",
+      "expense_ratio": "",
+      "benchmark": "",
+      "returns": {
+        "1Y": "",
+        "3Y": "",
+        "5Y": ""
+      },
+      "invest_url": ""
     }
   }
 }
