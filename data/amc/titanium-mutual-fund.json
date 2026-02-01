@@ -1,22 +1,51 @@
 {
   "meta": {
     "amc": "Titanium Mutual Fund",
-    "total_schemes": 1
+    "total_schemes": 1,
+    "last_updated": "2026-02-01 22:44"
   },
   "schemes": {
-    "titanium-hybrid-long-short-fund-reg-g": {
-      "name": "Titanium Hybrid Long-Short Fund-Reg(G)",
+    "Titanium Hybrid Long-Short Fund-Reg(G)": {
+      "amc_list": null,
+      "invest_online_link": null,
+      "fund_manager": "Suraj Nanda",
       "category": "HY-DYN",
+      "rupeevestrating": "Unrated",
+      "aum_in_rs_cr_": null,
+      "expenseratio_": null,
+      "fund_type": "Open Ended",
+      "inception_date": "2025-12-10T18:30:00.000Z",
+      "benchmark_index": "CRISIL Hybrid 50+50 - Moderate Index",
       "nav": 9.92,
-      "nav_date": "01 Feb 2026",
-      "expense_ratio": "",
-      "benchmark": "",
-      "returns": {
-        "1Y": "",
-        "3Y": "",
-        "5Y": ""
-      },
-      "invest_url": ""
+      "52_weekhigh_nav_": 10.1,
+      "52_weeklow_nav_": 9.83,
+      "return_1_mo": null,
+      "return_3_mo": null,
+      "return_6_mo": null,
+      "return_1_yr": null,
+      "return_2_yrs": null,
+      "return_3_yrs": null,
+      "return_5_yrs": null,
+      "return_10_yrs": null,
+      "pe_ratio": null,
+      "pb_ratio": null,
+      "turnover_ratio_": null,
+      "no_ofstocks": null,
+      "avg_market_cap_in_rs_cr_": null,
+      "large_cap_": null,
+      "mid_cap_": null,
+      "small_cap_": null,
+      "highest_sector": null,
+      "avg_maturity_in_yrs_": null,
+      "mod_duration_in_yrs_": null,
+      "yield_to_maturity_": null,
+      "alpha": null,
+      "sharpe": null,
+      "sortino": null,
+      "beta": null,
+      "standard_deviation": null,
+      "classification": "Hybrid : Dynamic Asset Allocation",
+      "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     }
   }
 }
