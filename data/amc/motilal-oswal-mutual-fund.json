@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Motilal Oswal Mutual Fund",
     "total_schemes": 47,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Motilal Oswal 5 Year G-Sec FoF-Reg(G)": {
+    "motilal-oswal-5-year-g-sec-fof-reg-g": {
+      "name": "Motilal Oswal 5 Year G-Sec FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rakesh Shetty",
@@ -47,7 +48,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Active Momentum Fund-Reg(G)": {
+    "motilal-oswal-active-momentum-fund-reg-g": {
+      "name": "Motilal Oswal Active Momentum Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -89,7 +91,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Motilal Oswal Arbitrage Fund-Reg(G)": {
+    "motilal-oswal-arbitrage-fund-reg-g": {
+      "name": "Motilal Oswal Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Ashar",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Asset Allocation Passive FoF-Aggressive-Reg(G)": {
+    "motilal-oswal-asset-allocation-passive-fof-aggressive-reg-g": {
+      "name": "Motilal Oswal Asset Allocation Passive FoF-Aggressive-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -173,7 +177,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Asset Allocation Passive FoF-Conservative-Reg(G)": {
+    "motilal-oswal-asset-allocation-passive-fof-conservative-reg-g": {
+      "name": "Motilal Oswal Asset Allocation Passive FoF-Conservative-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -215,7 +220,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Balanced Advantage Fund-Reg(G)": {
+    "motilal-oswal-balanced-advantage-fund-reg-g": {
+      "name": "Motilal Oswal Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -257,7 +263,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Motilal Oswal BSE 1000 Index Fund-Reg(G)": {
+    "motilal-oswal-bse-1000-index-fund-reg-g": {
+      "name": "Motilal Oswal BSE 1000 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -299,7 +306,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal BSE Enhanced Value Index Fund-Reg(G)": {
+    "motilal-oswal-bse-enhanced-value-index-fund-reg-g": {
+      "name": "Motilal Oswal BSE Enhanced Value Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -341,7 +349,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal BSE Low Volatility Index Fund-Reg(G)": {
+    "motilal-oswal-bse-low-volatility-index-fund-reg-g": {
+      "name": "Motilal Oswal BSE Low Volatility Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -383,7 +392,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal BSE Quality Index Fund-Reg(G)": {
+    "motilal-oswal-bse-quality-index-fund-reg-g": {
+      "name": "Motilal Oswal BSE Quality Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -425,7 +435,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Business Cycle Fund-Reg(G)": {
+    "motilal-oswal-business-cycle-fund-reg-g": {
+      "name": "Motilal Oswal Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -467,7 +478,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Motilal Oswal Consumption Fund-Reg(G)": {
+    "motilal-oswal-consumption-fund-reg-g": {
+      "name": "Motilal Oswal Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Varun Sharma",
@@ -509,7 +521,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Motilal Oswal Developed Market Ex US ETFs Overseas Equity Passive FOF-Reg(G)": {
+    "motilal-oswal-developed-market-ex-us-etfs-overseas-equity-passive-fof-reg-g": {
+      "name": "Motilal Oswal Developed Market Ex US ETFs Overseas Equity Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -551,7 +564,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Digital India Fund-Reg(G)": {
+    "motilal-oswal-digital-india-fund-reg-g": {
+      "name": "Motilal Oswal Digital India Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Varun Sharma",
@@ -593,7 +607,8 @@
       "classification": "Equity : Sectoral - Technology",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Motilal Oswal Diversified Equity Flexicap Passive FoF-Reg(G)": {
+    "motilal-oswal-diversified-equity-flexicap-passive-fof-reg-g": {
+      "name": "Motilal Oswal Diversified Equity Flexicap Passive FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -635,7 +650,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal ELSS Tax Saver Fund-Reg(G)": {
+    "motilal-oswal-elss-tax-saver-fund-reg-g": {
+      "name": "Motilal Oswal ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -677,7 +693,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Motilal Oswal Financial Services Fund-Reg(G)": {
+    "motilal-oswal-financial-services-fund-reg-g": {
+      "name": "Motilal Oswal Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -719,7 +736,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Motilal Oswal Flexi Cap Fund-Reg(G)": {
+    "motilal-oswal-flexi-cap-fund-reg-g": {
+      "name": "Motilal Oswal Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -761,7 +779,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Motilal Oswal Focused Fund-Reg(G)": {
+    "motilal-oswal-focused-fund-reg-g": {
+      "name": "Motilal Oswal Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Atul Mehra",
@@ -803,7 +822,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Motilal Oswal Gold and Silver Passive FoF-Reg(G)": {
+    "motilal-oswal-gold-and-silver-passive-fof-reg-g": {
+      "name": "Motilal Oswal Gold and Silver Passive FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -845,7 +865,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "Nil"
     },
-    "Motilal Oswal Infrastructure Fund-Reg(G)": {
+    "motilal-oswal-infrastructure-fund-reg-g": {
+      "name": "Motilal Oswal Infrastructure Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -887,7 +908,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "1% on or before 3M Nil after 3M"
     },
-    "Motilal Oswal Innovation Opportunities Fund-Reg(G)": {
+    "motilal-oswal-innovation-opportunities-fund-reg-g": {
+      "name": "Motilal Oswal Innovation Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Atul Mehra",
@@ -929,7 +951,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Motilal Oswal Large & Midcap Fund-Reg(G)": {
+    "motilal-oswal-large-and-midcap-fund-reg-g": {
+      "name": "Motilal Oswal Large & Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -971,7 +994,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Motilal Oswal Large Cap Fund-Reg(G)": {
+    "motilal-oswal-large-cap-fund-reg-g": {
+      "name": "Motilal Oswal Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -1013,7 +1037,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Motilal Oswal Manufacturing Fund-Reg(G)": {
+    "motilal-oswal-manufacturing-fund-reg-g": {
+      "name": "Motilal Oswal Manufacturing Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Motilal Oswal Midcap Fund-Reg(G)": {
+    "motilal-oswal-midcap-fund-reg-g": {
+      "name": "Motilal Oswal Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Motilal Oswal Multi Cap Fund-Reg(G)": {
+    "motilal-oswal-multi-cap-fund-reg-g": {
+      "name": "Motilal Oswal Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Motilal Oswal Nasdaq 100 FOF-Reg(G)": {
+    "motilal-oswal-nasdaq-100-fof-reg-g": {
+      "name": "Motilal Oswal Nasdaq 100 FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1181,7 +1209,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty 200 Momentum 30 Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-200-momentum-30-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty 200 Momentum 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1223,7 +1252,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty 50 Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-50-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Motilal Oswal Nifty 500 Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-500-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty 500 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty 500 Momentum 50 Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-500-momentum-50-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1349,7 +1381,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty Capital Market Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-capital-market-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty Capital Market Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1391,7 +1424,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty India Defence Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-india-defence-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty India Defence Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1433,7 +1467,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty Microcap 250 Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-microcap-250-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty Microcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty Midcap 150 Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-midcap-150-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1517,7 +1553,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty MidSmall Financial Services Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-midsmall-financial-services-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty MidSmall Financial Services Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1559,7 +1596,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty MidSmall Healthcare Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-midsmall-healthcare-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty MidSmall Healthcare Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1601,7 +1639,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty MidSmall India Consumption Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-midsmall-india-consumption-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty MidSmall India Consumption Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1643,7 +1682,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty MidSmall IT and Telecom Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-midsmall-it-and-telecom-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty MidSmall IT and Telecom Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1685,7 +1725,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty Next 50 Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-next-50-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1727,7 +1768,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Nifty Smallcap 250 Index Fund-Reg(G)": {
+    "motilal-oswal-nifty-smallcap-250-index-fund-reg-g": {
+      "name": "Motilal Oswal Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1769,7 +1811,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal Quant Fund-Reg(G)": {
+    "motilal-oswal-quant-fund-reg-g": {
+      "name": "Motilal Oswal Quant Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -1811,7 +1854,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Motilal Oswal S&P 500 Index Fund-Reg(G)": {
+    "motilal-oswal-sandp-500-index-fund-reg-g": {
+      "name": "Motilal Oswal S&P 500 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
@@ -1853,7 +1897,8 @@
       "classification": "Equity : International",
       "exit_load_remarks": "1% on or before 7D Nil after 7D"
     },
-    "Motilal Oswal Services Fund-Reg(G)": {
+    "motilal-oswal-services-fund-reg-g": {
+      "name": "Motilal Oswal Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -1895,7 +1940,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Motilal Oswal Small Cap Fund-Reg(G)": {
+    "motilal-oswal-small-cap-fund-reg-g": {
+      "name": "Motilal Oswal Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
@@ -1937,7 +1983,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Motilal Oswal Special Opportunities Fund-Reg(G)": {
+    "motilal-oswal-special-opportunities-fund-reg-g": {
+      "name": "Motilal Oswal Special Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
