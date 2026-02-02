@@ -2,10 +2,11 @@
   "meta": {
     "amc": "HDFC Mutual Fund",
     "total_schemes": 51,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "HDFC Arbitrage-WP(G)": {
+    "hdfc-arbitrage-wp-g": {
+      "name": "HDFC Arbitrage-WP(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 1M Nil after 1M"
     },
-    "HDFC Balanced Advantage Fund(G)": {
+    "hdfc-balanced-advantage-fund-g": {
+      "name": "HDFC Balanced Advantage Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gopal Agrawal",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 15% of Units For excess Units 1% on or before 1Y and Nil after 1Y"
     },
-    "HDFC Banking & Financial Services Fund-Reg(G)": {
+    "hdfc-banking-and-financial-services-fund-reg-g": {
+      "name": "HDFC Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anand Laddha",
@@ -131,7 +134,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "HDFC BSE 500 Index Fund-Reg(G)": {
+    "hdfc-bse-500-index-fund-reg-g": {
+      "name": "HDFC BSE 500 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -173,7 +177,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC BSE India Sector Leaders Index Fund-Reg(G)": {
+    "hdfc-bse-india-sector-leaders-index-fund-reg-g": {
+      "name": "HDFC BSE India Sector Leaders Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nandita Menezes",
@@ -215,7 +220,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "HDFC BSE Sensex Index Fund(G)(Post Addendum)": {
+    "hdfc-bse-sensex-index-fund-g-post-addendum": {
+      "name": "HDFC BSE Sensex Index Fund(G)(Post Addendum)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -257,7 +263,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 3D Nil after 3D"
     },
-    "HDFC Business Cycle Fund-Reg(G)": {
+    "hdfc-business-cycle-fund-reg-g": {
+      "name": "HDFC Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rahul Baijal",
@@ -299,7 +306,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC Defence Fund-Reg(G)": {
+    "hdfc-defence-fund-reg-g": {
+      "name": "HDFC Defence Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rahul Baijal",
@@ -341,7 +349,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC Developed World Overseas Equity Passive FOF-Reg(G)": {
+    "hdfc-developed-world-overseas-equity-passive-fof-reg-g": {
+      "name": "HDFC Developed World Overseas Equity Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -383,7 +392,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "HDFC Diversified Equity All Cap Active FOF-Reg(G)": {
+    "hdfc-diversified-equity-all-cap-active-fof-reg-g": {
+      "name": "HDFC Diversified Equity All Cap Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Srinivasan Ramamurthy",
@@ -425,7 +435,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC Dividend Yield Fund-Reg(G)": {
+    "hdfc-dividend-yield-fund-reg-g": {
+      "name": "HDFC Dividend Yield Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gopal Agrawal",
@@ -467,7 +478,8 @@
       "classification": "Equity : Thematic - Dividend Yield",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC ELSS Tax saver(G)": {
+    "hdfc-elss-tax-saver-g": {
+      "name": "HDFC ELSS Tax saver(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amar Kalkundrikar",
@@ -509,7 +521,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "HDFC Equity Savings Fund(G)": {
+    "hdfc-equity-savings-fund-g": {
+      "name": "HDFC Equity Savings Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Srinivasan Ramamurthy",
@@ -551,7 +564,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "NIL upto 15% of investment and 1% in excess of 15% of investment on or before 1M NIL after 1M"
     },
-    "HDFC Flexi Cap Fund(G)": {
+    "hdfc-flexi-cap-fund-g": {
+      "name": "HDFC Flexi Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Setalvad",
@@ -593,7 +607,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC Focused Fund-Reg(G)": {
+    "hdfc-focused-fund-reg-g": {
+      "name": "HDFC Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gopal Agrawal",
@@ -635,7 +650,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC Gold ETF FoF(G)": {
+    "hdfc-gold-etf-fof-g": {
+      "name": "HDFC Gold ETF FoF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -677,7 +693,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "HDFC Housing Opp Fund-Reg(G)": {
+    "hdfc-housing-opp-fund-reg-g": {
+      "name": "HDFC Housing Opp Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Srinivasan Ramamurthy",
@@ -719,7 +736,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "HDFC Hybrid Equity Fund(G)": {
+    "hdfc-hybrid-equity-fund-g": {
+      "name": "HDFC Hybrid Equity Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anupam Joshi",
@@ -761,7 +779,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 15% of Units For excess Units 1% on or before 1Y and Nil after 1Y"
     },
-    "HDFC Income Plus Arbitrage Active FOF-Reg(G)": {
+    "hdfc-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "HDFC Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Bamboli",
@@ -803,7 +822,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "HDFC Infrastructure Fund(G)": {
+    "hdfc-infrastructure-fund-g": {
+      "name": "HDFC Infrastructure Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashish Shah",
@@ -845,7 +865,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "HDFC Innovation Fund-Reg(G)": {
+    "hdfc-innovation-fund-reg-g": {
+      "name": "HDFC Innovation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amit Sinha",
@@ -887,7 +908,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "HDFC Large and Mid Cap Fund-Reg(G)": {
+    "hdfc-large-and-mid-cap-fund-reg-g": {
+      "name": "HDFC Large and Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gopal Agrawal",
@@ -929,7 +951,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC Large Cap Fund(G)": {
+    "hdfc-large-cap-fund-g": {
+      "name": "HDFC Large Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rahul Baijal",
@@ -971,7 +994,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC Manufacturing Fund-Reg(G)": {
+    "hdfc-manufacturing-fund-reg-g": {
+      "name": "HDFC Manufacturing Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rakesh Sethia",
@@ -1013,7 +1037,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "HDFC Mid Cap Fund-Reg(G)": {
+    "hdfc-mid-cap-fund-reg-g": {
+      "name": "HDFC Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Setalvad",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC MNC Fund-Reg(G)": {
+    "hdfc-mnc-fund-reg-g": {
+      "name": "HDFC MNC Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rahul Baijal",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Thematic - MNC",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC Multi Cap Fund-Reg(G)": {
+    "hdfc-multi-cap-fund-reg-g": {
+      "name": "HDFC Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amar Kalkundrikar",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC Multi-Asset Active FOF-Reg(G)": {
+    "hdfc-multi-asset-active-fof-reg-g": {
+      "name": "HDFC Multi-Asset Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Srinivasan Ramamurthy",
@@ -1181,7 +1209,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil upto 15% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "HDFC Multi-Asset Allocation Fund(G)": {
+    "hdfc-multi-asset-allocation-fund-g": {
+      "name": "HDFC Multi-Asset Allocation Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Srinivasan Ramamurthy",
@@ -1223,7 +1252,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 15% of units For remaining units 1% or or before 12M Nil after 12M"
     },
-    "HDFC NIFTY 100 Equal Weight Index Fund-Reg(G)": {
+    "hdfc-nifty-100-equal-weight-index-fund-reg-g": {
+      "name": "HDFC NIFTY 100 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC NIFTY 100 Index Fund-Reg(G)": {
+    "hdfc-nifty-100-index-fund-reg-g": {
+      "name": "HDFC NIFTY 100 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC Nifty 50 Index Fund(G)(Post Addendum)": {
+    "hdfc-nifty-50-index-fund-g-post-addendum": {
+      "name": "HDFC Nifty 50 Index Fund(G)(Post Addendum)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1349,7 +1381,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 3D Nil after 3D"
     },
-    "HDFC Nifty India Digital Index Fund-Reg(G)": {
+    "hdfc-nifty-india-digital-index-fund-reg-g": {
+      "name": "HDFC Nifty India Digital Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1391,7 +1424,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC Nifty LargeMidcap 250 Index Fund-Reg(G)": {
+    "hdfc-nifty-largemidcap-250-index-fund-reg-g": {
+      "name": "HDFC Nifty LargeMidcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1433,7 +1467,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "HDFC NIFTY Midcap 150 Index Fund-Reg(G)": {
+    "hdfc-nifty-midcap-150-index-fund-reg-g": {
+      "name": "HDFC NIFTY Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC NIFTY Next 50 Index Fund-Reg(G)": {
+    "hdfc-nifty-next-50-index-fund-reg-g": {
+      "name": "HDFC NIFTY Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1517,7 +1553,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC NIFTY Realty Index Fund-Reg(G)": {
+    "hdfc-nifty-realty-index-fund-reg-g": {
+      "name": "HDFC NIFTY Realty Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1559,7 +1596,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC NIFTY Smallcap 250 Index Fund-Reg(G)": {
+    "hdfc-nifty-smallcap-250-index-fund-reg-g": {
+      "name": "HDFC NIFTY Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1601,7 +1639,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC Nifty Top 20 Equal Weight Index Fund-Reg(G)": {
+    "hdfc-nifty-top-20-equal-weight-index-fund-reg-g": {
+      "name": "HDFC Nifty Top 20 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1643,7 +1682,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "HDFC NIFTY100 Low Volatility 30 Index Fund-Reg(G)": {
+    "hdfc-nifty100-low-volatility-30-index-fund-reg-g": {
+      "name": "HDFC NIFTY100 Low Volatility 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1685,7 +1725,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC Nifty100 Quality 30 Index Fund-Reg(G)": {
+    "hdfc-nifty100-quality-30-index-fund-reg-g": {
+      "name": "HDFC Nifty100 Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1727,7 +1768,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "HDFC NIFTY200 Momentum 30 Index Fund-Reg(G)": {
+    "hdfc-nifty200-momentum-30-index-fund-reg-g": {
+      "name": "HDFC NIFTY200 Momentum 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1769,7 +1811,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC NIFTY50 Equal Weight Index Fund-Reg(G)": {
+    "hdfc-nifty50-equal-weight-index-fund-reg-g": {
+      "name": "HDFC NIFTY50 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1811,7 +1854,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "HDFC Nifty500 Multicap 50:25:25 Index Fund-Reg(G)": {
+    "hdfc-nifty500-multicap-50-25-25-index-fund-reg-g": {
+      "name": "HDFC Nifty500 Multicap 50:25:25 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1853,7 +1897,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "HDFC Non-Cyclical Consumer Fund-Reg(G)": {
+    "hdfc-non-cyclical-consumer-fund-reg-g": {
+      "name": "HDFC Non-Cyclical Consumer Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amit Sinha",
@@ -1895,7 +1940,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "HDFC Pharma and Healthcare Fund-Reg(G)": {
+    "hdfc-pharma-and-healthcare-fund-reg-g": {
+      "name": "HDFC Pharma and Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nikhil Mathur",
@@ -1937,7 +1983,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "HDFC Silver ETF FoF-Reg(G)": {
+    "hdfc-silver-etf-fof-reg-g": {
+      "name": "HDFC Silver ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arun Agarwal",
@@ -1979,7 +2026,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "HDFC Small Cap Fund-Reg(G)": {
+    "hdfc-small-cap-fund-reg-g": {
+      "name": "HDFC Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Setalvad",
@@ -2021,7 +2069,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HDFC Technology Fund-Reg(G)": {
+    "hdfc-technology-fund-reg-g": {
+      "name": "HDFC Technology Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Balakumar B",
@@ -2063,7 +2112,8 @@
       "classification": "Equity : Sectoral - Technology",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "HDFC Transportation and Logistics Fund-Reg(G)": {
+    "hdfc-transportation-and-logistics-fund-reg-g": {
+      "name": "HDFC Transportation and Logistics Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Priya Ranjan",
@@ -2105,7 +2155,8 @@
       "classification": "Equity : Sectoral - Auto",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "HDFC Value Fund-Reg(G)": {
+    "hdfc-value-fund-reg-g": {
+      "name": "HDFC Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anand Laddha",
