@@ -576,6 +576,18 @@
       "risk_quants": {},
       "benchmark": "",
       "expense_ratio": ""
+    },
+    "sbi-large-cap-fund-review": {
+      "name": "SBI Large Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
     }
   }
 }
