@@ -1,0 +1,137 @@
+{
+  "amc_name": "SAMCO MUTUAL FUND",
+  "schemes": {
+    "samco-active-momentum-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco Active Momentum Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "samco-arbitrage-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco Arbitrage Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "samco-dynamic-asset-allocation-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco Dynamic Asset Allocation Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "samco-elss-tax-saver-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco ELSS Tax Saver Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "samco-flexi-cap-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco Flexi Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "samco-large-mid-cap-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco Large & Mid Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "samco-large-cap-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco Large Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "samco-multi-asset-allocation-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco Multi Asset Allocation Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "samco-multi-cap-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco Multi Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "samco-small-cap-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco Small Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "samco-special-opportunities-fund-review-performance-risk-in-todays-market/": {
+      "name": "Samco Special Opportunities Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
