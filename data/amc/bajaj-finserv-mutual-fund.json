@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Bajaj Finserv Mutual Fund",
     "total_schemes": 15,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:41"
   },
   "schemes": {
-    "Bajaj Finserv Arbitrage Fund-Reg(G)": {
+    "bajaj-finserv-arbitrage-fund-reg-g": {
+      "name": "Bajaj Finserv Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ilesh Savla",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bajaj Finserv Balanced Advantage Fund-Reg(G)": {
+    "bajaj-finserv-balanced-advantage-fund-reg-g": {
+      "name": "Bajaj Finserv Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nimesh Chandan",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 8% of units and 1% for remaining units on or before 6M Nil after 6M"
     },
-    "Bajaj Finserv Banking and Financial Services Fund-Reg(G)": {
+    "bajaj-finserv-banking-and-financial-services-fund-reg-g": {
+      "name": "Bajaj Finserv Banking and Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nimesh Chandan",
@@ -131,7 +134,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "1% on or before 3M Nil after 3M"
     },
-    "Bajaj Finserv Consumption Fund-Reg(G)": {
+    "bajaj-finserv-consumption-fund-reg-g": {
+      "name": "Bajaj Finserv Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sorbh Gupta",
@@ -173,7 +177,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 3M Nil after 3M"
     },
-    "Bajaj Finserv ELSS Tax Saver Fund-Reg(G)": {
+    "bajaj-finserv-elss-tax-saver-fund-reg-g": {
+      "name": "Bajaj Finserv ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nimesh Chandan",
@@ -215,7 +220,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Bajaj Finserv Equity Savings Fund-Reg(G)": {
+    "bajaj-finserv-equity-savings-fund-reg-g": {
+      "name": "Bajaj Finserv Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sorbh Gupta",
@@ -257,7 +263,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Bajaj Finserv Flexi Cap Fund-Reg(G)": {
+    "bajaj-finserv-flexi-cap-fund-reg-g": {
+      "name": "Bajaj Finserv Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nimesh Chandan",
@@ -299,7 +306,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 6M Nil after 6M"
     },
-    "Bajaj Finserv Healthcare Fund-Reg(G)": {
+    "bajaj-finserv-healthcare-fund-reg-g": {
+      "name": "Bajaj Finserv Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nimesh Chandan",
@@ -341,7 +349,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "1% on or before 3M Nil after 3M"
     },
-    "Bajaj Finserv Large and Mid Cap Fund-Reg(G)": {
+    "bajaj-finserv-large-and-mid-cap-fund-reg-g": {
+      "name": "Bajaj Finserv Large and Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nimesh Chandan",
@@ -383,7 +392,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units or before 6M Nil after 6M"
     },
-    "Bajaj Finserv Large Cap Fund-Reg(G)": {
+    "bajaj-finserv-large-cap-fund-reg-g": {
+      "name": "Bajaj Finserv Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nimesh Chandan",
@@ -425,7 +435,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 6M Nil after 6M"
     },
-    "Bajaj Finserv Multi Asset Allocation Fund-Reg(G)": {
+    "bajaj-finserv-multi-asset-allocation-fund-reg-g": {
+      "name": "Bajaj Finserv Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sorbh Gupta",
@@ -467,7 +478,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 30% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Bajaj Finserv Multi Cap Fund-Reg(G)": {
+    "bajaj-finserv-multi-cap-fund-reg-g": {
+      "name": "Bajaj Finserv Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nimesh Chandan",
@@ -509,7 +521,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "NIL upto 10% of units and 1% for remaining units on or before 6M Nil after 6M"
     },
-    "Bajaj Finserv Nifty 50 Index Fund-Reg(G)": {
+    "bajaj-finserv-nifty-50-index-fund-reg-g": {
+      "name": "Bajaj Finserv Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ilesh Savla",
@@ -551,7 +564,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Bajaj Finserv Nifty Next 50 Index Fund-Reg(G)": {
+    "bajaj-finserv-nifty-next-50-index-fund-reg-g": {
+      "name": "Bajaj Finserv Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ilesh Savla",
@@ -593,7 +607,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "NIL"
     },
-    "Bajaj Finserv Small Cap Fund-Reg(G)": {
+    "bajaj-finserv-small-cap-fund-reg-g": {
+      "name": "Bajaj Finserv Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nimesh Chandan",
