@@ -2,10 +2,11 @@
   "meta": {
     "amc": "ICICI Pru Mutual Fund",
     "total_schemes": 72,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "ICICI Pru Active Momentum Fund-Reg(G)": {
+    "icici-pru-active-momentum-fund-reg-g": {
+      "name": "ICICI Pru Active Momentum Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manasvi Shah",
@@ -47,7 +48,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Balanced Advantage Fund(G)": {
+    "icici-pru-balanced-advantage-fund-g": {
+      "name": "ICICI Pru Balanced Advantage Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajat Chandak",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 30% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "ICICI Pru Banking & Fin Serv Fund(G)": {
+    "icici-pru-banking-and-fin-serv-fund-g": {
+      "name": "ICICI Pru Banking & Fin Serv Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Roshan Chutkey",
@@ -131,7 +134,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "1% on or before 15D NIL after 15D"
     },
-    "ICICI Pru BSE 500 ETF FOF-Reg(G)": {
+    "icici-pru-bse-500-etf-fof-reg-g": {
+      "name": "ICICI Pru BSE 500 ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -173,7 +177,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru BSE Sensex Index Fund(G)": {
+    "icici-pru-bse-sensex-index-fund-g": {
+      "name": "ICICI Pru BSE Sensex Index Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -215,7 +220,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Business Cycle Fund(G)": {
+    "icici-pru-business-cycle-fund-g": {
+      "name": "ICICI Pru Business Cycle Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anish Tawakley",
@@ -257,7 +263,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "ICICI Pru Commodities Fund-Reg(G)": {
+    "icici-pru-commodities-fund-reg-g": {
+      "name": "ICICI Pru Commodities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Lalit Kumar",
@@ -299,7 +306,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 3M Nil after 3M"
     },
-    "ICICI Pru Conglomerate Fund-Reg(G)": {
+    "icici-pru-conglomerate-fund-reg-g": {
+      "name": "ICICI Pru Conglomerate Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Lalit Kumar",
@@ -341,7 +349,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Diversified Debt Strategy Active FOF(G)": {
+    "icici-pru-diversified-debt-strategy-active-fof-g": {
+      "name": "ICICI Pru Diversified Debt Strategy Active FOF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Banthia",
@@ -383,7 +392,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "ICICI Pru Diversified Equity All Cap Omni FOF(G)": {
+    "icici-pru-diversified-equity-all-cap-omni-fof-g": {
+      "name": "ICICI Pru Diversified Equity All Cap Omni FOF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dharmesh Kakkad",
@@ -425,7 +435,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Dividend Yield Equity Fund(G)": {
+    "icici-pru-dividend-yield-equity-fund-g": {
+      "name": "ICICI Pru Dividend Yield Equity Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mittul Kalawadia",
@@ -467,7 +478,8 @@
       "classification": "Equity : Thematic - Dividend Yield",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "ICICI Pru Dynamic Asset Allocation Active FOF(G)": {
+    "icici-pru-dynamic-asset-allocation-active-fof-g": {
+      "name": "ICICI Pru Dynamic Asset Allocation Active FOF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dharmesh Kakkad",
@@ -509,7 +521,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil on 30% of units within 1Y and 1% for more than 30% of units within 1Y Nil after 1Y"
     },
-    "ICICI Pru ELSS Tax Saver Fund(G)": {
+    "icici-pru-elss-tax-saver-fund-g": {
+      "name": "ICICI Pru ELSS Tax Saver Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mittul Kalawadia",
@@ -551,7 +564,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Energy Opportunities Fund-Reg(G)": {
+    "icici-pru-energy-opportunities-fund-reg-g": {
+      "name": "ICICI Pru Energy Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitya Mishra",
@@ -593,7 +607,8 @@
       "classification": "Equity : Sectoral - Energy / Power",
       "exit_load_remarks": "1% on or before 3M Nil after 3M"
     },
-    "ICICI Pru Equity & Debt Fund(G)": {
+    "icici-pru-equity-and-debt-fund-g": {
+      "name": "ICICI Pru Equity & Debt Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
@@ -635,7 +650,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 30% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "ICICI Pru Equity Minimum Variance Fund-Reg(G)": {
+    "icici-pru-equity-minimum-variance-fund-reg-g": {
+      "name": "ICICI Pru Equity Minimum Variance Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vaibhav Dusad",
@@ -677,7 +693,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Equity Savings Fund-Reg(G)": {
+    "icici-pru-equity-savings-fund-reg-g": {
+      "name": "ICICI Pru Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dharmesh Kakkad",
@@ -719,7 +736,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 10% of units and 0.25% for remaining units on or before 7D Nil after 7D"
     },
-    "ICICI Pru Equity-Arbitrage Fund(G)": {
+    "icici-pru-equity-arbitrage-fund-g": {
+      "name": "ICICI Pru Equity-Arbitrage Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Archana Nair",
@@ -761,7 +779,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 1M Nil after 1M"
     },
-    "ICICI Pru ESG Exclusionary Strategy Fund(G)": {
+    "icici-pru-esg-exclusionary-strategy-fund-g": {
+      "name": "ICICI Pru ESG Exclusionary Strategy Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mittul Kalawadia",
@@ -803,7 +822,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Exports & Services Fund(G)": {
+    "icici-pru-exports-and-services-fund-g": {
+      "name": "ICICI Pru Exports & Services Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
@@ -845,7 +865,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "ICICI Pru Flexicap Fund(G)": {
+    "icici-pru-flexicap-fund-g": {
+      "name": "ICICI Pru Flexicap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajat Chandak",
@@ -887,7 +908,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru FMCG Fund(G)": {
+    "icici-pru-fmcg-fund-g": {
+      "name": "ICICI Pru FMCG Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Priyanka Khandelwal",
@@ -929,7 +951,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 15D NIL after 15D"
     },
-    "ICICI Pru Focused Equity Fund(G)": {
+    "icici-pru-focused-equity-fund-g": {
+      "name": "ICICI Pru Focused Equity Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vaibhav Dusad",
@@ -971,7 +994,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "ICICI Pru Global Advantage Fund(FOF)(G)": {
+    "icici-pru-global-advantage-fund-fof-g": {
+      "name": "ICICI Pru Global Advantage Fund(FOF)(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
@@ -1013,7 +1037,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "ICICI Pru Global Stable Equity Fund(FOF)(G)": {
+    "icici-pru-global-stable-equity-fund-fof-g": {
+      "name": "ICICI Pru Global Stable Equity Fund(FOF)(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ritesh Lunawat",
@@ -1055,7 +1080,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "ICICI Pru Housing Opp Fund-Reg(G)": {
+    "icici-pru-housing-opp-fund-reg-g": {
+      "name": "ICICI Pru Housing Opp Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sanket Gaidhani",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "ICICI Pru Income plus Arbitrage Omni FOF(G)": {
+    "icici-pru-income-plus-arbitrage-omni-fof-g": {
+      "name": "ICICI Pru Income plus Arbitrage Omni FOF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Banthia",
@@ -1139,7 +1166,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "ICICI Pru India Opp Fund(G)": {
+    "icici-pru-india-opp-fund-g": {
+      "name": "ICICI Pru India Opp Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
@@ -1181,7 +1209,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Infrastructure Fund(G)": {
+    "icici-pru-infrastructure-fund-g": {
+      "name": "ICICI Pru Infrastructure Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ihab Dalwai",
@@ -1223,7 +1252,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "1% on or before 15D NIL after 15D"
     },
-    "ICICI Pru Innovation Fund-Reg(G)": {
+    "icici-pru-innovation-fund-reg-g": {
+      "name": "ICICI Pru Innovation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vaibhav Dusad",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Large & Mid Cap Fund(G)": {
+    "icici-pru-large-and-mid-cap-fund-g": {
+      "name": "ICICI Pru Large & Mid Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ihab Dalwai",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "ICICI Pru Large Cap Fund(G)": {
+    "icici-pru-large-cap-fund-g": {
+      "name": "ICICI Pru Large Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anish Tawakley",
@@ -1349,7 +1381,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 1Y NIL after 1Y"
     },
-    "ICICI Pru Manufacturing Fund(G)": {
+    "icici-pru-manufacturing-fund-g": {
+      "name": "ICICI Pru Manufacturing Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Antariksha Banerjee",
@@ -1391,7 +1424,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "ICICI Pru Midcap Fund(G)": {
+    "icici-pru-midcap-fund-g": {
+      "name": "ICICI Pru Midcap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Lalit Kumar",
@@ -1433,7 +1467,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "ICICI Pru MNC Fund(G)": {
+    "icici-pru-mnc-fund-g": {
+      "name": "ICICI Pru MNC Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Roshan Chutkey",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Thematic - MNC",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Multi Sector Passive FOF(G)": {
+    "icici-pru-multi-sector-passive-fof-g": {
+      "name": "ICICI Pru Multi Sector Passive FOF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
@@ -1517,7 +1553,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "ICICI Pru Multi-Asset Fund(G)": {
+    "icici-pru-multi-asset-fund-g": {
+      "name": "ICICI Pru Multi-Asset Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
@@ -1559,7 +1596,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 30% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "ICICI Pru Multicap Fund(G)": {
+    "icici-pru-multicap-fund-g": {
+      "name": "ICICI Pru Multicap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Lalit Kumar",
@@ -1601,7 +1639,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru NASDAQ 100 Index Fund(G)": {
+    "icici-pru-nasdaq-100-index-fund-g": {
+      "name": "ICICI Pru NASDAQ 100 Index Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharmila Dmello",
@@ -1643,7 +1682,8 @@
       "classification": "Equity : International",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty 200 Momentum 30 Index Fund-Reg(G)": {
+    "icici-pru-nifty-200-momentum-30-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty 200 Momentum 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -1685,7 +1725,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty 50 Index Fund-Reg(G)": {
+    "icici-pru-nifty-50-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -1727,7 +1768,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty 500 Index Fund-Reg(G)": {
+    "icici-pru-nifty-500-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty 500 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -1769,7 +1811,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty Alpha Low - Volatility 30 ETF FOF(G)": {
+    "icici-pru-nifty-alpha-low-volatility-30-etf-fof-g": {
+      "name": "ICICI Pru Nifty Alpha Low - Volatility 30 ETF FOF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -1811,7 +1854,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty Auto Index Fund-Reg(G)": {
+    "icici-pru-nifty-auto-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty Auto Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -1853,7 +1897,8 @@
       "classification": "Equity : Sectoral - Auto",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty Commodities ETF": {
+    "icici-pru-nifty-commodities-etf": {
+      "name": "ICICI Pru Nifty Commodities ETF",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -1895,7 +1940,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "null"
     },
-    "ICICI Pru Nifty EV & New Age Automotive ETF FOF-Reg(G)": {
+    "icici-pru-nifty-ev-and-new-age-automotive-etf-fof-reg-g": {
+      "name": "ICICI Pru Nifty EV & New Age Automotive ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -1937,7 +1983,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "ICICI Pru Nifty IT Index Fund-Reg(G)": {
+    "icici-pru-nifty-it-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty IT Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -1979,7 +2026,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty LargeMidcap 250 Index Fund-Reg(G)": {
+    "icici-pru-nifty-largemidcap-250-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty LargeMidcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2021,7 +2069,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty Midcap 150 Index Fund-Reg(G)": {
+    "icici-pru-nifty-midcap-150-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2063,7 +2112,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty Next 50 Index Fund(G)": {
+    "icici-pru-nifty-next-50-index-fund-g": {
+      "name": "ICICI Pru Nifty Next 50 Index Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2105,7 +2155,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty Pharma Index Fund-Reg(G)": {
+    "icici-pru-nifty-pharma-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty Pharma Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2147,7 +2198,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty Smallcap 250 Index Fund(G)": {
+    "icici-pru-nifty-smallcap-250-index-fund-g": {
+      "name": "ICICI Pru Nifty Smallcap 250 Index Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2189,7 +2241,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty Top 15 Equal Weight Index Fund-Reg(G)": {
+    "icici-pru-nifty-top-15-equal-weight-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty Top 15 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2231,7 +2284,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "ICICI Pru Nifty200 Quality 30 Index Fund-Reg(G)": {
+    "icici-pru-nifty200-quality-30-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty200 Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2273,7 +2327,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "ICICI Pru Nifty200 Value 30 Index Fund-Reg(G)": {
+    "icici-pru-nifty200-value-30-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty200 Value 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2315,7 +2370,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty50 Equal Weight Index Fund-Reg(G)": {
+    "icici-pru-nifty50-equal-weight-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty50 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2357,7 +2413,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Nifty50 Value 20 Index Fund-Reg(G)": {
+    "icici-pru-nifty50-value-20-index-fund-reg-g": {
+      "name": "ICICI Pru Nifty50 Value 20 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2399,7 +2456,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Passive Multi-Asset FoF(G)": {
+    "icici-pru-passive-multi-asset-fof-g": {
+      "name": "ICICI Pru Passive Multi-Asset FoF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
@@ -2441,7 +2499,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Pharma Healthcare & Diagnostics (P.H.D) Fund-(G)": {
+    "icici-pru-pharma-healthcare-and-diagnostics-p-h-d-fund-g": {
+      "name": "ICICI Pru Pharma Healthcare & Diagnostics (P.H.D) Fund-(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dharmesh Kakkad",
@@ -2483,7 +2542,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "ICICI Pru PSU Equity Fund-Reg(G)": {
+    "icici-pru-psu-equity-fund-reg-g": {
+      "name": "ICICI Pru PSU Equity Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Antariksha Banerjee",
@@ -2525,7 +2585,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "ICICI Pru Quality Fund-Reg(G)": {
+    "icici-pru-quality-fund-reg-g": {
+      "name": "ICICI Pru Quality Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ihab Dalwai",
@@ -2567,7 +2628,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Quant Fund(G)": {
+    "icici-pru-quant-fund-g": {
+      "name": "ICICI Pru Quant Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Roshan Chutkey",
@@ -2609,7 +2671,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 3M Nil after 3M"
     },
-    "ICICI Pru Regular Gold Savings Fund(FOF)(G)": {
+    "icici-pru-regular-gold-savings-fund-fof-g": {
+      "name": "ICICI Pru Regular Gold Savings Fund(FOF)(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Banthia",
@@ -2651,7 +2714,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "ICICI Pru Rural Opportunities Fund-Reg(G)": {
+    "icici-pru-rural-opportunities-fund-reg-g": {
+      "name": "ICICI Pru Rural Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Priyanka Khandelwal",
@@ -2693,7 +2757,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "ICICI Pru Silver ETF FOF(G)": {
+    "icici-pru-silver-etf-fof-g": {
+      "name": "ICICI Pru Silver ETF FOF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Banthia",
@@ -2735,7 +2800,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "ICICI Pru Smallcap Fund(G)": {
+    "icici-pru-smallcap-fund-g": {
+      "name": "ICICI Pru Smallcap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anish Tawakley",
@@ -2777,7 +2843,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 1Y NIL after 1Y"
     },
-    "ICICI Pru Strategic Metal and Energy Equity FoF-Reg(G)": {
+    "icici-pru-strategic-metal-and-energy-equity-fof-reg-g": {
+      "name": "ICICI Pru Strategic Metal and Energy Equity FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharmila Dmello",
@@ -2819,7 +2886,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "ICICI Pru Technology Fund(G)": {
+    "icici-pru-technology-fund-g": {
+      "name": "ICICI Pru Technology Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vaibhav Dusad",
@@ -2861,7 +2929,8 @@
       "classification": "Equity : Sectoral - Technology",
       "exit_load_remarks": "1% on or before 15D NIL after 15D"
     },
-    "ICICI Pru Thematic Advantage Fund(FOF)(G)": {
+    "icici-pru-thematic-advantage-fund-fof-g": {
+      "name": "ICICI Pru Thematic Advantage Fund(FOF)(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
@@ -2903,7 +2972,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 1Y NIL After 1Y"
     },
-    "ICICI Pru Transportation and Logistics Fund-Reg(G)": {
+    "icici-pru-transportation-and-logistics-fund-reg-g": {
+      "name": "ICICI Pru Transportation and Logistics Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajat Chandak",
@@ -2945,7 +3015,8 @@
       "classification": "Equity : Sectoral - Auto",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "ICICI Pru US Bluechip Equity Fund(G)": {
+    "icici-pru-us-bluechip-equity-fund-g": {
+      "name": "ICICI Pru US Bluechip Equity Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ritesh Lunawat",
@@ -2987,7 +3058,8 @@
       "classification": "Equity : International",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "ICICI Pru Value Fund(G)": {
+    "icici-pru-value-fund-g": {
+      "name": "ICICI Pru Value Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
