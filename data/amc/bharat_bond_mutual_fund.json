@@ -1,0 +1,53 @@
+{
+  "amc_name": "BHARAT BOND MUTUAL FUND",
+  "schemes": {
+    "bharat-bond-etf-fof-april-2032-review-performance-risk-investment-fit/": {
+      "name": "BHARAT Bond ETF FOF - April 2032 -Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "bharat-bond-etf-fof-april-2033-review-performance-risk-investment-fit/": {
+      "name": "BHARAT Bond ETF FOF - April 2033 -Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "bharat-bond-fof-april-2030-review-performance-risk-investment-fit/": {
+      "name": "BHARAT Bond FOF - April 2030 -Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "bharat-bond-fof-april-2031-review-performance-risk-investment-fit/": {
+      "name": "BHARAT Bond FOF - April 2031 -Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
