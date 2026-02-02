@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Groww Mutual Fund",
     "total_schemes": 26,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Groww Aggressive Hybrid Fund-Reg(G)": {
+    "groww-aggressive-hybrid-fund-reg-g": {
+      "name": "Groww Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anupam Tiwari",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 7D Nil after 7D"
     },
-    "Groww Banking & Financial Services Fund-Reg(G)": {
+    "groww-banking-and-financial-services-fund-reg-g": {
+      "name": "Groww Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anupam Tiwari",
@@ -89,7 +91,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Groww BSE Power ETF FoF-Reg(G)": {
+    "groww-bse-power-etf-fof-reg-g": {
+      "name": "Groww BSE Power ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -131,7 +134,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "Groww ELSS Tax Saver Fund-Reg(G)": {
+    "groww-elss-tax-saver-fund-reg-g": {
+      "name": "Groww ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Paras Matalia",
@@ -173,7 +177,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Groww Gold ETF FOF-Reg(G)": {
+    "groww-gold-etf-fof-reg-g": {
+      "name": "Groww Gold ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Wilfred Gonsalves",
@@ -215,7 +220,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Groww Largecap Fund-Reg(G)": {
+    "groww-largecap-fund-reg-g": {
+      "name": "Groww Largecap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anupam Tiwari",
@@ -257,7 +263,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 7D Nil after 7D"
     },
-    "Groww Multi Asset Allocation Fund-Reg(G)": {
+    "groww-multi-asset-allocation-fund-reg-g": {
+      "name": "Groww Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Paras Matalia",
@@ -299,7 +306,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Groww Multi Asset Omni FOF-Reg(G)": {
+    "groww-multi-asset-omni-fof-reg-g": {
+      "name": "Groww Multi Asset Omni FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Paras Matalia",
@@ -341,7 +349,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil"
     },
-    "Groww Multicap Fund-Reg(G)": {
+    "groww-multicap-fund-reg-g": {
+      "name": "Groww Multicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anupam Tiwari",
@@ -383,7 +392,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Groww Nifty 50 Index Fund-Reg(G)": {
+    "groww-nifty-50-index-fund-reg-g": {
+      "name": "Groww Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -425,7 +435,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Groww Nifty 500 Momentum 50 ETF FOF-Reg(G)": {
+    "groww-nifty-500-momentum-50-etf-fof-reg-g": {
+      "name": "Groww Nifty 500 Momentum 50 ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -467,7 +478,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Groww Nifty Capital Markets ETF FOF-Reg(G)": {
+    "groww-nifty-capital-markets-etf-fof-reg-g": {
+      "name": "Groww Nifty Capital Markets ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -509,7 +521,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "Groww Nifty EV & New Age Automotive ETF FOF-Reg(G)": {
+    "groww-nifty-ev-and-new-age-automotive-etf-fof-reg-g": {
+      "name": "Groww Nifty EV & New Age Automotive ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -551,7 +564,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Groww Nifty India Defence ETF FOF-Reg(G)": {
+    "groww-nifty-india-defence-etf-fof-reg-g": {
+      "name": "Groww Nifty India Defence ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -593,7 +607,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Groww Nifty India Internet ETF FOF-Reg(G)": {
+    "groww-nifty-india-internet-etf-fof-reg-g": {
+      "name": "Groww Nifty India Internet ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -635,7 +650,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "Groww Nifty India Railways PSU Index Fund-Reg(G)": {
+    "groww-nifty-india-railways-psu-index-fund-reg-g": {
+      "name": "Groww Nifty India Railways PSU Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -677,7 +693,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Groww Nifty Midcap 150 Index Fund-Reg(G)": {
+    "groww-nifty-midcap-150-index-fund-reg-g": {
+      "name": "Groww Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -719,7 +736,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Groww Nifty Next 50 Index Fund-Reg(G)": {
+    "groww-nifty-next-50-index-fund-reg-g": {
+      "name": "Groww Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -761,7 +779,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Groww Nifty Non-Cyclical Consumer Index Fund-Reg(G)": {
+    "groww-nifty-non-cyclical-consumer-index-fund-reg-g": {
+      "name": "Groww Nifty Non-Cyclical Consumer Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -803,7 +822,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Groww Nifty PSE ETF FOF-Reg(G)": {
+    "groww-nifty-pse-etf-fof-reg-g": {
+      "name": "Groww Nifty PSE ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nikhil Satam",
@@ -845,7 +865,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "Groww Nifty Smallcap 250 Index Fund-Reg(G)": {
+    "groww-nifty-smallcap-250-index-fund-reg-g": {
+      "name": "Groww Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -887,7 +908,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Groww Nifty Total Market Index Fund-Reg(G)": {
+    "groww-nifty-total-market-index-fund-reg-g": {
+      "name": "Groww Nifty Total Market Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aakash Chauhan",
@@ -929,7 +951,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Groww Silver ETF": {
+    "groww-silver-etf": {
+      "name": "Groww Silver ETF",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Wilfred Gonsalves",
@@ -971,7 +994,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "null"
     },
-    "Groww Silver ETF FOF-Reg(G)": {
+    "groww-silver-etf-fof-reg-g": {
+      "name": "Groww Silver ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Wilfred Gonsalves",
@@ -1013,7 +1037,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Groww Small Cap Fund-Reg(G)": {
+    "groww-small-cap-fund-reg-g": {
+      "name": "Groww Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anupam Tiwari",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Groww Value Fund-Reg(G)": {
+    "groww-value-fund-reg-g": {
+      "name": "Groww Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anupam Tiwari",
