@@ -1,0 +1,125 @@
+{
+  "amc_name": "JM MUTUAL FUND",
+  "schemes": {
+    "is-jm-aggressive-hybrid-fund-good-for-long-term-complete-review/": {
+      "name": "JM Aggressive Hybrid Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "is-jm-arbitrage-fund-good-for-long-term-complete-review/": {
+      "name": "JM Arbitrage Fund(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "is-jm-elss-tax-saver-fund-good-for-long-term-complete-review/": {
+      "name": "JM ELSS Tax Saver Fund(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "is-jm-flexicap-fund-good-for-long-term-complete-review/": {
+      "name": "JM Flexicap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "is-jm-focused-fund-good-for-long-term-complete-review/": {
+      "name": "JM Focused Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "Not Found": {
+      "name": "JM Large & Mid Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "is-jm-large-cap-fund-good-for-long-term-complete-review/": {
+      "name": "JM Large Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "is-jm-mid-cap-fund-good-for-long-term-complete-review/": {
+      "name": "JM Midcap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "is-jm-small-cap-fund-good-for-long-term-complete-review/": {
+      "name": "JM Small Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "is-jm-value-fund-good-for-long-term-complete-review/": {
+      "name": "JM Value Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
