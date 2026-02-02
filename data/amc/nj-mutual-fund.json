@@ -2,10 +2,11 @@
   "meta": {
     "amc": "NJ Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "NJ Balanced Advantage Fund-Reg(G)": {
+    "nj-balanced-advantage-fund-reg-g": {
+      "name": "NJ Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viral Shah",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 5% of units and 1% for remaining units on or before 30D Nil after 30D"
     },
-    "NJ ELSS Tax Saver Scheme-Reg(G)": {
+    "nj-elss-tax-saver-scheme-reg-g": {
+      "name": "NJ ELSS Tax Saver Scheme-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viral Shah",
@@ -89,7 +91,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "NJ Flexi Cap Fund-Reg(G)": {
+    "nj-flexi-cap-fund-reg-g": {
+      "name": "NJ Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dhaval Patel",
