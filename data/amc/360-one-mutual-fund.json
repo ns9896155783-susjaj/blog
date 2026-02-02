@@ -2,7 +2,7 @@
   "meta": {
     "amc": "360 One Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-02-01 22:43"
+    "last_updated": "2026-02-02 06:45"
   },
   "schemes": {
     "360 ONE Balanced Hybrid Fund-Reg(G)": {
@@ -47,8 +47,7 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "360-one-elss-tax-saver-nifty-50-index-fund": {
-      "funds": "360 ONE ELSS Tax Saver Nifty 50 Index Fund-Reg(G)"
+    "360 ONE ELSS Tax Saver Nifty 50 Index Fund-Reg(G)": {
       "amc_list": "Aditya Birla SL Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Ashish Ongari",
