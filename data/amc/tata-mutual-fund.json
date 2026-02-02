@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Tata Mutual Fund",
     "total_schemes": 46,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Tata Aggressive Hybrid Fund-Reg(G)": {
+    "tata-aggressive-hybrid-fund-reg-g": {
+      "name": "Tata Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Satish Chandra Mishra",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Arbitrage Fund-Reg(G)": {
+    "tata-arbitrage-fund-reg-g": {
+      "name": "Tata Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sailesh Jain",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 30D"
     },
-    "Tata Balanced Adv Fund-Reg(G)": {
+    "tata-balanced-adv-fund-reg-g": {
+      "name": "Tata Balanced Adv Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rahul Singh (Tata)",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Banking & Financial Services Fund-Reg(G)": {
+    "tata-banking-and-financial-services-fund-reg-g": {
+      "name": "Tata Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kapil Malhotra",
@@ -173,7 +177,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "0.25% on or before 30D"
     },
-    "Tata BSE Multicap Consumption 50:30:20 Index Fund-Reg(G)": {
+    "tata-bse-multicap-consumption-50-30-20-index-fund-reg-g": {
+      "name": "Tata BSE Multicap Consumption 50:30:20 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -215,7 +220,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Tata BSE Quality Index Fund-Reg(G)": {
+    "tata-bse-quality-index-fund-reg-g": {
+      "name": "Tata BSE Quality Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -257,7 +263,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Tata BSE Select Business Groups Index Fund-Reg(G)": {
+    "tata-bse-select-business-groups-index-fund-reg-g": {
+      "name": "Tata BSE Select Business Groups Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -299,7 +306,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D"
     },
-    "Tata BSE Sensex Index Fund-Reg(G)": {
+    "tata-bse-sensex-index-fund-reg-g": {
+      "name": "Tata BSE Sensex Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -341,7 +349,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Tata Business Cycle Fund-Reg(G)": {
+    "tata-business-cycle-fund-reg-g": {
+      "name": "Tata Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rahul Singh (Tata)",
@@ -383,7 +392,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Digital India Fund-Reg(G)": {
+    "tata-digital-india-fund-reg-g": {
+      "name": "Tata Digital India Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Meeta Shetty",
@@ -425,7 +435,8 @@
       "classification": "Equity : Sectoral - Technology",
       "exit_load_remarks": "0.25% on or before 30D"
     },
-    "Tata Dividend Yield Fund-Reg(G)": {
+    "tata-dividend-yield-fund-reg-g": {
+      "name": "Tata Dividend Yield Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sailesh Jain",
@@ -467,7 +478,8 @@
       "classification": "Equity : Thematic - Dividend Yield",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata ELSS Fund-Reg(G)": {
+    "tata-elss-fund-reg-g": {
+      "name": "Tata ELSS Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sailesh Jain",
@@ -509,7 +521,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Tata Equity Savings Fund-Reg(G)": {
+    "tata-equity-savings-fund-reg-g": {
+      "name": "Tata Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sailesh Jain",
@@ -551,7 +564,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Tata Ethical Fund-Reg(G)": {
+    "tata-ethical-fund-reg-g": {
+      "name": "Tata Ethical Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhinav Sharma",
@@ -593,7 +607,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Tata Flexi Cap Fund-Reg(G)": {
+    "tata-flexi-cap-fund-reg-g": {
+      "name": "Tata Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anand Sharma",
@@ -635,7 +650,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Focused Fund-Reg(G)": {
+    "tata-focused-fund-reg-g": {
+      "name": "Tata Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anand Sharma",
@@ -677,7 +693,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Gold ETF FoF-Reg(G)": {
+    "tata-gold-etf-fof-reg-g": {
+      "name": "Tata Gold ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Tapan Patel",
@@ -719,7 +736,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.50% on or before 7D Nil after 7D"
     },
-    "Tata Housing Opportunities Fund-Reg(G)": {
+    "tata-housing-opportunities-fund-reg-g": {
+      "name": "Tata Housing Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Murthy Nagarajan",
@@ -761,7 +779,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Tata Income Plus Arbitrage Active FOF-Reg(G)": {
+    "tata-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "Tata Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sailesh Jain",
@@ -803,7 +822,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.25% on or before 30D Nil after 30D"
     },
-    "Tata India Consumer Fund-Reg(G)": {
+    "tata-india-consumer-fund-reg-g": {
+      "name": "Tata India Consumer Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sonam Udasi",
@@ -845,7 +865,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "0.25% on or before 30D"
     },
-    "Tata India Innovation Fund-Reg(G)": {
+    "tata-india-innovation-fund-reg-g": {
+      "name": "Tata India Innovation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Meeta Shetty",
@@ -887,7 +908,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata India Pharma & Healthcare Fund-Reg(G)": {
+    "tata-india-pharma-and-healthcare-fund-reg-g": {
+      "name": "Tata India Pharma & Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajat Srivastava",
@@ -929,7 +951,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "0.25% on or before 30D"
     },
-    "Tata Infrastructure Fund-Reg(G)": {
+    "tata-infrastructure-fund-reg-g": {
+      "name": "Tata Infrastructure Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhinav Sharma",
@@ -971,7 +994,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "0.25% on or before 30D"
     },
-    "Tata Large & Mid Cap Fund-Reg(G)": {
+    "tata-large-and-mid-cap-fund-reg-g": {
+      "name": "Tata Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chandraprakash Padiyar",
@@ -1013,7 +1037,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Large Cap Fund-Reg(G)": {
+    "tata-large-cap-fund-reg-g": {
+      "name": "Tata Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhinav Sharma",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Mid Cap Fund-Reg(G)": {
+    "tata-mid-cap-fund-reg-g": {
+      "name": "Tata Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Satish Chandra Mishra",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Multi Asset Allocation Fund-Reg(G)": {
+    "tata-multi-asset-allocation-fund-reg-g": {
+      "name": "Tata Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rahul Singh (Tata)",
@@ -1139,7 +1166,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Multicap Fund-Reg(G)": {
+    "tata-multicap-fund-reg-g": {
+      "name": "Tata Multicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Meeta Shetty",
@@ -1181,7 +1209,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata NIFTY 50 Index Fund-Reg(G)": {
+    "tata-nifty-50-index-fund-reg-g": {
+      "name": "Tata NIFTY 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1223,7 +1252,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Tata Nifty Auto Index Fund-Reg(G)": {
+    "tata-nifty-auto-index-fund-reg-g": {
+      "name": "Tata Nifty Auto Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Sectoral - Auto",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Tata Nifty Capital Markets Index Fund-Reg(G)": {
+    "tata-nifty-capital-markets-index-fund-reg-g": {
+      "name": "Tata Nifty Capital Markets Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D"
     },
-    "Tata Nifty Financial Services Index Fund-Reg(G)": {
+    "tata-nifty-financial-services-index-fund-reg-g": {
+      "name": "Tata Nifty Financial Services Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1349,7 +1381,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Tata Nifty India Digital ETF FoF-Reg(G)": {
+    "tata-nifty-india-digital-etf-fof-reg-g": {
+      "name": "Tata Nifty India Digital ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1391,7 +1424,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil upto 12% of investment and 1% for remaining investments on or before 365D Nil after 365D"
     },
-    "Tata Nifty India Tourism Index Fund-Reg(G)": {
+    "tata-nifty-india-tourism-index-fund-reg-g": {
+      "name": "Tata Nifty India Tourism Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1433,7 +1467,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D"
     },
-    "Tata Nifty Midcap 150 Index Fund-Reg(G)": {
+    "tata-nifty-midcap-150-index-fund-reg-g": {
+      "name": "Tata Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Nifty Midcap 150 Momentum 50 Index Fund-Reg(G)": {
+    "tata-nifty-midcap-150-momentum-50-index-fund-reg-g": {
+      "name": "Tata Nifty Midcap 150 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1517,7 +1553,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 90D Nil after 90D"
     },
-    "Tata Nifty MidSmall Healthcare Index Fund-Reg(G)": {
+    "tata-nifty-midsmall-healthcare-index-fund-reg-g": {
+      "name": "Tata Nifty MidSmall Healthcare Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1559,7 +1596,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Tata Nifty Next 50 Index Fund-Reg(G)": {
+    "tata-nifty-next-50-index-fund-reg-g": {
+      "name": "Tata Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1601,7 +1639,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Tata Nifty Realty Index Fund-Reg(G)": {
+    "tata-nifty-realty-index-fund-reg-g": {
+      "name": "Tata Nifty Realty Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1643,7 +1682,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Tata Nifty200 Alpha 30 Index Fund-Reg(G)": {
+    "tata-nifty200-alpha-30-index-fund-reg-g": {
+      "name": "Tata Nifty200 Alpha 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1685,7 +1725,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D"
     },
-    "Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund-Reg(G)": {
+    "tata-nifty500-multicap-india-manufacturing-50-30-20-index-fund-reg-g": {
+      "name": "Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1727,7 +1768,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund-Reg(G)": {
+    "tata-nifty500-multicap-infrastructure-50-30-20-index-fund-reg-g": {
+      "name": "Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1769,7 +1811,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Tata Resources & Energy Fund-Reg(G)": {
+    "tata-resources-and-energy-fund-reg-g": {
+      "name": "Tata Resources & Energy Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Satish Chandra Mishra",
@@ -1811,7 +1854,8 @@
       "classification": "Equity : Sectoral - Energy / Power",
       "exit_load_remarks": "0.25% on or before 30D"
     },
-    "Tata Silver ETF FoF-Reg(G)": {
+    "tata-silver-etf-fof-reg-g": {
+      "name": "Tata Silver ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Tapan Patel",
@@ -1853,7 +1897,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.50% on or before 7D Nil after 7D"
     },
-    "Tata Small Cap Fund-Reg(G)": {
+    "tata-small-cap-fund-reg-g": {
+      "name": "Tata Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chandraprakash Padiyar",
@@ -1895,7 +1940,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Tata Value Fund(G)": {
+    "tata-value-fund-g": {
+      "name": "Tata Value Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sonam Udasi",
