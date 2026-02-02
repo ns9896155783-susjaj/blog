@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Quant Mutual Fund",
     "total_schemes": 28,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Quant Aggressive Hybrid Fund(G)": {
+    "quant-aggressive-hybrid-fund-g": {
+      "name": "Quant Aggressive Hybrid Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Arbitrage Fund-Reg(G)": {
+    "quant-arbitrage-fund-reg-g": {
+      "name": "Quant Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sameer Kate",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 1M Nil after 1M"
     },
-    "Quant BFSI Fund-Reg(G)": {
+    "quant-bfsi-fund-reg-g": {
+      "name": "Quant BFSI Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -131,7 +134,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Business Cycle Fund-Reg(G)": {
+    "quant-business-cycle-fund-reg-g": {
+      "name": "Quant Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -173,7 +177,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Commodities Fund-Reg(G)": {
+    "quant-commodities-fund-reg-g": {
+      "name": "Quant Commodities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -215,7 +220,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Consumption Fund-Reg(G)": {
+    "quant-consumption-fund-reg-g": {
+      "name": "Quant Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -257,7 +263,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Dynamic Asset Allocation Fund-Reg(G)": {
+    "quant-dynamic-asset-allocation-fund-reg-g": {
+      "name": "Quant Dynamic Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -299,7 +306,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant ELSS Tax Saver Fund(G)": {
+    "quant-elss-tax-saver-fund-g": {
+      "name": "Quant ELSS Tax Saver Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -341,7 +349,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Quant Equity Savings Fund-Reg(G)": {
+    "quant-equity-savings-fund-reg-g": {
+      "name": "Quant Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sanjeev Sharma",
@@ -383,7 +392,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant ESG Integration Strategy Fund-Reg(G)": {
+    "quant-esg-integration-strategy-fund-reg-g": {
+      "name": "Quant ESG Integration Strategy Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -425,7 +435,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Flexi Cap Fund(G)": {
+    "quant-flexi-cap-fund-g": {
+      "name": "Quant Flexi Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -467,7 +478,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Focused Fund(G)": {
+    "quant-focused-fund-g": {
+      "name": "Quant Focused Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -509,7 +521,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Healthcare Fund-Reg(G)": {
+    "quant-healthcare-fund-reg-g": {
+      "name": "Quant Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -551,7 +564,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Infrastructure Fund(G)": {
+    "quant-infrastructure-fund-g": {
+      "name": "Quant Infrastructure Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -593,7 +607,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "0.50% on or before 3M Nil after 3M"
     },
-    "Quant Large & Mid Cap Fund(G)": {
+    "quant-large-and-mid-cap-fund-g": {
+      "name": "Quant Large & Mid Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -635,7 +650,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Large Cap Fund-Reg(G)": {
+    "quant-large-cap-fund-reg-g": {
+      "name": "Quant Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -677,7 +693,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Manufacturing Fund-Reg(G)": {
+    "quant-manufacturing-fund-reg-g": {
+      "name": "Quant Manufacturing Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -719,7 +736,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Mid Cap Fund(G)": {
+    "quant-mid-cap-fund-g": {
+      "name": "Quant Mid Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -761,7 +779,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "0.50% on or before 3M Nil after 3M"
     },
-    "Quant Momentum Fund-Reg(G)": {
+    "quant-momentum-fund-reg-g": {
+      "name": "Quant Momentum Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -803,7 +822,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Multi Asset Allocation Fund(G)": {
+    "quant-multi-asset-allocation-fund-g": {
+      "name": "Quant Multi Asset Allocation Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -845,7 +865,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Multi Cap Fund(G)": {
+    "quant-multi-cap-fund-g": {
+      "name": "Quant Multi Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -887,7 +908,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant PSU Fund-Reg(G)": {
+    "quant-psu-fund-reg-g": {
+      "name": "Quant PSU Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -929,7 +951,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Quantamental Fund-Reg(G)": {
+    "quant-quantamental-fund-reg-g": {
+      "name": "Quant Quantamental Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -971,7 +994,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Small Cap Fund(G)": {
+    "quant-small-cap-fund-g": {
+      "name": "Quant Small Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -1013,7 +1037,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Quant Teck Fund-Reg(G)": {
+    "quant-teck-fund-reg-g": {
+      "name": "Quant Teck Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Sectoral - Technology",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Quant Value Fund-Reg(G)": {
+    "quant-value-fund-reg-g": {
+      "name": "Quant Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Value / Contra",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "SBI Quant Fund-Reg(G)": {
+    "sbi-quant-fund-reg-g": {
+      "name": "SBI Quant Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sukanya Ghosh",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "UTI Quant Fund-Reg(G)": {
+    "uti-quant-fund-reg-g": {
+      "name": "UTI Quant Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
