@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Old Bridge Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Old Bridge Arbitrage Fund-Reg(G)": {
+    "old-bridge-arbitrage-fund-reg-g": {
+      "name": "Old Bridge Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kenneth Andrade",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Old Bridge Focused Fund-Reg(G)": {
+    "old-bridge-focused-fund-reg-g": {
+      "name": "Old Bridge Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Tarang Agrawal",
