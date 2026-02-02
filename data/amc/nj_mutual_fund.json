@@ -1,0 +1,41 @@
+{
+  "amc_name": "NJ MUTUAL FUND",
+  "schemes": {
+    "nj-balanced-advantage-fund-review-pros-cons-investment-suitability/": {
+      "name": "NJ Balanced Advantage Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "nj-elss-tax-saver-scheme-review-pros-cons-investment-suitability/": {
+      "name": "NJ ELSS Tax Saver Scheme-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "nj-flexi-cap-fund-review-pros-cons-investment-suitability/": {
+      "name": "NJ Flexi Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
