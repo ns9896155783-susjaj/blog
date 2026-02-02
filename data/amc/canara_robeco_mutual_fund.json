@@ -1,0 +1,29 @@
+{
+  "amc_name": "CANARA ROBECO MUTUAL FUND",
+  "schemes": {
+    "canara-rob-balanced-advantage-fund-regg/": {
+      "name": "Canara Rob Balanced Advantage Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "Not Found": {
+      "name": "Canara Rob Consumer Trends Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
