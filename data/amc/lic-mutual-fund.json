@@ -2,10 +2,11 @@
   "meta": {
     "amc": "LIC Mutual Fund",
     "total_schemes": 24,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "LIC MF Aggressive Hybrid Fund(G)": {
+    "lic-mf-aggressive-hybrid-fund-g": {
+      "name": "LIC MF Aggressive Hybrid Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karan Doshi",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 12% on units and 1% on remaining units on or before 3M Nil after 3M"
     },
-    "LIC MF Arbitrage Fund-Reg(G)": {
+    "lic-mf-arbitrage-fund-reg-g": {
+      "name": "LIC MF Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sumit Bhatnagar",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 1M Nil after 1M"
     },
-    "LIC MF Balanced Advantage Fund-Reg(G)": {
+    "lic-mf-balanced-advantage-fund-reg-g": {
+      "name": "LIC MF Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Yogesh Patil",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 12% of units and 1% on remaining units on or before 3M Nil after 3M"
     },
-    "LIC MF Banking & Financial Services Fund-Reg(G)": {
+    "lic-mf-banking-and-financial-services-fund-reg-g": {
+      "name": "LIC MF Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Jaiprakash Toshniwal",
@@ -173,7 +177,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "Nil upto 12% of units and 1% on remaining units on or before 90D Nil after 90D"
     },
-    "LIC MF BSE Sensex Index Fund-Reg(G)": {
+    "lic-mf-bse-sensex-index-fund-reg-g": {
+      "name": "LIC MF BSE Sensex Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sumit Bhatnagar",
@@ -215,7 +220,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "LIC MF Consumption Fund-Reg(G)": {
+    "lic-mf-consumption-fund-reg-g": {
+      "name": "LIC MF Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sumit Bhatnagar",
@@ -257,7 +263,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 90D Nil after 90D"
     },
-    "LIC MF Dividend Yield Fund-Reg(G)": {
+    "lic-mf-dividend-yield-fund-reg-g": {
+      "name": "LIC MF Dividend Yield Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dikshit Mittal",
@@ -299,7 +306,8 @@
       "classification": "Equity : Thematic - Dividend Yield",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "LIC MF ELSS Tax Saver-Reg(G)": {
+    "lic-mf-elss-tax-saver-reg-g": {
+      "name": "LIC MF ELSS Tax Saver-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Yogesh Patil",
@@ -341,7 +349,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "LIC MF Equity Savings Fund(G)": {
+    "lic-mf-equity-savings-fund-g": {
+      "name": "LIC MF Equity Savings Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sumit Bhatnagar",
@@ -383,7 +392,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 3M Nil after 3M"
     },
-    "LIC MF Flexi Cap Fund-Reg(G)": {
+    "lic-mf-flexi-cap-fund-reg-g": {
+      "name": "LIC MF Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karan Doshi",
@@ -425,7 +435,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 12% on units and 1% on remaining units on or before 3M Nil after 3M"
     },
-    "LIC MF Focused Fund-Reg(G)": {
+    "lic-mf-focused-fund-reg-g": {
+      "name": "LIC MF Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Jaiprakash Toshniwal",
@@ -467,7 +478,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "LIC MF Gold ETF FoF(G)": {
+    "lic-mf-gold-etf-fof-g": {
+      "name": "LIC MF Gold ETF FoF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sumit Bhatnagar",
@@ -509,7 +521,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "LIC MF Healthcare Fund-Reg(G)": {
+    "lic-mf-healthcare-fund-reg-g": {
+      "name": "LIC MF Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karan Doshi",
@@ -551,7 +564,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 90D Nil after 90D"
     },
-    "LIC MF Infra Fund-Reg(G)": {
+    "lic-mf-infra-fund-reg-g": {
+      "name": "LIC MF Infra Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Yogesh Patil",
@@ -593,7 +607,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "Nil upto 12% of units and 1% on remaining units on or before 90D Nil after 90D"
     },
-    "LIC MF Large & Midcap Fund-Reg(G)": {
+    "lic-mf-large-and-midcap-fund-reg-g": {
+      "name": "LIC MF Large & Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Yogesh Patil",
@@ -635,7 +650,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "Nil upto 12% on units and 1% on remaining units on or before 3M Nil after 3M"
     },
-    "LIC MF Large Cap Fund-Reg(G)": {
+    "lic-mf-large-cap-fund-reg-g": {
+      "name": "LIC MF Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sumit Bhatnagar",
@@ -677,7 +693,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "Nil upto 12% on units and 1% on remaining units on or before 3M Nil after 3M"
     },
-    "LIC MF Manufacturing Fund-Reg(G)": {
+    "lic-mf-manufacturing-fund-reg-g": {
+      "name": "LIC MF Manufacturing Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Yogesh Patil",
@@ -719,7 +736,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 90D Nil after 90D"
     },
-    "LIC MF Midcap Fund-Reg(G)": {
+    "lic-mf-midcap-fund-reg-g": {
+      "name": "LIC MF Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karan Doshi",
@@ -761,7 +779,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "LIC MF Multi Asset Allocation Fund-Reg(G)": {
+    "lic-mf-multi-asset-allocation-fund-reg-g": {
+      "name": "LIC MF Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Jaiprakash Toshniwal",
@@ -803,7 +822,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "1% on or before 3M Nil after 3M"
     },
-    "LIC MF Multi Cap Fund-Reg(G)": {
+    "lic-mf-multi-cap-fund-reg-g": {
+      "name": "LIC MF Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dikshit Mittal",
@@ -845,7 +865,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "LIC MF Nifty 50 Index Fund(G)": {
+    "lic-mf-nifty-50-index-fund-g": {
+      "name": "LIC MF Nifty 50 Index Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sumit Bhatnagar",
@@ -887,7 +908,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "LIC MF Nifty Next 50 Index Fund(G)": {
+    "lic-mf-nifty-next-50-index-fund-g": {
+      "name": "LIC MF Nifty Next 50 Index Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sumit Bhatnagar",
@@ -929,7 +951,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "LIC MF Small Cap Fund-Reg(G)": {
+    "lic-mf-small-cap-fund-reg-g": {
+      "name": "LIC MF Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dikshit Mittal",
@@ -971,7 +994,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "LIC MF Value Fund-Reg(G)": {
+    "lic-mf-value-fund-reg-g": {
+      "name": "LIC MF Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sumit Bhatnagar",
