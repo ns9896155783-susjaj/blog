@@ -2,10 +2,11 @@
   "meta": {
     "amc": "iSIF Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "iSIF Equity Ex-Top 100 Long-Short Fund-Reg(G)": {
+    "isif-equity-ex-top-100-long-short-fund-reg-g": {
+      "name": "iSIF Equity Ex-Top 100 Long-Short Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "iSIF Hybrid Long-Short Fund-Reg(G)": {
+    "isif-hybrid-long-short-fund-reg-g": {
+      "name": "iSIF Hybrid Long-Short Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajat Chandak",
