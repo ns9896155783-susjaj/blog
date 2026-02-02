@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Angel Mutual Fund",
     "total_schemes": 4,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:41"
   },
   "schemes": {
-    "Angel One Gold ETF FOF-Reg(G)": {
+    "angel-one-gold-etf-fof-reg-g": {
+      "name": "Angel One Gold ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mehul Dama",
@@ -47,7 +48,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "NIL"
     },
-    "Angel One Nifty 50 Index Fund-Reg(G)": {
+    "angel-one-nifty-50-index-fund-reg-g": {
+      "name": "Angel One Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mehul Dama",
@@ -89,7 +91,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Angel One Nifty Total Market Index Fund-Reg(G)": {
+    "angel-one-nifty-total-market-index-fund-reg-g": {
+      "name": "Angel One Nifty Total Market Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mehul Dama",
@@ -131,7 +134,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Angel One Nifty Total Market Momentum Quality 50 Index Fund-Reg(G)": {
+    "angel-one-nifty-total-market-momentum-quality-50-index-fund-reg-g": {
+      "name": "Angel One Nifty Total Market Momentum Quality 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mehul Dama",
