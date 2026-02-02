@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Samco Mutual Fund",
     "total_schemes": 12,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Samco Active Momentum Fund-Reg(G)": {
+    "samco-active-momentum-fund-reg-g": {
+      "name": "Samco Active Momentum Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Umeshkumar Mehta",
@@ -47,7 +48,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Samco Arbitrage Fund-Reg(G)": {
+    "samco-arbitrage-fund-reg-g": {
+      "name": "Samco Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Umeshkumar Mehta",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Samco Dynamic Asset Allocation Fund-Reg(G)": {
+    "samco-dynamic-asset-allocation-fund-reg-g": {
+      "name": "Samco Dynamic Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Umeshkumar Mehta",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 25% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "Samco ELSS Tax Saver Fund-Reg(G)": {
+    "samco-elss-tax-saver-fund-reg-g": {
+      "name": "Samco ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nirali Bhansali",
@@ -173,7 +177,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Samco Flexi Cap Fund-Reg(G)": {
+    "samco-flexi-cap-fund-reg-g": {
+      "name": "Samco Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nirali Bhansali",
@@ -215,7 +220,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "Samco Large & Mid Cap Fund-Reg(G)": {
+    "samco-large-and-mid-cap-fund-reg-g": {
+      "name": "Samco Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Umeshkumar Mehta",
@@ -257,7 +263,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Samco Large Cap Fund-Reg(G)": {
+    "samco-large-cap-fund-reg-g": {
+      "name": "Samco Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Umeshkumar Mehta",
@@ -299,7 +306,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Samco Mid Cap Fund-Reg(G)": {
+    "samco-mid-cap-fund-reg-g": {
+      "name": "Samco Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Umeshkumar Mehta",
@@ -341,7 +349,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Samco Multi Asset Allocation Fund-Reg(G)": {
+    "samco-multi-asset-allocation-fund-reg-g": {
+      "name": "Samco Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Umeshkumar Mehta",
@@ -383,7 +392,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "Samco Multi Cap Fund-Reg(G)": {
+    "samco-multi-cap-fund-reg-g": {
+      "name": "Samco Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Umeshkumar Mehta",
@@ -425,7 +435,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "Samco Small Cap Fund-Reg(G)": {
+    "samco-small-cap-fund-reg-g": {
+      "name": "Samco Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Umeshkumar Mehta",
@@ -467,7 +478,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Samco Special Opportunities Fund-Reg(G)": {
+    "samco-special-opportunities-fund-reg-g": {
+      "name": "Samco Special Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Umeshkumar Mehta",
