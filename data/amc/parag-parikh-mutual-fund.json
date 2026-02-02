@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Parag Parikh Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Parag Parikh Arbitrage Fund-Reg(G)": {
+    "parag-parikh-arbitrage-fund-reg-g": {
+      "name": "Parag Parikh Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajeev Thakkar",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 30D Nil after 30D"
     },
-    "Parag Parikh Dynamic Asset Allocation Fund-Reg(G)": {
+    "parag-parikh-dynamic-asset-allocation-fund-reg-g": {
+      "name": "Parag Parikh Dynamic Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajeev Thakkar",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Parag Parikh ELSS Tax Saver Fund-Reg(G)": {
+    "parag-parikh-elss-tax-saver-fund-reg-g": {
+      "name": "Parag Parikh ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajeev Thakkar",
@@ -131,7 +134,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Parag Parikh Flexi Cap Fund-Reg(G)": {
+    "parag-parikh-flexi-cap-fund-reg-g": {
+      "name": "Parag Parikh Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajeev Thakkar",
@@ -173,7 +177,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 10% of units. For remaining units 2% on or before 365D 1% after 365D but on or before 730D Nil after 730D"
     },
-    "Parag Parikh Large Cap Fund-Reg(G)": {
+    "parag-parikh-large-cap-fund-reg-g": {
+      "name": "Parag Parikh Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajeev Thakkar",
