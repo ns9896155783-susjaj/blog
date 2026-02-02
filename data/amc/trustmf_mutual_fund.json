@@ -1,0 +1,53 @@
+{
+  "amc_name": "TRUSTMF MUTUAL FUND",
+  "schemes": {
+    "trustmf-arbitrage-fund-review-key-performance-signals-risk-view/": {
+      "name": "TRUSTMF Arbitrage Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "trustmf-flexi-cap-fund-review-key-performance-signals-risk-view/": {
+      "name": "TRUSTMF Flexi Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "trustmf-multi-cap-fund-review-key-performance-signals-risk-view/": {
+      "name": "TRUSTMF Multi Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "trustmf-small-cap-fund-review-key-performance-signals-risk-view/": {
+      "name": "TRUSTMF Small Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
