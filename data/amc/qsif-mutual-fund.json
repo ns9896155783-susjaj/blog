@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Qsif Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Qsif Equity Ex-Top 100 Long-Short Fund-Reg(G)": {
+    "qsif-equity-ex-top-100-long-short-fund-reg-g": {
+      "name": "Qsif Equity Ex-Top 100 Long-Short Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Qsif Equity Long-Short Fund-Reg(G)": {
+    "qsif-equity-long-short-fund-reg-g": {
+      "name": "Qsif Equity Long-Short Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Qsif Hybrid Long-Short Fund-Reg(G)": {
+    "qsif-hybrid-long-short-fund-reg-g": {
+      "name": "Qsif Hybrid Long-Short Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Tandon",
