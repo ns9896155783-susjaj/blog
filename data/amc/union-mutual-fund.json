@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Union Mutual Fund",
     "total_schemes": 21,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Union Active Momentum Fund-Reg(G)": {
+    "union-active-momentum-fund-reg-g": {
+      "name": "Union Active Momentum Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gaurav Chopra",
@@ -47,7 +48,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Union Aggressive Hybrid Fund-Reg(G)": {
+    "union-aggressive-hybrid-fund-reg-g": {
+      "name": "Union Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sanjay Bembalkar",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Arbitrage Fund-Reg(G)": {
+    "union-arbitrage-fund-reg-g": {
+      "name": "Union Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Thakker",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 1M Nil after 1M"
     },
-    "Union Balanced Advantage Fund-Reg(G)": {
+    "union-balanced-advantage-fund-reg-g": {
+      "name": "Union Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sanjay Bembalkar",
@@ -173,7 +177,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Business Cycle Fund-Reg(G)": {
+    "union-business-cycle-fund-reg-g": {
+      "name": "Union Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harshad Patwardhan",
@@ -215,7 +220,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Union Consumption Fund-Reg(G)": {
+    "union-consumption-fund-reg-g": {
+      "name": "Union Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vinod Malviya",
@@ -257,7 +263,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Union Diversified Equity All Cap Active FOF-Reg(G)": {
+    "union-diversified-equity-all-cap-active-fof-reg-g": {
+      "name": "Union Diversified Equity All Cap Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gaurav Chopra",
@@ -299,7 +306,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Union ELSS Tax Saver Fund(G)": {
+    "union-elss-tax-saver-fund-g": {
+      "name": "Union ELSS Tax Saver Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vinod Malviya",
@@ -341,7 +349,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Union Equity Savings Fund-Reg(G)": {
+    "union-equity-savings-fund-reg-g": {
+      "name": "Union Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sanjay Bembalkar",
@@ -383,7 +392,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Flexi Cap Fund-Reg(G)": {
+    "union-flexi-cap-fund-reg-g": {
+      "name": "Union Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sanjay Bembalkar",
@@ -425,7 +435,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Focused Fund-Reg(G)": {
+    "union-focused-fund-reg-g": {
+      "name": "Union Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Pratik Dharmshi",
@@ -467,7 +478,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Gold ETF FoF-Reg(G)": {
+    "union-gold-etf-fof-reg-g": {
+      "name": "Union Gold ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vinod Malviya",
@@ -509,7 +521,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Union Income Plus Arbitrage Active FOF-Reg(G)": {
+    "union-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "Union Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Thakker",
@@ -551,7 +564,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "Union Innovation & Opp Fund-Reg(G)": {
+    "union-innovation-and-opp-fund-reg-g": {
+      "name": "Union Innovation & Opp Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gaurav Chopra",
@@ -593,7 +607,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Union Large & Midcap Fund-Reg(G)": {
+    "union-large-and-midcap-fund-reg-g": {
+      "name": "Union Large & Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vinod Malviya",
@@ -635,7 +650,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Largecap Fund-Reg(G)": {
+    "union-largecap-fund-reg-g": {
+      "name": "Union Largecap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Pratik Dharmshi",
@@ -677,7 +693,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Midcap Fund-Reg(G)": {
+    "union-midcap-fund-reg-g": {
+      "name": "Union Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gaurav Chopra",
@@ -719,7 +736,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Multi Asset Allocation Fund-Reg(G)": {
+    "union-multi-asset-allocation-fund-reg-g": {
+      "name": "Union Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sanjay Bembalkar",
@@ -761,7 +779,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Multicap Fund-Reg(G)": {
+    "union-multicap-fund-reg-g": {
+      "name": "Union Multicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harshad Patwardhan",
@@ -803,7 +822,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Small Cap Fund-Reg(G)": {
+    "union-small-cap-fund-reg-g": {
+      "name": "Union Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Pratik Dharmshi",
@@ -845,7 +865,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Union Value Fund-Reg(G)": {
+    "union-value-fund-reg-g": {
+      "name": "Union Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vinod Malviya",
