@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Shriram Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Shriram Aggressive Hybrid Fund-Reg(G)": {
+    "shriram-aggressive-hybrid-fund-reg-g": {
+      "name": "Shriram Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Deepak Ramaraju",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "NIL for 12% of units and 1% for remaining units on or before 90D Nil after 90D"
     },
-    "Shriram Balanced Advantage Fund-Reg(G)": {
+    "shriram-balanced-advantage-fund-reg-g": {
+      "name": "Shriram Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Deepak Ramaraju",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "NIL for 12% of units and 1% for remaining units on or before 90D Nil after 90D"
     },
-    "Shriram ELSS Tax Saver Fund-Reg(G)": {
+    "shriram-elss-tax-saver-fund-reg-g": {
+      "name": "Shriram ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Deepak Ramaraju",
@@ -131,7 +134,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Shriram Flexi Cap Fund-Reg(G)": {
+    "shriram-flexi-cap-fund-reg-g": {
+      "name": "Shriram Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Deepak Ramaraju",
@@ -173,7 +177,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "NIL for 12% of units and 1% for remaining units on or before 90D Nil after 90D"
     },
-    "Shriram Multi Asset Allocation Fund-Reg(G)": {
+    "shriram-multi-asset-allocation-fund-reg-g": {
+      "name": "Shriram Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Deepak Ramaraju",
@@ -215,7 +220,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "NIL for 12% of units and 1% for remaining units on or before 90D Nil after 90D"
     },
-    "Shriram Multi Sector Rotation Fund-Reg(G)": {
+    "shriram-multi-sector-rotation-fund-reg-g": {
+      "name": "Shriram Multi Sector Rotation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Deepak Ramaraju",
