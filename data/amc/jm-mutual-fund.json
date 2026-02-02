@@ -2,10 +2,11 @@
   "meta": {
     "amc": "JM Mutual Fund",
     "total_schemes": 10,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "JM Aggressive Hybrid Fund-Reg(G)": {
+    "jm-aggressive-hybrid-fund-reg-g": {
+      "name": "JM Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Asit Bhandarkar",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 60D Nil after 60D"
     },
-    "JM Arbitrage Fund(G)": {
+    "jm-arbitrage-fund-g": {
+      "name": "JM Arbitrage Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Asit Bhandarkar",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.50% on or before 30D"
     },
-    "JM ELSS Tax Saver Fund(G)": {
+    "jm-elss-tax-saver-fund-g": {
+      "name": "JM ELSS Tax Saver Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Deepak Gupta.",
@@ -131,7 +134,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "JM Flexicap Fund-Reg(G)": {
+    "jm-flexicap-fund-reg-g": {
+      "name": "JM Flexicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Satish Ramanathan",
@@ -173,7 +177,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "JM Focused Fund-Reg(G)": {
+    "jm-focused-fund-reg-g": {
+      "name": "JM Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Asit Bhandarkar",
@@ -215,7 +220,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "JM Large & Mid Cap Fund-Reg(G)": {
+    "jm-large-and-mid-cap-fund-reg-g": {
+      "name": "JM Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Asit Bhandarkar",
@@ -257,7 +263,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 180D Nil after 180D"
     },
-    "JM Large Cap Fund-Reg(G)": {
+    "jm-large-cap-fund-reg-g": {
+      "name": "JM Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Deepak Gupta.",
@@ -299,7 +306,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "JM Midcap Fund-Reg(G)": {
+    "jm-midcap-fund-reg-g": {
+      "name": "JM Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Satish Ramanathan",
@@ -341,7 +349,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 180D Nil after 180D"
     },
-    "JM Small Cap Fund-Reg(G)": {
+    "jm-small-cap-fund-reg-g": {
+      "name": "JM Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Asit Bhandarkar",
@@ -383,7 +392,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 180D Nil after 180D"
     },
-    "JM Value Fund-Reg(G)": {
+    "jm-value-fund-reg-g": {
+      "name": "JM Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Satish Ramanathan",
