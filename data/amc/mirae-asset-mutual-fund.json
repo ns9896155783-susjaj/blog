@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Mirae Asset Mutual Fund",
     "total_schemes": 37,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Mirae Asset Aggressive Hybrid Fund-Reg(G)": {
+    "mirae-asset-aggressive-hybrid-fund-reg-g": {
+      "name": "Mirae Asset Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harshad Borawake",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 1Y(365D) Nil after 1Y(365D)"
     },
-    "Mirae Asset Arbitrage Fund-Reg(G)": {
+    "mirae-asset-arbitrage-fund-reg-g": {
+      "name": "Mirae Asset Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Jignesh Rao",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Mirae Asset Balanced Advantage Fund-Reg(G)": {
+    "mirae-asset-balanced-advantage-fund-reg-g": {
+      "name": "Mirae Asset Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harshad Borawake",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "1% on or before 6M (180D) Nil after 6M (180D)"
     },
-    "Mirae Asset Banking and Financial Services Fund-Reg(G)": {
+    "mirae-asset-banking-and-financial-services-fund-reg-g": {
+      "name": "Mirae Asset Banking and Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhijith Vara",
@@ -173,7 +177,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Mirae Asset BSE 200 Equal Weight ETF FoF-Reg(G)": {
+    "mirae-asset-bse-200-equal-weight-etf-fof-reg-g": {
+      "name": "Mirae Asset BSE 200 Equal Weight ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -215,7 +220,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 15D Nil after 15D"
     },
-    "Mirae Asset BSE Select IPO ETF FoF-Reg(G)": {
+    "mirae-asset-bse-select-ipo-etf-fof-reg-g": {
+      "name": "Mirae Asset BSE Select IPO ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -257,7 +263,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 15D Nil after 15D"
     },
-    "Mirae Asset Diversified Equity Allocator Passive FOF-Reg(G)": {
+    "mirae-asset-diversified-equity-allocator-passive-fof-reg-g": {
+      "name": "Mirae Asset Diversified Equity Allocator Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Siddharth Srivastava",
@@ -299,7 +306,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 5D Nil after 5D"
     },
-    "Mirae Asset ELSS Tax Saver Fund-Reg(G)": {
+    "mirae-asset-elss-tax-saver-fund-reg-g": {
+      "name": "Mirae Asset ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Neelesh Surana",
@@ -341,7 +349,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Mirae Asset Equity Savings Fund-Reg(G)": {
+    "mirae-asset-equity-savings-fund-reg-g": {
+      "name": "Mirae Asset Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harshad Borawake",
@@ -383,7 +392,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Mirae Asset Flexi Cap Fund-Reg(G)": {
+    "mirae-asset-flexi-cap-fund-reg-g": {
+      "name": "Mirae Asset Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Varun Goel",
@@ -425,7 +435,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Mirae Asset Focused Fund-Reg(G)": {
+    "mirae-asset-focused-fund-reg-g": {
+      "name": "Mirae Asset Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gaurav Misra",
@@ -467,7 +478,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 1Y(365D) Nil after 1Y(365D)"
     },
-    "Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF-Reg(G)": {
+    "mirae-asset-global-electric-and-autonomous-vehicles-equity-passive-fof-reg-g": {
+      "name": "Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Siddharth Srivastava",
@@ -509,7 +521,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1Y(365D) Nil after 1Y(365D)"
     },
-    "Mirae Asset Global X Artificial Intelligence & Technology ETF FoF-Reg(G)": {
+    "mirae-asset-global-x-artificial-intelligence-and-technology-etf-fof-reg-g": {
+      "name": "Mirae Asset Global X Artificial Intelligence & Technology ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Siddharth Srivastava",
@@ -551,7 +564,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1Y(365D) Nil after 1Y(365D)"
     },
-    "Mirae Asset Gold Silver Passive FoF-Reg(G)": {
+    "mirae-asset-gold-silver-passive-fof-reg-g": {
+      "name": "Mirae Asset Gold Silver Passive FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ritesh Patel",
@@ -593,7 +607,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 15D Nil after 15D"
     },
-    "Mirae Asset Great Consumer Fund-Reg(G)": {
+    "mirae-asset-great-consumer-fund-reg-g": {
+      "name": "Mirae Asset Great Consumer Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Siddhant Chhabria",
@@ -635,7 +650,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 1Y(365D) Nil after 1Y(365D)"
     },
-    "Mirae Asset Hang Seng TECH ETF FoF-Reg(G)": {
+    "mirae-asset-hang-seng-tech-etf-fof-reg-g": {
+      "name": "Mirae Asset Hang Seng TECH ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -677,7 +693,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "0.50% on or before 3M Nil after 3M"
     },
-    "Mirae Asset Healthcare Fund-Reg(G)": {
+    "mirae-asset-healthcare-fund-reg-g": {
+      "name": "Mirae Asset Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vrijesh Kasera",
@@ -719,7 +736,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "1% on or before 1Y(365D) Nil after 1Y(365D)"
     },
-    "Mirae Asset Income plus Arbitrage Active FOF-Reg(G)": {
+    "mirae-asset-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "Mirae Asset Income plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Basant Bafna",
@@ -761,7 +779,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Mirae Asset Infrastructure Fund-Reg(G)": {
+    "mirae-asset-infrastructure-fund-reg-g": {
+      "name": "Mirae Asset Infrastructure Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Bharti Sawant",
@@ -803,7 +822,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "Nil upto 15% of units and 1% for remaining units on or before 365D Nil after 365"
     },
-    "Mirae Asset Large & Midcap Fund-Reg(G)": {
+    "mirae-asset-large-and-midcap-fund-reg-g": {
+      "name": "Mirae Asset Large & Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Neelesh Surana",
@@ -845,7 +865,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 1Y(365D) Nil after 1Y(365D)"
     },
-    "Mirae Asset Large Cap Fund-Reg(G)": {
+    "mirae-asset-large-cap-fund-reg-g": {
+      "name": "Mirae Asset Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gaurav Misra",
@@ -887,7 +908,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 1Y(365D) Nil after 1Y(365D)"
     },
-    "Mirae Asset Midcap Fund-Reg(G)": {
+    "mirae-asset-midcap-fund-reg-g": {
+      "name": "Mirae Asset Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ankit Jain",
@@ -929,7 +951,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Mirae Asset Multi Asset Allocation Fund-Reg(G)": {
+    "mirae-asset-multi-asset-allocation-fund-reg-g": {
+      "name": "Mirae Asset Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harshad Borawake",
@@ -971,7 +994,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "1% on or before 6M (180D) Nil after 6M (180D)"
     },
-    "Mirae Asset Multi Factor Passive FOF-Reg(G)": {
+    "mirae-asset-multi-factor-passive-fof-reg-g": {
+      "name": "Mirae Asset Multi Factor Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ritesh Patel",
@@ -1013,7 +1037,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 5D Nil after 5D"
     },
-    "Mirae Asset Multicap Fund-Reg(G)": {
+    "mirae-asset-multicap-fund-reg-g": {
+      "name": "Mirae Asset Multicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ankit Jain",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Mirae Asset Nifty 100 ESG Sector Leaders FoF-Reg(G)": {
+    "mirae-asset-nifty-100-esg-sector-leaders-fof-reg-g": {
+      "name": "Mirae Asset Nifty 100 ESG Sector Leaders FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1097,7 +1123,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 15D Nil after 15D"
     },
-    "Mirae Asset Nifty 50 Index Fund-Reg(G)": {
+    "mirae-asset-nifty-50-index-fund-reg-g": {
+      "name": "Mirae Asset Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Mirae Asset Nifty India Manufacturing ETF FoF-Reg(G)": {
+    "mirae-asset-nifty-india-manufacturing-etf-fof-reg-g": {
+      "name": "Mirae Asset Nifty India Manufacturing ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1181,7 +1209,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 15D Nil after 15D"
     },
-    "Mirae Asset Nifty India New Age Consumption ETF FoF-Reg(G)": {
+    "mirae-asset-nifty-india-new-age-consumption-etf-fof-reg-g": {
+      "name": "Mirae Asset Nifty India New Age Consumption ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1223,7 +1252,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 15D Nil after 15D"
     },
-    "Mirae Asset Nifty LargeMidcap 250 Index Fund-Reg(G)": {
+    "mirae-asset-nifty-largemidcap-250-index-fund-reg-g": {
+      "name": "Mirae Asset Nifty LargeMidcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF FoF-Reg(G)": {
+    "mirae-asset-nifty-midsmallcap400-momentum-quality-100-etf-fof-reg-g": {
+      "name": "Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1307,7 +1338,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 15D Nil after 15D"
     },
-    "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF FoF-Reg(G)": {
+    "mirae-asset-nifty-smallcap-250-momentum-quality-100-etf-fof-reg-g": {
+      "name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1349,7 +1381,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 15D Nil after 15D"
     },
-    "Mirae Asset Nifty Total Market Index Fund-Reg(G)": {
+    "mirae-asset-nifty-total-market-index-fund-reg-g": {
+      "name": "Mirae Asset Nifty Total Market Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1391,7 +1424,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Mirae Asset Nifty200 Alpha 30 ETF FoF-Reg(G)": {
+    "mirae-asset-nifty200-alpha-30-etf-fof-reg-g": {
+      "name": "Mirae Asset Nifty200 Alpha 30 ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1433,7 +1467,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.05% on or before 15D Nil after 15D"
     },
-    "Mirae Asset NYSE FANG+ETF FoF-Reg(G)": {
+    "mirae-asset-nyse-fang-etf-fof-reg-g": {
+      "name": "Mirae Asset NYSE FANG+ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1475,7 +1510,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "0.50% on or before 3M Nil after 3M"
     },
-    "Mirae Asset S&P 500 Top 50 ETF FoF-Reg(G)": {
+    "mirae-asset-sandp-500-top-50-etf-fof-reg-g": {
+      "name": "Mirae Asset S&P 500 Top 50 ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1517,7 +1553,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "0.50% on or before 3M Nil after 3M"
     },
-    "Mirae Asset Small Cap Fund-Reg(G)": {
+    "mirae-asset-small-cap-fund-reg-g": {
+      "name": "Mirae Asset Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Varun Goel",
