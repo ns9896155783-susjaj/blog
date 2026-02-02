@@ -1,0 +1,77 @@
+{
+  "amc_name": "HELIOS MUTUAL FUND",
+  "schemes": {
+    "helios-balanced-advantage-fund-key-insights-on-returns-risk/": {
+      "name": "Helios Balanced Advantage Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "helios-financial-services-fund-key-insights-on-returns-risk/": {
+      "name": "Helios Financial Services Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "helios-flexi-cap-fund-key-insights-on-returns-risk/": {
+      "name": "Helios Flexi Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "Not Found": {
+      "name": "Helios Large & Mid Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "helios-mid-cap-fund-key-insights-on-returns-risk/": {
+      "name": "Helios Mid Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "helios-small-cap-fund-key-insights-on-returns-risk/": {
+      "name": "Helios Small Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
