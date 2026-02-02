@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Capitalmind Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Capitalmind Flexi Cap Fund-Reg(G)": {
+    "capitalmind-flexi-cap-fund-reg-g": {
+      "name": "Capitalmind Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anoop Vijaykumar",
