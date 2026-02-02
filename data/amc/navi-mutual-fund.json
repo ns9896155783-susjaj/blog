@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Navi Mutual Fund",
     "total_schemes": 15,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Navi Aggressive Hybrid Fund-Reg(G)": {
+    "navi-aggressive-hybrid-fund-reg-g": {
+      "name": "Navi Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil"
     },
-    "Navi BSE Sensex Index Fund-Reg(G)": {
+    "navi-bse-sensex-index-fund-reg-g": {
+      "name": "Navi BSE Sensex Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -89,7 +91,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Navi ELSS Tax Saver Fund-Reg(G)": {
+    "navi-elss-tax-saver-fund-reg-g": {
+      "name": "Navi ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -131,7 +134,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Navi ELSS Tax Saver Nifty 50 Index Fund-Reg(G)": {
+    "navi-elss-tax-saver-nifty-50-index-fund-reg-g": {
+      "name": "Navi ELSS Tax Saver Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -173,7 +177,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Navi Flexi Cap Fund-Reg(G)": {
+    "navi-flexi-cap-fund-reg-g": {
+      "name": "Navi Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -215,7 +220,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil"
     },
-    "Navi Large & Midcap Fund-Reg(G)": {
+    "navi-large-and-midcap-fund-reg-g": {
+      "name": "Navi Large & Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -257,7 +263,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "Nil"
     },
-    "Navi Nasdaq100 US Specific Equity Passive FOF-Reg(G)": {
+    "navi-nasdaq100-us-specific-equity-passive-fof-reg-g": {
+      "name": "Navi Nasdaq100 US Specific Equity Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -299,7 +306,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil"
     },
-    "Navi Nifty 50 Index Fund-Reg(G)": {
+    "navi-nifty-50-index-fund-reg-g": {
+      "name": "Navi Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -341,7 +349,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Navi Nifty 500 Multicap 50:25:25 Index Fund-Reg(G)": {
+    "navi-nifty-500-multicap-50-25-25-index-fund-reg-g": {
+      "name": "Navi Nifty 500 Multicap 50:25:25 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -383,7 +392,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Navi Nifty India Manufacturing Index Fund-Reg(G)": {
+    "navi-nifty-india-manufacturing-index-fund-reg-g": {
+      "name": "Navi Nifty India Manufacturing Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -425,7 +435,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Navi Nifty Midcap 150 Index Fund-Reg(G)": {
+    "navi-nifty-midcap-150-index-fund-reg-g": {
+      "name": "Navi Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -467,7 +478,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Navi Nifty MidSmallcap 400 Index Fund-Reg(G)": {
+    "navi-nifty-midsmallcap-400-index-fund-reg-g": {
+      "name": "Navi Nifty MidSmallcap 400 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -509,7 +521,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "null"
     },
-    "Navi Nifty Next 50 Index Fund-Reg(G)": {
+    "navi-nifty-next-50-index-fund-reg-g": {
+      "name": "Navi Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -551,7 +564,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Navi Nifty Smallcap250 Momentum Quality 100 Index Fund-Reg(G)": {
+    "navi-nifty-smallcap250-momentum-quality-100-index-fund-reg-g": {
+      "name": "Navi Nifty Smallcap250 Momentum Quality 100 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -593,7 +607,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Navi Total Stock Market US Specific Equity Passive FoF-Reg(G)": {
+    "navi-total-stock-market-us-specific-equity-passive-fof-reg-g": {
+      "name": "Navi Total Stock Market US Specific Equity Passive FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
