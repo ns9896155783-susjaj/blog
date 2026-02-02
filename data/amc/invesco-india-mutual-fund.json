@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Invesco India Mutual Fund",
     "total_schemes": 28,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Invesco India - Invesco EQQQ NASDAQ-100 ETF FoF-Reg(G)": {
+    "invesco-india-invesco-eqqq-nasdaq-100-etf-fof-reg-g": {
+      "name": "Invesco India - Invesco EQQQ NASDAQ-100 ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhisek Bahinipati",
@@ -47,7 +48,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil"
     },
-    "Invesco India - Invesco Global Consumer Trends FoF-Reg(G)": {
+    "invesco-india-invesco-global-consumer-trends-fof-reg-g": {
+      "name": "Invesco India - Invesco Global Consumer Trends FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sagar Gandhi",
@@ -89,7 +91,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India - Invesco Global Equity Income FoF-Reg(G)": {
+    "invesco-india-invesco-global-equity-income-fof-reg-g": {
+      "name": "Invesco India - Invesco Global Equity Income FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sagar Gandhi",
@@ -131,7 +134,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India - Invesco Pan European Equity FoF-Reg(G)": {
+    "invesco-india-invesco-pan-european-equity-fof-reg-g": {
+      "name": "Invesco India - Invesco Pan European Equity FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sagar Gandhi",
@@ -173,7 +177,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India Aggressive Hybrid Fund-Reg(G)": {
+    "invesco-india-aggressive-hybrid-fund-reg-g": {
+      "name": "Invesco India Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hiten Jain",
@@ -215,7 +220,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India Arbitrage Fund-Reg(G)": {
+    "invesco-india-arbitrage-fund-reg-g": {
+      "name": "Invesco India Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Deepak Gupta",
@@ -257,7 +263,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.50% on or before 15D Nil after 15D"
     },
-    "Invesco India Balanced Advantage Fund-Reg(G)": {
+    "invesco-india-balanced-advantage-fund-reg-g": {
+      "name": "Invesco India Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amey Sathe",
@@ -299,7 +306,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 10% of units and 0.25% for above the limits on or before 3M Nil after 3M"
     },
-    "Invesco India Business Cycle Fund-Reg(G)": {
+    "invesco-india-business-cycle-fund-reg-g": {
+      "name": "Invesco India Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aditya Khemani",
@@ -341,7 +349,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 3M Nil after 3M"
     },
-    "Invesco India Consumption Fund-Reg(G)": {
+    "invesco-india-consumption-fund-reg-g": {
+      "name": "Invesco India Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Poddar",
@@ -383,7 +392,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "0.50% on or before 3M Nil after 3M"
     },
-    "Invesco India Contra Fund-Reg(G)": {
+    "invesco-india-contra-fund-reg-g": {
+      "name": "Invesco India Contra Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Taher Badshah",
@@ -425,7 +435,8 @@
       "classification": "Equity : Value / Contra",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India ELSS Tax Saver Fund-Reg(G)": {
+    "invesco-india-elss-tax-saver-fund-reg-g": {
+      "name": "Invesco India ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Deepesh Kashyap",
@@ -467,7 +478,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Invesco India Equity Savings Fund-Reg(G)": {
+    "invesco-india-equity-savings-fund-reg-g": {
+      "name": "Invesco India Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amey Sathe",
@@ -509,7 +521,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "0.25% on or before 1M Nil after 1M"
     },
-    "Invesco India ESG Integration Strategy Fund-Reg(G)": {
+    "invesco-india-esg-integration-strategy-fund-reg-g": {
+      "name": "Invesco India ESG Integration Strategy Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Taher Badshah",
@@ -551,7 +564,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Invesco India Financial Services Fund-Reg(G)": {
+    "invesco-india-financial-services-fund-reg-g": {
+      "name": "Invesco India Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hiten Jain",
@@ -593,7 +607,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India Flexi Cap Fund-Reg(G)": {
+    "invesco-india-flexi-cap-fund-reg-g": {
+      "name": "Invesco India Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Taher Badshah",
@@ -635,7 +650,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Invesco India Focused Fund-Reg(G)": {
+    "invesco-india-focused-fund-reg-g": {
+      "name": "Invesco India Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Taher Badshah",
@@ -677,7 +693,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Invesco India Gold ETF FoF-Reg(G)": {
+    "invesco-india-gold-etf-fof-reg-g": {
+      "name": "Invesco India Gold ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhisek Bahinipati",
@@ -719,7 +736,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Invesco India Income Plus Arbitrage Active FoF-Reg(G)": {
+    "invesco-india-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "Invesco India Income Plus Arbitrage Active FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vikas Garg",
@@ -761,7 +779,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "Invesco India Infrastructure Fund-Reg(G)": {
+    "invesco-india-infrastructure-fund-reg-g": {
+      "name": "Invesco India Infrastructure Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sagar Gandhi",
@@ -803,7 +822,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India Large & Mid Cap Fund-Reg(G)": {
+    "invesco-india-large-and-mid-cap-fund-reg-g": {
+      "name": "Invesco India Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aditya Khemani",
@@ -845,7 +865,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India Largecap Fund-Reg(G)": {
+    "invesco-india-largecap-fund-reg-g": {
+      "name": "Invesco India Largecap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hiten Jain",
@@ -887,7 +908,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "NIL"
     },
-    "Invesco India Manufacturing Fund-Reg(G)": {
+    "invesco-india-manufacturing-fund-reg-g": {
+      "name": "Invesco India Manufacturing Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nikhil Kale",
@@ -929,7 +951,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 3M Nil after 3M"
     },
-    "Invesco India Midcap Fund-Reg(G)": {
+    "invesco-india-midcap-fund-reg-g": {
+      "name": "Invesco India Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aditya Khemani",
@@ -971,7 +994,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India Multi Asset Allocation Fund-Reg(G)": {
+    "invesco-india-multi-asset-allocation-fund-reg-g": {
+      "name": "Invesco India Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Taher Badshah",
@@ -1013,7 +1037,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Invesco India Multicap Fund-Reg(G)": {
+    "invesco-india-multicap-fund-reg-g": {
+      "name": "Invesco India Multicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Taher Badshah",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India PSU Equity Fund-Reg(G)": {
+    "invesco-india-psu-equity-fund-reg-g": {
+      "name": "Invesco India PSU Equity Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sagar Gandhi",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India Smallcap Fund-Reg(G)": {
+    "invesco-india-smallcap-fund-reg-g": {
+      "name": "Invesco India Smallcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Taher Badshah",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "Invesco India Technology Fund-Reg(G)": {
+    "invesco-india-technology-fund-reg-g": {
+      "name": "Invesco India Technology Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hiten Jain",
