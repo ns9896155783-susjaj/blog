@@ -1,30 +1,6 @@
 {
   "amc_name": "TATA MUTUAL FUND",
   "schemes": {
-    "tata-aggressive-hybrid-fund-review-key-insights-on-returns-risk/": {
-      "name": "Tata Aggressive Hybrid Fund-Reg(G)",
-      "category": "",
-      "nav": "",
-      "nav_date": "",
-      "returns": {},
-      "allocation": {},
-      "risk_level": "",
-      "risk_quants": {},
-      "benchmark": "",
-      "expense_ratio": ""
-    },
-    "tata-arbitrage-fund-review-key-insights-on-returns-risk/": {
-      "name": "Tata Arbitrage Fund-Reg(G)",
-      "category": "",
-      "nav": "",
-      "nav_date": "",
-      "returns": {},
-      "allocation": {},
-      "risk_level": "",
-      "risk_quants": {},
-      "benchmark": "",
-      "expense_ratio": ""
-    },
     "tata-balanced-adv-fund-review-performance-summary-risk-view/": {
       "name": "Tata Balanced Adv Fund-Reg(G)",
       "category": "",
