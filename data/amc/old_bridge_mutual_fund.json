@@ -1,0 +1,29 @@
+{
+  "amc_name": "OLD BRIDGE MUTUAL FUND",
+  "schemes": {
+    "old-bridge-arbitrage-fund-review-pros-cons-investment-suitability/": {
+      "name": "Old Bridge Arbitrage Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "old-bridge-focused-fund-review-pros-cons-investment-suitability/": {
+      "name": "Old Bridge Focused Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
