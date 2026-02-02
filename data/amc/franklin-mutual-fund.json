@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Franklin Mutual Fund",
     "total_schemes": 23,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Franklin Asian Equity Fund(G)": {
+    "franklin-asian-equity-fund-g": {
+      "name": "Franklin Asian Equity Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shyam Sundar Sriram",
@@ -47,7 +48,8 @@
       "classification": "Equity : International",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin Build India Fund(G)": {
+    "franklin-build-india-fund-g": {
+      "name": "Franklin Build India Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Argal",
@@ -89,7 +91,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin India Aggressive Hybrid Fund(G)": {
+    "franklin-india-aggressive-hybrid-fund-g": {
+      "name": "Franklin India Aggressive Hybrid Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajasa Kakulavarapu",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 10% of units on or before 1Y For excess units 1% on or before 1Y & Nil after 1Y"
     },
-    "Franklin India Arbitrage Fund-Reg(G)": {
+    "franklin-india-arbitrage-fund-reg-g": {
+      "name": "Franklin India Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mukesh Jain",
@@ -173,7 +177,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "Nil for 10% of units and 1% for remaining units on or before 30D Nil after 30D"
     },
-    "Franklin India Balanced Advantage Fund-Reg(G)": {
+    "franklin-india-balanced-advantage-fund-reg-g": {
+      "name": "Franklin India Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajasa Kakulavarapu",
@@ -215,7 +220,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Franklin India Dividend Yield Fund(G)": {
+    "franklin-india-dividend-yield-fund-g": {
+      "name": "Franklin India Dividend Yield Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajasa Kakulavarapu",
@@ -257,7 +263,8 @@
       "classification": "Equity : Thematic - Dividend Yield",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin India Dynamic Asset Allocation Active FOFs(G)": {
+    "franklin-india-dynamic-asset-allocation-active-fofs-g": {
+      "name": "Franklin India Dynamic Asset Allocation Active FOFs(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajasa Kakulavarapu",
@@ -299,7 +306,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil for 10% of units on or before 1Y and For remaining investment 1% on or before 1Y and Nil after 1Y"
     },
-    "Franklin India ELSS Tax Saver Fund(G)": {
+    "franklin-india-elss-tax-saver-fund-g": {
+      "name": "Franklin India ELSS Tax Saver Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Janakiraman",
@@ -341,7 +349,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Franklin India Equity Savings Fund(G)": {
+    "franklin-india-equity-savings-fund-g": {
+      "name": "Franklin India Equity Savings Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajasa Kakulavarapu",
@@ -383,7 +392,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil"
     },
-    "Franklin India Flexi Cap Fund(G)": {
+    "franklin-india-flexi-cap-fund-g": {
+      "name": "Franklin India Flexi Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Janakiraman",
@@ -425,7 +435,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin India Focused Equity Fund(G)": {
+    "franklin-india-focused-equity-fund-g": {
+      "name": "Franklin India Focused Equity Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Argal",
@@ -467,7 +478,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin India Income Plus Arbitrage Active FoF(G)": {
+    "franklin-india-income-plus-arbitrage-active-fof-g": {
+      "name": "Franklin India Income Plus Arbitrage Active FoF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohan Maru",
@@ -509,7 +521,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "Franklin India Large & Mid Cap Fund(G)": {
+    "franklin-india-large-and-mid-cap-fund-g": {
+      "name": "Franklin India Large & Mid Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Venkatesh Sanjeevi",
@@ -551,7 +564,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin India Large Cap Fund(G)": {
+    "franklin-india-large-cap-fund-g": {
+      "name": "Franklin India Large Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Venkatesh Sanjeevi",
@@ -593,7 +607,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin India Mid Cap Fund(G)": {
+    "franklin-india-mid-cap-fund-g": {
+      "name": "Franklin India Mid Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Janakiraman",
@@ -635,7 +650,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin India Multi Asset Allocation Fund-Reg(G)": {
+    "franklin-india-multi-asset-allocation-fund-reg-g": {
+      "name": "Franklin India Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Janakiraman",
@@ -677,7 +693,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 10% of units and 0.50% for remaining units or or before 1Y Nil after 1Y"
     },
-    "Franklin India Multi Cap Fund-Reg(G)": {
+    "franklin-india-multi-cap-fund-reg-g": {
+      "name": "Franklin India Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Janakiraman",
@@ -719,7 +736,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% before 1Y"
     },
-    "Franklin India Multi-Factor Fund(G)": {
+    "franklin-india-multi-factor-fund-g": {
+      "name": "Franklin India Multi-Factor Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arihant Jain",
@@ -761,7 +779,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "NIL upto 10% of units and 0.50% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Franklin India NSE Nifty 50 Index Fund(G)": {
+    "franklin-india-nse-nifty-50-index-fund-g": {
+      "name": "Franklin India NSE Nifty 50 Index Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shyam Sundar Sriram",
@@ -803,7 +822,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Franklin India Opportunities Fund(G)": {
+    "franklin-india-opportunities-fund-g": {
+      "name": "Franklin India Opportunities Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Janakiraman",
@@ -845,7 +865,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin India Small Cap Fund(G)": {
+    "franklin-india-small-cap-fund-g": {
+      "name": "Franklin India Small Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Janakiraman",
@@ -887,7 +908,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin India Technology Fund(G)": {
+    "franklin-india-technology-fund-g": {
+      "name": "Franklin India Technology Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Janakiraman",
@@ -929,7 +951,8 @@
       "classification": "Equity : Sectoral - Technology",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Franklin U.S. Opportunities Equity Active FOF(G)": {
+    "franklin-u-s-opportunities-equity-active-fof-g": {
+      "name": "Franklin U.S. Opportunities Equity Active FOF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sandeep Manam",
