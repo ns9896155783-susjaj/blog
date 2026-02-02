@@ -2,10 +2,11 @@
   "meta": {
     "amc": "BHARAT Bond Mutual Fund",
     "total_schemes": 8,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "BHARAT Bond ETF FOF - April 2032 -Reg(G)": {
+    "bharat-bond-etf-fof-april-2032-reg-g": {
+      "name": "BHARAT Bond ETF FOF - April 2032 -Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hetul Raval",
@@ -47,7 +48,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     },
-    "BHARAT Bond ETF FOF - April 2033 -Reg(G)": {
+    "bharat-bond-etf-fof-april-2033-reg-g": {
+      "name": "BHARAT Bond ETF FOF - April 2033 -Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hetul Raval",
@@ -89,7 +91,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     },
-    "BHARAT Bond FOF - April 2030 -Reg(G)": {
+    "bharat-bond-fof-april-2030-reg-g": {
+      "name": "BHARAT Bond FOF - April 2030 -Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hetul Raval",
@@ -131,7 +134,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     },
-    "BHARAT Bond FOF - April 2031 -Reg(G)": {
+    "bharat-bond-fof-april-2031-reg-g": {
+      "name": "BHARAT Bond FOF - April 2031 -Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hetul Raval",
@@ -173,7 +177,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     },
-    "ICICI Pru Bharat 22 FOF-(G)": {
+    "icici-pru-bharat-22-fof-g": {
+      "name": "ICICI Pru Bharat 22 FOF-(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -215,7 +220,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil"
     },
-    "ICICI Pru Bharat Consumption Fund-Reg(G)": {
+    "icici-pru-bharat-consumption-fund-reg-g": {
+      "name": "ICICI Pru Bharat Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Priyanka Khandelwal",
@@ -257,7 +263,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 3M Nil after 3M"
     },
-    "ITI Bharat Consumption Fund-Reg(G)": {
+    "iti-bharat-consumption-fund-reg-g": {
+      "name": "ITI Bharat Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohan Korde",
@@ -299,7 +306,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "0.50% on or before 3M Nil after 3M"
     },
-    "WOC Digital Bharat Fund-Reg(G)": {
+    "woc-digital-bharat-fund-reg-g": {
+      "name": "WOC Digital Bharat Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ramesh Mantri",
