@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Canara Rob Mutual Fund",
     "total_schemes": 14,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Canara Rob Balanced Advantage Fund-Reg(G)": {
+    "canara-rob-balanced-advantage-fund-reg-g": {
+      "name": "Canara Rob Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ennettee Fernandes",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Canara Rob Consumer Trends Fund-Reg(G)": {
+    "canara-rob-consumer-trends-fund-reg-g": {
+      "name": "Canara Rob Consumer Trends Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ennettee Fernandes",
@@ -89,7 +91,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Canara Rob ELSS Tax Saver-Reg(G)": {
+    "canara-rob-elss-tax-saver-reg-g": {
+      "name": "Canara Rob ELSS Tax Saver-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Mishra",
@@ -131,7 +134,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Canara Rob Equity Hybrid Fund-Reg(G)": {
+    "canara-rob-equity-hybrid-fund-reg-g": {
+      "name": "Canara Rob Equity Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ennettee Fernandes",
@@ -173,7 +177,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 10% of units on or before 1Y 1% for more than 10% of units on or before 1Y Nil after 1Y"
     },
-    "Canara Rob Flexi Cap Fund-Reg(G)": {
+    "canara-rob-flexi-cap-fund-reg-g": {
+      "name": "Canara Rob Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shridatta Bhandwaldar",
@@ -215,7 +220,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Canara Rob Focused Fund-Reg(G)": {
+    "canara-rob-focused-fund-reg-g": {
+      "name": "Canara Rob Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shridatta Bhandwaldar",
@@ -257,7 +263,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Canara Rob Infrastructure Fund-Reg(G)": {
+    "canara-rob-infrastructure-fund-reg-g": {
+      "name": "Canara Rob Infrastructure Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Mishra",
@@ -299,7 +306,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Canara Rob Large and Mid Cap Fund-Reg(G)": {
+    "canara-rob-large-and-mid-cap-fund-reg-g": {
+      "name": "Canara Rob Large and Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amit Nadekar",
@@ -341,7 +349,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Canara Rob Large Cap Fund-Reg(G)": {
+    "canara-rob-large-cap-fund-reg-g": {
+      "name": "Canara Rob Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shridatta Bhandwaldar",
@@ -383,7 +392,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Canara Rob Manufacturing Fund-Reg(G)": {
+    "canara-rob-manufacturing-fund-reg-g": {
+      "name": "Canara Rob Manufacturing Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Pranav Gokhale",
@@ -425,7 +435,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Canara Rob Mid Cap Fund-Reg(G)": {
+    "canara-rob-mid-cap-fund-reg-g": {
+      "name": "Canara Rob Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Pranav Gokhale",
@@ -467,7 +478,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Canara Rob Multi Asset Allocation Fund-Reg(G)": {
+    "canara-rob-multi-asset-allocation-fund-reg-g": {
+      "name": "Canara Rob Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amit Kadam",
@@ -509,7 +521,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "NIL upto 12% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Canara Rob Multi Cap Fund-Reg(G)": {
+    "canara-rob-multi-cap-fund-reg-g": {
+      "name": "Canara Rob Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shridatta Bhandwaldar",
@@ -551,7 +564,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Canara Rob Small Cap Fund-Reg(G)": {
+    "canara-rob-small-cap-fund-reg-g": {
+      "name": "Canara Rob Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Pranav Gokhale",
