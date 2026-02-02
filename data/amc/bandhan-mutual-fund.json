@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Bandhan Mutual Fund",
     "total_schemes": 47,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:41"
   },
   "schemes": {
-    "Bandhan Aggressive Hybrid Fund-Reg(G)": {
+    "bandhan-aggressive-hybrid-fund-reg-g": {
+      "name": "Bandhan Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Prateek Poddar",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil for 10% of investment and 1 % for remaining investment on or before 12M"
     },
-    "Bandhan Aggressive Hybrid Passive FOF-Reg(G)": {
+    "bandhan-aggressive-hybrid-passive-fof-reg-g": {
+      "name": "Bandhan Aggressive Hybrid Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viraj Kulkarni",
@@ -89,7 +91,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 365D Nil after 365D"
     },
-    "Bandhan Arbitrage Fund-Reg(G)": {
+    "bandhan-arbitrage-fund-reg-g": {
+      "name": "Bandhan Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kapil Kankonkar",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Balanced Advantage Fund-Reg(G)": {
+    "bandhan-balanced-advantage-fund-reg-g": {
+      "name": "Bandhan Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Gunwani",
@@ -173,7 +177,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Bandhan BSE Healthcare Index Fund-Reg(G)": {
+    "bandhan-bse-healthcare-index-fund-reg-g": {
+      "name": "Bandhan BSE Healthcare Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -215,7 +220,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan BSE India Sector Leaders Index Fund-Reg(G)": {
+    "bandhan-bse-india-sector-leaders-index-fund-reg-g": {
+      "name": "Bandhan BSE India Sector Leaders Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -257,7 +263,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Business Cycle Fund-Reg(G)": {
+    "bandhan-business-cycle-fund-reg-g": {
+      "name": "Bandhan Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Biraia",
@@ -299,7 +306,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Bandhan Conservative Hybrid Passive FOF-Reg(G)": {
+    "bandhan-conservative-hybrid-passive-fof-reg-g": {
+      "name": "Bandhan Conservative Hybrid Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viraj Kulkarni",
@@ -341,7 +349,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 365D Nil after 365D"
     },
-    "Bandhan ELSS Tax Saver Fund-Reg(G)": {
+    "bandhan-elss-tax-saver-fund-reg-g": {
+      "name": "Bandhan ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Daylynn Pinto",
@@ -383,7 +392,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Bandhan Equity Savings Fund-Reg(G)": {
+    "bandhan-equity-savings-fund-reg-g": {
+      "name": "Bandhan Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kapil Kankonkar",
@@ -425,7 +435,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 10% of investments and 0.25% for remaining investment on or before 7D Nil after 7D"
     },
-    "Bandhan Financial Services Fund-Reg(G)": {
+    "bandhan-financial-services-fund-reg-g": {
+      "name": "Bandhan Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ritu Modi",
@@ -467,7 +478,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Bandhan Flexi Cap Fund-Reg(G)": {
+    "bandhan-flexi-cap-fund-reg-g": {
+      "name": "Bandhan Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Gunwani",
@@ -509,7 +521,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 365D Nil after 365D"
     },
-    "Bandhan Focused Fund-Reg(G)": {
+    "bandhan-focused-fund-reg-g": {
+      "name": "Bandhan Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Gunwani",
@@ -551,7 +564,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 365D Nil after 365D"
     },
-    "Bandhan Gold ETF FOF-Reg(G)": {
+    "bandhan-gold-etf-fof-reg-g": {
+      "name": "Bandhan Gold ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -593,7 +607,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Healthcare Fund-Reg(G)": {
+    "bandhan-healthcare-fund-reg-g": {
+      "name": "Bandhan Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viraj Kulkarni",
@@ -635,7 +650,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Bandhan Income Plus Arbitrage Active FOF-Reg(G)": {
+    "bandhan-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "Bandhan Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harshal Joshi",
@@ -677,7 +693,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil"
     },
-    "Bandhan Infrastructure Fund-Reg(G)": {
+    "bandhan-infrastructure-fund-reg-g": {
+      "name": "Bandhan Infrastructure Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Biraia",
@@ -719,7 +736,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Bandhan Innovation Fund-Reg(G)": {
+    "bandhan-innovation-fund-reg-g": {
+      "name": "Bandhan Innovation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Gunwani",
@@ -761,7 +779,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Bandhan Large & Mid Cap Fund-Reg(G)": {
+    "bandhan-large-and-mid-cap-fund-reg-g": {
+      "name": "Bandhan Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Gunwani",
@@ -803,7 +822,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 365D Nil after 365D"
     },
-    "Bandhan Large Cap Fund-Reg(G)": {
+    "bandhan-large-cap-fund-reg-g": {
+      "name": "Bandhan Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Gunwani",
@@ -845,7 +865,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Bandhan Midcap Fund-Reg(G)": {
+    "bandhan-midcap-fund-reg-g": {
+      "name": "Bandhan Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ritu Modi",
@@ -887,7 +908,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Bandhan Multi Asset Allocation Fund-Reg(G)": {
+    "bandhan-multi-asset-allocation-fund-reg-g": {
+      "name": "Bandhan Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viraj Kulkarni",
@@ -929,7 +951,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil for 10% of investment For remaining investment: 0.50% on or before 1Y and Nil after 1Y"
     },
-    "Bandhan Multi Cap Fund-Reg(G)": {
+    "bandhan-multi-cap-fund-reg-g": {
+      "name": "Bandhan Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Daylynn Pinto",
@@ -971,7 +994,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Bandhan Multi-Asset Passive FOF-Reg(G)": {
+    "bandhan-multi-asset-passive-fof-reg-g": {
+      "name": "Bandhan Multi-Asset Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viraj Kulkarni",
@@ -1013,7 +1037,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 365D Nil after 365D"
     },
-    "Bandhan Multi-Factor Fund-Reg(G)": {
+    "bandhan-multi-factor-fund-reg-g": {
+      "name": "Bandhan Multi-Factor Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rishi Sharma",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Bandhan Nifty 100 Index Fund-Reg(G)": {
+    "bandhan-nifty-100-index-fund-reg-g": {
+      "name": "Bandhan Nifty 100 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Bandhan Nifty 200 Quality 30 Index Fund-Reg(G)": {
+    "bandhan-nifty-200-quality-30-index-fund-reg-g": {
+      "name": "Bandhan Nifty 200 Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Nifty 50 Index Fund-Reg(G)": {
+    "bandhan-nifty-50-index-fund-reg-g": {
+      "name": "Bandhan Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1181,7 +1209,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Bandhan Nifty 500 Momentum 50 Index Fund-Reg(G)": {
+    "bandhan-nifty-500-momentum-50-index-fund-reg-g": {
+      "name": "Bandhan Nifty 500 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1223,7 +1252,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Nifty 500 Value 50 Index Fund-Reg(G)": {
+    "bandhan-nifty-500-value-50-index-fund-reg-g": {
+      "name": "Bandhan Nifty 500 Value 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Nifty Alpha 50 Index Fund-Reg(G)": {
+    "bandhan-nifty-alpha-50-index-fund-reg-g": {
+      "name": "Bandhan Nifty Alpha 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Bandhan Nifty Alpha Low Volatility 30 Index Fund-Reg(G)": {
+    "bandhan-nifty-alpha-low-volatility-30-index-fund-reg-g": {
+      "name": "Bandhan Nifty Alpha Low Volatility 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1349,7 +1381,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Nifty Bank Index Fund-Reg(G)": {
+    "bandhan-nifty-bank-index-fund-reg-g": {
+      "name": "Bandhan Nifty Bank Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1391,7 +1424,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Nifty IT Index Fund-Reg(G)": {
+    "bandhan-nifty-it-index-fund-reg-g": {
+      "name": "Bandhan Nifty IT Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1433,7 +1467,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Bandhan Nifty Midcap 150 Index Fund-Reg(G)": {
+    "bandhan-nifty-midcap-150-index-fund-reg-g": {
+      "name": "Bandhan Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Nifty Next 50 Index Fund-Reg(G)": {
+    "bandhan-nifty-next-50-index-fund-reg-g": {
+      "name": "Bandhan Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1517,7 +1553,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Bandhan Nifty Smallcap 250 Index Fund-Reg(G)": {
+    "bandhan-nifty-smallcap-250-index-fund-reg-g": {
+      "name": "Bandhan Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1559,7 +1596,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Bandhan Nifty Total Market Index Fund-Reg(G)": {
+    "bandhan-nifty-total-market-index-fund-reg-g": {
+      "name": "Bandhan Nifty Total Market Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1601,7 +1639,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Nifty100 Low Volatility 30 Index Fund-Reg(G)": {
+    "bandhan-nifty100-low-volatility-30-index-fund-reg-g": {
+      "name": "Bandhan Nifty100 Low Volatility 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1643,7 +1682,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Bandhan Nifty200 Momentum 30 Index Fund-Reg(G)": {
+    "bandhan-nifty200-momentum-30-index-fund-reg-g": {
+      "name": "Bandhan Nifty200 Momentum 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1685,7 +1725,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Bandhan Silver ETF FOF-Reg(G)": {
+    "bandhan-silver-etf-fof-reg-g": {
+      "name": "Bandhan Silver ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Jain",
@@ -1727,7 +1768,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Bandhan Small Cap Fund-Reg(G)": {
+    "bandhan-small-cap-fund-reg-g": {
+      "name": "Bandhan Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Gunwani",
@@ -1769,7 +1811,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 1Y"
     },
-    "Bandhan Transportation and Logistics Fund-Reg(G)": {
+    "bandhan-transportation-and-logistics-fund-reg-g": {
+      "name": "Bandhan Transportation and Logistics Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Daylynn Pinto",
@@ -1811,7 +1854,8 @@
       "classification": "Equity : Sectoral - Auto",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Bandhan US Specific Equity Active FOF-Reg(G)": {
+    "bandhan-us-specific-equity-active-fof-reg-g": {
+      "name": "Bandhan US Specific Equity Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ritika Behera",
@@ -1853,7 +1897,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Bandhan US Specific Equity Active FOF-Reg(IDCW)": {
+    "bandhan-us-specific-equity-active-fof-reg-idcw": {
+      "name": "Bandhan US Specific Equity Active FOF-Reg(IDCW)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ritika Behera",
@@ -1895,7 +1940,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF-Reg(G)": {
+    "bandhan-us-treasury-bond-0-1-year-specific-debt-passive-fof-reg-g": {
+      "name": "Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Brijesh Shah",
@@ -1937,7 +1983,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "0.10% on or before 7D Nil after 7D"
     },
-    "Bandhan Value Fund-Reg(G)": {
+    "bandhan-value-fund-reg-g": {
+      "name": "Bandhan Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Daylynn Pinto",
