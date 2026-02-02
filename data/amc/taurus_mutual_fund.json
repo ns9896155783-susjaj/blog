@@ -1,0 +1,101 @@
+{
+  "amc_name": "TAURUS MUTUAL FUND",
+  "schemes": {
+    "taurus-banking-fin-serv-fund-review-key-performance-signals-risk-view/": {
+      "name": "Taurus Banking & Fin Serv Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "taurus-elss-tax-saver-fund-review-performance-risk-practical-relevance/": {
+      "name": "Taurus ELSS Tax Saver Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "taurus-ethical-fund-review-performance-risk-practical-relevance/": {
+      "name": "Taurus Ethical Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "taurus-flexi-cap-fund-review-performance-risk-practical-relevance/": {
+      "name": "Taurus Flexi Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "taurus-infrastructure-fund-review-performance-risk-practical-relevance/": {
+      "name": "Taurus Infrastructure Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "taurus-large-cap-fund-review-key-performance-signals-risk-view/": {
+      "name": "Taurus Large Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "taurus-mid-cap-fund-review-key-performance-signals-risk-view/": {
+      "name": "Taurus Mid Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "taurus-nifty-50-index-fund-review-key-performance-signals-risk-view/": {
+      "name": "Taurus Nifty 50 Index Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
