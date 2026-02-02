@@ -1,17 +1,4 @@
 {
   "amc_name": "ALTIVA",
-  "schemes": {
-    "altiva-hybrid-long-short-fund-review-what-investors-should-know-about-returns-risk/": {
-      "name": "Altiva Hybrid Long-Short Fund-Reg(G)",
-      "category": "",
-      "nav": "",
-      "nav_date": "",
-      "returns": {},
-      "allocation": {},
-      "risk_level": "",
-      "risk_quants": {},
-      "benchmark": "",
-      "expense_ratio": ""
-    }
-  }
+  "schemes": {}
 }
