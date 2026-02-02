@@ -1,0 +1,53 @@
+{
+  "amc_name": "PARAG PARIKH MUTUAL FUND",
+  "schemes": {
+    "parag-parikh-arbitrage-fund-review-pros-cons-investment-suitability/": {
+      "name": "Parag Parikh Arbitrage Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "parag-parikh-dynamic-asset-allocation-fund-review-pros-cons-investment-suitability/": {
+      "name": "Parag Parikh Dynamic Asset Allocation Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "parag-parikh-elss-tax-saver-fund-review-pros-cons-investment-suitability/": {
+      "name": "Parag Parikh ELSS Tax Saver Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "parag-parikh-flexi-cap-fund-review-pros-cons-investment-suitability/": {
+      "name": "Parag Parikh Flexi Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
