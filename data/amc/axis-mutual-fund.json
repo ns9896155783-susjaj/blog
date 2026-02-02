@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Axis Mutual Fund",
     "total_schemes": 45,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:41"
   },
   "schemes": {
-    "Axis Aggressive Hybrid Fund-Reg(G)": {
+    "axis-aggressive-hybrid-fund-reg-g": {
+      "name": "Axis Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Jayesh Sundar",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil for 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis Arbitrage Fund-Reg(G)": {
+    "axis-arbitrage-fund-reg-g": {
+      "name": "Axis Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Axis Balanced Advantage Fund-Reg(G)": {
+    "axis-balanced-advantage-fund-reg-g": {
+      "name": "Axis Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Jayesh Sundar",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil for 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis BSE India Sector Leaders Index Fund-Reg(G)": {
+    "axis-bse-india-sector-leaders-index-fund-reg-g": {
+      "name": "Axis BSE India Sector Leaders Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -173,7 +177,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Axis BSE Sensex Index Fund-Reg(G)": {
+    "axis-bse-sensex-index-fund-reg-g": {
+      "name": "Axis BSE Sensex Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -215,7 +220,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Axis Business Cycles Fund-Reg(G)": {
+    "axis-business-cycles-fund-reg-g": {
+      "name": "Axis Business Cycles Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashish Naik",
@@ -257,7 +263,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil for 10% of investment and 1% for remaining investment on or before 12M Nil after 12M"
     },
-    "Axis Consumption Fund-Reg(G)": {
+    "axis-consumption-fund-reg-g": {
+      "name": "Axis Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hitesh Das",
@@ -299,7 +306,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "NIL for 10% of investment and 1% for remaining investment on or before 90D Nil after 90D"
     },
-    "Axis ELSS Tax Saver Fund-Reg(G)": {
+    "axis-elss-tax-saver-fund-reg-g": {
+      "name": "Axis ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shreyash Devalkar",
@@ -341,7 +349,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Axis Equity Savings Fund-Reg(G)": {
+    "axis-equity-savings-fund-reg-g": {
+      "name": "Axis Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mayank Hyanki",
@@ -383,7 +392,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 10% of investments and 1% for remaining investments on or before 1M Nil after 1M"
     },
-    "Axis ESG Integration Strategy Fund-Reg(G)": {
+    "axis-esg-integration-strategy-fund-reg-g": {
+      "name": "Axis ESG Integration Strategy Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Agarwal",
@@ -425,7 +435,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil for 10% of investment and 1% for remaining investment on or before 12M Nil after 12M"
     },
-    "Axis Flexi Cap Fund-Reg(G)": {
+    "axis-flexi-cap-fund-reg-g": {
+      "name": "Axis Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sachin Relekar",
@@ -467,7 +478,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "NIL for 20% of investments and 1% for remaining investments on or before 12M NIL after 12M"
     },
-    "Axis Focused Fund-Reg(G)": {
+    "axis-focused-fund-reg-g": {
+      "name": "Axis Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sachin Relekar",
@@ -509,7 +521,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil for 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis Global Equity Alpha FoF-Reg(G)": {
+    "axis-global-equity-alpha-fof-reg-g": {
+      "name": "Axis Global Equity Alpha FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Krishnaa N",
@@ -551,7 +564,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "NIL upto 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis Global Innovation FoF-Reg(G)": {
+    "axis-global-innovation-fof-reg-g": {
+      "name": "Axis Global Innovation FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Krishnaa N",
@@ -593,7 +607,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 12M Nil after 12M"
     },
-    "Axis Gold and Silver Passive FoF-Reg(G)": {
+    "axis-gold-and-silver-passive-fof-reg-g": {
+      "name": "Axis Gold and Silver Passive FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Pratik Tibrewal",
@@ -635,7 +650,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Axis Gold Fund-Reg(G)": {
+    "axis-gold-fund-reg-g": {
+      "name": "Axis Gold Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aditya Pagaria",
@@ -677,7 +693,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Axis Greater China Equity FoF-Reg(G)": {
+    "axis-greater-china-equity-fof-reg-g": {
+      "name": "Axis Greater China Equity FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Krishnaa N",
@@ -719,7 +736,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil for 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis Income Plus Arbitrage Active FOF-Reg(G)": {
+    "axis-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "Axis Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devang Shah",
@@ -761,7 +779,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil"
     },
-    "Axis Income Plus Arbitrage Passive FOF-Reg(G)": {
+    "axis-income-plus-arbitrage-passive-fof-reg-g": {
+      "name": "Axis Income Plus Arbitrage Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devang Shah",
@@ -803,7 +822,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "Axis India Manufacturing Fund-Reg(G)": {
+    "axis-india-manufacturing-fund-reg-g": {
+      "name": "Axis India Manufacturing Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Arora",
@@ -845,7 +865,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "NIL for 10% of investment and 1% for remaining investment on or before 90D Nil after 90D"
     },
-    "Axis Innovation Fund-Reg(G)": {
+    "axis-innovation-fund-reg-g": {
+      "name": "Axis Innovation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashish Naik",
@@ -887,7 +908,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil for 20% of investment and 1% for remaining investment on or before 12M Nil after 12M"
     },
-    "Axis Large & Mid Cap Fund-Reg(G)": {
+    "axis-large-and-mid-cap-fund-reg-g": {
+      "name": "Axis Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shreyash Devalkar",
@@ -929,7 +951,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "Nil for 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis Large Cap Fund-Reg(G)": {
+    "axis-large-cap-fund-reg-g": {
+      "name": "Axis Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shreyash Devalkar",
@@ -971,7 +994,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "Nil for 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis Midcap Fund-Reg(G)": {
+    "axis-midcap-fund-reg-g": {
+      "name": "Axis Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shreyash Devalkar",
@@ -1013,7 +1037,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "Nil for 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis Momentum Fund-Reg(G)": {
+    "axis-momentum-fund-reg-g": {
+      "name": "Axis Momentum Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil for 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis Multi Asset Allocation Fund-Reg(G)": {
+    "axis-multi-asset-allocation-fund-reg-g": {
+      "name": "Axis Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashish Naik",
@@ -1097,7 +1123,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil on or before 12M for 10% of Investment and 1% for remaining investments Nil after 12M"
     },
-    "Axis Multi-Asset Active FoF-Reg(G)": {
+    "axis-multi-asset-active-fof-reg-g": {
+      "name": "Axis Multi-Asset Active FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devang Shah",
@@ -1139,7 +1166,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL upto 10% of investment and 1% for reamaining investment on or before 12M Nil after 12M"
     },
-    "Axis Multicap Fund-Reg(G)": {
+    "axis-multicap-fund-reg-g": {
+      "name": "Axis Multicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shreyash Devalkar",
@@ -1181,7 +1209,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil for 10% of investment and 1% for remaining investment on or before 12M Nil after 12M"
     },
-    "Axis Nifty 100 Index Fund-Reg(G)": {
+    "axis-nifty-100-index-fund-reg-g": {
+      "name": "Axis Nifty 100 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1223,7 +1252,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Axis Nifty 50 Index Fund-Reg(G)": {
+    "axis-nifty-50-index-fund-reg-g": {
+      "name": "Axis Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Axis Nifty 500 Index Fund-Reg(G)": {
+    "axis-nifty-500-index-fund-reg-g": {
+      "name": "Axis Nifty 500 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Axis Nifty Bank Index Fund-Reg(G)": {
+    "axis-nifty-bank-index-fund-reg-g": {
+      "name": "Axis Nifty Bank Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1349,7 +1381,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Axis NIFTY IT Index Fund-Reg(G)": {
+    "axis-nifty-it-index-fund-reg-g": {
+      "name": "Axis NIFTY IT Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1391,7 +1424,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Axis Nifty Midcap 50 Index Fund-Reg(G)": {
+    "axis-nifty-midcap-50-index-fund-reg-g": {
+      "name": "Axis Nifty Midcap 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1433,7 +1467,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Axis Nifty Next 50 Index Fund-Reg(G)": {
+    "axis-nifty-next-50-index-fund-reg-g": {
+      "name": "Axis Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Axis Nifty Smallcap 50 Index Fund-Reg(G)": {
+    "axis-nifty-smallcap-50-index-fund-reg-g": {
+      "name": "Axis Nifty Smallcap 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1517,7 +1553,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Axis Nifty500 Momentum 50 Index Fund-Reg(G)": {
+    "axis-nifty500-momentum-50-index-fund-reg-g": {
+      "name": "Axis Nifty500 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1559,7 +1596,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Axis Nifty500 Quality 50 Index Fund-Reg(G)": {
+    "axis-nifty500-quality-50-index-fund-reg-g": {
+      "name": "Axis Nifty500 Quality 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1601,7 +1639,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Axis Nifty500 Value 50 Index Fund-Reg(G)": {
+    "axis-nifty500-value-50-index-fund-reg-g": {
+      "name": "Axis Nifty500 Value 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1643,7 +1682,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Axis Quant Fund-Reg(G)": {
+    "axis-quant-fund-reg-g": {
+      "name": "Axis Quant Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthik Kumar",
@@ -1685,7 +1725,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil for 10% of investment and 1% for remaining investments on or before 3M Nil after 3M"
     },
-    "Axis Services Opportunities Fund-Reg(G)": {
+    "axis-services-opportunities-fund-reg-g": {
+      "name": "Axis Services Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sachin Relekar",
@@ -1727,7 +1768,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "NIL for 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis Silver FoF-Reg(G)": {
+    "axis-silver-fof-reg-g": {
+      "name": "Axis Silver FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aditya Pagaria",
@@ -1769,7 +1811,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Axis Small Cap Fund-Reg(G)": {
+    "axis-small-cap-fund-reg-g": {
+      "name": "Axis Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Tejas Sheth",
@@ -1811,7 +1854,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "Nil for 10% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "Axis US Specific Equity Passive FOF-Reg(G)": {
+    "axis-us-specific-equity-passive-fof-reg-g": {
+      "name": "Axis US Specific Equity Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Krishnaa N",
@@ -1853,7 +1897,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 7D Nil after 7D"
     },
-    "Axis Value Fund-Reg(G)": {
+    "axis-value-fund-reg-g": {
+      "name": "Axis Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Arora",
