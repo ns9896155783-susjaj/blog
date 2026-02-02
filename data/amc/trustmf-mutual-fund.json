@@ -2,10 +2,11 @@
   "meta": {
     "amc": "TRUSTMF Mutual Fund",
     "total_schemes": 4,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "TRUSTMF Arbitrage Fund-Reg(G)": {
+    "trustmf-arbitrage-fund-reg-g": {
+      "name": "TRUSTMF Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mihir Vora",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "TRUSTMF Flexi Cap Fund-Reg(G)": {
+    "trustmf-flexi-cap-fund-reg-g": {
+      "name": "TRUSTMF Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mihir Vora",
@@ -89,7 +91,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 180D Nil after 180D"
     },
-    "TRUSTMF Multi Cap Fund-Reg(G)": {
+    "trustmf-multi-cap-fund-reg-g": {
+      "name": "TRUSTMF Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mihir Vora",
@@ -131,7 +134,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 180D Nil after 180D"
     },
-    "TRUSTMF Small Cap Fund-Reg(G)": {
+    "trustmf-small-cap-fund-reg-g": {
+      "name": "TRUSTMF Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mihir Vora",
