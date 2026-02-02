@@ -1,0 +1,77 @@
+{
+  "amc_name": "SHRIRAM MUTUAL FUND",
+  "schemes": {
+    "shriram-aggressive-hybrid-fund-review-key-insights-on-returns-risk/": {
+      "name": "Shriram Aggressive Hybrid Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "shriram-balanced-advantage-fund-review-key-insights-on-returns-risk/": {
+      "name": "Shriram Balanced Advantage Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "shriram-elss-tax-saver-fund-review-key-insights-on-returns-risk/": {
+      "name": "Shriram ELSS Tax Saver Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "shriram-flexi-cap-fund-review-key-insights-on-returns-risk/": {
+      "name": "Shriram Flexi Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "shriram-multi-asset-allocation-fund-review-key-insights-on-returns-risk/": {
+      "name": "Shriram Multi Asset Allocation Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "shriram-multi-sector-rotation-fund-review-key-insights-on-returns-risk/": {
+      "name": "Shriram Multi Sector Rotation Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
