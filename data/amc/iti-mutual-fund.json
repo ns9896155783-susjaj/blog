@@ -2,10 +2,11 @@
   "meta": {
     "amc": "ITI Mutual Fund",
     "total_schemes": 14,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "ITI Arbitrage Fund-Reg(G)": {
+    "iti-arbitrage-fund-reg-g": {
+      "name": "ITI Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vikas Nathani",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "NIL upto 10% of units and 0.25% for remaining units on or before 15D NIL after 15D"
     },
-    "ITI Balanced Advantage Fund-Reg(G)": {
+    "iti-balanced-advantage-fund-reg-g": {
+      "name": "ITI Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajesh Bhatia",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "NIL upto 10% of units and 0.50% for remaining units on or before 3M NIL after 3M"
     },
-    "ITI Banking & Financial Services Fund-Reg(G)": {
+    "iti-banking-and-financial-services-fund-reg-g": {
+      "name": "ITI Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nilay Dalal",
@@ -131,7 +134,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "0.50% on or before 3M NIL after 3M"
     },
-    "ITI Business Cycle Fund-Reg(G)": {
+    "iti-business-cycle-fund-reg-g": {
+      "name": "ITI Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nilay Dalal",
@@ -173,7 +177,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "null"
     },
-    "ITI ELSS Tax Saver Fund-Reg(G)": {
+    "iti-elss-tax-saver-fund-reg-g": {
+      "name": "ITI ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Alok Ranjan",
@@ -215,7 +220,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "ITI Flexi Cap Fund-Reg(G)": {
+    "iti-flexi-cap-fund-reg-g": {
+      "name": "ITI Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dhimant Shah",
@@ -257,7 +263,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "0.50% on or before 3M NIL after 3M"
     },
-    "ITI Focused Fund-Reg(G)": {
+    "iti-focused-fund-reg-g": {
+      "name": "ITI Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dhimant Shah",
@@ -299,7 +306,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "0.50% on or before 3M NIL after 3M"
     },
-    "ITI Large & Mid Cap Fund-Reg(G)": {
+    "iti-large-and-mid-cap-fund-reg-g": {
+      "name": "ITI Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Alok Ranjan",
@@ -341,7 +349,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "0.50% on or before 3M Nil after 3M"
     },
-    "ITI Large Cap Fund-Reg(G)": {
+    "iti-large-cap-fund-reg-g": {
+      "name": "ITI Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Alok Ranjan",
@@ -383,7 +392,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "0.50% on or before 3M NIL after 3M"
     },
-    "ITI Mid Cap Fund-Reg(G)": {
+    "iti-mid-cap-fund-reg-g": {
+      "name": "ITI Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohan Korde",
@@ -425,7 +435,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "0.50% on or before 3M NIL after 3M"
     },
-    "ITI Multi-Cap Fund-Reg(G)": {
+    "iti-multi-cap-fund-reg-g": {
+      "name": "ITI Multi-Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dhimant Shah",
@@ -467,7 +478,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "0.50% on or before 3M NIL after 3M"
     },
-    "ITI Pharma & Healthcare Fund-Reg(G)": {
+    "iti-pharma-and-healthcare-fund-reg-g": {
+      "name": "ITI Pharma & Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohan Korde",
@@ -509,7 +521,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "0.50% on or before 3M NIL after 3M"
     },
-    "ITI Small Cap Fund-Reg(G)": {
+    "iti-small-cap-fund-reg-g": {
+      "name": "ITI Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dhimant Shah",
@@ -551,7 +564,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "0.50% on or before 3M NIL after 3M"
     },
-    "ITI Value Fund-Reg(G)": {
+    "iti-value-fund-reg-g": {
+      "name": "ITI Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohan Korde",
