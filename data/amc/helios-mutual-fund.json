@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Helios Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Helios Balanced Advantage Fund-Reg(G)": {
+    "helios-balanced-advantage-fund-reg-g": {
+      "name": "Helios Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Alok Bahl",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 3M Nil after 3M"
     },
-    "Helios Financial Services Fund-Reg(G)": {
+    "helios-financial-services-fund-reg-g": {
+      "name": "Helios Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Alok Bahl",
@@ -89,7 +91,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units or before 3M Nil after 3M"
     },
-    "Helios Flexi Cap Fund-Reg(G)": {
+    "helios-flexi-cap-fund-reg-g": {
+      "name": "Helios Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Alok Bahl",
@@ -131,7 +134,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 3M Nil after 3M"
     },
-    "Helios Large & Mid Cap Fund-Reg(G)": {
+    "helios-large-and-mid-cap-fund-reg-g": {
+      "name": "Helios Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Alok Bahl",
@@ -173,7 +177,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 3M Nil after 3M"
     },
-    "Helios Mid Cap Fund-Reg(G)": {
+    "helios-mid-cap-fund-reg-g": {
+      "name": "Helios Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Alok Bahl",
@@ -215,7 +220,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 3M Nil after 3M"
     },
-    "Helios Small Cap Fund-Reg(G)": {
+    "helios-small-cap-fund-reg-g": {
+      "name": "Helios Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Alok Bahl",
