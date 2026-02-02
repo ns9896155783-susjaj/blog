@@ -2,10 +2,11 @@
   "meta": {
     "amc": "DSP Mutual Fund",
     "total_schemes": 44,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "DSP Aggressive Hybrid Fund-Reg(G)": {
+    "dsp-aggressive-hybrid-fund-reg-g": {
+      "name": "DSP Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Singh",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "NIL upto 10% of investment within 12M 1% exceding 10% of investment within 12M NIL after 12M"
     },
-    "DSP Arbitrage Fund-Reg(G)": {
+    "dsp-arbitrage-fund-reg-g": {
+      "name": "DSP Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kaivalya Nadkarni",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "Nil upto 10% of units and 0.25% for remaining units on or before 15D Nil after 15D"
     },
-    "DSP Banking & Financial Services Fund-Reg(G)": {
+    "dsp-banking-and-financial-services-fund-reg-g": {
+      "name": "DSP Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Preethi R S",
@@ -131,7 +134,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "0.50% on or before 1M Nil after 1M"
     },
-    "DSP BSE Sensex Next 30 Index Fund-Reg(G)": {
+    "dsp-bse-sensex-next-30-index-fund-reg-g": {
+      "name": "DSP BSE Sensex Next 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -173,7 +177,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "DSP Business Cycle Fund-Reg(G)": {
+    "dsp-business-cycle-fund-reg-g": {
+      "name": "DSP Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vinit Sambre",
@@ -215,7 +220,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 1M Nil after 1M"
     },
-    "DSP Dynamic Asset Allocation Fund-Reg(G)": {
+    "dsp-dynamic-asset-allocation-fund-reg-g": {
+      "name": "DSP Dynamic Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Singhania",
@@ -257,7 +263,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "DSP ELSS Tax Saver Fund-Reg(G)": {
+    "dsp-elss-tax-saver-fund-reg-g": {
+      "name": "DSP ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Singhania",
@@ -299,7 +306,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "DSP Equity Savings Fund-Reg(G)": {
+    "dsp-equity-savings-fund-reg-g": {
+      "name": "DSP Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Singh",
@@ -341,7 +349,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil"
     },
-    "DSP Flexi Cap Fund-Reg(G)": {
+    "dsp-flexi-cap-fund-reg-g": {
+      "name": "DSP Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Bhavin Gandhi",
@@ -383,7 +392,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "DSP Focused Fund-Reg(G)": {
+    "dsp-focused-fund-reg-g": {
+      "name": "DSP Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Bhavin Gandhi",
@@ -425,7 +435,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "DSP Global Clean Energy Overseas Equity Omni FoF-Reg(G)": {
+    "dsp-global-clean-energy-overseas-equity-omni-fof-reg-g": {
+      "name": "DSP Global Clean Energy Overseas Equity Omni FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kaivalya Nadkarni",
@@ -467,7 +478,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil"
     },
-    "DSP Global Innovation Overseas Equity Omni FoF-Reg(G)": {
+    "dsp-global-innovation-overseas-equity-omni-fof-reg-g": {
+      "name": "DSP Global Innovation Overseas Equity Omni FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kaivalya Nadkarni",
@@ -509,7 +521,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil"
     },
-    "DSP Gold ETF FoF-Reg(G)": {
+    "dsp-gold-etf-fof-reg-g": {
+      "name": "DSP Gold ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -551,7 +564,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "NIL"
     },
-    "DSP Healthcare Fund-Reg(G)": {
+    "dsp-healthcare-fund-reg-g": {
+      "name": "DSP Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Dagli",
@@ -593,7 +607,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "0.50% on or before 1M Nil after 1M"
     },
-    "DSP Income Plus Arbitrage Omni FoF-Reg(G)": {
+    "dsp-income-plus-arbitrage-omni-fof-reg-g": {
+      "name": "DSP Income Plus Arbitrage Omni FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kaivalya Nadkarni",
@@ -635,7 +650,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil"
     },
-    "DSP India T.I.G.E.R Fund-Reg(G)": {
+    "dsp-india-t-i-g-e-r-fund-reg-g": {
+      "name": "DSP India T.I.G.E.R Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Singhania",
@@ -677,7 +693,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "1% before 12M Nil on or after 12M"
     },
-    "DSP Large & Mid Cap Fund-Reg(G)": {
+    "dsp-large-and-mid-cap-fund-reg-g": {
+      "name": "DSP Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Singhania",
@@ -719,7 +736,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% before 12M Nil on or after 12M"
     },
-    "DSP Large Cap Fund-Reg(G)": {
+    "dsp-large-cap-fund-reg-g": {
+      "name": "DSP Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Singh",
@@ -761,7 +779,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% before 12M Nil on or after 12M"
     },
-    "DSP Midcap Fund-Reg(G)": {
+    "dsp-midcap-fund-reg-g": {
+      "name": "DSP Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vinit Sambre",
@@ -803,7 +822,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% before 12M Nil on or after 12M"
     },
-    "DSP Multi Asset Allocation Fund-Reg(G)": {
+    "dsp-multi-asset-allocation-fund-reg-g": {
+      "name": "DSP Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aparna Karnik",
@@ -845,7 +865,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "DSP Multi Asset Omni FoF-Reg(G)": {
+    "dsp-multi-asset-omni-fof-reg-g": {
+      "name": "DSP Multi Asset Omni FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -887,7 +908,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 1M Nil after 1M"
     },
-    "DSP Multicap Fund-Reg(G)": {
+    "dsp-multicap-fund-reg-g": {
+      "name": "DSP Multicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Dagli",
@@ -929,7 +951,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "DSP Natural Res & New Energy Fund-Reg(G)": {
+    "dsp-natural-res-and-new-energy-fund-reg-g": {
+      "name": "DSP Natural Res & New Energy Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Singhania",
@@ -971,7 +994,8 @@
       "classification": "Equity : Sectoral - Energy / Power",
       "exit_load_remarks": "Nil"
     },
-    "DSP Nifty 50 Equal Weight Index Fund-Reg(G)": {
+    "dsp-nifty-50-equal-weight-index-fund-reg-g": {
+      "name": "DSP Nifty 50 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1013,7 +1037,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "DSP NIFTY 50 Index Fund-Reg(G)": {
+    "dsp-nifty-50-index-fund-reg-g": {
+      "name": "DSP NIFTY 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "DSP Nifty 500 Index Fund-Reg(G)": {
+    "dsp-nifty-500-index-fund-reg-g": {
+      "name": "DSP Nifty 500 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "DSP Nifty Healthcare ETF": {
+    "dsp-nifty-healthcare-etf": {
+      "name": "DSP Nifty Healthcare ETF",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "null"
     },
-    "DSP Nifty Healthcare Index Fund-Reg(G)": {
+    "dsp-nifty-healthcare-index-fund-reg-g": {
+      "name": "DSP Nifty Healthcare Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1181,7 +1209,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "NIL"
     },
-    "DSP Nifty IT Index Fund-Reg(G)": {
+    "dsp-nifty-it-index-fund-reg-g": {
+      "name": "DSP Nifty IT Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1223,7 +1252,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "DSP Nifty Midcap 150 Index Fund-Reg(G)": {
+    "dsp-nifty-midcap-150-index-fund-reg-g": {
+      "name": "DSP Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "DSP Nifty Midcap 150 Quality 50 Index Fund-Reg(G)": {
+    "dsp-nifty-midcap-150-quality-50-index-fund-reg-g": {
+      "name": "DSP Nifty Midcap 150 Quality 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "DSP NIFTY Next 50 Index Fund-Reg(G)": {
+    "dsp-nifty-next-50-index-fund-reg-g": {
+      "name": "DSP NIFTY Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1349,7 +1381,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "DSP Nifty Smallcap 250 Index Fund-Reg(G)": {
+    "dsp-nifty-smallcap-250-index-fund-reg-g": {
+      "name": "DSP Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1391,7 +1424,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "DSP Nifty Smallcap250 Quality 50 Index Fund-Reg(G)": {
+    "dsp-nifty-smallcap250-quality-50-index-fund-reg-g": {
+      "name": "DSP Nifty Smallcap250 Quality 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1433,7 +1467,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "DSP Nifty Top 10 Equal Weight Index Fund-Reg(G)": {
+    "dsp-nifty-top-10-equal-weight-index-fund-reg-g": {
+      "name": "DSP Nifty Top 10 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "DSP Nifty500 Flexicap Quality 30 Index Fund-Reg(G)": {
+    "dsp-nifty500-flexicap-quality-30-index-fund-reg-g": {
+      "name": "DSP Nifty500 Flexicap Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1517,7 +1553,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "DSP Quant Fund-Reg(G)": {
+    "dsp-quant-fund-reg-g": {
+      "name": "DSP Quant Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aparna Karnik",
@@ -1559,7 +1596,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil"
     },
-    "DSP Silver ETF FoF-Reg(G)": {
+    "dsp-silver-etf-fof-reg-g": {
+      "name": "DSP Silver ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anil Ghelani",
@@ -1601,7 +1639,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "DSP Small Cap Fund-Reg(G)": {
+    "dsp-small-cap-fund-reg-g": {
+      "name": "DSP Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vinit Sambre",
@@ -1643,7 +1682,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% before 12M Nil on or after 12M"
     },
-    "DSP US Specific Debt Passive FoF-Reg(G)": {
+    "dsp-us-specific-debt-passive-fof-reg-g": {
+      "name": "DSP US Specific Debt Passive FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kaivalya Nadkarni",
@@ -1685,7 +1725,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "0.10% before 7D Nil on or after 7D"
     },
-    "DSP US Specific Equity Omni FoF-Reg(G)": {
+    "dsp-us-specific-equity-omni-fof-reg-g": {
+      "name": "DSP US Specific Equity Omni FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kaivalya Nadkarni",
@@ -1727,7 +1768,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil"
     },
-    "DSP Value Fund-Reg(G)": {
+    "dsp-value-fund-reg-g": {
+      "name": "DSP Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aparna Karnik",
@@ -1769,7 +1811,8 @@
       "classification": "Equity : Value / Contra",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "DSP World Gold Mining Overseas Equity Omni FoF-Reg(G)": {
+    "dsp-world-gold-mining-overseas-equity-omni-fof-reg-g": {
+      "name": "DSP World Gold Mining Overseas Equity Omni FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kaivalya Nadkarni",
@@ -1811,7 +1854,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil"
     },
-    "DSP World Mining Overseas Equity Omni FoF-Reg(G)": {
+    "dsp-world-mining-overseas-equity-omni-fof-reg-g": {
+      "name": "DSP World Mining Overseas Equity Omni FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kaivalya Nadkarni",
