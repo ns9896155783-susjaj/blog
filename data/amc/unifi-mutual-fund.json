@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Unifi Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Unifi Dynamic Asset Allocation Fund-Reg(G)": {
+    "unifi-dynamic-asset-allocation-fund-reg-g": {
+      "name": "Unifi Dynamic Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Saravanan V N",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "NIL upto 20% of units and 1.5% for remaining units on or before 12M Nil after 12M"
     },
-    "Unifi Flexi Cap Fund-Reg(G)": {
+    "unifi-flexi-cap-fund-reg-g": {
+      "name": "Unifi Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Saravanan V N",
