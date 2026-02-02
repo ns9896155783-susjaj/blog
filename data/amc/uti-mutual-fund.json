@@ -2,10 +2,11 @@
   "meta": {
     "amc": "UTI Mutual Fund",
     "total_schemes": 39,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "UTI Aggressive Hybrid Fund-Reg(G)": {
+    "uti-aggressive-hybrid-fund-reg-g": {
+      "name": "UTI Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "V. Srivatsa",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil for 10% of units and 1% for remaining units on or before 12M Nil after 12M"
     },
-    "UTI Arbitrage Fund-Reg(G)": {
+    "uti-arbitrage-fund-reg-g": {
+      "name": "UTI Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "UTI Balanced Advantage Fund-Reg(G)": {
+    "uti-balanced-advantage-fund-reg-g": {
+      "name": "UTI Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sachin Trivedi",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "UTI Banking and Financial Services Fund-Reg(G)": {
+    "uti-banking-and-financial-services-fund-reg-g": {
+      "name": "UTI Banking and Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amit Premchandani",
@@ -173,7 +177,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "UTI BSE Housing Index Fund-Reg(G)": {
+    "uti-bse-housing-index-fund-reg-g": {
+      "name": "UTI BSE Housing Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -215,7 +220,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI BSE Low Volatility Index Fund-Reg(G)": {
+    "uti-bse-low-volatility-index-fund-reg-g": {
+      "name": "UTI BSE Low Volatility Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -257,7 +263,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI BSE Sensex Index Fund-Reg(G)": {
+    "uti-bse-sensex-index-fund-reg-g": {
+      "name": "UTI BSE Sensex Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -299,7 +306,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "UTI Dividend Yield Fund-Reg(G)": {
+    "uti-dividend-yield-fund-reg-g": {
+      "name": "UTI Dividend Yield Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amit Premchandani",
@@ -341,7 +349,8 @@
       "classification": "Equity : Thematic - Dividend Yield",
       "exit_load_remarks": "1% before 1Y Nil on or after 1Y"
     },
-    "UTI ELSS Tax Saver Fund-Reg(G)": {
+    "uti-elss-tax-saver-fund-reg-g": {
+      "name": "UTI ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amit Premchandani",
@@ -383,7 +392,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "UTI Equity Savings Fund-Reg(G)": {
+    "uti-equity-savings-fund-reg-g": {
+      "name": "UTI Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "V. Srivatsa",
@@ -425,7 +435,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "UTI Flexi Cap Fund-Reg(G)": {
+    "uti-flexi-cap-fund-reg-g": {
+      "name": "UTI Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ajay Tyagi",
@@ -467,7 +478,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "UTI Focused Fund-Reg(G)": {
+    "uti-focused-fund-reg-g": {
+      "name": "UTI Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Chopda",
@@ -509,7 +521,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% upto 1Y Nil on or after 1Y"
     },
-    "UTI Gold ETF FoF-Reg(G)": {
+    "uti-gold-etf-fof-reg-g": {
+      "name": "UTI Gold ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -551,7 +564,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "UTI Healthcare Fund-Reg(G)": {
+    "uti-healthcare-fund-reg-g": {
+      "name": "UTI Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kamal Gada",
@@ -593,7 +607,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "UTI Income Plus Arbitrage Active FoF-Reg(G)": {
+    "uti-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "UTI Income Plus Arbitrage Active FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anurag Mittal",
@@ -635,7 +650,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "UTI India Consumer Fund-Reg(G)": {
+    "uti-india-consumer-fund-reg-g": {
+      "name": "UTI India Consumer Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Chopda",
@@ -677,7 +693,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "UTI Infrastructure Fund-Reg(G)": {
+    "uti-infrastructure-fund-reg-g": {
+      "name": "UTI Infrastructure Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sachin Trivedi",
@@ -719,7 +736,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "UTI Innovation Fund-Reg(G)": {
+    "uti-innovation-fund-reg-g": {
+      "name": "UTI Innovation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Jain",
@@ -761,7 +779,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
     },
-    "UTI Large & Mid Cap Fund-Reg(G)": {
+    "uti-large-and-mid-cap-fund-reg-g": {
+      "name": "UTI Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "V. Srivatsa",
@@ -803,7 +822,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% before 1Y Nil on or after 1Y"
     },
-    "UTI Large Cap Fund-Reg(G)": {
+    "uti-large-cap-fund-reg-g": {
+      "name": "UTI Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthikraj Lakshmanan",
@@ -845,7 +865,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "UTI Mid Cap Fund-Reg(G)": {
+    "uti-mid-cap-fund-reg-g": {
+      "name": "UTI Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vishal Chopda",
@@ -887,7 +908,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "UTI MNC Fund-Reg(G)": {
+    "uti-mnc-fund-reg-g": {
+      "name": "UTI MNC Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthikraj Lakshmanan",
@@ -929,7 +951,8 @@
       "classification": "Equity : Thematic - MNC",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "UTI Multi Asset Allocation Fund-Reg(G)": {
+    "uti-multi-asset-allocation-fund-reg-g": {
+      "name": "UTI Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -971,7 +994,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "UTI Multi Cap Fund-Reg(G)": {
+    "uti-multi-cap-fund-reg-g": {
+      "name": "UTI Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karthikraj Lakshmanan",
@@ -1013,7 +1037,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "UTI Nifty 50 Index Fund-Reg(G)": {
+    "uti-nifty-50-index-fund-reg-g": {
+      "name": "UTI Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI Nifty 500 Value 50 Index Fund-Reg(G)": {
+    "uti-nifty-500-value-50-index-fund-reg-g": {
+      "name": "UTI Nifty 500 Value 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI Nifty Alpha Low-Volatility 30 Index Fund-Reg(G)": {
+    "uti-nifty-alpha-low-volatility-30-index-fund-reg-g": {
+      "name": "UTI Nifty Alpha Low-Volatility 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI Nifty India Manufacturing Index Fund-Reg(G)": {
+    "uti-nifty-india-manufacturing-index-fund-reg-g": {
+      "name": "UTI Nifty India Manufacturing Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1181,7 +1209,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil"
     },
-    "UTI Nifty Midcap 150 Index Fund-Reg(G)": {
+    "uti-nifty-midcap-150-index-fund-reg-g": {
+      "name": "UTI Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1223,7 +1252,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI Nifty Midcap 150 Quality 50 Index Fund-Reg(G)": {
+    "uti-nifty-midcap-150-quality-50-index-fund-reg-g": {
+      "name": "UTI Nifty Midcap 150 Quality 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund-Reg(G)": {
+    "uti-nifty-midsmallcap-400-momentum-quality-100-index-fund-reg-g": {
+      "name": "UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI Nifty Next 50 Index Fund-Reg(G)": {
+    "uti-nifty-next-50-index-fund-reg-g": {
+      "name": "UTI Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1349,7 +1381,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI Nifty200 Momentum 30 Index Fund-Reg(G)": {
+    "uti-nifty200-momentum-30-index-fund-reg-g": {
+      "name": "UTI Nifty200 Momentum 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1391,7 +1424,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI Nifty200 Quality 30 Index Fund-Reg(G)": {
+    "uti-nifty200-quality-30-index-fund-reg-g": {
+      "name": "UTI Nifty200 Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1433,7 +1467,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI NIFTY50 Equal Weight Index Fund-Reg(G)": {
+    "uti-nifty50-equal-weight-index-fund-reg-g": {
+      "name": "UTI NIFTY50 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "UTI Silver ETF FoF-Reg(G)": {
+    "uti-silver-etf-fof-reg-g": {
+      "name": "UTI Silver ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1517,7 +1553,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "UTI Small Cap Fund-Reg(G)": {
+    "uti-small-cap-fund-reg-g": {
+      "name": "UTI Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Jain",
@@ -1559,7 +1596,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "UTI Transportation & Logistics Fund-Reg(G)": {
+    "uti-transportation-and-logistics-fund-reg-g": {
+      "name": "UTI Transportation & Logistics Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sachin Trivedi",
@@ -1601,7 +1639,8 @@
       "classification": "Equity : Sectoral - Auto",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "UTI Value Fund-Reg(G)": {
+    "uti-value-fund-reg-g": {
+      "name": "UTI Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Amit Premchandani",
