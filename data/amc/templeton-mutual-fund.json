@@ -1,22 +1,51 @@
 {
   "meta": {
     "amc": "Templeton Mutual Fund",
-    "total_schemes": 1
+    "total_schemes": 1,
+    "last_updated": "2026-02-02 19:04"
   },
   "schemes": {
-    "templeton-india-value-fund-g": {
-      "name": "Templeton India Value Fund(G)",
+    "Templeton India Value Fund(G)": {
+      "amc_list": null,
+      "invest_online_link": null,
+      "fund_manager": "Ajay Argal",
       "category": "EQ-VAL",
+      "rupeevestrating": 4,
+      "aum_in_rs_cr_": 2326.5,
+      "expenseratio_": 2.03,
+      "fund_type": "Open Ended",
+      "inception_date": "2003-09-04T18:30:00.000Z",
+      "benchmark_index": "NIFTY 500 - TRI",
       "nav": 724,
-      "nav_date": "02 Feb 2026",
-      "expense_ratio": "",
-      "benchmark": "",
-      "returns": {
-        "1Y": "",
-        "3Y": "",
-        "5Y": ""
-      },
-      "invest_url": ""
+      "52_weekhigh_nav_": 749.7,
+      "52_weeklow_nav_": 629.7,
+      "return_1_mo": -3.25,
+      "return_3_mo": -2.39,
+      "return_6_mo": 0.63,
+      "return_1_yr": 8.74,
+      "return_2_yrs": 9.05,
+      "return_3_yrs": 17.66,
+      "return_5_yrs": 20.41,
+      "return_10_yrs": 15.35,
+      "pe_ratio": 17.92,
+      "pb_ratio": 2.46,
+      "turnover_ratio_": 28.1,
+      "no_ofstocks": 47,
+      "avg_market_cap_in_rs_cr_": 197511,
+      "large_cap_": 61.47,
+      "mid_cap_": 11.47,
+      "small_cap_": 21.47,
+      "highest_sector": "Financials",
+      "avg_maturity_in_yrs_": null,
+      "mod_duration_in_yrs_": null,
+      "yield_to_maturity_": null,
+      "alpha": 0.14,
+      "sharpe": 0.27,
+      "sortino": 0.57,
+      "beta": 0.91,
+      "standard_deviation": 11.76,
+      "classification": "Equity : Value / Contra",
+      "exit_load_remarks": "1% on or before 1Y"
     }
   }
 }
