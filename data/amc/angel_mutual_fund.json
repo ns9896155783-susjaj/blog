@@ -1,0 +1,53 @@
+{
+  "amc_name": "ANGEL MUTUAL FUND",
+  "schemes": {
+    "angel-one-gold-etf-fof-review-what-investors-should-know-about-returns-risk/": {
+      "name": "Angel One Gold ETF FOF-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "angel-one-nifty-50-index-fund-review-what-investors-should-know-about-returns-risk/": {
+      "name": "Angel One Nifty 50 Index Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "angel-one-nifty-total-market-index-fund-review-what-investors-should-know-about-returns/": {
+      "name": "Angel One Nifty Total Market Index Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "angel-one-nifty-total-market-momentum-quality-50-index-fund-review/": {
+      "name": "Angel One Nifty Total Market Momentum Quality 50 Index Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
