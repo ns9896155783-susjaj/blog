@@ -1,0 +1,29 @@
+{
+  "amc_name": "QSIF",
+  "schemes": {
+    "qsif-equity-ex-top-100-long-short-fund-overview/": {
+      "name": "Qsif Equity Ex-Top 100 Long-Short Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "Not Found": {
+      "name": "Qsif Equity Long-Short Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
