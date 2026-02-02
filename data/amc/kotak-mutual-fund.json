@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Kotak Mutual Fund",
     "total_schemes": 62,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Kotak Active Momentum Fund-Reg(G)": {
+    "kotak-active-momentum-fund-reg-g": {
+      "name": "Kotak Active Momentum Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Tandon",
@@ -47,7 +48,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Aggressive Hybrid Fund-Reg(G)": {
+    "kotak-aggressive-hybrid-fund-reg-g": {
+      "name": "Kotak Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Atul Bhole",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 8% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "Kotak Arbitrage Fund(G)": {
+    "kotak-arbitrage-fund-g": {
+      "name": "Kotak Arbitrage Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hiten Shah",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 30D Nil after 30D"
     },
-    "Kotak Balanced Advantage Fund-Reg(G)": {
+    "kotak-balanced-advantage-fund-reg-g": {
+      "name": "Kotak Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Tandon",
@@ -173,7 +177,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 8% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "Kotak Banking & Financial Services Fund-Reg(G)": {
+    "kotak-banking-and-financial-services-fund-reg-g": {
+      "name": "Kotak Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shibani Kurian",
@@ -215,7 +220,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Kotak BSE Housing Index Fund-Reg(G)": {
+    "kotak-bse-housing-index-fund-reg-g": {
+      "name": "Kotak BSE Housing Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -257,7 +263,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Kotak BSE PSU Index Fund-Reg(G)": {
+    "kotak-bse-psu-index-fund-reg-g": {
+      "name": "Kotak BSE PSU Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -299,7 +306,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Kotak BSE Sensex Index Fund-Reg(G)": {
+    "kotak-bse-sensex-index-fund-reg-g": {
+      "name": "Kotak BSE Sensex Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -341,7 +349,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak Business Cycle Fund-Reg(G)": {
+    "kotak-business-cycle-fund-reg-g": {
+      "name": "Kotak Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harish Bihani",
@@ -383,7 +392,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Consumption Fund-Reg(G)": {
+    "kotak-consumption-fund-reg-g": {
+      "name": "Kotak Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -425,7 +435,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Contra Fund-Reg(G)": {
+    "kotak-contra-fund-reg-g": {
+      "name": "Kotak Contra Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shibani Kurian",
@@ -467,7 +478,8 @@
       "classification": "Equity : Value / Contra",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Kotak Dividend Yield Fund-Reg(G)": {
+    "kotak-dividend-yield-fund-reg-g": {
+      "name": "Kotak Dividend Yield Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shibani Kurian",
@@ -509,7 +521,8 @@
       "classification": "Equity : Thematic - Dividend Yield",
       "exit_load_remarks": "Nil upto 10% of investments and 1% for remaining investments on or before 1Y Nil after 1Y"
     },
-    "Kotak ELSS Tax Saver Fund(G)": {
+    "kotak-elss-tax-saver-fund-g": {
+      "name": "Kotak ELSS Tax Saver Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsha Upadhyaya",
@@ -551,7 +564,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Kotak Energy Opportunities Fund-Reg(G)": {
+    "kotak-energy-opportunities-fund-reg-g": {
+      "name": "Kotak Energy Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsha Upadhyaya",
@@ -593,7 +607,8 @@
       "classification": "Equity : Sectoral - Energy / Power",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Equity Savings Fund(G)": {
+    "kotak-equity-savings-fund-g": {
+      "name": "Kotak Equity Savings Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -635,7 +650,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 8% of investments and 1% for remaining investments on or before 90D Nil after 90D"
     },
-    "Kotak ESG Exclusionary Strategy Fund-Reg(G)": {
+    "kotak-esg-exclusionary-strategy-fund-reg-g": {
+      "name": "Kotak ESG Exclusionary Strategy Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mandar Pawar",
@@ -677,7 +693,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Flexicap Fund(G)": {
+    "kotak-flexicap-fund-g": {
+      "name": "Kotak Flexicap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsha Upadhyaya",
@@ -719,7 +736,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "Kotak Focused Fund-Reg(G)": {
+    "kotak-focused-fund-reg-g": {
+      "name": "Kotak Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shibani Kurian",
@@ -761,7 +779,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "Kotak Global Emerging Market Overseas Equity Omni FOF(G)": {
+    "kotak-global-emerging-market-overseas-equity-omni-fof-g": {
+      "name": "Kotak Global Emerging Market Overseas Equity Omni FOF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arjun Khanna",
@@ -803,7 +822,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Kotak Global Innovation Overseas Equity Omni FOF-Reg(G)": {
+    "kotak-global-innovation-overseas-equity-omni-fof-reg-g": {
+      "name": "Kotak Global Innovation Overseas Equity Omni FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arjun Khanna",
@@ -845,7 +865,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Kotak Gold Fund(G)": {
+    "kotak-gold-fund-g": {
+      "name": "Kotak Gold Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Bisen",
@@ -887,7 +908,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Kotak Gold Silver Passive FOF-Reg(G)": {
+    "kotak-gold-silver-passive-fof-reg-g": {
+      "name": "Kotak Gold Silver Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Tandon",
@@ -929,7 +951,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "NIL"
     },
-    "Kotak Healthcare Fund-Reg(G)": {
+    "kotak-healthcare-fund-reg-g": {
+      "name": "Kotak Healthcare Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shibani Kurian",
@@ -971,7 +994,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Kotak Income Plus Arbitrage Omni FOF-Reg(G)": {
+    "kotak-income-plus-arbitrage-omni-fof-reg-g": {
+      "name": "Kotak Income Plus Arbitrage Omni FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Bisen",
@@ -1013,7 +1037,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil"
     },
-    "Kotak Infra & Eco Reform Fund(G)": {
+    "kotak-infra-and-eco-reform-fund-g": {
+      "name": "Kotak Infra & Eco Reform Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nalin Rasik Bhatt",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak International REIT Overseas Equity Omni FOF-Reg(G)": {
+    "kotak-international-reit-overseas-equity-omni-fof-reg-g": {
+      "name": "Kotak International REIT Overseas Equity Omni FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arjun Khanna",
@@ -1097,7 +1123,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil upto 8% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Kotak Large & Midcap Fund(G)": {
+    "kotak-large-and-midcap-fund-g": {
+      "name": "Kotak Large & Midcap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsha Upadhyaya",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "Kotak Large Cap Fund(G)": {
+    "kotak-large-cap-fund-g": {
+      "name": "Kotak Large Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Tandon",
@@ -1181,7 +1209,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "Kotak Manufacture in India Fund-Reg(G)": {
+    "kotak-manufacture-in-india-fund-reg-g": {
+      "name": "Kotak Manufacture in India Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsha Upadhyaya",
@@ -1223,7 +1252,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Midcap Fund-Reg(G)": {
+    "kotak-midcap-fund-reg-g": {
+      "name": "Kotak Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Atul Bhole",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "Kotak MNC Fund-Reg(G)": {
+    "kotak-mnc-fund-reg-g": {
+      "name": "Kotak MNC Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsha Upadhyaya",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Thematic - MNC",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Multi Asset Allocation Fund-Reg(G)": {
+    "kotak-multi-asset-allocation-fund-reg-g": {
+      "name": "Kotak Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1349,7 +1381,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 30% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "Kotak Multi Asset Omni FOF(G)": {
+    "kotak-multi-asset-omni-fof-g": {
+      "name": "Kotak Multi Asset Omni FOF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1391,7 +1424,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil upto 8% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Kotak Multicap Fund-Reg(G)": {
+    "kotak-multicap-fund-reg-g": {
+      "name": "Kotak Multicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1433,7 +1467,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investments on or before 1Y Nil after 1Y"
     },
-    "Kotak Nifty 100 Equal Weight Index Fund-Reg(G)": {
+    "kotak-nifty-100-equal-weight-index-fund-reg-g": {
+      "name": "Kotak Nifty 100 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak NIFTY 100 Low Volatility 30 Index Fund-Reg(G)": {
+    "kotak-nifty-100-low-volatility-30-index-fund-reg-g": {
+      "name": "Kotak NIFTY 100 Low Volatility 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1517,7 +1553,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Kotak Nifty 200 Momentum 30 Index Fund-Reg(G)": {
+    "kotak-nifty-200-momentum-30-index-fund-reg-g": {
+      "name": "Kotak Nifty 200 Momentum 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1559,7 +1596,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Kotak Nifty 200 Quality 30 Index Fund-Reg(G)": {
+    "kotak-nifty-200-quality-30-index-fund-reg-g": {
+      "name": "Kotak Nifty 200 Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1601,7 +1639,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak Nifty 50 Equal Weight Index Fund-Reg(G)": {
+    "kotak-nifty-50-equal-weight-index-fund-reg-g": {
+      "name": "Kotak Nifty 50 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1643,7 +1682,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak Nifty 50 Index Fund-Reg(G)": {
+    "kotak-nifty-50-index-fund-reg-g": {
+      "name": "Kotak Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1685,7 +1725,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Kotak Nifty Alpha 50 Index Fund-Reg(G)": {
+    "kotak-nifty-alpha-50-index-fund-reg-g": {
+      "name": "Kotak Nifty Alpha 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1727,7 +1768,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak Nifty Commodities Index Fund-Reg(G)": {
+    "kotak-nifty-commodities-index-fund-reg-g": {
+      "name": "Kotak Nifty Commodities Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1769,7 +1811,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil"
     },
-    "Kotak Nifty India Tourism Index Fund-Reg(G)": {
+    "kotak-nifty-india-tourism-index-fund-reg-g": {
+      "name": "Kotak Nifty India Tourism Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1811,7 +1854,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Kotak Nifty Midcap 150 Index Fund-Reg(G)": {
+    "kotak-nifty-midcap-150-index-fund-reg-g": {
+      "name": "Kotak Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1853,7 +1897,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak NIFTY Midcap 150 Momentum 50 Index Fund-Reg(G)": {
+    "kotak-nifty-midcap-150-momentum-50-index-fund-reg-g": {
+      "name": "Kotak NIFTY Midcap 150 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1895,7 +1940,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak NIFTY Midcap 50 Index Fund-Reg(G)": {
+    "kotak-nifty-midcap-50-index-fund-reg-g": {
+      "name": "Kotak NIFTY Midcap 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1937,7 +1983,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak Nifty Next 50 Index Fund-Reg(G)": {
+    "kotak-nifty-next-50-index-fund-reg-g": {
+      "name": "Kotak Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1979,7 +2026,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Kotak Nifty Smallcap 250 Index Fund-Reg(G)": {
+    "kotak-nifty-smallcap-250-index-fund-reg-g": {
+      "name": "Kotak Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -2021,7 +2069,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak Nifty Smallcap 50 Index Fund-Reg(G)": {
+    "kotak-nifty-smallcap-50-index-fund-reg-g": {
+      "name": "Kotak Nifty Smallcap 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -2063,7 +2112,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Kotak Nifty Top 10 Equal Weight Index Fund-Reg(G)": {
+    "kotak-nifty-top-10-equal-weight-index-fund-reg-g": {
+      "name": "Kotak Nifty Top 10 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -2105,7 +2155,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak Nifty200 Value 30 Index Fund-Reg(G)": {
+    "kotak-nifty200-value-30-index-fund-reg-g": {
+      "name": "Kotak Nifty200 Value 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -2147,7 +2198,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "null"
     },
-    "Kotak Nifty500 Momentum 50 Index Fund-Reg(G)": {
+    "kotak-nifty500-momentum-50-index-fund-reg-g": {
+      "name": "Kotak Nifty500 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -2189,7 +2241,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
     },
-    "Kotak Pioneer Fund-Reg(G)": {
+    "kotak-pioneer-fund-reg-g": {
+      "name": "Kotak Pioneer Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harish Bihani",
@@ -2231,7 +2284,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Quant Fund-Reg(G)": {
+    "kotak-quant-fund-reg-g": {
+      "name": "Kotak Quant Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsha Upadhyaya",
@@ -2273,7 +2327,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Rural Opportunities Fund-Reg(G)": {
+    "kotak-rural-opportunities-fund-reg-g": {
+      "name": "Kotak Rural Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arjun Khanna",
@@ -2315,7 +2370,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Services Fund-Reg(G)": {
+    "kotak-services-fund-reg-g": {
+      "name": "Kotak Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Tandon",
@@ -2357,7 +2413,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Silver ETF FoF-Reg(G)": {
+    "kotak-silver-etf-fof-reg-g": {
+      "name": "Kotak Silver ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Jeetu Valechha Sonar",
@@ -2399,7 +2456,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "0.5% on or before 30D Nil after 30D"
     },
-    "Kotak Small Cap Fund(G)": {
+    "kotak-small-cap-fund-g": {
+      "name": "Kotak Small Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harish Bihani",
@@ -2441,7 +2499,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "Kotak Special Opportunities Fund-Reg(G)": {
+    "kotak-special-opportunities-fund-reg-g": {
+      "name": "Kotak Special Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -2483,7 +2542,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak Technology Fund-Reg(G)": {
+    "kotak-technology-fund-reg-g": {
+      "name": "Kotak Technology Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shibani Kurian",
@@ -2525,7 +2585,8 @@
       "classification": "Equity : Sectoral - Technology",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Kotak Transportation & Logistics Fund-Reg(G)": {
+    "kotak-transportation-and-logistics-fund-reg-g": {
+      "name": "Kotak Transportation & Logistics Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nalin Rasik Bhatt",
@@ -2567,7 +2628,8 @@
       "classification": "Equity : Sectoral - Auto",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Kotak US Specific Equity Passive FOF-Reg(G)": {
+    "kotak-us-specific-equity-passive-fof-reg-g": {
+      "name": "Kotak US Specific Equity Passive FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arjun Khanna",
