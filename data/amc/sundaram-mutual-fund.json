@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Sundaram Mutual Fund",
     "total_schemes": 24,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Sundaram Aggressive Hybrid Fund(G)": {
+    "sundaram-aggressive-hybrid-fund-g": {
+      "name": "Sundaram Aggressive Hybrid Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "S. Bharath",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 25% of units within 1Y 1% in excess of limit within 1Y Nil after 1Y"
     },
-    "Sundaram Arbitrage Fund(G)": {
+    "sundaram-arbitrage-fund-g": {
+      "name": "Sundaram Arbitrage Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Seksaria",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "Nil upto 25% of units and 0.25% for remaining units on or before 15D Nil after 15D"
     },
-    "Sundaram Balanced Advantage Fund(G)": {
+    "sundaram-balanced-advantage-fund-g": {
+      "name": "Sundaram Balanced Advantage Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "S. Bharath",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 25% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Sundaram Business Cycle Fund-Reg(G)": {
+    "sundaram-business-cycle-fund-reg-g": {
+      "name": "Sundaram Business Cycle Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ratish Varier",
@@ -173,7 +177,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Sundaram Consumption Fund(G)": {
+    "sundaram-consumption-fund-g": {
+      "name": "Sundaram Consumption Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ratish Varier",
@@ -215,7 +220,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Sundaram Dividend Yield Fund(G)": {
+    "sundaram-dividend-yield-fund-g": {
+      "name": "Sundaram Dividend Yield Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Siddarth Mohta",
@@ -257,7 +263,8 @@
       "classification": "Equity : Thematic - Dividend Yield",
       "exit_load_remarks": "Nil upto 24% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Sundaram ELSS Tax Saver Fund-Reg(G)": {
+    "sundaram-elss-tax-saver-fund-reg-g": {
+      "name": "Sundaram ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "S. Bharath",
@@ -299,7 +306,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Sundaram Equity Savings Fund(G)": {
+    "sundaram-equity-savings-fund-g": {
+      "name": "Sundaram Equity Savings Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Clyton Richard Fernandes",
@@ -341,7 +349,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "0.50% on or before 7D"
     },
-    "Sundaram Fin Serv Opp Fund(G)": {
+    "sundaram-fin-serv-opp-fund-g": {
+      "name": "Sundaram Fin Serv Opp Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Seksaria",
@@ -383,7 +392,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Sundaram Flexi Cap Fund-Reg(G)": {
+    "sundaram-flexi-cap-fund-reg-g": {
+      "name": "Sundaram Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "S. Bharath",
@@ -425,7 +435,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 25% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Sundaram Focused Fund(G)": {
+    "sundaram-focused-fund-g": {
+      "name": "Sundaram Focused Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashwin Jain",
@@ -467,7 +478,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "0.25% before 7D Nil after 7D"
     },
-    "Sundaram Global Brand Theme - Equity Active FoF(G)": {
+    "sundaram-global-brand-theme-equity-active-fof-g": {
+      "name": "Sundaram Global Brand Theme - Equity Active FoF(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shalav Saket",
@@ -509,7 +521,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil upto 25% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Sundaram Income Plus Arbitrage Active FoF-Reg(G)": {
+    "sundaram-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "Sundaram Income Plus Arbitrage Active FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "S. Bharath",
@@ -551,7 +564,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "Sundaram Infra Advantage Fund(G)": {
+    "sundaram-infra-advantage-fund-g": {
+      "name": "Sundaram Infra Advantage Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Siddarth Mohta",
@@ -593,7 +607,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Sundaram Large and Mid Cap Fund(G)": {
+    "sundaram-large-and-mid-cap-fund-g": {
+      "name": "Sundaram Large and Mid Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "S. Bharath",
@@ -635,7 +650,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "Nil upto 25% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Sundaram Large Cap Fund-Reg(G)": {
+    "sundaram-large-cap-fund-reg-g": {
+      "name": "Sundaram Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashwin Jain",
@@ -677,7 +693,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "Nil upto 25% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "Sundaram Mid Cap Fund-Reg(G)": {
+    "sundaram-mid-cap-fund-reg-g": {
+      "name": "Sundaram Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "S. Bharath",
@@ -719,7 +736,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "Nil upto 25% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Sundaram Multi Asset Allocation Fund-Reg(G)": {
+    "sundaram-multi-asset-allocation-fund-reg-g": {
+      "name": "Sundaram Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Seksaria",
@@ -761,7 +779,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 30% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Sundaram Multi Cap Fund(G)": {
+    "sundaram-multi-cap-fund-g": {
+      "name": "Sundaram Multi Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ratish Varier",
@@ -803,7 +822,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil upto 25% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Sundaram Multi-Factor Fund-Reg(G)": {
+    "sundaram-multi-factor-fund-reg-g": {
+      "name": "Sundaram Multi-Factor Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Seksaria",
@@ -845,7 +865,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Sundaram Nifty 100 Equal Weight Fund(G)": {
+    "sundaram-nifty-100-equal-weight-fund-g": {
+      "name": "Sundaram Nifty 100 Equal Weight Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Seksaria",
@@ -887,7 +908,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Sundaram Services Fund-Reg(G)": {
+    "sundaram-services-fund-reg-g": {
+      "name": "Sundaram Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Seksaria",
@@ -929,7 +951,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil upto 25% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Sundaram Small Cap Fund(G)": {
+    "sundaram-small-cap-fund-g": {
+      "name": "Sundaram Small Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Seksaria",
@@ -971,7 +994,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "Nil upto 25% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Sundaram Value Fund-Reg(G)": {
+    "sundaram-value-fund-reg-g": {
+      "name": "Sundaram Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Seksaria",
