@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Abakkus Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:41"
   },
   "schemes": {
-    "Abakkus Flexi Cap Fund-Reg(G)": {
+    "abakkus-flexi-cap-fund-reg-g": {
+      "name": "Abakkus Flexi Cap Fund-Reg(G)",
       "amc_list": "Arudha MutualFund",
       "invest_online_link": null,
       "fund_manager": "Sanjay Doshi",
