@@ -2,10 +2,11 @@
   "meta": {
     "amc": "The Wealth Company Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "The Wealth Company Arbitrage Fund-Reg(G)": {
+    "the-wealth-company-arbitrage-fund-reg-g": {
+      "name": "The Wealth Company Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rouhak Shah",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "The Wealth Company Balanced Advantage Fund-Reg(G)": {
+    "the-wealth-company-balanced-advantage-fund-reg-g": {
+      "name": "The Wealth Company Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aparna Shanker",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "1% on or before 180D Nil after 180D"
     },
-    "The Wealth Company Ethical Fund-Reg(G)": {
+    "the-wealth-company-ethical-fund-reg-g": {
+      "name": "The Wealth Company Ethical Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aparna Shanker",
@@ -131,7 +134,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "The Wealth Company Flexi Cap Fund-Reg(G)": {
+    "the-wealth-company-flexi-cap-fund-reg-g": {
+      "name": "The Wealth Company Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aparna Shanker",
@@ -173,7 +177,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "The Wealth Company Gold ETF FOF-Reg(G)": {
+    "the-wealth-company-gold-etf-fof-reg-g": {
+      "name": "The Wealth Company Gold ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Niranjan Das",
@@ -215,7 +220,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "NIL"
     },
-    "The Wealth Company Multi Asset Allocation Fund-Reg(G)": {
+    "the-wealth-company-multi-asset-allocation-fund-reg-g": {
+      "name": "The Wealth Company Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aparna Shanker",
