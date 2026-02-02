@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Diviniti Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Diviniti Equity Long Short Fund-Reg(G)": {
+    "diviniti-equity-long-short-fund-reg-g": {
+      "name": "Diviniti Equity Long Short Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vasav Sahgal",
