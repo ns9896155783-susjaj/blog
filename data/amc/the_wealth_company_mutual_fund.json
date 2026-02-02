@@ -1,0 +1,53 @@
+{
+  "amc_name": "THE WEALTH COMPANY MUTUAL FUND",
+  "schemes": {
+    "the-wealth-company-arbitrage-fund-review-key-performance-signals-risk-view/": {
+      "name": "The Wealth Company Arbitrage Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "the-wealth-company-ethical-fund-review-key-performance-signals-risk-view/": {
+      "name": "The Wealth Company Ethical Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "the-wealth-company-flexi-cap-fund-review-key-performance-signals-risk-view/": {
+      "name": "The Wealth Company Flexi Cap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "the-wealth-company-multi-asset-allocation-fund-review-key-performance-signals-risk-view/": {
+      "name": "The Wealth Company Multi Asset Allocation Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    }
+  }
+}
