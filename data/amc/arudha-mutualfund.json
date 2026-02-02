@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Arudha MutualFund",
     "total_schemes": 1,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:41"
   },
   "schemes": {
-    "Arudha Hybrid Long-Short Fund-Reg(G)": {
+    "arudha-hybrid-long-short-fund-reg-g": {
+      "name": "Arudha Hybrid Long-Short Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kapil Kankonkar",
