@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Quantum Mutual Fund",
     "total_schemes": 10,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Quantum Diversified Equity All Cap Active FOF-Reg(G)": {
+    "quantum-diversified-equity-all-cap-active-fof-reg-g": {
+      "name": "Quantum Diversified Equity All Cap Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Mehta",
@@ -47,7 +48,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil upto 10% of Units and 1% For remaining Units on or before 365D Nil after 365D"
     },
-    "Quantum ELSS Tax Saver Fund-Reg(G)": {
+    "quantum-elss-tax-saver-fund-reg-g": {
+      "name": "Quantum ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "George Thomas",
@@ -89,7 +91,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Quantum ESG Best In Class Strategy Fund-Reg(G)": {
+    "quantum-esg-best-in-class-strategy-fund-reg-g": {
+      "name": "Quantum ESG Best In Class Strategy Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Mehta",
@@ -131,7 +134,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Quantum Ethical Fund-Reg(G)": {
+    "quantum-ethical-fund-reg-g": {
+      "name": "Quantum Ethical Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Mehta",
@@ -173,7 +177,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Quantum Gold Saving Fund-Reg(G)": {
+    "quantum-gold-saving-fund-reg-g": {
+      "name": "Quantum Gold Saving Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Mehta",
@@ -215,7 +220,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "Nil"
     },
-    "Quantum Multi Asset Active FoF-Reg(G)": {
+    "quantum-multi-asset-active-fof-reg-g": {
+      "name": "Quantum Multi Asset Active FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Mehta",
@@ -257,7 +263,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Quantum Multi Asset Allocation Fund-Reg(G)": {
+    "quantum-multi-asset-allocation-fund-reg-g": {
+      "name": "Quantum Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Mehta",
@@ -299,7 +306,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Quantum Nifty 50 ETF FoF-Reg(G)": {
+    "quantum-nifty-50-etf-fof-reg-g": {
+      "name": "Quantum Nifty 50 ETF FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Hitendra Parekh",
@@ -341,7 +349,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil"
     },
-    "Quantum Small Cap Fund-Reg(G)": {
+    "quantum-small-cap-fund-reg-g": {
+      "name": "Quantum Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Chirag Mehta",
@@ -383,7 +392,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 365D Nil after 365D"
     },
-    "Quantum Value Fund-Reg(G)": {
+    "quantum-value-fund-reg-g": {
+      "name": "Quantum Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "George Thomas",
