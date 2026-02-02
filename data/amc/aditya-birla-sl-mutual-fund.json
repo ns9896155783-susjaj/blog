@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Aditya Birla SL Mutual Fund",
     "total_schemes": 50,
-    "last_updated": "2026-02-02 19:06"
+    "last_updated": "2026-02-02 19:41"
   },
   "schemes": {
-    "Aditya Birla SL Aggressive Hybrid Omni FOF(G)": {
+    "aditya-birla-sl-aggressive-hybrid-omni-fof-g": {
+      "name": "Aditya Birla SL Aggressive Hybrid Omni FOF(G)",
       "amc_list": "Bajaj Finserv Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Vinod Narayan Bhat",
@@ -47,7 +48,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Aditya Birla SL Arbitrage Fund(G)": {
+    "aditya-birla-sl-arbitrage-fund-g": {
+      "name": "Aditya Birla SL Arbitrage Fund(G)",
       "amc_list": "Bandhan Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Lovelish Solanki",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Aditya Birla SL Balanced Advantage Fund(G)": {
+    "aditya-birla-sl-balanced-advantage-fund-g": {
+      "name": "Aditya Birla SL Balanced Advantage Fund(G)",
       "amc_list": "Bank of India Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Mohit Sharma",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Aditya Birla SL Banking & Financial Services Fund-Reg(G)": {
+    "aditya-birla-sl-banking-and-financial-services-fund-reg-g": {
+      "name": "Aditya Birla SL Banking & Financial Services Fund-Reg(G)",
       "amc_list": "Baroda BNP Paribas Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Gala",
@@ -173,7 +177,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL BSE 500 Momentum 50 Index Fund-Reg(G)": {
+    "aditya-birla-sl-bse-500-momentum-50-index-fund-reg-g": {
+      "name": "Aditya Birla SL BSE 500 Momentum 50 Index Fund-Reg(G)",
       "amc_list": "BHARAT Bond Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -215,7 +220,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.10% on or before 15D Nil after 15D"
     },
-    "Aditya Birla SL BSE 500 Quality 50 Index Fund-Reg(G)": {
+    "aditya-birla-sl-bse-500-quality-50-index-fund-reg-g": {
+      "name": "Aditya Birla SL BSE 500 Quality 50 Index Fund-Reg(G)",
       "amc_list": "Canara Rob Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -257,7 +263,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.10% on or before 15D Nil after 15D"
     },
-    "Aditya Birla SL BSE India Infrastructure Index Fund-Reg(G)": {
+    "aditya-birla-sl-bse-india-infrastructure-index-fund-reg-g": {
+      "name": "Aditya Birla SL BSE India Infrastructure Index Fund-Reg(G)",
       "amc_list": "Capitalmind Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -299,7 +306,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "0.05% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Business Cycle Fund-Reg(G)": {
+    "aditya-birla-sl-business-cycle-fund-reg-g": {
+      "name": "Aditya Birla SL Business Cycle Fund-Reg(G)",
       "amc_list": "Diviniti Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Harish krishnan",
@@ -341,7 +349,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Conglomerate Fund-Reg(G)": {
+    "aditya-birla-sl-conglomerate-fund-reg-g": {
+      "name": "Aditya Birla SL Conglomerate Fund-Reg(G)",
       "amc_list": "DSP Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Harish krishnan",
@@ -383,7 +392,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Conservative Hybrid Active FOF(G)": {
+    "aditya-birla-sl-conservative-hybrid-active-fof-g": {
+      "name": "Aditya Birla SL Conservative Hybrid Active FOF(G)",
       "amc_list": "Edelweiss Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Vinod Narayan Bhat",
@@ -425,7 +435,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "Aditya Birla SL Consumption Fund-Reg(G)": {
+    "aditya-birla-sl-consumption-fund-reg-g": {
+      "name": "Aditya Birla SL Consumption Fund-Reg(G)",
       "amc_list": "Franklin Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Chanchal Khandelwal",
@@ -467,7 +478,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Digital India Fund(G)": {
+    "aditya-birla-sl-digital-india-fund-g": {
+      "name": "Aditya Birla SL Digital India Fund(G)",
       "amc_list": "Groww Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Kunal Sangoi",
@@ -509,7 +521,8 @@
       "classification": "Equity : Sectoral - Technology",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Dividend Yield Fund(G)": {
+    "aditya-birla-sl-dividend-yield-fund-g": {
+      "name": "Aditya Birla SL Dividend Yield Fund(G)",
       "amc_list": "HDFC Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Gala",
@@ -551,7 +564,8 @@
       "classification": "Equity : Thematic - Dividend Yield",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Dynamic Asset Allocation Omni FOF(G)": {
+    "aditya-birla-sl-dynamic-asset-allocation-omni-fof-g": {
+      "name": "Aditya Birla SL Dynamic Asset Allocation Omni FOF(G)",
       "amc_list": "Helios Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Vinod Narayan Bhat",
@@ -593,7 +607,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Aditya Birla SL ELSS Tax Saver Fund(G)": {
+    "aditya-birla-sl-elss-tax-saver-fund-g": {
+      "name": "Aditya Birla SL ELSS Tax Saver Fund(G)",
       "amc_list": "HSBC Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Shah",
@@ -635,7 +650,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Aditya Birla SL Equity Hybrid 95 Fund(G)": {
+    "aditya-birla-sl-equity-hybrid-95-fund-g": {
+      "name": "Aditya Birla SL Equity Hybrid 95 Fund(G)",
       "amc_list": "ICICI Pru Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Harshil Suvarnkar",
@@ -677,7 +693,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Equity Savings Fund-Reg(G)": {
+    "aditya-birla-sl-equity-savings-fund-reg-g": {
+      "name": "Aditya Birla SL Equity Savings Fund-Reg(G)",
       "amc_list": "Invesco India Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Atul Penkar",
@@ -719,7 +736,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "0.25% on or before 7D Nil after 7D"
     },
-    "Aditya Birla SL ESG Integration Strategy Fund-Reg(G)": {
+    "aditya-birla-sl-esg-integration-strategy-fund-reg-g": {
+      "name": "Aditya Birla SL ESG Integration Strategy Fund-Reg(G)",
       "amc_list": "iSIF Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Chanchal Khandelwal",
@@ -761,7 +779,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Flexi Cap Fund-Reg(G)": {
+    "aditya-birla-sl-flexi-cap-fund-reg-g": {
+      "name": "Aditya Birla SL Flexi Cap Fund-Reg(G)",
       "amc_list": "ITI Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Harish krishnan",
@@ -803,7 +822,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Focused Fund(G)": {
+    "aditya-birla-sl-focused-fund-g": {
+      "name": "Aditya Birla SL Focused Fund(G)",
       "amc_list": "JM Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Kunal Sangoi",
@@ -845,7 +865,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Global Emerging Opp Fund(G)": {
+    "aditya-birla-sl-global-emerging-opp-fund-g": {
+      "name": "Aditya Birla SL Global Emerging Opp Fund(G)",
       "amc_list": "Kotak Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Joshi",
@@ -887,7 +908,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "0.25% on or before 28D Nil after 28D"
     },
-    "Aditya Birla SL Global Excellence Equity FoF(G)": {
+    "aditya-birla-sl-global-excellence-equity-fof-g": {
+      "name": "Aditya Birla SL Global Excellence Equity FoF(G)",
       "amc_list": "LIC Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Joshi",
@@ -929,7 +951,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "0.25% on or before 28D Nil after 28D"
     },
-    "Aditya Birla SL Gold Fund-Reg(G)": {
+    "aditya-birla-sl-gold-fund-reg-g": {
+      "name": "Aditya Birla SL Gold Fund-Reg(G)",
       "amc_list": "Magnum Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -971,7 +994,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "Aditya Birla SL Income Plus Arbitrage Active FOF-Reg(G)": {
+    "aditya-birla-sl-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "Aditya Birla SL Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": "Mahindra Manulife Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Kaustubh Gupta",
@@ -1013,7 +1037,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "Aditya Birla SL Infrastructure Fund(G)": {
+    "aditya-birla-sl-infrastructure-fund-g": {
+      "name": "Aditya Birla SL Infrastructure Fund(G)",
       "amc_list": "Mirae Asset Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Jonas Bhutta",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Intl. Equity Fund(G)": {
+    "aditya-birla-sl-intl-equity-fund-g": {
+      "name": "Aditya Birla SL Intl. Equity Fund(G)",
       "amc_list": "Motilal Oswal Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Joshi",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : International",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Large & Mid Cap Fund-Reg(G)": {
+    "aditya-birla-sl-large-and-mid-cap-fund-reg-g": {
+      "name": "Aditya Birla SL Large & Mid Cap Fund-Reg(G)",
       "amc_list": "Navi Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Vishal Gajwani",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Large Cap Fund-Reg(G)": {
+    "aditya-birla-sl-large-cap-fund-reg-g": {
+      "name": "Aditya Birla SL Large Cap Fund-Reg(G)",
       "amc_list": "Nippon Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Harish krishnan",
@@ -1181,7 +1209,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Mfg. Equity Fund-Reg(G)": {
+    "aditya-birla-sl-mfg-equity-fund-reg-g": {
+      "name": "Aditya Birla SL Mfg. Equity Fund-Reg(G)",
       "amc_list": "NJ Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Harish krishnan",
@@ -1223,7 +1252,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Midcap Fund(G)": {
+    "aditya-birla-sl-midcap-fund-g": {
+      "name": "Aditya Birla SL Midcap Fund(G)",
       "amc_list": "Old Bridge Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Vishal Gajwani",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL MNC Fund-Reg(G)": {
+    "aditya-birla-sl-mnc-fund-reg-g": {
+      "name": "Aditya Birla SL MNC Fund-Reg(G)",
       "amc_list": "Parag Parikh Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Chanchal Khandelwal",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Thematic - MNC",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Multi - Asset Passive FoF-Reg(G)": {
+    "aditya-birla-sl-multi-asset-passive-fof-reg-g": {
+      "name": "Aditya Birla SL Multi - Asset Passive FoF-Reg(G)",
       "amc_list": "PGIM Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Vinod Narayan Bhat",
@@ -1349,7 +1381,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.50% on or before 15D Nil after 15D"
     },
-    "Aditya Birla SL Multi Asset Allocation Fund-Reg(G)": {
+    "aditya-birla-sl-multi-asset-allocation-fund-reg-g": {
+      "name": "Aditya Birla SL Multi Asset Allocation Fund-Reg(G)",
       "amc_list": "Qsif Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Gala",
@@ -1391,7 +1424,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 30% of units on or before 1Y 1% after 30% of units on or before 1YNil after 1Y"
     },
-    "Aditya Birla SL Multi-Asset Omni FOF(G)": {
+    "aditya-birla-sl-multi-asset-omni-fof-g": {
+      "name": "Aditya Birla SL Multi-Asset Omni FOF(G)",
       "amc_list": "Quant Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Vinod Narayan Bhat",
@@ -1433,7 +1467,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Aditya Birla SL Multi-Cap Fund-Reg(G)": {
+    "aditya-birla-sl-multi-cap-fund-reg-g": {
+      "name": "Aditya Birla SL Multi-Cap Fund-Reg(G)",
       "amc_list": "Quantum Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Abhinav Khandelwal",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Nifty 50 Equal Weight Index Fund-Reg(G)": {
+    "aditya-birla-sl-nifty-50-equal-weight-index-fund-reg-g": {
+      "name": "Aditya Birla SL Nifty 50 Equal Weight Index Fund-Reg(G)",
       "amc_list": "Samco Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -1517,7 +1553,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Aditya Birla SL Nifty 50 Index Fund-Reg(G)": {
+    "aditya-birla-sl-nifty-50-index-fund-reg-g": {
+      "name": "Aditya Birla SL Nifty 50 Index Fund-Reg(G)",
       "amc_list": "SBI Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -1559,7 +1596,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Aditya Birla SL Nifty India Defence Index Fund-Reg(G)": {
+    "aditya-birla-sl-nifty-india-defence-index-fund-reg-g": {
+      "name": "Aditya Birla SL Nifty India Defence Index Fund-Reg(G)",
       "amc_list": "Shriram Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -1601,7 +1639,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.05% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Nifty Midcap 150 Index Fund-Reg(G)": {
+    "aditya-birla-sl-nifty-midcap-150-index-fund-reg-g": {
+      "name": "Aditya Birla SL Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": "Sundaram Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -1643,7 +1682,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Aditya Birla SL Nifty Next 50 Index Fund-Reg(G)": {
+    "aditya-birla-sl-nifty-next-50-index-fund-reg-g": {
+      "name": "Aditya Birla SL Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": "Tata Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -1685,7 +1725,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil"
     },
-    "Aditya Birla SL Nifty Smallcap 50 Index Fund-Reg(G)": {
+    "aditya-birla-sl-nifty-smallcap-50-index-fund-reg-g": {
+      "name": "Aditya Birla SL Nifty Smallcap 50 Index Fund-Reg(G)",
       "amc_list": "Taurus Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -1727,7 +1768,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "Aditya Birla SL Pharma & Healthcare Fund-Reg(G)": {
+    "aditya-birla-sl-pharma-and-healthcare-fund-reg-g": {
+      "name": "Aditya Birla SL Pharma & Healthcare Fund-Reg(G)",
       "amc_list": "Templeton Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Shah",
@@ -1769,7 +1811,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL PSU Equity Fund-Reg(G)": {
+    "aditya-birla-sl-psu-equity-fund-reg-g": {
+      "name": "Aditya Birla SL PSU Equity Fund-Reg(G)",
       "amc_list": "The Wealth Company Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Gala",
@@ -1811,7 +1854,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Quant Fund-Reg(G)": {
+    "aditya-birla-sl-quant-fund-reg-g": {
+      "name": "Aditya Birla SL Quant Fund-Reg(G)",
       "amc_list": "Titanium Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Harish krishnan",
@@ -1853,7 +1897,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Silver ETF FOF-Reg(G)": {
+    "aditya-birla-sl-silver-etf-fof-reg-g": {
+      "name": "Aditya Birla SL Silver ETF FOF-Reg(G)",
       "amc_list": "TRUSTMF Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Priya Sridhar",
@@ -1895,7 +1940,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Small Cap Fund(G)": {
+    "aditya-birla-sl-small-cap-fund-g": {
+      "name": "Aditya Birla SL Small Cap Fund(G)",
       "amc_list": "Unifi Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Abhinav Khandelwal",
@@ -1937,7 +1983,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 90D Nil after 90D"
     },
-    "Aditya Birla SL Special Opp Fund-Reg(G)": {
+    "aditya-birla-sl-special-opp-fund-reg-g": {
+      "name": "Aditya Birla SL Special Opp Fund-Reg(G)",
       "amc_list": "Union Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Gala",
@@ -1979,7 +2026,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "Aditya Birla SL Transportation and Logistics Fund-Reg(G)": {
+    "aditya-birla-sl-transportation-and-logistics-fund-reg-g": {
+      "name": "Aditya Birla SL Transportation and Logistics Fund-Reg(G)",
       "amc_list": "UTI Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Gala",
@@ -2021,7 +2069,8 @@
       "classification": "Equity : Sectoral - Auto",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Aditya Birla SL US Equity Passive FOF-Reg(G)": {
+    "aditya-birla-sl-us-equity-passive-fof-reg-g": {
+      "name": "Aditya Birla SL US Equity Passive FOF-Reg(G)",
       "amc_list": "WOC Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Dhaval Joshi",
@@ -2063,7 +2112,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "Nil"
     },
-    "Aditya Birla SL Value Fund-Reg(G)": {
+    "aditya-birla-sl-value-fund-reg-g": {
+      "name": "Aditya Birla SL Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kunal Sangoi",
