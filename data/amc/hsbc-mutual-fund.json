@@ -2,10 +2,11 @@
   "meta": {
     "amc": "HSBC Mutual Fund",
     "total_schemes": 29,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "HSBC Aggressive Hybrid Active FOF-Reg(G)": {
+    "hsbc-aggressive-hybrid-active-fof-reg-g": {
+      "name": "HSBC Aggressive Hybrid Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gautam Bhupal",
@@ -47,7 +48,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HSBC Aggressive Hybrid Fund-Reg(G)": {
+    "hsbc-aggressive-hybrid-fund-reg-g": {
+      "name": "HSBC Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gautam Bhupal",
@@ -89,7 +91,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil for 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "HSBC Arbitrage Fund-Reg(G)": {
+    "hsbc-arbitrage-fund-reg-g": {
+      "name": "HSBC Arbitrage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Praveen Ayathan",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 1M Nil after 1M"
     },
-    "HSBC Asia Pacific (Ex Japan) DYF-Reg(G)": {
+    "hsbc-asia-pacific-ex-japan-dyf-reg-g": {
+      "name": "HSBC Asia Pacific (Ex Japan) DYF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sonal Gupta",
@@ -173,7 +177,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HSBC Balanced Advantage Fund-Reg(G)": {
+    "hsbc-balanced-advantage-fund-reg-g": {
+      "name": "HSBC Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Neelotpal Sahai",
@@ -215,7 +220,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil for 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "HSBC Brazil Fund(G)": {
+    "hsbc-brazil-fund-g": {
+      "name": "HSBC Brazil Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sonal Gupta",
@@ -257,7 +263,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HSBC Business Cycles Fund-Reg(G)": {
+    "hsbc-business-cycles-fund-reg-g": {
+      "name": "HSBC Business Cycles Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gautam Bhupal",
@@ -299,7 +306,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "HSBC Consumption Fund-Reg(G)": {
+    "hsbc-consumption-fund-reg-g": {
+      "name": "HSBC Consumption Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anish Goenka",
@@ -341,7 +349,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1% Nil after 1Y"
     },
-    "HSBC ELSS Tax saver Fund-Reg(G)": {
+    "hsbc-elss-tax-saver-fund-reg-g": {
+      "name": "HSBC ELSS Tax saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Gupta",
@@ -383,7 +392,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "HSBC Equity Savings Fund-Reg(G)": {
+    "hsbc-equity-savings-fund-reg-g": {
+      "name": "HSBC Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Cheenu Gupta",
@@ -425,7 +435,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil upto 10% of units and 0.50% for remaining units on or before 1M Nil after 1M"
     },
-    "HSBC Financial Services Fund-Reg(G)": {
+    "hsbc-financial-services-fund-reg-g": {
+      "name": "HSBC Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gautam Bhupal",
@@ -467,7 +478,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units or before 1Y Nil after 1Y"
     },
-    "HSBC Flexi Cap Fund-Reg(G)": {
+    "hsbc-flexi-cap-fund-reg-g": {
+      "name": "HSBC Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Gupta",
@@ -509,7 +521,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "HSBC Focused Fund-Reg(G)": {
+    "hsbc-focused-fund-reg-g": {
+      "name": "HSBC Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Neelotpal Sahai",
@@ -551,7 +564,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on before 1Y"
     },
-    "HSBC Global Emerging Markets Fund(G)": {
+    "hsbc-global-emerging-markets-fund-g": {
+      "name": "HSBC Global Emerging Markets Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sonal Gupta",
@@ -593,7 +607,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HSBC Global Equity Climate Change FoF-Reg(G)": {
+    "hsbc-global-equity-climate-change-fof-reg-g": {
+      "name": "HSBC Global Equity Climate Change FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sonal Gupta",
@@ -635,7 +650,8 @@
       "classification": "FoFs : Overseas",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HSBC Income Plus Arbitrage Active FOF-Reg(G)": {
+    "hsbc-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "HSBC Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mohd Asif Rizwi",
@@ -677,7 +693,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "HSBC India Export Opportunities Fund-Reg(G)": {
+    "hsbc-india-export-opportunities-fund-reg-g": {
+      "name": "HSBC India Export Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhishek Gupta",
@@ -719,7 +736,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "HSBC Infrastructure Fund-Reg(G)": {
+    "hsbc-infrastructure-fund-reg-g": {
+      "name": "HSBC Infrastructure Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Venugopal Manghat",
@@ -761,7 +779,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "HSBC Large & Mid Cap Fund-Reg(G)": {
+    "hsbc-large-and-mid-cap-fund-reg-g": {
+      "name": "HSBC Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Cheenu Gupta",
@@ -803,7 +822,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "HSBC Large Cap Fund(G)": {
+    "hsbc-large-cap-fund-g": {
+      "name": "HSBC Large Cap Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Neelotpal Sahai",
@@ -845,7 +865,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "Nil upto 10% of investment and 1% for remaining investment on or before 1Y Nil after 1Y"
     },
-    "HSBC Midcap Fund-Reg(G)": {
+    "hsbc-midcap-fund-reg-g": {
+      "name": "HSBC Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Cheenu Gupta",
@@ -887,7 +908,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "HSBC Multi Asset Active FOF-Reg(G)": {
+    "hsbc-multi-asset-active-fof-reg-g": {
+      "name": "HSBC Multi Asset Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gautam Bhupal",
@@ -929,7 +951,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "HSBC Multi Asset Allocation Fund-Reg(G)": {
+    "hsbc-multi-asset-allocation-fund-reg-g": {
+      "name": "HSBC Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Cheenu Gupta",
@@ -971,7 +994,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "HSBC Multi Cap Fund-Reg(G)": {
+    "hsbc-multi-cap-fund-reg-g": {
+      "name": "HSBC Multi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Venugopal Manghat",
@@ -1013,7 +1037,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "HSBC Nifty 50 Index Fund-Reg(G)": {
+    "hsbc-nifty-50-index-fund-reg-g": {
+      "name": "HSBC Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Praveen Ayathan",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1M Nil after 1M"
     },
-    "HSBC Nifty Next 50 Index Fund-Reg(G)": {
+    "hsbc-nifty-next-50-index-fund-reg-g": {
+      "name": "HSBC Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Praveen Ayathan",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1M Nil after 1M"
     },
-    "HSBC Small Cap Fund-Reg(G)": {
+    "hsbc-small-cap-fund-reg-g": {
+      "name": "HSBC Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Venugopal Manghat",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "Nil upto 10% of units and 1% for above the limits on or before 1Y Nil after 1Y"
     },
-    "HSBC Tax Saver Equity Fund(G)": {
+    "hsbc-tax-saver-equity-fund-g": {
+      "name": "HSBC Tax Saver Equity Fund(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Gautam Bhupal",
@@ -1181,7 +1209,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "HSBC Value Fund-Reg(G)": {
+    "hsbc-value-fund-reg-g": {
+      "name": "HSBC Value Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Venugopal Manghat",
