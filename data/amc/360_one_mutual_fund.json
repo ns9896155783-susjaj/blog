@@ -72,6 +72,66 @@
       "risk_quants": {},
       "benchmark": "",
       "expense_ratio": ""
+    },
+    "360-one-balanced-hybrid-fund-review-nav-returns-portfolio-detailed-analysis": {
+      "name": "360 ONE Balanced Hybrid Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "360-one-flexicap-fund": {
+      "name": "360 ONE Flexicap Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "360-one-focused-fund": {
+      "name": "360 ONE Focused Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "360-one-multi-asset-allocation-fund": {
+      "name": "360 ONE Multi Asset Allocation Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "360-one-quant-fund-best-review": {
+      "name": "360 ONE Quant Fund-Reg(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
     }
   }
 }
