@@ -2,10 +2,11 @@
   "meta": {
     "amc": "Taurus Mutual Fund",
     "total_schemes": 8,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "Taurus Banking & Fin Serv Fund-Reg(G)": {
+    "taurus-banking-and-fin-serv-fund-reg-g": {
+      "name": "Taurus Banking & Fin Serv Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anuj Kapil",
@@ -47,7 +48,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Taurus ELSS Tax Saver Fund-Reg(G)": {
+    "taurus-elss-tax-saver-fund-reg-g": {
+      "name": "Taurus ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anuj Kapil",
@@ -89,7 +91,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "Taurus Ethical Fund-Reg(G)": {
+    "taurus-ethical-fund-reg-g": {
+      "name": "Taurus Ethical Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anuj Kapil",
@@ -131,7 +134,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Taurus Flexi Cap Fund-Reg(G)": {
+    "taurus-flexi-cap-fund-reg-g": {
+      "name": "Taurus Flexi Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anuj Kapil",
@@ -173,7 +177,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Taurus Infrastructure Fund-Reg(G)": {
+    "taurus-infrastructure-fund-reg-g": {
+      "name": "Taurus Infrastructure Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anuj Kapil",
@@ -215,7 +220,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Taurus Large Cap Fund-Reg(G)": {
+    "taurus-large-cap-fund-reg-g": {
+      "name": "Taurus Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anuj Kapil",
@@ -257,7 +263,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Taurus Mid Cap Fund-Reg(G)": {
+    "taurus-mid-cap-fund-reg-g": {
+      "name": "Taurus Mid Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anuj Kapil",
@@ -299,7 +306,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     },
-    "Taurus Nifty 50 Index Fund-Reg(G)": {
+    "taurus-nifty-50-index-fund-reg-g": {
+      "name": "Taurus Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Anuj Kapil",
