@@ -2,10 +2,11 @@
   "meta": {
     "amc": "SBI Mutual Fund",
     "total_schemes": 45,
-    "last_updated": "2026-02-02 19:07"
+    "last_updated": "2026-02-02 19:42"
   },
   "schemes": {
-    "SBI Arbitrage Opportunities Fund-Reg(G)": {
+    "sbi-arbitrage-opportunities-fund-reg-g": {
+      "name": "SBI Arbitrage Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Neeraj Kumar",
@@ -47,7 +48,8 @@
       "classification": "Hybrid : Arbitrage",
       "exit_load_remarks": "0.25% on or before 1M Nil after 1M"
     },
-    "SBI Automotive Opportunities Fund-Reg(G)": {
+    "sbi-automotive-opportunities-fund-reg-g": {
+      "name": "SBI Automotive Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Tanmaya Desai",
@@ -89,7 +91,8 @@
       "classification": "Equity : Sectoral - Auto",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "SBI Balanced Advantage Fund-Reg(G)": {
+    "sbi-balanced-advantage-fund-reg-g": {
+      "name": "SBI Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dinesh Balachandran",
@@ -131,7 +134,8 @@
       "classification": "Hybrid : Dynamic Asset Allocation",
       "exit_load_remarks": "Nil upto 10% of units and 1% for remaining units on or before 1Y Nil after 1Y"
     },
-    "SBI Banking & Financial Services Fund-Reg(G)": {
+    "sbi-banking-and-financial-services-fund-reg-g": {
+      "name": "SBI Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Milind Agrawal",
@@ -173,7 +177,8 @@
       "classification": "Equity : Sectoral - Financial Services",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "SBI BSE Sensex Index Fund-Reg(G)": {
+    "sbi-bse-sensex-index-fund-reg-g": {
+      "name": "SBI BSE Sensex Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Raviprakash Sharma",
@@ -215,7 +220,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.20% on or before 15D Nil after 15D"
     },
-    "SBI Comma Fund-Reg(G)": {
+    "sbi-comma-fund-reg-g": {
+      "name": "SBI Comma Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dinesh Balachandran",
@@ -257,7 +263,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "SBI Consumption Opp Fund-Reg(G)": {
+    "sbi-consumption-opp-fund-reg-g": {
+      "name": "SBI Consumption Opp Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashit Desai",
@@ -299,7 +306,8 @@
       "classification": "Equity : Thematic - Consumption",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     },
-    "SBI Contra Fund-Reg(G)": {
+    "sbi-contra-fund-reg-g": {
+      "name": "SBI Contra Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dinesh Balachandran",
@@ -341,7 +349,8 @@
       "classification": "Equity : Value / Contra",
       "exit_load_remarks": "0.25% on or before 30D 0.10% after 30D but before 90D Nil after 90D"
     },
-    "SBI Dividend Yield Fund-Reg(G)": {
+    "sbi-dividend-yield-fund-reg-g": {
+      "name": "SBI Dividend Yield Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nidhi Chawla",
@@ -383,7 +392,8 @@
       "classification": "Equity : Thematic - Dividend Yield",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "SBI Dynamic Asset Allocation Active FoF-Reg(G)": {
+    "sbi-dynamic-asset-allocation-active-fof-reg-g": {
+      "name": "SBI Dynamic Asset Allocation Active FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nidhi Chawla",
@@ -425,7 +435,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "Nil upto 25% of investments and 1% for remaining investments on or before 12M Nil after 12M"
     },
-    "SBI ELSS Tax Saver Fund-Reg(G)": {
+    "sbi-elss-tax-saver-fund-reg-g": {
+      "name": "SBI ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Milind Agrawal",
@@ -467,7 +478,8 @@
       "classification": "Equity : Tax Saving (ELSS)",
       "exit_load_remarks": "Nil"
     },
-    "SBI Energy Opportunities Fund-Reg(G)": {
+    "sbi-energy-opportunities-fund-reg-g": {
+      "name": "SBI Energy Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Raj Gandhi",
@@ -509,7 +521,8 @@
       "classification": "Equity : Sectoral - Energy / Power",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "SBI Equity Hybrid Fund-Reg(G)": {
+    "sbi-equity-hybrid-fund-reg-g": {
+      "name": "SBI Equity Hybrid Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Srinivasan",
@@ -551,7 +564,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "Nil for 10% of investments and 1% for remaining investment on or before 12M Nil after 12M"
     },
-    "SBI Equity Minimum Variance Fund-Reg(G)": {
+    "sbi-equity-minimum-variance-fund-reg-g": {
+      "name": "SBI Equity Minimum Variance Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Raviprakash Sharma",
@@ -593,7 +607,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 15D Nil after 15D"
     },
-    "SBI Equity Savings Fund-Reg(G)": {
+    "sbi-equity-savings-fund-reg-g": {
+      "name": "SBI Equity Savings Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nidhi Chawla",
@@ -635,7 +650,8 @@
       "classification": "Hybrid : Equity Oriented",
       "exit_load_remarks": "0.10% on or before 15D Nil after 15D"
     },
-    "SBI ESG Exclusionary Strategy Fund-Reg(G)": {
+    "sbi-esg-exclusionary-strategy-fund-reg-g": {
+      "name": "SBI ESG Exclusionary Strategy Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Shimpi",
@@ -677,7 +693,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "SBI Flexicap Fund-Reg(G)": {
+    "sbi-flexicap-fund-reg-g": {
+      "name": "SBI Flexicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dinesh Balachandran",
@@ -719,7 +736,8 @@
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     },
-    "SBI Focused Fund-Reg(G)": {
+    "sbi-focused-fund-reg-g": {
+      "name": "SBI Focused Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Srinivasan",
@@ -761,7 +779,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "0.25% on or before 30D 0.10% after 30D but before 90D Nil after 90D"
     },
-    "SBI Gold-Reg(G)": {
+    "sbi-gold-reg-g": {
+      "name": "SBI Gold-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Raviprakash Sharma",
@@ -803,7 +822,8 @@
       "classification": "Gold : MFs",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "SBI Healthcare Opp Fund-Reg(G)": {
+    "sbi-healthcare-opp-fund-reg-g": {
+      "name": "SBI Healthcare Opp Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Tanmaya Desai",
@@ -845,7 +865,8 @@
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "0.50% on or before 15D Nil after 15D"
     },
-    "SBI Income Plus Arbitrage Active FOF-Reg(G)": {
+    "sbi-income-plus-arbitrage-active-fof-reg-g": {
+      "name": "SBI Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ardhendu Bhattacharya",
@@ -887,7 +908,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "NIL"
     },
-    "SBI Infrastructure Fund-Reg(G)": {
+    "sbi-infrastructure-fund-reg-g": {
+      "name": "SBI Infrastructure Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Bhavin Vithlani",
@@ -929,7 +951,8 @@
       "classification": "Equity : Sectoral - Infrastructure",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "SBI Innovative Opportunities Fund-Reg(G)": {
+    "sbi-innovative-opportunities-fund-reg-g": {
+      "name": "SBI Innovative Opportunities Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vivek Gedda",
@@ -971,7 +994,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "SBI Large & Midcap Fund-Reg(G)": {
+    "sbi-large-and-midcap-fund-reg-g": {
+      "name": "SBI Large & Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Saurabh Pant",
@@ -1013,7 +1037,8 @@
       "classification": "Equity : Large & Mid Cap",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     },
-    "SBI Large Cap Fund-Reg(G)": {
+    "sbi-large-cap-fund-reg-g": {
+      "name": "SBI Large Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Saurabh Pant",
@@ -1055,7 +1080,8 @@
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "0.25% on or before 30D 0.10% after 30D but before 90D Nil after 90D"
     },
-    "SBI Midcap Fund-Reg(G)": {
+    "sbi-midcap-fund-reg-g": {
+      "name": "SBI Midcap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Bhavin Vithlani",
@@ -1097,7 +1123,8 @@
       "classification": "Equity : Mid Cap",
       "exit_load_remarks": "0.25% on or before 30D 0.10% after 30D but before 90D Nil after 90D"
     },
-    "SBI MNC Fund-Reg(G)": {
+    "sbi-mnc-fund-reg-g": {
+      "name": "SBI MNC Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Tanmaya Desai",
@@ -1139,7 +1166,8 @@
       "classification": "Equity : Thematic - MNC",
       "exit_load_remarks": "1% on or before 30D Nil after 30D"
     },
-    "SBI Multi Asset Allocation Fund-Reg(G)": {
+    "sbi-multi-asset-allocation-fund-reg-g": {
+      "name": "SBI Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dinesh Balachandran",
@@ -1181,7 +1209,8 @@
       "classification": "Hybrid : Multi Asset Allocation",
       "exit_load_remarks": "Nil for 10% of investment and 1% for remaining Investment on or before 12M Nil after 12M"
     },
-    "SBI Multicap Fund-Reg(G)": {
+    "sbi-multicap-fund-reg-g": {
+      "name": "SBI Multicap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Srinivasan",
@@ -1223,7 +1252,8 @@
       "classification": "Equity : Multi Cap",
       "exit_load_remarks": "0.25% on or before 30D 0.10% after 30D but before 90D Nil after 90D"
     },
-    "SBI Nifty 500 Index Fund-Reg(G)": {
+    "sbi-nifty-500-index-fund-reg-g": {
+      "name": "SBI Nifty 500 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viral Chhadva",
@@ -1265,7 +1295,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "SBI Nifty Index Fund-Reg(G)": {
+    "sbi-nifty-index-fund-reg-g": {
+      "name": "SBI Nifty Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Raviprakash Sharma",
@@ -1307,7 +1338,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.20% on or before 15D Nil after 15D"
     },
-    "SBI Nifty India Consumption Index Fund-Reg(G)": {
+    "sbi-nifty-india-consumption-index-fund-reg-g": {
+      "name": "SBI Nifty India Consumption Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsh Sethi",
@@ -1349,7 +1381,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "SBI Nifty IT Index Fund-Reg(G)": {
+    "sbi-nifty-it-index-fund-reg-g": {
+      "name": "SBI Nifty IT Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsh Sethi",
@@ -1391,7 +1424,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "SBI Nifty Midcap 150 Index Fund-Reg(G)": {
+    "sbi-nifty-midcap-150-index-fund-reg-g": {
+      "name": "SBI Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsh Sethi",
@@ -1433,7 +1467,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 30D Nil after 30D"
     },
-    "SBI Nifty Next 50 Index Fund-Reg(G)": {
+    "sbi-nifty-next-50-index-fund-reg-g": {
+      "name": "SBI Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Raviprakash Sharma",
@@ -1475,7 +1510,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 30D Nil after 30D"
     },
-    "SBI Nifty Smallcap 250 Index Fund-Reg(G)": {
+    "sbi-nifty-smallcap-250-index-fund-reg-g": {
+      "name": "SBI Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsh Sethi",
@@ -1517,7 +1553,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 30D Nil after 30D"
     },
-    "SBI Nifty100 Low Volatility 30 Index Fund-Reg(G)": {
+    "sbi-nifty100-low-volatility-30-index-fund-reg-g": {
+      "name": "SBI Nifty100 Low Volatility 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viral Chhadva",
@@ -1559,7 +1596,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "SBI Nifty200 Momentum 30 Index Fund-Reg(G)": {
+    "sbi-nifty200-momentum-30-index-fund-reg-g": {
+      "name": "SBI Nifty200 Momentum 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viral Chhadva",
@@ -1601,7 +1639,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "SBI Nifty200 Quality 30 Index Fund-Reg(G)": {
+    "sbi-nifty200-quality-30-index-fund-reg-g": {
+      "name": "SBI Nifty200 Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viral Chhadva",
@@ -1643,7 +1682,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "SBI Nifty50 Equal Weight Index Fund-Reg(G)": {
+    "sbi-nifty50-equal-weight-index-fund-reg-g": {
+      "name": "SBI Nifty50 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Viral Chhadva",
@@ -1685,7 +1725,8 @@
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "0.25% on or before 15D Nil after 15D"
     },
-    "SBI PSU Fund-Reg(G)": {
+    "sbi-psu-fund-reg-g": {
+      "name": "SBI PSU Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Shimpi",
@@ -1727,7 +1768,8 @@
       "classification": "Equity : Thematic",
       "exit_load_remarks": "0.50% on or before 30D Nil after 30D"
     },
-    "SBI Silver ETF FOF-Reg(G)": {
+    "sbi-silver-etf-fof-reg-g": {
+      "name": "SBI Silver ETF FOF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Harsh Sethi",
@@ -1769,7 +1811,8 @@
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
     },
-    "SBI Small Cap Fund-Reg(G)": {
+    "sbi-small-cap-fund-reg-g": {
+      "name": "SBI Small Cap Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "R. Srinivasan",
@@ -1811,7 +1854,8 @@
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 1Y Nil after 1Y"
     },
-    "SBI Technology Opp Fund-Reg(G)": {
+    "sbi-technology-opp-fund-reg-g": {
+      "name": "SBI Technology Opp Fund-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Vivek Gedda",
@@ -1853,7 +1897,8 @@
       "classification": "Equity : Sectoral - Technology",
       "exit_load_remarks": "0.50% on or before 15D Nil after 15D"
     },
-    "SBI US Specific Equity Active FoF-Reg(G)": {
+    "sbi-us-specific-equity-active-fof-reg-g": {
+      "name": "SBI US Specific Equity Active FoF-Reg(G)",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Shimpi",
