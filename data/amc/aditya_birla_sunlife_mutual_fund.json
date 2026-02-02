@@ -600,6 +600,30 @@
       "risk_quants": {},
       "benchmark": "",
       "expense_ratio": ""
+    },
+    "aditya-birla-sl-aggressive-hybrid-omni-fof-review": {
+      "name": "Aditya Birla SL Aggressive Hybrid Omni FOF(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
+    },
+    "aditya-birla-sl-conservative-hybrid-active-fof-best-analysis-returns-suitability": {
+      "name": "Aditya Birla SL Conservative Hybrid Active FOF(G)",
+      "category": "",
+      "nav": "",
+      "nav_date": "",
+      "returns": {},
+      "allocation": {},
+      "risk_level": "",
+      "risk_quants": {},
+      "benchmark": "",
+      "expense_ratio": ""
     }
   }
 }
