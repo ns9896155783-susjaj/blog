@@ -1,17 +1,52 @@
 {
-  "amc_name": "CAPITALMIND MUTUAL FUND",
+  "meta": {
+    "amc": "Capitalmind Mutual Fund",
+    "total_schemes": 1,
+    "last_updated": "2026-02-03 22:27"
+  },
   "schemes": {
-    "capitalmind-flexi-cap-fund-review-what-the-performance-data-indicates/": {
+    "capitalmind-flexi-cap-fund-reg-g": {
       "name": "Capitalmind Flexi Cap Fund-Reg(G)",
-      "category": "",
-      "nav": "",
-      "nav_date": "",
-      "returns": {},
-      "allocation": {},
-      "risk_level": "",
-      "risk_quants": {},
-      "benchmark": "",
-      "expense_ratio": ""
+      "amc_list": null,
+      "invest_online_link": null,
+      "fund_manager": "Anoop Vijaykumar",
+      "category": "EQ-FLEX",
+      "rupeevestrating": "Unrated",
+      "aum_in_rs_cr_": 311.3,
+      "expenseratio_": 2.37,
+      "fund_type": "Open Ended",
+      "inception_date": "2025-08-03T18:30:00.000Z",
+      "benchmark_index": "NIFTY 500 - TRI",
+      "nav": 10.21,
+      "52_weekhigh_nav_": 10.35,
+      "52_weeklow_nav_": 9.61,
+      "return_1_mo": -0.39,
+      "return_3_mo": -0.33,
+      "return_6_mo": null,
+      "return_1_yr": null,
+      "return_2_yrs": null,
+      "return_3_yrs": null,
+      "return_5_yrs": null,
+      "return_10_yrs": null,
+      "pe_ratio": 24.61,
+      "pb_ratio": 3.62,
+      "turnover_ratio_": 90,
+      "no_ofstocks": 44,
+      "avg_market_cap_in_rs_cr_": 150126,
+      "large_cap_": 42.84,
+      "mid_cap_": 27.94,
+      "small_cap_": 8.6,
+      "highest_sector": "Financials",
+      "avg_maturity_in_yrs_": null,
+      "mod_duration_in_yrs_": null,
+      "yield_to_maturity_": null,
+      "alpha": null,
+      "sharpe": null,
+      "sortino": null,
+      "beta": null,
+      "standard_deviation": null,
+      "classification": "Equity : Flexi Cap",
+      "exit_load_remarks": "1% on or before 12M Nil after 12M"
     }
   }
 }
