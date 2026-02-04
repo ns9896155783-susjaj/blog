@@ -2,7 +2,7 @@
   "meta": {
     "amc": "360 One Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-02-03 22:27"
+    "last_updated": "2026-02-04 06:45"
   },
   "schemes": {
     "360-one-balanced-hybrid-fund-reg-g": {
@@ -50,7 +50,7 @@
     },
     "360-one-elss-tax-saver-nifty-50-index-fund-reg-g": {
       "name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund-Reg(G)",
-      "amc_list": "360 One Mutual Fund",
+      "amc_list": "Aditya Birla SL Mutual Fund",
       "invest_online_link": null,
       "fund_manager": "Ashish Ongari",
       "category": "EQ-ELSS",
