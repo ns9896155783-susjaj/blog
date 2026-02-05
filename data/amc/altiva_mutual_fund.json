@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Altiva Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-02-05 06:45"
+    "last_updated": "2026-02-05 10:13"
   },
   "schemes": {
     "altiva-hybrid-long-short-fund-reg-g": {
@@ -17,8 +17,8 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-19T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-      "nav": 10.26,
-      "52_weekhigh_nav_": 10.3,
+      "nav": 10.31,
+      "52_weekhigh_nav_": 10.31,
       "52_weeklow_nav_": 10,
       "return_1_mo": null,
       "return_3_mo": null,
@@ -28,7 +28,7 @@
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
-      "pe_ratio": 26.15,
+      "pe_ratio": 25.65,
       "pb_ratio": 3.87,
       "turnover_ratio_": null,
       "no_ofstocks": 54,
