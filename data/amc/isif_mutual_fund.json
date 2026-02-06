@@ -2,7 +2,7 @@
   "meta": {
     "amc": "iSIF Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-02-06 06:45"
+    "last_updated": "2026-02-06 10:15"
   },
   "schemes": {
     "isif-equity-ex-top-100-long-short-fund-reg-g": {
@@ -17,9 +17,9 @@
       "fund_type": "Open Ended",
       "inception_date": null,
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": null,
-      "52_weekhigh_nav_": null,
-      "52_weeklow_nav_": null,
+      "nav": 9.99,
+      "52_weekhigh_nav_": 10,
+      "52_weeklow_nav_": 9.99,
       "return_1_mo": null,
       "return_3_mo": null,
       "return_6_mo": null,
@@ -60,9 +60,9 @@
       "fund_type": "Open Ended",
       "inception_date": null,
       "benchmark_index": "CRISIL Hybrid 50+50 - Moderate Index",
-      "nav": null,
-      "52_weekhigh_nav_": null,
-      "52_weeklow_nav_": null,
+      "nav": 10.02,
+      "52_weekhigh_nav_": 10.02,
+      "52_weeklow_nav_": 10,
       "return_1_mo": null,
       "return_3_mo": null,
       "return_6_mo": null,
