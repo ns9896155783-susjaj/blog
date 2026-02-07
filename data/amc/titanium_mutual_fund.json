@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Titanium Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:02"
   },
   "schemes": {
     "titanium-hybrid-long-short-fund-reg-g": {
       "name": "Titanium Hybrid Long-Short Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TTSTHG-GR&type=purchase",
       "fund_manager": "Suraj Nanda",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
