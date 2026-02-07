@@ -2,7 +2,7 @@
   "meta": {
     "amc": "The Wealth Company Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:02"
   },
   "schemes": {
     "the-wealth-company-arbitrage-fund-reg-g": {
@@ -94,7 +94,7 @@
     "the-wealth-company-ethical-fund-reg-g": {
       "name": "The Wealth Company Ethical Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=WEEFRG-GR&type=purchase",
       "fund_manager": "Aparna Shanker",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "the-wealth-company-flexi-cap-fund-reg-g": {
       "name": "The Wealth Company Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=WEFCRG-GR&type=purchase",
       "fund_manager": "Aparna Shanker",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "the-wealth-company-multi-asset-allocation-fund-reg-g": {
       "name": "The Wealth Company Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=WEMARG-GR&type=purchase",
       "fund_manager": "Aparna Shanker",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
