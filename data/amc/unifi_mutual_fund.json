@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Unifi Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:02"
   },
   "schemes": {
     "unifi-dynamic-asset-allocation-fund-reg-g": {
       "name": "Unifi Dynamic Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UFDAFRG-GR&type=purchase",
       "fund_manager": "Saravanan V N",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "unifi-flexi-cap-fund-reg-g": {
       "name": "Unifi Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNEFGR-GR&type=purchase",
       "fund_manager": "Saravanan V N",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
