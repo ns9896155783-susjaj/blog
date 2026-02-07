@@ -2,13 +2,13 @@
   "meta": {
     "amc": "PGIM Mutual Fund",
     "total_schemes": 16,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "pgim-india-aggressive-hybrid-equity-fund-g": {
       "name": "PGIM India Aggressive Hybrid Equity Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRIOGP-GR&type=purchase",
       "fund_manager": "Sharma Vivek",
       "category": "HY-EQ",
       "rupeevestrating": 3,
@@ -94,7 +94,7 @@
     "pgim-india-balanced-advantage-fund-reg-g": {
       "name": "PGIM India Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRBLGP-GR&type=purchase",
       "fund_manager": "Utsav Mehta",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "pgim-india-elss-tax-saver-fund-reg-g": {
       "name": "PGIM India ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRTFGP-GR&type=purchase",
       "fund_manager": "Sharma Vivek",
       "category": "EQ-ELSS",
       "rupeevestrating": 4,
@@ -180,7 +180,7 @@
     "pgim-india-emerging-markets-equity-fof-g": {
       "name": "PGIM India Emerging Markets Equity FoF(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DWGTGP-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "pgim-india-equity-savings-fund-g": {
       "name": "PGIM India Equity Savings Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DWMARG-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
       "category": "HY-EQ",
       "rupeevestrating": 1,
@@ -266,7 +266,7 @@
     "pgim-india-flexi-cap-fund-reg-g": {
       "name": "PGIM India Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRDEGP-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
       "category": "EQ-FLEX",
       "rupeevestrating": 5,
@@ -309,7 +309,7 @@
     "pgim-india-global-equity-opp-fof-g": {
       "name": "PGIM India Global Equity Opp FoF(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DWGAGR-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "pgim-india-global-select-real-estate-securities-fof-reg-g": {
       "name": "PGIM India Global Select Real Estate Securities FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRGSGP-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "pgim-india-healthcare-fund-reg-g": {
       "name": "PGIM India Healthcare Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRHCGP-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
       "category": "EQ-PHRM",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "pgim-india-large-and-mid-cap-fund-g": {
       "name": "PGIM India Large and Mid Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRLMGP-GR&type=purchase",
       "fund_manager": "Vinay Paharia",
       "category": "EQ-L&M",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "pgim-india-large-cap-fund-g": {
       "name": "PGIM India Large Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRFEGP-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
       "category": "EQ-LC",
       "rupeevestrating": 1,
@@ -524,7 +524,7 @@
     "pgim-india-midcap-fund-reg-g": {
       "name": "PGIM India Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOGP-GR&type=purchase",
       "fund_manager": "Sharma Vivek",
       "category": "EQ-MID",
       "rupeevestrating": 5,
@@ -567,7 +567,7 @@
     "pgim-india-multi-asset-allocation-fund-reg-g": {
       "name": "PGIM India Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRMUGP-GR&type=purchase",
       "fund_manager": "Utsav Mehta",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "pgim-india-multi-cap-fund-reg-g": {
       "name": "PGIM India Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRMCGP-GR&type=purchase",
       "fund_manager": "Sharma Vivek",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "pgim-india-small-cap-fund-reg-g": {
       "name": "PGIM India Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRSCGP-GR&type=purchase",
       "fund_manager": "Utsav Mehta",
       "category": "EQ-SML",
       "rupeevestrating": "Unrated",
