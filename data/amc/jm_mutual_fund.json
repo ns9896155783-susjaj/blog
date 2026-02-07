@@ -2,13 +2,13 @@
   "meta": {
     "amc": "JM Mutual Fund",
     "total_schemes": 10,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "jm-aggressive-hybrid-fund-reg-g": {
       "name": "JM Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BFGP-GR&type=purchase",
       "fund_manager": "Asit Bhandarkar",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "jm-elss-tax-saver-fund-g": {
       "name": "JM ELSS Tax Saver Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TGGP-GR&type=purchase",
       "fund_manager": "Deepak Gupta.",
       "category": "EQ-ELSS",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "jm-flexicap-fund-reg-g": {
       "name": "JM Flexicap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MSGP-GR&type=purchase",
       "fund_manager": "Satish Ramanathan",
       "category": "EQ-FLEX",
       "rupeevestrating": 3,
@@ -180,7 +180,7 @@
     "jm-focused-fund-reg-g": {
       "name": "JM Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CRGP-GR&type=purchase",
       "fund_manager": "Asit Bhandarkar",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "jm-large-and-mid-cap-fund-reg-g": {
       "name": "JM Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=JMLMGP-GR&type=purchase",
       "fund_manager": "Asit Bhandarkar",
       "category": "EQ-L&M",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "jm-large-cap-fund-reg-g": {
       "name": "JM Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EFGP-GR&type=purchase",
       "fund_manager": "Deepak Gupta.",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "jm-midcap-fund-reg-g": {
       "name": "JM Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=JMMDGP-GR&type=purchase",
       "fund_manager": "Satish Ramanathan",
       "category": "EQ-MID",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "jm-small-cap-fund-reg-g": {
       "name": "JM Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=JMSCGP-GR&type=purchase",
       "fund_manager": "Asit Bhandarkar",
       "category": "EQ-SML",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "jm-value-fund-reg-g": {
       "name": "JM Value Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAGP-GR&type=purchase",
       "fund_manager": "Satish Ramanathan",
       "category": "EQ-VAL",
       "rupeevestrating": 3,
