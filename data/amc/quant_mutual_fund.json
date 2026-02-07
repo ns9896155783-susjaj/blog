@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Quant Mutual Fund",
     "total_schemes": 28,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "quant-aggressive-hybrid-fund-g": {
       "name": "Quant Aggressive Hybrid Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUBFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "HY-EQ",
       "rupeevestrating": 5,
@@ -94,7 +94,7 @@
     "quant-bfsi-fund-reg-g": {
       "name": "Quant BFSI Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUBSGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "quant-business-cycle-fund-reg-g": {
       "name": "Quant Business Cycle Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUBCGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "quant-commodities-fund-reg-g": {
       "name": "Quant Commodities Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUCOGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "quant-consumption-fund-reg-g": {
       "name": "Quant Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUCNGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "quant-dynamic-asset-allocation-fund-reg-g": {
       "name": "Quant Dynamic Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUDAGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "quant-elss-tax-saver-fund-g": {
       "name": "Quant ELSS Tax Saver Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUTPGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-ELSS",
       "rupeevestrating": 5,
@@ -352,7 +352,7 @@
     "quant-equity-savings-fund-reg-g": {
       "name": "Quant Equity Savings Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QJESGP-GR&type=purchase",
       "fund_manager": "Sanjeev Sharma",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "quant-esg-integration-strategy-fund-reg-g": {
       "name": "Quant ESG Integration Strategy Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUEFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "quant-flexi-cap-fund-g": {
       "name": "Quant Flexi Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUPEGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-FLEX",
       "rupeevestrating": 5,
@@ -481,7 +481,7 @@
     "quant-focused-fund-g": {
       "name": "Quant Focused Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QULSGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "quant-healthcare-fund-reg-g": {
       "name": "Quant Healthcare Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUHCGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-PHRM",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "quant-infrastructure-fund-g": {
       "name": "Quant Infrastructure Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUISGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-INFRA",
       "rupeevestrating": 5,
@@ -610,7 +610,7 @@
     "quant-large-and-mid-cap-fund-g": {
       "name": "Quant Large & Mid Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUHYGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-L&M",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "quant-large-cap-fund-reg-g": {
       "name": "Quant Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QULCGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -696,7 +696,7 @@
     "quant-manufacturing-fund-reg-g": {
       "name": "Quant Manufacturing Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUMFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -739,7 +739,7 @@
     "quant-mid-cap-fund-g": {
       "name": "Quant Mid Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUOFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-MID",
       "rupeevestrating": 5,
@@ -782,7 +782,7 @@
     "quant-momentum-fund-reg-g": {
       "name": "Quant Momentum Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUMOGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -825,7 +825,7 @@
     "quant-multi-asset-allocation-fund-g": {
       "name": "Quant Multi Asset Allocation Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUGLGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "HY-MULTI",
       "rupeevestrating": 5,
@@ -868,7 +868,7 @@
     "quant-multi-cap-fund-g": {
       "name": "Quant Multi Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUGFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-MLC",
       "rupeevestrating": 5,
@@ -911,7 +911,7 @@
     "quant-psu-fund-reg-g": {
       "name": "Quant PSU Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUPUGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -954,7 +954,7 @@
     "quant-quantamental-fund-reg-g": {
       "name": "Quant Quantamental Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUQMGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -997,7 +997,7 @@
     "quant-small-cap-fund-g": {
       "name": "Quant Small Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUIBGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-SML",
       "rupeevestrating": 5,
@@ -1040,7 +1040,7 @@
     "quant-teck-fund-reg-g": {
       "name": "Quant Teck Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUTKGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-TECH",
       "rupeevestrating": "Unrated",
@@ -1083,7 +1083,7 @@
     "quant-value-fund-reg-g": {
       "name": "Quant Value Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUVFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "EQ-VAL",
       "rupeevestrating": "Unrated",
@@ -1126,7 +1126,7 @@
     "sbi-quant-fund-reg-g": {
       "name": "SBI Quant Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SB694G-GR&type=purchase",
       "fund_manager": "Sukanya Ghosh",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1169,7 +1169,7 @@
     "uti-quant-fund-reg-g": {
       "name": "UTI Quant Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTFDGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
