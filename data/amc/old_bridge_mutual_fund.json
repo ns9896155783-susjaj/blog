@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Old Bridge Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "old-bridge-arbitrage-fund-reg-g": {
@@ -51,7 +51,7 @@
     "old-bridge-focused-fund-reg-g": {
       "name": "Old Bridge Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=OBFEGP-GR&type=purchase",
       "fund_manager": "Tarang Agrawal",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
