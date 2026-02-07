@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Diviniti Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "diviniti-equity-long-short-fund-reg-g": {
       "name": "Diviniti Equity Long Short Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TISS1GP-GR&type=purchase",
       "fund_manager": "Vasav Sahgal",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
