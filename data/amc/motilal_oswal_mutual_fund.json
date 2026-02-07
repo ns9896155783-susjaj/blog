@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Motilal Oswal Mutual Fund",
     "total_schemes": 47,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "motilal-oswal-5-year-g-sec-fof-reg-g": {
       "name": "Motilal Oswal 5 Year G-Sec FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOGSGP-GR&type=purchase",
       "fund_manager": "Rakesh Shetty",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "motilal-oswal-active-momentum-fund-reg-g": {
       "name": "Motilal Oswal Active Momentum Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOAMGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "motilal-oswal-asset-allocation-passive-fof-aggressive-reg-g": {
       "name": "Motilal Oswal Asset Allocation Passive FoF-Aggressive-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOAAGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "motilal-oswal-asset-allocation-passive-fof-conservative-reg-g": {
       "name": "Motilal Oswal Asset Allocation Passive FoF-Conservative-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOACGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "motilal-oswal-balanced-advantage-fund-reg-g": {
       "name": "Motilal Oswal Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MODEGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "HY-DYN",
       "rupeevestrating": 2,
@@ -266,7 +266,7 @@
     "motilal-oswal-bse-1000-index-fund-reg-g": {
       "name": "Motilal Oswal BSE 1000 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOBFGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "motilal-oswal-bse-enhanced-value-index-fund-reg-g": {
       "name": "Motilal Oswal BSE Enhanced Value Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOS3GP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "motilal-oswal-bse-low-volatility-index-fund-reg-g": {
       "name": "Motilal Oswal BSE Low Volatility Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOS1GP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "motilal-oswal-bse-quality-index-fund-reg-g": {
       "name": "Motilal Oswal BSE Quality Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOS4GP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "motilal-oswal-business-cycle-fund-reg-g": {
       "name": "Motilal Oswal Business Cycle Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOBCGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "motilal-oswal-consumption-fund-reg-g": {
       "name": "Motilal Oswal Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOCFGP-GR&type=purchase",
       "fund_manager": "Varun Sharma",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "motilal-oswal-developed-market-ex-us-etfs-overseas-equity-passive-fof-reg-g": {
       "name": "Motilal Oswal Developed Market Ex US ETFs Overseas Equity Passive FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MODMGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "motilal-oswal-digital-india-fund-reg-g": {
       "name": "Motilal Oswal Digital India Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MODFGP-GR&type=purchase",
       "fund_manager": "Varun Sharma",
       "category": "EQ-TECH",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "motilal-oswal-elss-tax-saver-fund-reg-g": {
       "name": "Motilal Oswal ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOLTGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-ELSS",
       "rupeevestrating": 3,
@@ -739,7 +739,7 @@
     "motilal-oswal-flexi-cap-fund-reg-g": {
       "name": "Motilal Oswal Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CPGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-FLEX",
       "rupeevestrating": 1,
@@ -782,7 +782,7 @@
     "motilal-oswal-focused-fund-reg-g": {
       "name": "Motilal Oswal Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MFGP-GR&type=purchase",
       "fund_manager": "Atul Mehra",
       "category": "EQ-LC",
       "rupeevestrating": 2,
@@ -868,7 +868,7 @@
     "motilal-oswal-infrastructure-fund-reg-g": {
       "name": "Motilal Oswal Infrastructure Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOIFGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-INFRA",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "motilal-oswal-innovation-opportunities-fund-reg-g": {
       "name": "Motilal Oswal Innovation Opportunities Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOIOGP-GR&type=purchase",
       "fund_manager": "Atul Mehra",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -954,7 +954,7 @@
     "motilal-oswal-large-and-midcap-fund-reg-g": {
       "name": "Motilal Oswal Large & Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOLMGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-L&M",
       "rupeevestrating": "Unrated",
@@ -997,7 +997,7 @@
     "motilal-oswal-large-cap-fund-reg-g": {
       "name": "Motilal Oswal Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOLCGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -1040,7 +1040,7 @@
     "motilal-oswal-manufacturing-fund-reg-g": {
       "name": "Motilal Oswal Manufacturing Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOMTGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1083,7 +1083,7 @@
     "motilal-oswal-midcap-fund-reg-g": {
       "name": "Motilal Oswal Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FMGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-MID",
       "rupeevestrating": 2,
@@ -1126,7 +1126,7 @@
     "motilal-oswal-multi-cap-fund-reg-g": {
       "name": "Motilal Oswal Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOMMGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -1169,7 +1169,7 @@
     "motilal-oswal-nasdaq-100-fof-reg-g": {
       "name": "Motilal Oswal Nasdaq 100 FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MON1GP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -1212,7 +1212,7 @@
     "motilal-oswal-nifty-200-momentum-30-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty 200 Momentum 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MON2GP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1255,7 +1255,7 @@
     "motilal-oswal-nifty-50-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MONIGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1298,7 +1298,7 @@
     "motilal-oswal-nifty-500-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty 500 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MONTGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1341,7 +1341,7 @@
     "motilal-oswal-nifty-500-momentum-50-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOMNGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1384,7 +1384,7 @@
     "motilal-oswal-nifty-capital-market-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty Capital Market Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOCMGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1427,7 +1427,7 @@
     "motilal-oswal-nifty-india-defence-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty India Defence Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MODIGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1470,7 +1470,7 @@
     "motilal-oswal-nifty-microcap-250-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty Microcap 250 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOMPGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1513,7 +1513,7 @@
     "motilal-oswal-nifty-midcap-150-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOMIGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1556,7 +1556,7 @@
     "motilal-oswal-nifty-midsmall-financial-services-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty MidSmall Financial Services Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOFSGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1599,7 +1599,7 @@
     "motilal-oswal-nifty-midsmall-healthcare-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty MidSmall Healthcare Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOHIGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1642,7 +1642,7 @@
     "motilal-oswal-nifty-midsmall-india-consumption-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty MidSmall India Consumption Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOICGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1685,7 +1685,7 @@
     "motilal-oswal-nifty-midsmall-it-and-telecom-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty MidSmall IT and Telecom Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOITGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1728,7 +1728,7 @@
     "motilal-oswal-nifty-next-50-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MONNGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1771,7 +1771,7 @@
     "motilal-oswal-nifty-smallcap-250-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOSIGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1814,7 +1814,7 @@
     "motilal-oswal-quant-fund-reg-g": {
       "name": "Motilal Oswal Quant Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOMQGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1857,7 +1857,7 @@
     "motilal-oswal-sandp-500-index-fund-reg-g": {
       "name": "Motilal Oswal S&P 500 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOSPGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INTL",
       "rupeevestrating": "Unrated",
@@ -1900,7 +1900,7 @@
     "motilal-oswal-services-fund-reg-g": {
       "name": "Motilal Oswal Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOSFGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1943,7 +1943,7 @@
     "motilal-oswal-small-cap-fund-reg-g": {
       "name": "Motilal Oswal Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOSCGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-SML",
       "rupeevestrating": "Unrated",
@@ -1986,7 +1986,7 @@
     "motilal-oswal-special-opportunities-fund-reg-g": {
       "name": "Motilal Oswal Special Opportunities Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOSOGP-GR&type=purchase",
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
