@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Shriram Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "shriram-aggressive-hybrid-fund-reg-g": {
       "name": "Shriram Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SHRI101-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "shriram-balanced-advantage-fund-reg-g": {
       "name": "Shriram Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SH107-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "shriram-elss-tax-saver-fund-reg-g": {
       "name": "Shriram ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUTFGP-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
       "category": "EQ-ELSS",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "shriram-flexi-cap-fund-reg-g": {
       "name": "Shriram Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SH103-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "shriram-multi-asset-allocation-fund-reg-g": {
       "name": "Shriram Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SH109-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "shriram-multi-sector-rotation-fund-reg-g": {
       "name": "Shriram Multi Sector Rotation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SH110-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
