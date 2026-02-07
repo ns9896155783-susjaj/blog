@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Groww Mutual Fund",
     "total_schemes": 26,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "groww-aggressive-hybrid-fund-reg-g": {
       "name": "Groww Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INEHGP-GR&type=purchase",
       "fund_manager": "Anupam Tiwari",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "groww-banking-and-financial-services-fund-reg-g": {
       "name": "Groww Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INBSGP-GR&type=purchase",
       "fund_manager": "Anupam Tiwari",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "groww-bse-power-etf-fof-reg-g": {
       "name": "Groww BSE Power ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IN8FGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "groww-elss-tax-saver-fund-reg-g": {
       "name": "Groww ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INTSRG-GR&type=purchase",
       "fund_manager": "Paras Matalia",
       "category": "EQ-ELSS",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "groww-gold-etf-fof-reg-g": {
       "name": "Groww Gold ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INGGGP-GR&type=purchase",
       "fund_manager": "Wilfred Gonsalves",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "groww-largecap-fund-reg-g": {
       "name": "Groww Largecap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INBCGP-GR&type=purchase",
       "fund_manager": "Anupam Tiwari",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "groww-multi-asset-allocation-fund-reg-g": {
       "name": "Groww Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INMAGP-GR&type=purchase",
       "fund_manager": "Paras Matalia",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "groww-multi-asset-omni-fof-reg-g": {
       "name": "Groww Multi Asset Omni FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INYEGP-GR&type=purchase",
       "fund_manager": "Paras Matalia",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "groww-multicap-fund-reg-g": {
       "name": "Groww Multicap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INMUGP-GR&type=purchase",
       "fund_manager": "Anupam Tiwari",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "groww-nifty-50-index-fund-reg-g": {
       "name": "Groww Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IN7FGPG-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "groww-nifty-500-momentum-50-etf-fof-reg-g": {
       "name": "Groww Nifty 500 Momentum 50 ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IN3FGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "groww-nifty-capital-markets-etf-fof-reg-g": {
       "name": "Groww Nifty Capital Markets ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INYBGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "groww-nifty-ev-and-new-age-automotive-etf-fof-reg-g": {
       "name": "Groww Nifty EV & New Age Automotive ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INEVGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "groww-nifty-india-defence-etf-fof-reg-g": {
       "name": "Groww Nifty India Defence ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INDFGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "groww-nifty-india-internet-etf-fof-reg-g": {
       "name": "Groww Nifty India Internet ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IN6FGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "groww-nifty-india-railways-psu-index-fund-reg-g": {
       "name": "Groww Nifty India Railways PSU Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INRIGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -696,7 +696,7 @@
     "groww-nifty-midcap-150-index-fund-reg-g": {
       "name": "Groww Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INYDGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -739,7 +739,7 @@
     "groww-nifty-next-50-index-fund-reg-g": {
       "name": "Groww Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSLNNGR-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -782,7 +782,7 @@
     "groww-nifty-non-cyclical-consumer-index-fund-reg-g": {
       "name": "Groww Nifty Non-Cyclical Consumer Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INNCGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -868,7 +868,7 @@
     "groww-nifty-smallcap-250-index-fund-reg-g": {
       "name": "Groww Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INNSGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "groww-nifty-total-market-index-fund-reg-g": {
       "name": "Groww Nifty Total Market Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INNIGP-GR&type=purchase",
       "fund_manager": "Aakash Chauhan",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -997,7 +997,7 @@
     "groww-silver-etf-fof-reg-g": {
       "name": "Groww Silver ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IN4FGP-GR&type=purchase",
       "fund_manager": "Wilfred Gonsalves",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1083,7 +1083,7 @@
     "groww-value-fund-reg-g": {
       "name": "Groww Value Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INVDRG-GR&type=purchase",
       "fund_manager": "Anupam Tiwari",
       "category": "EQ-VAL",
       "rupeevestrating": "Unrated",
