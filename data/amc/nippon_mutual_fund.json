@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Nippon Mutual Fund",
     "total_schemes": 46,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "nippon-india-active-momentum-fund-reg-g": {
       "name": "Nippon India Active Momentum Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLAMGP-GR&type=purchase",
       "fund_manager": "Ashutosh Bhargava",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "nippon-india-aggressive-hybrid-fund-g": {
       "name": "Nippon India Aggressive Hybrid Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RELRSFB-GR&type=purchase",
       "fund_manager": "Meenakshi Dawar",
       "category": "HY-EQ",
       "rupeevestrating": 3,
@@ -137,7 +137,7 @@
     "nippon-india-balanced-advantage-fund-g": {
       "name": "Nippon India Balanced Advantage Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=NEGP&type=purchase",
       "fund_manager": "Ashutosh Bhargava",
       "category": "HY-DYN",
       "rupeevestrating": 3,
@@ -180,7 +180,7 @@
     "nippon-india-banking-and-financial-services-fund-g": {
       "name": "Nippon India Banking & Financial Services Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BFGP&type=purchase",
       "fund_manager": "Vinay Sharma",
       "category": "EQ-FIN",
       "rupeevestrating": 5,
@@ -223,7 +223,7 @@
     "nippon-india-bse-sensex-next-30-index-fund-reg-g": {
       "name": "Nippon India BSE Sensex Next 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLBSGP-GR&type=purchase",
       "fund_manager": "Himanshu Mange",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "nippon-india-consumption-fund-g": {
       "name": "Nippon India Consumption Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MEGP&type=purchase",
       "fund_manager": "Kinjal Desai",
       "category": "EQ-CONS",
       "rupeevestrating": 5,
@@ -309,7 +309,7 @@
     "nippon-india-diversified-equity-flexicap-passive-fof-reg-g": {
       "name": "Nippon India Diversified Equity Flexicap Passive FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLPPGP-GR&type=purchase",
       "fund_manager": "Ashutosh Bhargava",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "nippon-india-elss-tax-saver-fund-g": {
       "name": "Nippon India ELSS Tax Saver Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RMFTSGP-GR&type=purchase",
       "fund_manager": "Rupesh Patel",
       "category": "EQ-ELSS",
       "rupeevestrating": 2,
@@ -395,7 +395,7 @@
     "nippon-india-equity-savings-fund-g": {
       "name": "Nippon India Equity Savings Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLESGP-GR&type=purchase",
       "fund_manager": "Sushil Budhia",
       "category": "HY-EQ",
       "rupeevestrating": 1,
@@ -438,7 +438,7 @@
     "nippon-india-flexi-cap-fund-reg-g": {
       "name": "Nippon India Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLLCGP-GR&type=purchase",
       "fund_manager": "Meenakshi Dawar",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "nippon-india-focused-fund-g": {
       "name": "Nippon India Focused Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RELLEGP-GR&type=purchase",
       "fund_manager": "Vinay Sharma",
       "category": "EQ-FLEX",
       "rupeevestrating": 4,
@@ -524,7 +524,7 @@
     "nippon-india-gold-savings-fund-g": {
       "name": "Nippon India Gold Savings Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RMFGDGP-GR&type=purchase",
       "fund_manager": "Himanshu Mange",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "nippon-india-growth-mid-cap-fund-g": {
       "name": "Nippon India Growth Mid Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=GFGP&type=purchase",
       "fund_manager": "Rupesh Patel",
       "category": "EQ-MID",
       "rupeevestrating": 4,
@@ -610,7 +610,7 @@
     "nippon-india-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Nippon India Income Plus Arbitrage Active FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLAPGP-GR&type=purchase",
       "fund_manager": "Sushil Budhia",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "nippon-india-index-fund-bse-sensex-plan-g": {
       "name": "Nippon India Index Fund-BSE Sensex Plan(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RMFSFGP-GR&type=purchase",
       "fund_manager": "Himanshu Mange",
       "category": "EQ-INDX",
       "rupeevestrating": 2,
@@ -696,7 +696,7 @@
     "nippon-india-index-fund-nifty-50-plan-g": {
       "name": "Nippon India Index Fund-Nifty 50 Plan(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RMFSCBP-GR&type=purchase",
       "fund_manager": "Himanshu Mange",
       "category": "EQ-INDX",
       "rupeevestrating": 2,
@@ -739,7 +739,7 @@
     "nippon-india-innovation-fund-reg-g": {
       "name": "Nippon India Innovation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLITGP-GR&type=purchase",
       "fund_manager": "Vinay Sharma",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -782,7 +782,7 @@
     "nippon-india-japan-equity-fund-g": {
       "name": "Nippon India Japan Equity Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLJEGP-GR&type=purchase",
       "fund_manager": "Kinjal Desai",
       "category": "EQ-INTL",
       "rupeevestrating": "Unrated",
@@ -825,7 +825,7 @@
     "nippon-india-large-cap-fund-g": {
       "name": "Nippon India Large Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EARG&type=purchase",
       "fund_manager": "Sailesh Raj Bhan",
       "category": "EQ-LC",
       "rupeevestrating": 2,
@@ -868,7 +868,7 @@
     "nippon-india-mnc-fund-reg-g": {
       "name": "Nippon India MNC Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLMCGP-GR&type=purchase",
       "fund_manager": "Dhrumil Shah",
       "category": "EQ-MNC",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "nippon-india-multi-asset-allocation-fund-reg-g": {
       "name": "Nippon India Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLMFGP-GR&type=purchase",
       "fund_manager": "Ashutosh Bhargava",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -954,7 +954,7 @@
     "nippon-india-multi-cap-fund-g": {
       "name": "Nippon India Multi Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EOGP&type=purchase",
       "fund_manager": "Sailesh Raj Bhan",
       "category": "EQ-MLC",
       "rupeevestrating": 3,
@@ -997,7 +997,7 @@
     "nippon-india-multi-asset-omni-fof-reg-g": {
       "name": "Nippon India Multi-Asset Omni FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLALGP-GR&type=purchase",
       "fund_manager": "Sushil Budhia",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1040,7 +1040,7 @@
     "nippon-india-nifty-50-value-20-index-fund-reg-g": {
       "name": "Nippon India Nifty 50 Value 20 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLNVGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1083,7 +1083,7 @@
     "nippon-india-nifty-500-equal-weight-index-fund-reg-g": {
       "name": "Nippon India Nifty 500 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLEWGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1126,7 +1126,7 @@
     "nippon-india-nifty-500-low-volatility-50-index-fund-reg-g": {
       "name": "Nippon India Nifty 500 Low Volatility 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLLVGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1169,7 +1169,7 @@
     "nippon-india-nifty-500-momentum-50-index-fund-reg-g": {
       "name": "Nippon India Nifty 500 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLMTGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1212,7 +1212,7 @@
     "nippon-india-nifty-500-quality-50-index-fund-reg-g": {
       "name": "Nippon India Nifty 500 Quality 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLQIGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1255,7 +1255,7 @@
     "nippon-india-nifty-alpha-low-volatility-30-index-fund-g": {
       "name": "Nippon India Nifty Alpha Low Volatility 30 Index Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLNNGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1298,7 +1298,7 @@
     "nippon-india-nifty-auto-index-fund-reg-g": {
       "name": "Nippon India Nifty Auto Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLANGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "EQ-AUTO",
       "rupeevestrating": "Unrated",
@@ -1341,7 +1341,7 @@
     "nippon-india-nifty-india-manufacturing-index-fund-reg-g": {
       "name": "Nippon India Nifty India Manufacturing Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLMGGP-GR&type=purchase",
       "fund_manager": "Himanshu Mange",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1384,7 +1384,7 @@
     "nippon-india-nifty-it-index-fund-reg-g": {
       "name": "Nippon India Nifty IT Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLIXGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1427,7 +1427,7 @@
     "nippon-india-nifty-midcap-150-index-fund-reg-g": {
       "name": "Nippon India Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLNPGP-GR&type=purchase",
       "fund_manager": "Himanshu Mange",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1470,7 +1470,7 @@
     "nippon-india-nifty-next-50-junior-bees-fof-reg-g": {
       "name": "Nippon India Nifty Next 50 Junior BeES FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLRJGP-GR&type=purchase",
       "fund_manager": "Himanshu Mange",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1513,7 +1513,7 @@
     "nippon-india-nifty-realty-index-fund-reg-g": {
       "name": "Nippon India Nifty Realty Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLRNGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1556,7 +1556,7 @@
     "nippon-india-nifty-smallcap-250-index-fund-reg-g": {
       "name": "Nippon India Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLNSGP-GR&type=purchase",
       "fund_manager": "Himanshu Mange",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1599,7 +1599,7 @@
     "nippon-india-pharma-fund-g": {
       "name": "Nippon India Pharma Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PHGP&type=purchase",
       "fund_manager": "Sailesh Raj Bhan",
       "category": "EQ-PHRM",
       "rupeevestrating": 3,
@@ -1642,7 +1642,7 @@
     "nippon-india-power-and-infra-fund-g": {
       "name": "Nippon India Power & Infra Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PSGP&type=purchase",
       "fund_manager": "Rahul Modi",
       "category": "EQ-POWER",
       "rupeevestrating": "Unrated",
@@ -1685,7 +1685,7 @@
     "nippon-india-quant-fund-g": {
       "name": "Nippon India Quant Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QPRG&type=purchase",
       "fund_manager": "Ashutosh Bhargava",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1728,7 +1728,7 @@
     "nippon-india-silver-etf-fof-reg-g": {
       "name": "Nippon India Silver ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLSOGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1771,7 +1771,7 @@
     "nippon-india-small-cap-fund-g": {
       "name": "Nippon India Small Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RMFSCPGP-GR&type=purchase",
       "fund_manager": "Samir Rachh",
       "category": "EQ-SML",
       "rupeevestrating": 4,
@@ -1814,7 +1814,7 @@
     "nippon-india-taiwan-equity-fund-reg-g": {
       "name": "Nippon India Taiwan Equity Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLETGP-GR&type=purchase",
       "fund_manager": "Kinjal Desai",
       "category": "EQ-INTL",
       "rupeevestrating": "Unrated",
@@ -1857,7 +1857,7 @@
     "nippon-india-us-equity-opp-fund-g": {
       "name": "Nippon India US Equity Opp Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLUEGP-GR&type=purchase",
       "fund_manager": "Kinjal Desai",
       "category": "EQ-INTL",
       "rupeevestrating": "Unrated",
@@ -1900,7 +1900,7 @@
     "nippon-india-value-fund-g": {
       "name": "Nippon India Value Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RELSEGP-GR&type=purchase",
       "fund_manager": "Dhrumil Shah",
       "category": "EQ-VAL",
       "rupeevestrating": 4,
@@ -1943,7 +1943,7 @@
     "nippon-india-vision-large-and-mid-cap-fund-g": {
       "name": "Nippon India Vision Large & Mid Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=GSGP&type=purchase",
       "fund_manager": "Aishwarya Agarwal",
       "category": "EQ-L&M",
       "rupeevestrating": 3,
