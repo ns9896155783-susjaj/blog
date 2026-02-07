@@ -2,7 +2,7 @@
   "meta": {
     "amc": "TRUSTMF Mutual Fund",
     "total_schemes": 4,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:02"
   },
   "schemes": {
     "trustmf-arbitrage-fund-reg-g": {
@@ -51,7 +51,7 @@
     "trustmf-flexi-cap-fund-reg-g": {
       "name": "TRUSTMF Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TSFCRG-GR&type=purchase",
       "fund_manager": "Mihir Vora",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "trustmf-multi-cap-fund-reg-g": {
       "name": "TRUSTMF Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTMCRG-GR&type=purchase",
       "fund_manager": "Mihir Vora",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "trustmf-small-cap-fund-reg-g": {
       "name": "TRUSTMF Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TSSCRG-GR&type=purchase",
       "fund_manager": "Mihir Vora",
       "category": "EQ-SML",
       "rupeevestrating": "Unrated",
