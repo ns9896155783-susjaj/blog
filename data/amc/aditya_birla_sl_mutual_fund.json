@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Aditya Birla SL Mutual Fund",
     "total_schemes": 50,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "aditya-birla-sl-aggressive-hybrid-omni-fof-g": {
       "name": "Aditya Birla SL Aggressive Hybrid Omni FOF(G)",
       "amc_list": "Bajaj Finserv Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS1057-GR&type=purchase",
       "fund_manager": "Vinod Narayan Bhat",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "aditya-birla-sl-balanced-advantage-fund-g": {
       "name": "Aditya Birla SL Balanced Advantage Fund(G)",
       "amc_list": "Bank of India Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS105G-GR&type=purchase",
       "fund_manager": "Mohit Sharma",
       "category": "HY-DYN",
       "rupeevestrating": 4,
@@ -137,7 +137,7 @@
     "aditya-birla-sl-banking-and-financial-services-fund-reg-g": {
       "name": "Aditya Birla SL Banking & Financial Services Fund-Reg(G)",
       "amc_list": "Baroda BNP Paribas Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=1180B-GR&type=purchase",
       "fund_manager": "Dhaval Gala",
       "category": "EQ-FIN",
       "rupeevestrating": 4,
@@ -180,7 +180,7 @@
     "aditya-birla-sl-bse-500-momentum-50-index-fund-reg-g": {
       "name": "Aditya Birla SL BSE 500 Momentum 50 Index Fund-Reg(G)",
       "amc_list": "BHARAT Bond Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS140B-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "aditya-birla-sl-bse-500-quality-50-index-fund-reg-g": {
       "name": "Aditya Birla SL BSE 500 Quality 50 Index Fund-Reg(G)",
       "amc_list": "Canara Rob Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS139B-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "aditya-birla-sl-bse-india-infrastructure-index-fund-reg-g": {
       "name": "Aditya Birla SL BSE India Infrastructure Index Fund-Reg(G)",
       "amc_list": "Capitalmind Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS135B-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "EQ-INFRA",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "aditya-birla-sl-business-cycle-fund-reg-g": {
       "name": "Aditya Birla SL Business Cycle Fund-Reg(G)",
       "amc_list": "Diviniti Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS90B-GR&type=purchase",
       "fund_manager": "Harish krishnan",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "aditya-birla-sl-conglomerate-fund-reg-g": {
       "name": "Aditya Birla SL Conglomerate Fund-Reg(G)",
       "amc_list": "DSP Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS136B-GR&type=purchase",
       "fund_manager": "Harish krishnan",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "aditya-birla-sl-conservative-hybrid-active-fof-g": {
       "name": "Aditya Birla SL Conservative Hybrid Active FOF(G)",
       "amc_list": "Edelweiss Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS1054-GR&type=purchase",
       "fund_manager": "Vinod Narayan Bhat",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "aditya-birla-sl-consumption-fund-reg-g": {
       "name": "Aditya Birla SL Consumption Fund-Reg(G)",
       "amc_list": "Franklin Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=B291G&type=purchase",
       "fund_manager": "Chanchal Khandelwal",
       "category": "EQ-CONS",
       "rupeevestrating": 3,
@@ -481,7 +481,7 @@
     "aditya-birla-sl-digital-india-fund-g": {
       "name": "Aditya Birla SL Digital India Fund(G)",
       "amc_list": "Groww Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=B16&type=purchase",
       "fund_manager": "Kunal Sangoi",
       "category": "EQ-TECH",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "aditya-birla-sl-dividend-yield-fund-g": {
       "name": "Aditya Birla SL Dividend Yield Fund(G)",
       "amc_list": "HDFC Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=B261G&type=purchase",
       "fund_manager": "Dhaval Gala",
       "category": "EQ-DIV",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "aditya-birla-sl-dynamic-asset-allocation-omni-fof-g": {
       "name": "Aditya Birla SL Dynamic Asset Allocation Omni FOF(G)",
       "amc_list": "Helios Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS1060-GR&type=purchase",
       "fund_manager": "Vinod Narayan Bhat",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "aditya-birla-sl-elss-tax-saver-fund-g": {
       "name": "Aditya Birla SL ELSS Tax Saver Fund(G)",
       "amc_list": "HSBC Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=02G&type=purchase",
       "fund_manager": "Dhaval Shah",
       "category": "EQ-ELSS",
       "rupeevestrating": 1,
@@ -653,7 +653,7 @@
     "aditya-birla-sl-equity-hybrid-95-fund-g": {
       "name": "Aditya Birla SL Equity Hybrid 95 Fund(G)",
       "amc_list": "ICICI Pru Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAG&type=purchase",
       "fund_manager": "Harshil Suvarnkar",
       "category": "HY-EQ",
       "rupeevestrating": 4,
@@ -696,7 +696,7 @@
     "aditya-birla-sl-equity-savings-fund-reg-g": {
       "name": "Aditya Birla SL Equity Savings Fund-Reg(G)",
       "amc_list": "Invesco India Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BSL249B-GR&type=purchase",
       "fund_manager": "Atul Penkar",
       "category": "HY-EQ",
       "rupeevestrating": 2,
@@ -739,7 +739,7 @@
     "aditya-birla-sl-esg-integration-strategy-fund-reg-g": {
       "name": "Aditya Birla SL ESG Integration Strategy Fund-Reg(G)",
       "amc_list": "iSIF Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS68B-GR&type=purchase",
       "fund_manager": "Chanchal Khandelwal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -782,7 +782,7 @@
     "aditya-birla-sl-flexi-cap-fund-reg-g": {
       "name": "Aditya Birla SL Flexi Cap Fund-Reg(G)",
       "amc_list": "ITI Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=51&type=purchase",
       "fund_manager": "Harish krishnan",
       "category": "EQ-FLEX",
       "rupeevestrating": 3,
@@ -825,7 +825,7 @@
     "aditya-birla-sl-focused-fund-g": {
       "name": "Aditya Birla SL Focused Fund(G)",
       "amc_list": "JM Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=B292G&type=purchase",
       "fund_manager": "Kunal Sangoi",
       "category": "EQ-LC",
       "rupeevestrating": 3,
@@ -868,7 +868,7 @@
     "aditya-birla-sl-global-emerging-opp-fund-g": {
       "name": "Aditya Birla SL Global Emerging Opp Fund(G)",
       "amc_list": "Kotak Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS1050-GR&type=purchase",
       "fund_manager": "Dhaval Joshi",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "aditya-birla-sl-global-excellence-equity-fof-g": {
       "name": "Aditya Birla SL Global Excellence Equity FoF(G)",
       "amc_list": "LIC Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS374-GR&type=purchase",
       "fund_manager": "Dhaval Joshi",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -954,7 +954,7 @@
     "aditya-birla-sl-gold-fund-reg-g": {
       "name": "Aditya Birla SL Gold Fund-Reg(G)",
       "amc_list": "Magnum Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BSL916G-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -997,7 +997,7 @@
     "aditya-birla-sl-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Aditya Birla SL Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": "Mahindra Manulife Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS104B-GR&type=purchase",
       "fund_manager": "Kaustubh Gupta",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1040,7 +1040,7 @@
     "aditya-birla-sl-infrastructure-fund-g": {
       "name": "Aditya Birla SL Infrastructure Fund(G)",
       "amc_list": "Mirae Asset Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=293G&type=purchase",
       "fund_manager": "Jonas Bhutta",
       "category": "EQ-INFRA",
       "rupeevestrating": 4,
@@ -1083,7 +1083,7 @@
     "aditya-birla-sl-intl-equity-fund-g": {
       "name": "Aditya Birla SL Intl. Equity Fund(G)",
       "amc_list": "Motilal Oswal Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=B297G&type=purchase",
       "fund_manager": "Dhaval Joshi",
       "category": "EQ-INTL",
       "rupeevestrating": "Unrated",
@@ -1126,7 +1126,7 @@
     "aditya-birla-sl-large-and-mid-cap-fund-reg-g": {
       "name": "Aditya Birla SL Large & Mid Cap Fund-Reg(G)",
       "amc_list": "Navi Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=B201G&type=purchase",
       "fund_manager": "Vishal Gajwani",
       "category": "EQ-L&M",
       "rupeevestrating": 4,
@@ -1169,7 +1169,7 @@
     "aditya-birla-sl-large-cap-fund-reg-g": {
       "name": "Aditya Birla SL Large Cap Fund-Reg(G)",
       "amc_list": "Nippon Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=92&type=purchase",
       "fund_manager": "Harish krishnan",
       "category": "EQ-LC",
       "rupeevestrating": 4,
@@ -1212,7 +1212,7 @@
     "aditya-birla-sl-mfg-equity-fund-reg-g": {
       "name": "Aditya Birla SL Mfg. Equity Fund-Reg(G)",
       "amc_list": "NJ Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS250B-GR&type=purchase",
       "fund_manager": "Harish krishnan",
       "category": "EQ-CONS",
       "rupeevestrating": 4,
@@ -1255,7 +1255,7 @@
     "aditya-birla-sl-midcap-fund-g": {
       "name": "Aditya Birla SL Midcap Fund(G)",
       "amc_list": "Old Bridge Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=251G&type=purchase",
       "fund_manager": "Vishal Gajwani",
       "category": "EQ-MID",
       "rupeevestrating": 2,
@@ -1298,7 +1298,7 @@
     "aditya-birla-sl-mnc-fund-reg-g": {
       "name": "Aditya Birla SL MNC Fund-Reg(G)",
       "amc_list": "Parag Parikh Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=B221G&type=purchase",
       "fund_manager": "Chanchal Khandelwal",
       "category": "EQ-MNC",
       "rupeevestrating": "Unrated",
@@ -1341,7 +1341,7 @@
     "aditya-birla-sl-multi-asset-passive-fof-reg-g": {
       "name": "Aditya Birla SL Multi - Asset Passive FoF-Reg(G)",
       "amc_list": "PGIM Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS112B-GR&type=purchase",
       "fund_manager": "Vinod Narayan Bhat",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1384,7 +1384,7 @@
     "aditya-birla-sl-multi-asset-allocation-fund-reg-g": {
       "name": "Aditya Birla SL Multi Asset Allocation Fund-Reg(G)",
       "amc_list": "Qsif Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS117B-GR&type=purchase",
       "fund_manager": "Dhaval Gala",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -1427,7 +1427,7 @@
     "aditya-birla-sl-multi-asset-omni-fof-g": {
       "name": "Aditya Birla SL Multi-Asset Omni FOF(G)",
       "amc_list": "Quant Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS103B-GR&type=purchase",
       "fund_manager": "Vinod Narayan Bhat",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1470,7 +1470,7 @@
     "aditya-birla-sl-multi-cap-fund-reg-g": {
       "name": "Aditya Birla SL Multi-Cap Fund-Reg(G)",
       "amc_list": "Quantum Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS71B-GR&type=purchase",
       "fund_manager": "Abhinav Khandelwal",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -1513,7 +1513,7 @@
     "aditya-birla-sl-nifty-50-equal-weight-index-fund-reg-g": {
       "name": "Aditya Birla SL Nifty 50 Equal Weight Index Fund-Reg(G)",
       "amc_list": "Samco Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS79B-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1556,7 +1556,7 @@
     "aditya-birla-sl-nifty-50-index-fund-reg-g": {
       "name": "Aditya Birla SL Nifty 50 Index Fund-Reg(G)",
       "amc_list": "SBI Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS241G-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "EQ-INDX",
       "rupeevestrating": 3,
@@ -1599,7 +1599,7 @@
     "aditya-birla-sl-nifty-india-defence-index-fund-reg-g": {
       "name": "Aditya Birla SL Nifty India Defence Index Fund-Reg(G)",
       "amc_list": "Shriram Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS129B-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1642,7 +1642,7 @@
     "aditya-birla-sl-nifty-midcap-150-index-fund-reg-g": {
       "name": "Aditya Birla SL Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": "Sundaram Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS70BB-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1685,7 +1685,7 @@
     "aditya-birla-sl-nifty-next-50-index-fund-reg-g": {
       "name": "Aditya Birla SL Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": "Tata Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS101B-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1728,7 +1728,7 @@
     "aditya-birla-sl-nifty-smallcap-50-index-fund-reg-g": {
       "name": "Aditya Birla SL Nifty Smallcap 50 Index Fund-Reg(G)",
       "amc_list": "Taurus Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS69B-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1771,7 +1771,7 @@
     "aditya-birla-sl-pharma-and-healthcare-fund-reg-g": {
       "name": "Aditya Birla SL Pharma & Healthcare Fund-Reg(G)",
       "amc_list": "Templeton Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS60B-GR&type=purchase",
       "fund_manager": "Dhaval Shah",
       "category": "EQ-PHRM",
       "rupeevestrating": "Unrated",
@@ -1814,7 +1814,7 @@
     "aditya-birla-sl-psu-equity-fund-reg-g": {
       "name": "Aditya Birla SL PSU Equity Fund-Reg(G)",
       "amc_list": "The Wealth Company Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS66B-GR&type=purchase",
       "fund_manager": "Dhaval Gala",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1857,7 +1857,7 @@
     "aditya-birla-sl-quant-fund-reg-g": {
       "name": "Aditya Birla SL Quant Fund-Reg(G)",
       "amc_list": "Titanium Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS128B-GR&type=purchase",
       "fund_manager": "Harish krishnan",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1900,7 +1900,7 @@
     "aditya-birla-sl-silver-etf-fof-reg-g": {
       "name": "Aditya Birla SL Silver ETF FOF-Reg(G)",
       "amc_list": "TRUSTMF Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS100B-GR&type=purchase",
       "fund_manager": "Priya Sridhar",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1943,7 +1943,7 @@
     "aditya-birla-sl-small-cap-fund-g": {
       "name": "Aditya Birla SL Small Cap Fund(G)",
       "amc_list": "Unifi Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BSL295G-GR&type=purchase",
       "fund_manager": "Abhinav Khandelwal",
       "category": "EQ-SML",
       "rupeevestrating": 1,
@@ -1986,7 +1986,7 @@
     "aditya-birla-sl-special-opp-fund-reg-g": {
       "name": "Aditya Birla SL Special Opp Fund-Reg(G)",
       "amc_list": "Union Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS67B-GR&type=purchase",
       "fund_manager": "Dhaval Gala",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -2029,7 +2029,7 @@
     "aditya-birla-sl-transportation-and-logistics-fund-reg-g": {
       "name": "Aditya Birla SL Transportation and Logistics Fund-Reg(G)",
       "amc_list": "UTI Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS125B-GR&type=purchase",
       "fund_manager": "Dhaval Gala",
       "category": "EQ-AUTO",
       "rupeevestrating": "Unrated",
@@ -2072,7 +2072,7 @@
     "aditya-birla-sl-us-equity-passive-fof-reg-g": {
       "name": "Aditya Birla SL US Equity Passive FOF-Reg(G)",
       "amc_list": "WOC Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS88B-GR&type=purchase",
       "fund_manager": "Dhaval Joshi",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -2115,7 +2115,7 @@
     "aditya-birla-sl-value-fund-reg-g": {
       "name": "Aditya Birla SL Value Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BSL296G-GR&type=purchase",
       "fund_manager": "Kunal Sangoi",
       "category": "EQ-VAL",
       "rupeevestrating": 3,
