@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Quantum Mutual Fund",
     "total_schemes": 10,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "quantum-diversified-equity-all-cap-active-fof-reg-g": {
       "name": "Quantum Diversified Equity All Cap Active FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QTFERG-GR&type=purchase",
       "fund_manager": "Chirag Mehta",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "quantum-elss-tax-saver-fund-reg-g": {
       "name": "Quantum ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QTTSRG-GR&type=purchase",
       "fund_manager": "George Thomas",
       "category": "EQ-ELSS",
       "rupeevestrating": 2,
@@ -94,7 +94,7 @@
     "quantum-esg-best-in-class-strategy-fund-reg-g": {
       "name": "Quantum ESG Best In Class Strategy Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QTESRG-GR&type=purchase",
       "fund_manager": "Chirag Mehta",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "quantum-ethical-fund-reg-g": {
       "name": "Quantum Ethical Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QTETRG-GR&type=purchase",
       "fund_manager": "Chirag Mehta",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "quantum-gold-saving-fund-reg-g": {
       "name": "Quantum Gold Saving Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QTQSRG-GR&type=purchase",
       "fund_manager": "Chirag Mehta",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "quantum-multi-asset-active-fof-reg-g": {
       "name": "Quantum Multi Asset Active FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QTMARG-GR&type=purchase",
       "fund_manager": "Chirag Mehta",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "quantum-multi-asset-allocation-fund-reg-g": {
       "name": "Quantum Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QTMURG-GR&type=purchase",
       "fund_manager": "Chirag Mehta",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "quantum-nifty-50-etf-fof-reg-g": {
       "name": "Quantum Nifty 50 ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QTNFRG-GR&type=purchase",
       "fund_manager": "Hitendra Parekh",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "quantum-small-cap-fund-reg-g": {
       "name": "Quantum Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QTSCRG-GR&type=purchase",
       "fund_manager": "Chirag Mehta",
       "category": "EQ-SML",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "quantum-value-fund-reg-g": {
       "name": "Quantum Value Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QTEFRG-GR&type=purchase",
       "fund_manager": "George Thomas",
       "category": "EQ-VAL",
       "rupeevestrating": 2,
