@@ -2,13 +2,13 @@
   "meta": {
     "amc": "NJ Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "nj-balanced-advantage-fund-reg-g": {
       "name": "NJ Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=NJBARG-GR&type=purchase",
       "fund_manager": "Viral Shah",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "nj-elss-tax-saver-scheme-reg-g": {
       "name": "NJ ELSS Tax Saver Scheme-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=NJTSRG-GR&type=purchase",
       "fund_manager": "Viral Shah",
       "category": "EQ-ELSS",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "nj-flexi-cap-fund-reg-g": {
       "name": "NJ Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=NJFCRG-GR&type=purchase",
       "fund_manager": "Dhaval Patel",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
