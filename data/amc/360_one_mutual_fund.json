@@ -2,13 +2,13 @@
   "meta": {
     "amc": "360 One Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "360-one-balanced-hybrid-fund-reg-g": {
       "name": "360 ONE Balanced Hybrid Fund-Reg(G)",
       "amc_list": "360 One Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IIIBHRG-GR&type=purchase",
       "fund_manager": "Mayur Patel",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "360-one-elss-tax-saver-nifty-50-index-fund-reg-g": {
       "name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund-Reg(G)",
       "amc_list": "Aditya Birla SL Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IIITRG-GR&type=purchase",
       "fund_manager": "Ashish Ongari",
       "category": "EQ-ELSS",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "360-one-flexicap-fund-reg-g": {
       "name": "360 ONE Flexicap Fund-Reg(G)",
       "amc_list": "Axis Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IIIFCRG-GR&type=purchase",
       "fund_manager": "Mayur Patel",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "360-one-focused-fund-reg-g": {
       "name": "360 ONE Focused Fund-Reg(G)",
       "amc_list": "Abakkus Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IFIGRG-GR&type=purchase",
       "fund_manager": "Mayur Patel",
       "category": "EQ-MLC",
       "rupeevestrating": 4,
@@ -180,7 +180,7 @@
     "360-one-multi-asset-allocation-fund-reg-g": {
       "name": "360 ONE Multi Asset Allocation Fund-Reg(G)",
       "amc_list": "Altiva Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IIMAFRG-GR&type=purchase",
       "fund_manager": "Mayur Patel",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "360-one-quant-fund-reg-g": {
       "name": "360 ONE Quant Fund-Reg(G)",
       "amc_list": "Angel Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IIIQRG-GR&type=purchase",
       "fund_manager": "Ashish Ongari",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
