@@ -2,13 +2,13 @@
   "meta": {
     "amc": "DSP Mutual Fund",
     "total_schemes": 44,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "dsp-aggressive-hybrid-fund-reg-g": {
       "name": "DSP Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP01-GR&type=purchase",
       "fund_manager": "Abhishek Singh",
       "category": "HY-EQ",
       "rupeevestrating": 4,
@@ -94,7 +94,7 @@
     "dsp-banking-and-financial-services-fund-reg-g": {
       "name": "DSP Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS651-GR&type=purchase",
       "fund_manager": "Preethi R S",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "dsp-bse-sensex-next-30-index-fund-reg-g": {
       "name": "DSP BSE Sensex Next 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS671-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "dsp-business-cycle-fund-reg-g": {
       "name": "DSP Business Cycle Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS668-GR&type=purchase",
       "fund_manager": "Vinit Sambre",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "dsp-dynamic-asset-allocation-fund-reg-g": {
       "name": "DSP Dynamic Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=539-GR&type=purchase",
       "fund_manager": "Rohit Singhania",
       "category": "HY-DYN",
       "rupeevestrating": 3,
@@ -266,7 +266,7 @@
     "dsp-elss-tax-saver-fund-reg-g": {
       "name": "DSP ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP110-GR&type=purchase",
       "fund_manager": "Rohit Singhania",
       "category": "EQ-ELSS",
       "rupeevestrating": 4,
@@ -309,7 +309,7 @@
     "dsp-equity-savings-fund-reg-g": {
       "name": "DSP Equity Savings Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS562-GR&type=purchase",
       "fund_manager": "Abhishek Singh",
       "category": "HY-EQ",
       "rupeevestrating": 2,
@@ -352,7 +352,7 @@
     "dsp-flexi-cap-fund-reg-g": {
       "name": "DSP Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP167-GR&type=purchase",
       "fund_manager": "Bhavin Gandhi",
       "category": "EQ-FLEX",
       "rupeevestrating": 4,
@@ -395,7 +395,7 @@
     "dsp-focused-fund-reg-g": {
       "name": "DSP Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP349-GR&type=purchase",
       "fund_manager": "Bhavin Gandhi",
       "category": "EQ-MLC",
       "rupeevestrating": 2,
@@ -438,7 +438,7 @@
     "dsp-global-clean-energy-overseas-equity-omni-fof-reg-g": {
       "name": "DSP Global Clean Energy Overseas Equity Omni FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP333-GR&type=purchase",
       "fund_manager": "Kaivalya Nadkarni",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "dsp-global-innovation-overseas-equity-omni-fof-reg-g": {
       "name": "DSP Global Innovation Overseas Equity Omni FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS623-GR&type=purchase",
       "fund_manager": "Kaivalya Nadkarni",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "dsp-gold-etf-fof-reg-g": {
       "name": "DSP Gold ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS648-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "dsp-healthcare-fund-reg-g": {
       "name": "DSP Healthcare Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS592-GR&type=purchase",
       "fund_manager": "Chirag Dagli",
       "category": "EQ-PHRM",
       "rupeevestrating": 5,
@@ -610,7 +610,7 @@
     "dsp-income-plus-arbitrage-omni-fof-reg-g": {
       "name": "DSP Income Plus Arbitrage Omni FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS542-GR&type=purchase",
       "fund_manager": "Kaivalya Nadkarni",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "dsp-india-t-i-g-e-r-fund-reg-g": {
       "name": "DSP India T.I.G.E.R Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP13-GR&type=purchase",
       "fund_manager": "Rohit Singhania",
       "category": "EQ-INFRA",
       "rupeevestrating": 3,
@@ -696,7 +696,7 @@
     "dsp-large-and-mid-cap-fund-reg-g": {
       "name": "DSP Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP66-GR&type=purchase",
       "fund_manager": "Rohit Singhania",
       "category": "EQ-L&M",
       "rupeevestrating": 3,
@@ -739,7 +739,7 @@
     "dsp-large-cap-fund-reg-g": {
       "name": "DSP Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP15-GR&type=purchase",
       "fund_manager": "Abhishek Singh",
       "category": "EQ-LC",
       "rupeevestrating": 1,
@@ -782,7 +782,7 @@
     "dsp-midcap-fund-reg-g": {
       "name": "DSP Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP104-GR&type=purchase",
       "fund_manager": "Vinit Sambre",
       "category": "EQ-MID",
       "rupeevestrating": 2,
@@ -825,7 +825,7 @@
     "dsp-multi-asset-allocation-fund-reg-g": {
       "name": "DSP Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS645-GR&type=purchase",
       "fund_manager": "Aparna Karnik",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "dsp-multicap-fund-reg-g": {
       "name": "DSP Multicap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS657-GR&type=purchase",
       "fund_manager": "Chirag Dagli",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -954,7 +954,7 @@
     "dsp-natural-res-and-new-energy-fund-reg-g": {
       "name": "DSP Natural Res & New Energy Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP232-GR&type=purchase",
       "fund_manager": "Rohit Singhania",
       "category": "EQ-POWER",
       "rupeevestrating": "Unrated",
@@ -997,7 +997,7 @@
     "dsp-nifty-50-equal-weight-index-fund-reg-g": {
       "name": "DSP Nifty 50 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS573-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": 5,
@@ -1040,7 +1040,7 @@
     "dsp-nifty-50-index-fund-reg-g": {
       "name": "DSP NIFTY 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS598-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": 3,
@@ -1169,7 +1169,7 @@
     "dsp-nifty-healthcare-index-fund-reg-g": {
       "name": "DSP Nifty Healthcare Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS684-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-PHRM",
       "rupeevestrating": "Unrated",
@@ -1212,7 +1212,7 @@
     "dsp-nifty-it-index-fund-reg-g": {
       "name": "DSP Nifty IT Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS687-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1255,7 +1255,7 @@
     "dsp-nifty-midcap-150-index-fund-reg-g": {
       "name": "DSP Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS2024-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1298,7 +1298,7 @@
     "dsp-nifty-midcap-150-quality-50-index-fund-reg-g": {
       "name": "DSP Nifty Midcap 150 Quality 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS629-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1341,7 +1341,7 @@
     "dsp-nifty-next-50-index-fund-reg-g": {
       "name": "DSP NIFTY Next 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS601-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": 3,
@@ -1384,7 +1384,7 @@
     "dsp-nifty-smallcap-250-index-fund-reg-g": {
       "name": "DSP Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS2030-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1427,7 +1427,7 @@
     "dsp-nifty-smallcap250-quality-50-index-fund-reg-g": {
       "name": "DSP Nifty Smallcap250 Quality 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS654-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1470,7 +1470,7 @@
     "dsp-nifty-top-10-equal-weight-index-fund-reg-g": {
       "name": "DSP Nifty Top 10 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS666-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1513,7 +1513,7 @@
     "dsp-nifty500-flexicap-quality-30-index-fund-reg-g": {
       "name": "DSP Nifty500 Flexicap Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS690-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1556,7 +1556,7 @@
     "dsp-quant-fund-reg-g": {
       "name": "DSP Quant Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS604-GR&type=purchase",
       "fund_manager": "Aparna Karnik",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1599,7 +1599,7 @@
     "dsp-silver-etf-fof-reg-g": {
       "name": "DSP Silver ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS678-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1642,7 +1642,7 @@
     "dsp-small-cap-fund-reg-g": {
       "name": "DSP Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP157-GR&type=purchase",
       "fund_manager": "Vinit Sambre",
       "category": "EQ-SML",
       "rupeevestrating": 3,
@@ -1685,7 +1685,7 @@
     "dsp-us-specific-debt-passive-fof-reg-g": {
       "name": "DSP US Specific Debt Passive FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS661-GR&type=purchase",
       "fund_manager": "Kaivalya Nadkarni",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -1728,7 +1728,7 @@
     "dsp-us-specific-equity-omni-fof-reg-g": {
       "name": "DSP US Specific Equity Omni FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP521-GR&type=purchase",
       "fund_manager": "Kaivalya Nadkarni",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -1771,7 +1771,7 @@
     "dsp-value-fund-reg-g": {
       "name": "DSP Value Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS607-GR&type=purchase",
       "fund_manager": "Aparna Karnik",
       "category": "EQ-VAL",
       "rupeevestrating": "Unrated",
@@ -1814,7 +1814,7 @@
     "dsp-world-gold-mining-overseas-equity-omni-fof-reg-g": {
       "name": "DSP World Gold Mining Overseas Equity Omni FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP179-GR&type=purchase",
       "fund_manager": "Kaivalya Nadkarni",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -1857,7 +1857,7 @@
     "dsp-world-mining-overseas-equity-omni-fof-reg-g": {
       "name": "DSP World Mining Overseas Equity Omni FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP341-GR&type=purchase",
       "fund_manager": "Kaivalya Nadkarni",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
