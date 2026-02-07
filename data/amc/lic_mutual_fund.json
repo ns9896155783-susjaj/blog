@@ -2,13 +2,13 @@
   "meta": {
     "amc": "LIC Mutual Fund",
     "total_schemes": 24,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "lic-mf-aggressive-hybrid-fund-g": {
       "name": "LIC MF Aggressive Hybrid Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCBLGP-GR&type=purchase",
       "fund_manager": "Karan Doshi",
       "category": "HY-EQ",
       "rupeevestrating": 3,
@@ -94,7 +94,7 @@
     "lic-mf-balanced-advantage-fund-reg-g": {
       "name": "LIC MF Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCBAGP-GR&type=purchase",
       "fund_manager": "Yogesh Patil",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "lic-mf-banking-and-financial-services-fund-reg-g": {
       "name": "LIC MF Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCBKGP-GR&type=purchase",
       "fund_manager": "Jaiprakash Toshniwal",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "lic-mf-bse-sensex-index-fund-reg-g": {
       "name": "LIC MF BSE Sensex Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCIFGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "lic-mf-consumption-fund-reg-g": {
       "name": "LIC MF Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCCNGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "lic-mf-dividend-yield-fund-reg-g": {
       "name": "LIC MF Dividend Yield Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCDYGP-GR&type=purchase",
       "fund_manager": "Dikshit Mittal",
       "category": "EQ-DIV",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "lic-mf-elss-tax-saver-reg-g": {
       "name": "LIC MF ELSS Tax Saver-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCTPGP-GR&type=purchase",
       "fund_manager": "Yogesh Patil",
       "category": "EQ-ELSS",
       "rupeevestrating": 2,
@@ -352,7 +352,7 @@
     "lic-mf-equity-savings-fund-g": {
       "name": "LIC MF Equity Savings Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCIIGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "lic-mf-flexi-cap-fund-reg-g": {
       "name": "LIC MF Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCEFGP-GR&type=purchase",
       "fund_manager": "Karan Doshi",
       "category": "EQ-FLEX",
       "rupeevestrating": 2,
@@ -438,7 +438,7 @@
     "lic-mf-focused-fund-reg-g": {
       "name": "LIC MF Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCFEGP-GR&type=purchase",
       "fund_manager": "Jaiprakash Toshniwal",
       "category": "EQ-LC",
       "rupeevestrating": 3,
@@ -481,7 +481,7 @@
     "lic-mf-gold-etf-fof-g": {
       "name": "LIC MF Gold ETF FoF(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCIGGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "lic-mf-healthcare-fund-reg-g": {
       "name": "LIC MF Healthcare Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCHCGP-GR&type=purchase",
       "fund_manager": "Karan Doshi",
       "category": "EQ-PHRM",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "lic-mf-infra-fund-reg-g": {
       "name": "LIC MF Infra Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCIRGP-GR&type=purchase",
       "fund_manager": "Yogesh Patil",
       "category": "EQ-INFRA",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "lic-mf-large-and-midcap-fund-reg-g": {
       "name": "LIC MF Large & Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCMCGP-GR&type=purchase",
       "fund_manager": "Yogesh Patil",
       "category": "EQ-L&M",
       "rupeevestrating": 2,
@@ -653,7 +653,7 @@
     "lic-mf-large-cap-fund-reg-g": {
       "name": "LIC MF Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCGFGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
       "category": "EQ-LC",
       "rupeevestrating": 2,
@@ -696,7 +696,7 @@
     "lic-mf-manufacturing-fund-reg-g": {
       "name": "LIC MF Manufacturing Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCMFGP-GR&type=purchase",
       "fund_manager": "Yogesh Patil",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -739,7 +739,7 @@
     "lic-mf-midcap-fund-reg-g": {
       "name": "LIC MF Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCIMGP-GR&type=purchase",
       "fund_manager": "Karan Doshi",
       "category": "EQ-MID",
       "rupeevestrating": 2,
@@ -782,7 +782,7 @@
     "lic-mf-multi-asset-allocation-fund-reg-g": {
       "name": "LIC MF Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCMAGP-GR&type=purchase",
       "fund_manager": "Jaiprakash Toshniwal",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -825,7 +825,7 @@
     "lic-mf-multi-cap-fund-reg-g": {
       "name": "LIC MF Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCMKGP-GR&type=purchase",
       "fund_manager": "Dikshit Mittal",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -868,7 +868,7 @@
     "lic-mf-nifty-50-index-fund-g": {
       "name": "LIC MF Nifty 50 Index Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCINNG-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "lic-mf-nifty-next-50-index-fund-g": {
       "name": "LIC MF Nifty Next 50 Index Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCNJGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -954,7 +954,7 @@
     "lic-mf-small-cap-fund-reg-g": {
       "name": "LIC MF Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCSCGP-GR&type=purchase",
       "fund_manager": "Dikshit Mittal",
       "category": "EQ-SML",
       "rupeevestrating": 2,
@@ -997,7 +997,7 @@
     "lic-mf-value-fund-reg-g": {
       "name": "LIC MF Value Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCLVGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
       "category": "EQ-VAL",
       "rupeevestrating": 2,
