@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Bajaj Finserv Mutual Fund",
     "total_schemes": 15,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "bajaj-finserv-arbitrage-fund-reg-g": {
@@ -51,7 +51,7 @@
     "bajaj-finserv-balanced-advantage-fund-reg-g": {
       "name": "Bajaj Finserv Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJBFRG-GR&type=purchase",
       "fund_manager": "Nimesh Chandan",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "bajaj-finserv-banking-and-financial-services-fund-reg-g": {
       "name": "Bajaj Finserv Banking and Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJBSRG-GR&type=purchase",
       "fund_manager": "Nimesh Chandan",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "bajaj-finserv-consumption-fund-reg-g": {
       "name": "Bajaj Finserv Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJCFRG-GR&type=purchase",
       "fund_manager": "Sorbh Gupta",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "bajaj-finserv-elss-tax-saver-fund-reg-g": {
       "name": "Bajaj Finserv ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJTFRG-GR&type=purchase",
       "fund_manager": "Nimesh Chandan",
       "category": "EQ-ELSS",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "bajaj-finserv-equity-savings-fund-reg-g": {
       "name": "Bajaj Finserv Equity Savings Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJESRG-GR&type=purchase",
       "fund_manager": "Sorbh Gupta",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "bajaj-finserv-flexi-cap-fund-reg-g": {
       "name": "Bajaj Finserv Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJFXRG-GR&type=purchase",
       "fund_manager": "Nimesh Chandan",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "bajaj-finserv-healthcare-fund-reg-g": {
       "name": "Bajaj Finserv Healthcare Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJHCRG-GR&type=purchase",
       "fund_manager": "Nimesh Chandan",
       "category": "EQ-PHRM",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "bajaj-finserv-large-and-mid-cap-fund-reg-g": {
       "name": "Bajaj Finserv Large and Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJLMRG-GR&type=purchase",
       "fund_manager": "Nimesh Chandan",
       "category": "EQ-L&M",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "bajaj-finserv-large-cap-fund-reg-g": {
       "name": "Bajaj Finserv Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJLCRG-GR&type=purchase",
       "fund_manager": "Nimesh Chandan",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "bajaj-finserv-multi-asset-allocation-fund-reg-g": {
       "name": "Bajaj Finserv Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJMARG-GR&type=purchase",
       "fund_manager": "Sorbh Gupta",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "bajaj-finserv-multi-cap-fund-reg-g": {
       "name": "Bajaj Finserv Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJMCRG-GR&type=purchase",
       "fund_manager": "Nimesh Chandan",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "bajaj-finserv-nifty-50-index-fund-reg-g": {
       "name": "Bajaj Finserv Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJNFRG-GR&type=purchase",
       "fund_manager": "Ilesh Savla",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "bajaj-finserv-nifty-next-50-index-fund-reg-g": {
       "name": "Bajaj Finserv Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJNNRG-GR&type=purchase",
       "fund_manager": "Ilesh Savla",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "bajaj-finserv-small-cap-fund-reg-g": {
       "name": "Bajaj Finserv Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJSCRG-GR&type=purchase",
       "fund_manager": "Nimesh Chandan",
       "category": "EQ-SML",
       "rupeevestrating": "Unrated",
