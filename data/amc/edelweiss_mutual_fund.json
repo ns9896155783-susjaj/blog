@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Edelweiss Mutual Fund",
     "total_schemes": 38,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "edelweiss-aggressive-hybrid-fund-reg-g": {
       "name": "Edelweiss Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDELENAGG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "edelweiss-asean-equity-off-shore-fund-reg-g": {
       "name": "Edelweiss ASEAN Equity Off-Shore Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDASGP-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "edelweiss-balanced-advantage-fund-reg-g": {
       "name": "Edelweiss Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDELARGPG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "HY-DYN",
       "rupeevestrating": 5,
@@ -180,7 +180,7 @@
     "edelweiss-bse-internet-economy-index-fund-reg-g": {
       "name": "Edelweiss BSE Internet Economy Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDBERG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "edelweiss-business-cycle-fund-reg-g": {
       "name": "Edelweiss Business Cycle Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDCYRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "edelweiss-consumption-fund-reg-g": {
       "name": "Edelweiss Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDCNRG-GR&type=purchase",
       "fund_manager": "Dhruv Bhatia",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "edelweiss-elss-tax-saver-fund-reg-g": {
       "name": "Edelweiss ELSS Tax saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDELESGP-GR&type=purchase",
       "fund_manager": "Ashwani Agarwalla",
       "category": "EQ-ELSS",
       "rupeevestrating": 3,
@@ -352,7 +352,7 @@
     "edelweiss-emerging-markets-opp-eq-offshore-fund-reg-g": {
       "name": "Edelweiss Emerging Markets Opp Eq. Offshore Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDEMGP-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "edelweiss-equity-savings-fund-reg-g": {
       "name": "Edelweiss Equity Savings Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDEIRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "HY-EQ",
       "rupeevestrating": 2,
@@ -438,7 +438,7 @@
     "edelweiss-europe-dynamic-equity-off-shore-fund-reg-g": {
       "name": "Edelweiss Europe Dynamic Equity Off-shore Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDEDGP-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "edelweiss-flexi-cap-fund-reg-g": {
       "name": "Edelweiss Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDERGP-GR&type=purchase",
       "fund_manager": "Trideep Bhattacharya",
       "category": "EQ-FLEX",
       "rupeevestrating": 3,
@@ -567,7 +567,7 @@
     "edelweiss-focused-fund-reg-g": {
       "name": "Edelweiss Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDFCRG-GR&type=purchase",
       "fund_manager": "Trideep Bhattacharya",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "edelweiss-gold-and-silver-etf-fof-reg-g": {
       "name": "Edelweiss Gold and Silver ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDGFRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "edelweiss-greater-china-equity-off-shore-fund-reg-g": {
       "name": "Edelweiss Greater China Equity Off-shore Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDGCGP-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -696,7 +696,7 @@
     "edelweiss-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Edelweiss Income Plus Arbitrage Active FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDPARG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -739,7 +739,7 @@
     "edelweiss-large-and-mid-cap-fund-reg-g": {
       "name": "Edelweiss Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDEFRG-GR&type=purchase",
       "fund_manager": "Sumanta Khan",
       "category": "EQ-L&M",
       "rupeevestrating": 4,
@@ -782,7 +782,7 @@
     "edelweiss-large-cap-fund-reg-g": {
       "name": "Edelweiss Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDELEGAGG-GR&type=purchase",
       "fund_manager": "Bharat Lahoti",
       "category": "EQ-LC",
       "rupeevestrating": 3,
@@ -825,7 +825,7 @@
     "edelweiss-mid-cap-fund-reg-g": {
       "name": "Edelweiss Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDMSRG-GR&type=purchase",
       "fund_manager": "Trideep Bhattacharya",
       "category": "EQ-MID",
       "rupeevestrating": 4,
@@ -868,7 +868,7 @@
     "edelweiss-msci-india-domestic-and-world-healthcare-45-index-fund-reg-g": {
       "name": "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDWHRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "edelweiss-multi-asset-allocation-fund-reg-g": {
       "name": "Edelweiss Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDMARG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -954,7 +954,7 @@
     "edelweiss-multi-asset-omni-fof-reg-g": {
       "name": "Edelweiss Multi Asset Omni FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDOMRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -997,7 +997,7 @@
     "edelweiss-multi-cap-fund-reg-g": {
       "name": "Edelweiss Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDMURG-GR&type=purchase",
       "fund_manager": "Trideep Bhattacharya",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -1040,7 +1040,7 @@
     "edelweiss-nifty-100-quality-30-index-fund-reg-g": {
       "name": "Edelweiss Nifty 100 Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDQURG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1083,7 +1083,7 @@
     "edelweiss-nifty-50-index-fund-reg-g": {
       "name": "Edelweiss Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDNIRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1126,7 +1126,7 @@
     "edelweiss-nifty-alpha-low-volatility-30-index-fund-reg-g": {
       "name": "Edelweiss Nifty Alpha Low Volatility 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDLVRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1169,7 +1169,7 @@
     "edelweiss-nifty-large-mid-cap-250-index-fund-reg-g": {
       "name": "Edelweiss NIFTY Large Mid Cap 250 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDLMRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1212,7 +1212,7 @@
     "edelweiss-nifty-midcap150-momentum-50-index-fund-reg-g": {
       "name": "Edelweiss Nifty Midcap150 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDMDRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1255,7 +1255,7 @@
     "edelweiss-nifty-next-50-index-fund-reg-g": {
       "name": "Edelweiss Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDNXRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1298,7 +1298,7 @@
     "edelweiss-nifty-smallcap-250-index-fund-reg-g": {
       "name": "Edelweiss Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDSIRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1341,7 +1341,7 @@
     "edelweiss-nifty500-multicap-momentum-quality-50-index-fund-reg-g": {
       "name": "Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDMQRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1384,7 +1384,7 @@
     "edelweiss-recently-listed-ipo-fund-reg-g": {
       "name": "Edelweiss Recently Listed IPO Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDMORG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "EQ-THEM",
       "rupeevestrating": 4,
@@ -1470,7 +1470,7 @@
     "edelweiss-small-cap-fund-reg-g": {
       "name": "Edelweiss Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDSCRG-GR&type=purchase",
       "fund_manager": "Dhruv Bhatia",
       "category": "EQ-SML",
       "rupeevestrating": 4,
@@ -1513,7 +1513,7 @@
     "edelweiss-technology-fund-reg-g": {
       "name": "Edelweiss Technology Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDTCRG-GR&type=purchase",
       "fund_manager": "Sumanta Khan",
       "category": "EQ-TECH",
       "rupeevestrating": "Unrated",
@@ -1556,7 +1556,7 @@
     "edelweiss-us-technology-equity-fof-reg-g": {
       "name": "Edelweiss US Technology Equity FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDUTRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -1599,7 +1599,7 @@
     "edelweiss-us-value-equity-offshore-fund-reg-g": {
       "name": "Edelweiss US Value Equity Offshore Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDUSRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
