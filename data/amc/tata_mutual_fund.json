@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Tata Mutual Fund",
     "total_schemes": 46,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:02"
   },
   "schemes": {
     "tata-aggressive-hybrid-fund-reg-g": {
       "name": "Tata Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BFG-TATA-DP&type=purchase",
       "fund_manager": "Satish Chandra Mishra",
       "category": "HY-EQ",
       "rupeevestrating": 3,
@@ -94,7 +94,7 @@
     "tata-balanced-adv-fund-reg-g": {
       "name": "Tata Balanced Adv Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TABAFG-GR&type=purchase",
       "fund_manager": "Rahul Singh (Tata)",
       "category": "HY-DYN",
       "rupeevestrating": 4,
@@ -137,7 +137,7 @@
     "tata-banking-and-financial-services-fund-reg-g": {
       "name": "Tata Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TABSG-GR&type=purchase",
       "fund_manager": "Kapil Malhotra",
       "category": "EQ-FIN",
       "rupeevestrating": 2,
@@ -180,7 +180,7 @@
     "tata-bse-multicap-consumption-50-30-20-index-fund-reg-g": {
       "name": "Tata BSE Multicap Consumption 50:30:20 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TABMCG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "tata-bse-quality-index-fund-reg-g": {
       "name": "Tata BSE Quality Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAQIG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "tata-bse-select-business-groups-index-fund-reg-g": {
       "name": "Tata BSE Select Business Groups Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TASBG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "tata-bse-sensex-index-fund-reg-g": {
       "name": "Tata BSE Sensex Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAISA-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": 1,
@@ -352,7 +352,7 @@
     "tata-business-cycle-fund-reg-g": {
       "name": "Tata Business Cycle Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TABCG-GR&type=purchase",
       "fund_manager": "Rahul Singh (Tata)",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "tata-digital-india-fund-reg-g": {
       "name": "Tata Digital India Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TADIFG-GR&type=purchase",
       "fund_manager": "Meeta Shetty",
       "category": "EQ-TECH",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "tata-dividend-yield-fund-reg-g": {
       "name": "Tata Dividend Yield Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAYFG-GR&type=purchase",
       "fund_manager": "Sailesh Jain",
       "category": "EQ-DIV",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "tata-elss-fund-reg-g": {
       "name": "Tata ELSS Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TATSFG-GR&type=purchase",
       "fund_manager": "Sailesh Jain",
       "category": "EQ-ELSS",
       "rupeevestrating": 2,
@@ -524,7 +524,7 @@
     "tata-equity-savings-fund-reg-g": {
       "name": "Tata Equity Savings Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IFMG&type=purchase",
       "fund_manager": "Sailesh Jain",
       "category": "HY-EQ",
       "rupeevestrating": 2,
@@ -567,7 +567,7 @@
     "tata-ethical-fund-reg-g": {
       "name": "Tata Ethical Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SSF&type=purchase",
       "fund_manager": "Abhinav Sharma",
       "category": "EQ-THEM",
       "rupeevestrating": 4,
@@ -610,7 +610,7 @@
     "tata-flexi-cap-fund-reg-g": {
       "name": "Tata Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAMTCG-GR&type=purchase",
       "fund_manager": "Anand Sharma",
       "category": "EQ-FLEX",
       "rupeevestrating": 2,
@@ -653,7 +653,7 @@
     "tata-focused-fund-reg-g": {
       "name": "Tata Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAFEG-GR&type=purchase",
       "fund_manager": "Anand Sharma",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -696,7 +696,7 @@
     "tata-gold-etf-fof-reg-g": {
       "name": "Tata Gold ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAGOG-GR&type=purchase",
       "fund_manager": "Tapan Patel",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -739,7 +739,7 @@
     "tata-housing-opportunities-fund-reg-g": {
       "name": "Tata Housing Opportunities Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAHOG-GR&type=purchase",
       "fund_manager": "Murthy Nagarajan",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -782,7 +782,7 @@
     "tata-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Tata Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAAAG-GR&type=purchase",
       "fund_manager": "Sailesh Jain",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -825,7 +825,7 @@
     "tata-india-consumer-fund-reg-g": {
       "name": "Tata India Consumer Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAICFG-GR&type=purchase",
       "fund_manager": "Sonam Udasi",
       "category": "EQ-CONS",
       "rupeevestrating": 2,
@@ -868,7 +868,7 @@
     "tata-india-innovation-fund-reg-g": {
       "name": "Tata India Innovation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAING-GR&type=purchase",
       "fund_manager": "Meeta Shetty",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "tata-india-pharma-and-healthcare-fund-reg-g": {
       "name": "Tata India Pharma & Healthcare Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAIPHG-GR&type=purchase",
       "fund_manager": "Rajat Srivastava",
       "category": "EQ-PHRM",
       "rupeevestrating": 1,
@@ -954,7 +954,7 @@
     "tata-infrastructure-fund-reg-g": {
       "name": "Tata Infrastructure Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TUITGPG-GR&type=purchase",
       "fund_manager": "Abhinav Sharma",
       "category": "EQ-INFRA",
       "rupeevestrating": 3,
@@ -997,7 +997,7 @@
     "tata-large-and-mid-cap-fund-reg-g": {
       "name": "Tata Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EOG&type=purchase",
       "fund_manager": "Chandraprakash Padiyar",
       "category": "EQ-L&M",
       "rupeevestrating": 2,
@@ -1040,7 +1040,7 @@
     "tata-large-cap-fund-reg-g": {
       "name": "Tata Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PEF&type=purchase",
       "fund_manager": "Abhinav Sharma",
       "category": "EQ-LC",
       "rupeevestrating": 3,
@@ -1083,7 +1083,7 @@
     "tata-mid-cap-fund-reg-g": {
       "name": "Tata Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=GROG&type=purchase",
       "fund_manager": "Satish Chandra Mishra",
       "category": "EQ-MID",
       "rupeevestrating": 3,
@@ -1126,7 +1126,7 @@
     "tata-multi-asset-allocation-fund-reg-g": {
       "name": "Tata Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAMAG-GR&type=purchase",
       "fund_manager": "Rahul Singh (Tata)",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -1169,7 +1169,7 @@
     "tata-multicap-fund-reg-g": {
       "name": "Tata Multicap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAMLG-GR&type=purchase",
       "fund_manager": "Meeta Shetty",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -1212,7 +1212,7 @@
     "tata-nifty-50-index-fund-reg-g": {
       "name": "Tata NIFTY 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAINA-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": 3,
@@ -1255,7 +1255,7 @@
     "tata-nifty-auto-index-fund-reg-g": {
       "name": "Tata Nifty Auto Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAAIG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-AUTO",
       "rupeevestrating": "Unrated",
@@ -1298,7 +1298,7 @@
     "tata-nifty-capital-markets-index-fund-reg-g": {
       "name": "Tata Nifty Capital Markets Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TACMG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1341,7 +1341,7 @@
     "tata-nifty-financial-services-index-fund-reg-g": {
       "name": "Tata Nifty Financial Services Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TANFG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1384,7 +1384,7 @@
     "tata-nifty-india-digital-etf-fof-reg-g": {
       "name": "Tata Nifty India Digital ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAFOG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1427,7 +1427,7 @@
     "tata-nifty-india-tourism-index-fund-reg-g": {
       "name": "Tata Nifty India Tourism Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TATOG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1470,7 +1470,7 @@
     "tata-nifty-midcap-150-index-fund-reg-g": {
       "name": "Tata Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAM1G-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1513,7 +1513,7 @@
     "tata-nifty-midcap-150-momentum-50-index-fund-reg-g": {
       "name": "Tata Nifty Midcap 150 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TANMG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1556,7 +1556,7 @@
     "tata-nifty-midsmall-healthcare-index-fund-reg-g": {
       "name": "Tata Nifty MidSmall Healthcare Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAMSG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1599,7 +1599,7 @@
     "tata-nifty-next-50-index-fund-reg-g": {
       "name": "Tata Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSLNNGR-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1642,7 +1642,7 @@
     "tata-nifty-realty-index-fund-reg-g": {
       "name": "Tata Nifty Realty Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TARIG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1685,7 +1685,7 @@
     "tata-nifty200-alpha-30-index-fund-reg-g": {
       "name": "Tata Nifty200 Alpha 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAALG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1728,7 +1728,7 @@
     "tata-nifty500-multicap-india-manufacturing-50-30-20-index-fund-reg-g": {
       "name": "Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAMNG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1771,7 +1771,7 @@
     "tata-nifty500-multicap-infrastructure-50-30-20-index-fund-reg-g": {
       "name": "Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TANIG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1814,7 +1814,7 @@
     "tata-resources-and-energy-fund-reg-g": {
       "name": "Tata Resources & Energy Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAREFG-GR&type=purchase",
       "fund_manager": "Satish Chandra Mishra",
       "category": "EQ-POWER",
       "rupeevestrating": "Unrated",
@@ -1857,7 +1857,7 @@
     "tata-silver-etf-fof-reg-g": {
       "name": "Tata Silver ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TASLG-GR&type=purchase",
       "fund_manager": "Tapan Patel",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1900,7 +1900,7 @@
     "tata-small-cap-fund-reg-g": {
       "name": "Tata Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TASCFG-GR&type=purchase",
       "fund_manager": "Chandraprakash Padiyar",
       "category": "EQ-SML",
       "rupeevestrating": 3,
@@ -1943,7 +1943,7 @@
     "tata-value-fund-g": {
       "name": "Tata Value Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EPEG&type=purchase",
       "fund_manager": "Sonam Udasi",
       "category": "EQ-VAL",
       "rupeevestrating": 1,
