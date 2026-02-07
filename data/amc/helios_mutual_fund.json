@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Helios Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "helios-balanced-advantage-fund-reg-g": {
       "name": "Helios Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HOHBARG-GR&type=purchase",
       "fund_manager": "Alok Bahl",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "helios-financial-services-fund-reg-g": {
       "name": "Helios Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HOHFSRG-GR&type=purchase",
       "fund_manager": "Alok Bahl",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "helios-flexi-cap-fund-reg-g": {
       "name": "Helios Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HOHFCRG-GR&type=purchase",
       "fund_manager": "Alok Bahl",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "helios-large-and-mid-cap-fund-reg-g": {
       "name": "Helios Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HOHLMRG-GR&type=purchase",
       "fund_manager": "Alok Bahl",
       "category": "EQ-L&M",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "helios-mid-cap-fund-reg-g": {
       "name": "Helios Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HOHMCRG-GR&type=purchase",
       "fund_manager": "Alok Bahl",
       "category": "EQ-MID",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "helios-small-cap-fund-reg-g": {
       "name": "Helios Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HOHSCRG-GR&type=purchase",
       "fund_manager": "Alok Bahl",
       "category": "EQ-SML",
       "rupeevestrating": "Unrated",
