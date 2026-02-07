@@ -2,7 +2,7 @@
   "meta": {
     "amc": "WOC Mutual Fund",
     "total_schemes": 17,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:02"
   },
   "schemes": {
     "woc-arbitrage-fund-reg-g": {
@@ -51,7 +51,7 @@
     "woc-balanced-advantage-fund-reg-g": {
       "name": "WOC Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE104G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "woc-balanced-hybrid-fund-reg-g": {
       "name": "WOC Balanced Hybrid Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE107G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "woc-banking-and-financial-services-fund-reg-g": {
       "name": "WOC Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE109G-GR&type=purchase",
       "fund_manager": "Trupti Agrawal",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "woc-elss-tax-saver-fund-reg-g": {
       "name": "WOC ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE102G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-ELSS",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "woc-equity-savings-fund-reg-g": {
       "name": "WOC Equity Savings Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE116G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "woc-esg-best-in-class-strategy-fund-reg-g": {
       "name": "WOC ESG Best-In-Class Strategy Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE114G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "woc-flexi-cap-fund-reg-g": {
       "name": "WOC Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE1035-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "woc-large-and-mid-cap-fund-reg-g": {
       "name": "WOC Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE108G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-L&M",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "woc-large-cap-fund-reg-g": {
       "name": "WOC Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE103G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "woc-mid-cap-fund-reg-g": {
       "name": "WOC Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE101G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-MID",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "woc-multi-asset-allocation-fund-reg-g": {
       "name": "WOC Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE105G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "woc-multi-cap-fund-reg-g": {
       "name": "WOC Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE106G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "woc-pharma-and-healthcare-fund-reg-g": {
       "name": "WOC Pharma and Healthcare Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE110G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-PHRM",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "woc-quality-equity-fund-reg-g": {
       "name": "WOC Quality Equity Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE115G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -696,7 +696,7 @@
     "woc-special-opp-fund-reg-g": {
       "name": "WOC Special Opp Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE111G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
