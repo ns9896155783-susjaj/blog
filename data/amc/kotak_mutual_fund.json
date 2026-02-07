@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Kotak Mutual Fund",
     "total_schemes": 62,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "kotak-active-momentum-fund-reg-g": {
       "name": "Kotak Active Momentum Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1269-GR&type=purchase",
       "fund_manager": "Rohit Tandon",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "kotak-balanced-advantage-fund-reg-g": {
       "name": "Kotak Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO477-GR&type=purchase",
       "fund_manager": "Rohit Tandon",
       "category": "HY-DYN",
       "rupeevestrating": 3,
@@ -180,7 +180,7 @@
     "kotak-banking-and-financial-services-fund-reg-g": {
       "name": "Kotak Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO286-GR&type=purchase",
       "fund_manager": "Shibani Kurian",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "kotak-bse-housing-index-fund-reg-g": {
       "name": "Kotak BSE Housing Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1195-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "kotak-bse-psu-index-fund-reg-g": {
       "name": "Kotak BSE PSU Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1231-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "kotak-bse-sensex-index-fund-reg-g": {
       "name": "Kotak BSE Sensex Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1251-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "kotak-business-cycle-fund-reg-g": {
       "name": "Kotak Business Cycle Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO274-GR&type=purchase",
       "fund_manager": "Harish Bihani",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "kotak-consumption-fund-reg-g": {
       "name": "Kotak Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1201-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "kotak-contra-fund-reg-g": {
       "name": "Kotak Contra Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K124C-GR&type=purchase",
       "fund_manager": "Shibani Kurian",
       "category": "EQ-VAL",
       "rupeevestrating": 2,
@@ -524,7 +524,7 @@
     "kotak-elss-tax-saver-fund-g": {
       "name": "Kotak ELSS Tax Saver Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K144TS-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
       "category": "EQ-ELSS",
       "rupeevestrating": 3,
@@ -567,7 +567,7 @@
     "kotak-energy-opportunities-fund-reg-g": {
       "name": "Kotak Energy Opportunities Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1261-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
       "category": "EQ-POWER",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "kotak-equity-savings-fund-g": {
       "name": "Kotak Equity Savings Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KM35-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "HY-EQ",
       "rupeevestrating": 2,
@@ -653,7 +653,7 @@
     "kotak-esg-exclusionary-strategy-fund-reg-g": {
       "name": "Kotak ESG Exclusionary Strategy Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO489-GR&type=purchase",
       "fund_manager": "Mandar Pawar",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -696,7 +696,7 @@
     "kotak-flexicap-fund-g": {
       "name": "Kotak Flexicap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K168SF-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
       "category": "EQ-FLEX",
       "rupeevestrating": 2,
@@ -739,7 +739,7 @@
     "kotak-focused-fund-reg-g": {
       "name": "Kotak Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO485-GR&type=purchase",
       "fund_manager": "Shibani Kurian",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -782,7 +782,7 @@
     "kotak-global-emerging-market-overseas-equity-omni-fof-g": {
       "name": "Kotak Global Emerging Market Overseas Equity Omni FOF(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K143-GR&type=purchase",
       "fund_manager": "Arjun Khanna",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -825,7 +825,7 @@
     "kotak-global-innovation-overseas-equity-omni-fof-reg-g": {
       "name": "Kotak Global Innovation Overseas Equity Omni FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO498-GR&type=purchase",
       "fund_manager": "Arjun Khanna",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -868,7 +868,7 @@
     "kotak-gold-fund-g": {
       "name": "Kotak Gold Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K46G-GR&type=purchase",
       "fund_manager": "Abhishek Bisen",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "kotak-gold-silver-passive-fof-reg-g": {
       "name": "Kotak Gold Silver Passive FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1275-GR&type=purchase",
       "fund_manager": "Rohit Tandon",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -954,7 +954,7 @@
     "kotak-healthcare-fund-reg-g": {
       "name": "Kotak Healthcare Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1205-GR&type=purchase",
       "fund_manager": "Shibani Kurian",
       "category": "EQ-PHRM",
       "rupeevestrating": "Unrated",
@@ -997,7 +997,7 @@
     "kotak-income-plus-arbitrage-omni-fof-reg-g": {
       "name": "Kotak Income Plus Arbitrage Omni FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO280-GR&type=purchase",
       "fund_manager": "Abhishek Bisen",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1040,7 +1040,7 @@
     "kotak-infra-and-eco-reform-fund-g": {
       "name": "Kotak Infra & Eco Reform Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO03G-GR&type=purchase",
       "fund_manager": "Nalin Rasik Bhatt",
       "category": "EQ-INFRA",
       "rupeevestrating": 3,
@@ -1083,7 +1083,7 @@
     "kotak-international-reit-overseas-equity-omni-fof-reg-g": {
       "name": "Kotak International REIT Overseas Equity Omni FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO491-GR&type=purchase",
       "fund_manager": "Arjun Khanna",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -1126,7 +1126,7 @@
     "kotak-large-and-midcap-fund-g": {
       "name": "Kotak Large & Midcap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K108O-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
       "category": "EQ-L&M",
       "rupeevestrating": 3,
@@ -1169,7 +1169,7 @@
     "kotak-large-cap-fund-g": {
       "name": "Kotak Large Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K133U-GR&type=purchase",
       "fund_manager": "Rohit Tandon",
       "category": "EQ-LC",
       "rupeevestrating": 4,
@@ -1212,7 +1212,7 @@
     "kotak-manufacture-in-india-fund-reg-g": {
       "name": "Kotak Manufacture in India Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO265-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1255,7 +1255,7 @@
     "kotak-midcap-fund-reg-g": {
       "name": "Kotak Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K123-GR&type=purchase",
       "fund_manager": "Atul Bhole",
       "category": "EQ-MID",
       "rupeevestrating": 4,
@@ -1298,7 +1298,7 @@
     "kotak-mnc-fund-reg-g": {
       "name": "Kotak MNC Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1241-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
       "category": "EQ-MNC",
       "rupeevestrating": "Unrated",
@@ -1341,7 +1341,7 @@
     "kotak-multi-asset-allocation-fund-reg-g": {
       "name": "Kotak Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1197-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -1384,7 +1384,7 @@
     "kotak-multi-asset-omni-fof-g": {
       "name": "Kotak Multi Asset Omni FOF(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K107EFOF-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1427,7 +1427,7 @@
     "kotak-multicap-fund-reg-g": {
       "name": "Kotak Multicap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1155-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -1470,7 +1470,7 @@
     "kotak-nifty-100-equal-weight-index-fund-reg-g": {
       "name": "Kotak Nifty 100 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1245-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1513,7 +1513,7 @@
     "kotak-nifty-100-low-volatility-30-index-fund-reg-g": {
       "name": "Kotak NIFTY 100 Low Volatility 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1227-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1556,7 +1556,7 @@
     "kotak-nifty-200-momentum-30-index-fund-reg-g": {
       "name": "Kotak Nifty 200 Momentum 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO295-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1599,7 +1599,7 @@
     "kotak-nifty-200-quality-30-index-fund-reg-g": {
       "name": "Kotak Nifty 200 Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1265-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1642,7 +1642,7 @@
     "kotak-nifty-50-equal-weight-index-fund-reg-g": {
       "name": "Kotak Nifty 50 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1247-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1685,7 +1685,7 @@
     "kotak-nifty-50-index-fund-reg-g": {
       "name": "Kotak Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO496-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1728,7 +1728,7 @@
     "kotak-nifty-alpha-50-index-fund-reg-g": {
       "name": "Kotak Nifty Alpha 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1271-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1771,7 +1771,7 @@
     "kotak-nifty-commodities-index-fund-reg-g": {
       "name": "Kotak Nifty Commodities Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1255-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1814,7 +1814,7 @@
     "kotak-nifty-india-tourism-index-fund-reg-g": {
       "name": "Kotak Nifty India Tourism Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1235-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1857,7 +1857,7 @@
     "kotak-nifty-midcap-150-index-fund-reg-g": {
       "name": "Kotak Nifty Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1233-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1900,7 +1900,7 @@
     "kotak-nifty-midcap-150-momentum-50-index-fund-reg-g": {
       "name": "Kotak NIFTY Midcap 150 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1239-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1943,7 +1943,7 @@
     "kotak-nifty-midcap-50-index-fund-reg-g": {
       "name": "Kotak NIFTY Midcap 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1233-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1986,7 +1986,7 @@
     "kotak-nifty-next-50-index-fund-reg-g": {
       "name": "Kotak Nifty Next 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO494-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -2029,7 +2029,7 @@
     "kotak-nifty-smallcap-250-index-fund-reg-g": {
       "name": "Kotak Nifty Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1249-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -2072,7 +2072,7 @@
     "kotak-nifty-smallcap-50-index-fund-reg-g": {
       "name": "Kotak Nifty Smallcap 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO293-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -2115,7 +2115,7 @@
     "kotak-nifty-top-10-equal-weight-index-fund-reg-g": {
       "name": "Kotak Nifty Top 10 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1263-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -2201,7 +2201,7 @@
     "kotak-nifty500-momentum-50-index-fund-reg-g": {
       "name": "Kotak Nifty500 Momentum 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1278-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -2244,7 +2244,7 @@
     "kotak-pioneer-fund-reg-g": {
       "name": "Kotak Pioneer Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO487-GR&type=purchase",
       "fund_manager": "Harish Bihani",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -2287,7 +2287,7 @@
     "kotak-quant-fund-reg-g": {
       "name": "Kotak Quant Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO297-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -2330,7 +2330,7 @@
     "kotak-rural-opportunities-fund-reg-g": {
       "name": "Kotak Rural Opportunities Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1276-GR&type=purchase",
       "fund_manager": "Arjun Khanna",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -2416,7 +2416,7 @@
     "kotak-silver-etf-fof-reg-g": {
       "name": "Kotak Silver ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO290-GR&type=purchase",
       "fund_manager": "Jeetu Valechha Sonar",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -2459,7 +2459,7 @@
     "kotak-small-cap-fund-g": {
       "name": "Kotak Small Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K104M-GR&type=purchase",
       "fund_manager": "Harish Bihani",
       "category": "EQ-SML",
       "rupeevestrating": 4,
@@ -2502,7 +2502,7 @@
     "kotak-special-opportunities-fund-reg-g": {
       "name": "Kotak Special Opportunities Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1229-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -2545,7 +2545,7 @@
     "kotak-technology-fund-reg-g": {
       "name": "Kotak Technology Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1215-GR&type=purchase",
       "fund_manager": "Shibani Kurian",
       "category": "EQ-TECH",
       "rupeevestrating": "Unrated",
@@ -2588,7 +2588,7 @@
     "kotak-transportation-and-logistics-fund-reg-g": {
       "name": "Kotak Transportation & Logistics Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1243-GR&type=purchase",
       "fund_manager": "Nalin Rasik Bhatt",
       "category": "EQ-AUTO",
       "rupeevestrating": "Unrated",
@@ -2631,7 +2631,7 @@
     "kotak-us-specific-equity-passive-fof-reg-g": {
       "name": "Kotak US Specific Equity Passive FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO493-GR&type=purchase",
       "fund_manager": "Arjun Khanna",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
