@@ -2,7 +2,7 @@
   "meta": {
     "amc": "HDFC Mutual Fund",
     "total_schemes": 52,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "hdfc-arbitrage-wp-g": {
@@ -51,7 +51,7 @@
     "hdfc-balanced-advantage-fund-g": {
       "name": "HDFC Balanced Advantage Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=GFG-HDFC&type=purchase",
       "fund_manager": "Gopal Agrawal",
       "category": "HY-DYN",
       "rupeevestrating": 4,
@@ -94,7 +94,7 @@
     "hdfc-banking-and-financial-services-fund-reg-g": {
       "name": "HDFC Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDBFRGR-GR&type=purchase",
       "fund_manager": "Anand Laddha",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "hdfc-bse-500-index-fund-reg-g": {
       "name": "HDFC BSE 500 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDSP5RG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "hdfc-bse-india-sector-leaders-index-fund-reg-g": {
       "name": "HDFC BSE India Sector Leaders Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHBSRG-GR&type=purchase",
       "fund_manager": "Nandita Menezes",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "hdfc-bse-sensex-index-fund-g-post-addendum": {
       "name": "HDFC BSE Sensex Index Fund(G)(Post Addendum)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INSP-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": 2,
@@ -266,7 +266,7 @@
     "hdfc-business-cycle-fund-reg-g": {
       "name": "HDFC Business Cycle Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHBRGR-GR&type=purchase",
       "fund_manager": "Rahul Baijal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "hdfc-defence-fund-reg-g": {
       "name": "HDFC Defence Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHDRGR-GR&type=purchase",
       "fund_manager": "Rahul Baijal",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "hdfc-developed-world-overseas-equity-passive-fof-reg-g": {
       "name": "HDFC Developed World Overseas Equity Passive FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHDWRG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "hdfc-diversified-equity-all-cap-active-fof-reg-g": {
       "name": "HDFC Diversified Equity All Cap Active FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHARGR-GR&type=purchase",
       "fund_manager": "Srinivasan Ramamurthy",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "hdfc-dividend-yield-fund-reg-g": {
       "name": "HDFC Dividend Yield Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDDYRGR-GR&type=purchase",
       "fund_manager": "Gopal Agrawal",
       "category": "EQ-DIV",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "hdfc-elss-tax-saver-g": {
       "name": "HDFC ELSS Tax saver(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=32&type=purchase",
       "fund_manager": "Amar Kalkundrikar",
       "category": "EQ-ELSS",
       "rupeevestrating": 2,
@@ -524,7 +524,7 @@
     "hdfc-equity-savings-fund-g": {
       "name": "HDFC Equity Savings Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDMULG-GR&type=purchase",
       "fund_manager": "Srinivasan Ramamurthy",
       "category": "HY-EQ",
       "rupeevestrating": 2,
@@ -567,7 +567,7 @@
     "hdfc-flexi-cap-fund-g": {
       "name": "HDFC Flexi Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=2&type=purchase",
       "fund_manager": "Amit Ganatra",
       "category": "EQ-FLEX",
       "rupeevestrating": 3,
@@ -610,7 +610,7 @@
     "hdfc-focused-fund-reg-g": {
       "name": "HDFC Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CORG&type=purchase",
       "fund_manager": "Amit Ganatra",
       "category": "EQ-MLC",
       "rupeevestrating": 2,
@@ -653,7 +653,7 @@
     "hdfc-gold-etf-fof-g": {
       "name": "HDFC Gold ETF FoF(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDFCGFOF-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -696,7 +696,7 @@
     "hdfc-housing-opp-fund-reg-g": {
       "name": "HDFC Housing Opp Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHO1GR-GR&type=purchase",
       "fund_manager": "Srinivasan Ramamurthy",
       "category": "EQ-INFRA",
       "rupeevestrating": 1,
@@ -739,7 +739,7 @@
     "hdfc-hybrid-equity-fund-g": {
       "name": "HDFC Hybrid Equity Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PREG&type=purchase",
       "fund_manager": "Anupam Joshi",
       "category": "HY-EQ",
       "rupeevestrating": 4,
@@ -782,7 +782,7 @@
     "hdfc-income-plus-arbitrage-active-fof-reg-g": {
       "name": "HDFC Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDMAGPG-GR&type=purchase",
       "fund_manager": "Anil Bamboli",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -825,7 +825,7 @@
     "hdfc-infrastructure-fund-g": {
       "name": "HDFC Infrastructure Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDFCINFG-GR&type=purchase",
       "fund_manager": "Ashish Shah",
       "category": "EQ-INFRA",
       "rupeevestrating": 1,
@@ -868,7 +868,7 @@
     "hdfc-innovation-fund-reg-g": {
       "name": "HDFC Innovation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHERGR-GR&type=purchase",
       "fund_manager": "Amit Sinha",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "hdfc-large-and-mid-cap-fund-reg-g": {
       "name": "HDFC Large and Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDGFGPG-GR&type=purchase",
       "fund_manager": "Gopal Agrawal",
       "category": "EQ-L&M",
       "rupeevestrating": 4,
@@ -954,7 +954,7 @@
     "hdfc-large-cap-fund-g": {
       "name": "HDFC Large Cap Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=44&type=purchase",
       "fund_manager": "Rahul Baijal",
       "category": "EQ-LC",
       "rupeevestrating": 1,
@@ -997,7 +997,7 @@
     "hdfc-manufacturing-fund-reg-g": {
       "name": "HDFC Manufacturing Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHFRGR-GR&type=purchase",
       "fund_manager": "Rakesh Sethia",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -1040,7 +1040,7 @@
     "hdfc-mid-cap-fund-reg-g": {
       "name": "HDFC Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDFCMCOG-GR&type=purchase",
       "fund_manager": "Chirag Setalvad",
       "category": "EQ-MID",
       "rupeevestrating": 3,
@@ -1083,7 +1083,7 @@
     "hdfc-mnc-fund-reg-g": {
       "name": "HDFC MNC Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHMRGR-GR&type=purchase",
       "fund_manager": "Rahul Baijal",
       "category": "EQ-MNC",
       "rupeevestrating": "Unrated",
@@ -1126,7 +1126,7 @@
     "hdfc-multi-cap-fund-reg-g": {
       "name": "HDFC Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHMCRG-GR&type=purchase",
       "fund_manager": "Amar Kalkundrikar",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -1169,7 +1169,7 @@
     "hdfc-multi-asset-active-fof-reg-g": {
       "name": "HDFC Multi-Asset Active FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDAARGR-GR&type=purchase",
       "fund_manager": "Srinivasan Ramamurthy",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1255,7 +1255,7 @@
     "hdfc-nifty-100-equal-weight-index-fund-reg-g": {
       "name": "HDFC NIFTY 100 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HD200RG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1298,7 +1298,7 @@
     "hdfc-nifty-100-index-fund-reg-g": {
       "name": "HDFC NIFTY 100 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HD100RG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1341,7 +1341,7 @@
     "hdfc-nifty-50-index-fund-g-post-addendum": {
       "name": "HDFC Nifty 50 Index Fund(G)(Post Addendum)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INNP-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": 4,
@@ -1427,7 +1427,7 @@
     "hdfc-nifty-india-digital-index-fund-reg-g": {
       "name": "HDFC Nifty India Digital Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHIDRG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1470,7 +1470,7 @@
     "hdfc-nifty-largemidcap-250-index-fund-reg-g": {
       "name": "HDFC Nifty LargeMidcap 250 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHLMRG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1513,7 +1513,7 @@
     "hdfc-nifty-midcap-150-index-fund-reg-g": {
       "name": "HDFC NIFTY Midcap 150 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDMC1RG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1556,7 +1556,7 @@
     "hdfc-nifty-next-50-index-fund-reg-g": {
       "name": "HDFC NIFTY Next 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDNNIRG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1599,7 +1599,7 @@
     "hdfc-nifty-realty-index-fund-reg-g": {
       "name": "HDFC NIFTY Realty Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHRIRG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1642,7 +1642,7 @@
     "hdfc-nifty-smallcap-250-index-fund-reg-g": {
       "name": "HDFC NIFTY Smallcap 250 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDSC2RG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1685,7 +1685,7 @@
     "hdfc-nifty-top-20-equal-weight-index-fund-reg-g": {
       "name": "HDFC Nifty Top 20 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHNERG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1728,7 +1728,7 @@
     "hdfc-nifty100-low-volatility-30-index-fund-reg-g": {
       "name": "HDFC NIFTY100 Low Volatility 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHLVRG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1771,7 +1771,7 @@
     "hdfc-nifty100-quality-30-index-fund-reg-g": {
       "name": "HDFC Nifty100 Quality 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHNQRG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1814,7 +1814,7 @@
     "hdfc-nifty200-momentum-30-index-fund-reg-g": {
       "name": "HDFC NIFTY200 Momentum 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHNMRG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1857,7 +1857,7 @@
     "hdfc-nifty50-equal-weight-index-fund-reg-g": {
       "name": "HDFC NIFTY50 Equal Weight Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HD200RG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1900,7 +1900,7 @@
     "hdfc-nifty500-multicap-50-25-25-index-fund-reg-g": {
       "name": "HDFC Nifty500 Multicap 50:25:25 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHMURG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1943,7 +1943,7 @@
     "hdfc-non-cyclical-consumer-fund-reg-g": {
       "name": "HDFC Non-Cyclical Consumer Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHCRGR-GR&type=purchase",
       "fund_manager": "Amit Sinha",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -1986,7 +1986,7 @@
     "hdfc-pharma-and-healthcare-fund-reg-g": {
       "name": "HDFC Pharma and Healthcare Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHPRGR-GR&type=purchase",
       "fund_manager": "Nikhil Mathur",
       "category": "EQ-PHRM",
       "rupeevestrating": "Unrated",
@@ -2029,7 +2029,7 @@
     "hdfc-silver-etf-fof-reg-g": {
       "name": "HDFC Silver ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDSLFRG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -2072,7 +2072,7 @@
     "hdfc-small-cap-fund-reg-g": {
       "name": "HDFC Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDACGPG-GR&type=purchase",
       "fund_manager": "Chirag Setalvad",
       "category": "EQ-SML",
       "rupeevestrating": 2,
@@ -2115,7 +2115,7 @@
     "hdfc-technology-fund-reg-g": {
       "name": "HDFC Technology Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHIRGR-GR&type=purchase",
       "fund_manager": "Balakumar B",
       "category": "EQ-TECH",
       "rupeevestrating": "Unrated",
@@ -2158,7 +2158,7 @@
     "hdfc-transportation-and-logistics-fund-reg-g": {
       "name": "HDFC Transportation and Logistics Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDHTRGR-GR&type=purchase",
       "fund_manager": "Priya Ranjan",
       "category": "EQ-AUTO",
       "rupeevestrating": "Unrated",
@@ -2201,7 +2201,7 @@
     "hdfc-value-fund-reg-g": {
       "name": "HDFC Value Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=62&type=purchase",
       "fund_manager": "Anand Laddha",
       "category": "EQ-VAL",
       "rupeevestrating": 2,
