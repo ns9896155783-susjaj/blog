@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Mahindra Manulife Mutual Fund",
     "total_schemes": 21,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "mahindra-manulife-aggressive-hybrid-fund-reg-g": {
       "name": "Mahindra Manulife Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMHERG-GR&type=purchase",
       "fund_manager": "Fatema Pacha",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "mahindra-manulife-asia-pacific-reits-fof-reg-g": {
       "name": "Mahindra Manulife Asia Pacific REITs FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMAPRG-GR&type=purchase",
       "fund_manager": "Krishna Sanghavi",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "mahindra-manulife-balanced-advantage-fund-reg-g": {
       "name": "Mahindra Manulife Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMBARG-GR&type=purchase",
       "fund_manager": "Fatema Pacha",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "mahindra-manulife-banking-and-financial-services-fund-reg-g": {
       "name": "Mahindra Manulife Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMBFRG-GR&type=purchase",
       "fund_manager": "Vishal Jajoo",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "mahindra-manulife-business-cycle-fund-reg-g": {
       "name": "Mahindra Manulife Business Cycle Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHBCFRG-GR&type=purchase",
       "fund_manager": "Krishna Sanghavi",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "mahindra-manulife-consumption-fund-reg-g": {
       "name": "Mahindra Manulife Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMRBRG-GR&type=purchase",
       "fund_manager": "Navin Matta",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "mahindra-manulife-elss-tax-saver-fund-reg-g": {
       "name": "Mahindra Manulife ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMKYRG-GR&type=purchase",
       "fund_manager": "Fatema Pacha",
       "category": "EQ-ELSS",
       "rupeevestrating": 4,
@@ -352,7 +352,7 @@
     "mahindra-manulife-equity-savings-fund-reg-g": {
       "name": "Mahindra Manulife Equity Savings Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMDYRG-GR&type=purchase",
       "fund_manager": "Renjith Sivaram",
       "category": "HY-EQ",
       "rupeevestrating": 3,
@@ -395,7 +395,7 @@
     "mahindra-manulife-flexi-cap-fund-reg-g": {
       "name": "Mahindra Manulife Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMFCRG-GR&type=purchase",
       "fund_manager": "Fatema Pacha",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "mahindra-manulife-focused-fund-reg-g": {
       "name": "Mahindra Manulife Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMFERG-GR&type=purchase",
       "fund_manager": "Krishna Sanghavi",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "mahindra-manulife-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Mahindra Manulife Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMAARG-GR&type=purchase",
       "fund_manager": "Amit Garg",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "mahindra-manulife-large-and-mid-cap-fund-reg-g": {
       "name": "Mahindra Manulife Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMNYRG-GR&type=purchase",
       "fund_manager": "Kirti Dalvi",
       "category": "EQ-L&M",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "mahindra-manulife-large-cap-fund-reg-g": {
       "name": "Mahindra Manulife Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMPBRG-GR&type=purchase",
       "fund_manager": "Fatema Pacha",
       "category": "EQ-LC",
       "rupeevestrating": 3,
@@ -653,7 +653,7 @@
     "mahindra-manulife-manufacturing-fund-reg-g": {
       "name": "Mahindra Manulife Manufacturing Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMMFRG-GR&type=purchase",
       "fund_manager": "Renjith Sivaram",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -696,7 +696,7 @@
     "mahindra-manulife-mid-cap-fund-reg-g": {
       "name": "Mahindra Manulife Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHEBYRG-GR&type=purchase",
       "fund_manager": "Kirti Dalvi",
       "category": "EQ-MID",
       "rupeevestrating": 3,
@@ -739,7 +739,7 @@
     "mahindra-manulife-multi-asset-allocation-fund-reg-g": {
       "name": "Mahindra Manulife Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMAFRG-GR&type=purchase",
       "fund_manager": "Renjith Sivaram",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -782,7 +782,7 @@
     "mahindra-manulife-multi-cap-fund-reg-g": {
       "name": "Mahindra Manulife Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMBYRG-GR&type=purchase",
       "fund_manager": "Vishal Jajoo",
       "category": "EQ-MLC",
       "rupeevestrating": 5,
@@ -825,7 +825,7 @@
     "mahindra-manulife-small-cap-fund-reg-g": {
       "name": "Mahindra Manulife Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMSCRG-GR&type=purchase",
       "fund_manager": "Vishal Jajoo",
       "category": "EQ-SML",
       "rupeevestrating": "Unrated",
@@ -868,7 +868,7 @@
     "mahindra-manulife-value-fund-reg-g": {
       "name": "Mahindra Manulife Value Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMVFRG-GR&type=purchase",
       "fund_manager": "Krishna Sanghavi",
       "category": "EQ-VAL",
       "rupeevestrating": "Unrated",
