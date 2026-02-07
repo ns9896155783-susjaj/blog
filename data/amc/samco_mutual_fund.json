@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Samco Mutual Fund",
     "total_schemes": 12,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "samco-active-momentum-fund-reg-g": {
       "name": "Samco Active Momentum Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAAMRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "samco-dynamic-asset-allocation-fund-reg-g": {
       "name": "Samco Dynamic Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SADARG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "samco-elss-tax-saver-fund-reg-g": {
       "name": "Samco ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAELRG-GR&type=purchase",
       "fund_manager": "Nirali Bhansali",
       "category": "EQ-ELSS",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "samco-flexi-cap-fund-reg-g": {
       "name": "Samco Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAFCRG-GR&type=purchase",
       "fund_manager": "Nirali Bhansali",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "samco-large-and-mid-cap-fund-reg-g": {
       "name": "Samco Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SALMRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
       "category": "EQ-L&M",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "samco-large-cap-fund-reg-g": {
       "name": "Samco Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SALCRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "samco-multi-asset-allocation-fund-reg-g": {
       "name": "Samco Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAMARG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "samco-multi-cap-fund-reg-g": {
       "name": "Samco Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAMCRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "samco-small-cap-fund-reg-g": {
       "name": "Samco Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SASCRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
       "category": "EQ-SML",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "samco-special-opportunities-fund-reg-g": {
       "name": "Samco Special Opportunities Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SASORG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
