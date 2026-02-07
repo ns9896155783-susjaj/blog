@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Qsif Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "qsif-equity-ex-top-100-long-short-fund-reg-g": {
       "name": "Qsif Equity Ex-Top 100 Long-Short Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUSF3GP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "qsif-equity-long-short-fund-reg-g": {
       "name": "Qsif Equity Long-Short Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUSLSGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "qsif-hybrid-long-short-fund-reg-g": {
       "name": "Qsif Hybrid Long-Short Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUSF2GP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
