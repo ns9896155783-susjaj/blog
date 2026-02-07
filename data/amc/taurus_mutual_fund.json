@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Taurus Mutual Fund",
     "total_schemes": 8,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:02"
   },
   "schemes": {
     "taurus-banking-and-fin-serv-fund-reg-g": {
       "name": "Taurus Banking & Fin Serv Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TUTBGPG-GR&type=purchase",
       "fund_manager": "Anuj Kapil",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "taurus-elss-tax-saver-fund-reg-g": {
       "name": "Taurus ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TULTGPG-GR&type=purchase",
       "fund_manager": "Anuj Kapil",
       "category": "EQ-ELSS",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "taurus-ethical-fund-reg-g": {
       "name": "Taurus Ethical Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TUEFGPG-GR&type=purchase",
       "fund_manager": "Anuj Kapil",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "taurus-flexi-cap-fund-reg-g": {
       "name": "Taurus Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TUSSGPG-GR&type=purchase",
       "fund_manager": "Anuj Kapil",
       "category": "EQ-FLEX",
       "rupeevestrating": 1,
@@ -180,7 +180,7 @@
     "taurus-infrastructure-fund-reg-g": {
       "name": "Taurus Infrastructure Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TUITGPG-GR&type=purchase",
       "fund_manager": "Anuj Kapil",
       "category": "EQ-INFRA",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "taurus-large-cap-fund-reg-g": {
       "name": "Taurus Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TUBEGPG-GR&type=purchase",
       "fund_manager": "Anuj Kapil",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "taurus-nifty-50-index-fund-reg-g": {
       "name": "Taurus Nifty 50 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TUNIGPG-GR&type=purchase",
       "fund_manager": "Anuj Kapil",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
