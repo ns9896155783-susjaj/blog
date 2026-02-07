@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Parag Parikh Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "parag-parikh-arbitrage-fund-reg-g": {
@@ -51,7 +51,7 @@
     "parag-parikh-dynamic-asset-allocation-fund-reg-g": {
       "name": "Parag Parikh Dynamic Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PPDAFG-GR&type=purchase",
       "fund_manager": "Rajeev Thakkar",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "parag-parikh-elss-tax-saver-fund-reg-g": {
       "name": "Parag Parikh ELSS Tax Saver Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PPTSFG-GR&type=purchase",
       "fund_manager": "Rajeev Thakkar",
       "category": "EQ-ELSS",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "parag-parikh-flexi-cap-fund-reg-g": {
       "name": "Parag Parikh Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PP001RG-GR&type=purchase",
       "fund_manager": "Rajeev Thakkar",
       "category": "EQ-FLEX",
       "rupeevestrating": 5,
