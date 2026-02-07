@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Union Mutual Fund",
     "total_schemes": 21,
-    "last_updated": "2026-02-07 06:46"
+    "last_updated": "2026-02-07 22:02"
   },
   "schemes": {
     "union-active-momentum-fund-reg-g": {
       "name": "Union Active Momentum Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNAMRG-GR&type=purchase",
       "fund_manager": "Gaurav Chopra",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "union-aggressive-hybrid-fund-reg-g": {
       "name": "Union Aggressive Hybrid Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNHERG-GR&type=purchase",
       "fund_manager": "Sanjay Bembalkar",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "union-balanced-advantage-fund-reg-g": {
       "name": "Union Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNPFG-GR&type=purchase",
       "fund_manager": "Sanjay Bembalkar",
       "category": "HY-DYN",
       "rupeevestrating": 4,
@@ -180,7 +180,7 @@
     "union-business-cycle-fund-reg-g": {
       "name": "Union Business Cycle Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNBCRG-GR&type=purchase",
       "fund_manager": "Harshad Patwardhan",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "union-consumption-fund-reg-g": {
       "name": "Union Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNCORGR-GR&type=purchase",
       "fund_manager": "Vinod Malviya",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "union-diversified-equity-all-cap-active-fof-reg-g": {
       "name": "Union Diversified Equity All Cap Active FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNDERG-GR&type=purchase",
       "fund_manager": "Gaurav Chopra",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "union-elss-tax-saver-fund-g": {
       "name": "Union ELSS Tax Saver Fund(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNTSG-GR&type=purchase",
       "fund_manager": "Vinod Malviya",
       "category": "EQ-ELSS",
       "rupeevestrating": 4,
@@ -352,7 +352,7 @@
     "union-equity-savings-fund-reg-g": {
       "name": "Union Equity Savings Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNESFG-GR&type=purchase",
       "fund_manager": "Sanjay Bembalkar",
       "category": "HY-EQ",
       "rupeevestrating": 2,
@@ -395,7 +395,7 @@
     "union-flexi-cap-fund-reg-g": {
       "name": "Union Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNEFGR-GR&type=purchase",
       "fund_manager": "Sanjay Bembalkar",
       "category": "EQ-FLEX",
       "rupeevestrating": 4,
@@ -438,7 +438,7 @@
     "union-focused-fund-reg-g": {
       "name": "Union Focused Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNFFGR-GR&type=purchase",
       "fund_manager": "Pratik Dharmshi",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -481,7 +481,7 @@
     "union-gold-etf-fof-reg-g": {
       "name": "Union Gold ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNGFRG-GR&type=purchase",
       "fund_manager": "Vinod Malviya",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "union-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Union Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNIARG-GR&type=purchase",
       "fund_manager": "Vishal Thakker",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "union-innovation-and-opp-fund-reg-g": {
       "name": "Union Innovation & Opp Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNIORG-GR&type=purchase",
       "fund_manager": "Gaurav Chopra",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "union-large-and-midcap-fund-reg-g": {
       "name": "Union Large & Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNLMRG-GR&type=purchase",
       "fund_manager": "Vinod Malviya",
       "category": "EQ-L&M",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "union-largecap-fund-reg-g": {
       "name": "Union Largecap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNFLFG-GR&type=purchase",
       "fund_manager": "Pratik Dharmshi",
       "category": "EQ-LC",
       "rupeevestrating": 3,
@@ -696,7 +696,7 @@
     "union-midcap-fund-reg-g": {
       "name": "Union Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNMFRG-GR&type=purchase",
       "fund_manager": "Gaurav Chopra",
       "category": "EQ-MID",
       "rupeevestrating": "Unrated",
@@ -739,7 +739,7 @@
     "union-multi-asset-allocation-fund-reg-g": {
       "name": "Union Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNMARG-GR&type=purchase",
       "fund_manager": "Sanjay Bembalkar",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -782,7 +782,7 @@
     "union-multicap-fund-reg-g": {
       "name": "Union Multicap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNMCRG-GR&type=purchase",
       "fund_manager": "Harshad Patwardhan",
       "category": "EQ-MID",
       "rupeevestrating": "Unrated",
@@ -825,7 +825,7 @@
     "union-small-cap-fund-reg-g": {
       "name": "Union Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNSMFG-GR&type=purchase",
       "fund_manager": "Pratik Dharmshi",
       "category": "EQ-SML",
       "rupeevestrating": 4,
@@ -868,7 +868,7 @@
     "union-value-fund-reg-g": {
       "name": "Union Value Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNVDG-GR&type=purchase",
       "fund_manager": "Vinod Malviya",
       "category": "EQ-VAL",
       "rupeevestrating": 3,
