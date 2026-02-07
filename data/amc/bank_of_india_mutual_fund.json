@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Bank of India Mutual Fund",
     "total_schemes": 27,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "bank-of-india-arbitrage-fund-reg-g": {
@@ -51,7 +51,7 @@
     "bank-of-india-balanced-advantage-fund-reg-g": {
       "name": "Bank of India Balanced Advantage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BXBA139-GR&type=purchase",
       "fund_manager": "Alok Singh",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "bank-of-india-business-cycle-fund-reg-g": {
       "name": "Bank of India Business Cycle Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BABSRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "bank-of-india-consumption-fund-reg-g": {
       "name": "Bank of India Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BACFRG-GR&type=purchase",
       "fund_manager": "Nitin Gosar",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "bank-of-india-elss-tax-saver-reg-g": {
       "name": "Bank of India ELSS Tax Saver-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAFTARG-GR&type=purchase",
       "fund_manager": "Alok Singh",
       "category": "EQ-ELSS",
       "rupeevestrating": 5,
@@ -266,7 +266,7 @@
     "bank-of-india-flexi-cap-fund-reg-g": {
       "name": "Bank of India Flexi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAMPRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "bank-of-india-large-and-mid-cap-fund-reg-g": {
       "name": "Bank of India Large & Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAFEFRG-GR&type=purchase",
       "fund_manager": "Nitin Gosar",
       "category": "EQ-L&M",
       "rupeevestrating": 3,
@@ -352,7 +352,7 @@
     "bank-of-india-large-cap-fund-reg-g": {
       "name": "Bank of India Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BABCRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
@@ -395,7 +395,7 @@
     "bank-of-india-mfg-and-infra-fund-reg-g": {
       "name": "Bank of India Mfg & Infra Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAFFIRG-GR&type=purchase",
       "fund_manager": "Nitin Gosar",
       "category": "EQ-INFRA",
       "rupeevestrating": "Unrated",
@@ -438,7 +438,7 @@
     "bank-of-india-mid-and-small-cap-equity-and-debt-fund-reg-g": {
       "name": "Bank of India Mid & Small Cap Equity & Debt Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAMCRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
       "category": "HY-EQ",
       "rupeevestrating": 5,
@@ -481,7 +481,7 @@
     "bank-of-india-mid-cap-fund-reg-g": {
       "name": "Bank of India Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAMDRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
       "category": "EQ-MID",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "bank-of-india-multi-asset-allocation-fund-reg-g": {
       "name": "Bank of India Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAMARG-GR&type=purchase",
       "fund_manager": "Mithraem Bharucha",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -567,7 +567,7 @@
     "bank-of-india-multi-cap-fund-reg-g": {
       "name": "Bank of India Multi Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAMLRG-GR&type=purchase",
       "fund_manager": "Nitin Gosar",
       "category": "EQ-MLC",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "bank-of-india-small-cap-fund-reg-g": {
       "name": "Bank of India Small Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BASCRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
       "category": "EQ-SML",
       "rupeevestrating": 5,
@@ -653,7 +653,7 @@
     "dsp-nifty-bank-index-fund-reg-g": {
       "name": "DSP Nifty Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS665-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -696,7 +696,7 @@
     "dsp-nifty-private-bank-index-fund-reg-g": {
       "name": "DSP Nifty Private Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS675-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -739,7 +739,7 @@
     "icici-pru-nifty-bank-index-fund-reg-g": {
       "name": "ICICI Pru Nifty Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3473-GR&type=purchase",
       "fund_manager": "Nishit Patel",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -782,7 +782,7 @@
     "icici-pru-nifty-private-bank-index-fund-reg-g": {
       "name": "ICICI Pru Nifty Private Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3571-GR&type=purchase",
       "fund_manager": "Nishit Patel",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -825,7 +825,7 @@
     "kotak-nifty-financial-services-ex-bank-index-fund-reg-g": {
       "name": "Kotak Nifty Financial Services Ex-Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO299-GR&type=purchase",
       "fund_manager": "Devender Singhal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -868,7 +868,7 @@
     "motilal-oswal-bse-financials-ex-bank-30-index-fund-reg-g": {
       "name": "Motilal Oswal BSE Financials ex Bank 30 Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOS2GP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -911,7 +911,7 @@
     "motilal-oswal-nifty-bank-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOBIGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -954,7 +954,7 @@
     "navi-nifty-bank-index-fund-reg-g": {
       "name": "Navi Nifty Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESNBGP-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -997,7 +997,7 @@
     "nippon-india-nifty-bank-index-fund-reg-g": {
       "name": "Nippon India Nifty Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLBXGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1040,7 +1040,7 @@
     "sbi-bse-psu-bank-index-fund-reg-g": {
       "name": "SBI BSE PSU Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SB698G-GR&type=purchase",
       "fund_manager": "Viral Chhadva",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1083,7 +1083,7 @@
     "sbi-nifty-bank-index-fund-reg-g": {
       "name": "SBI Nifty Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SB695G-GR&type=purchase",
       "fund_manager": "Harsh Sethi",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -1126,7 +1126,7 @@
     "uti-nifty-private-bank-index-fund-reg-g": {
       "name": "UTI Nifty Private Bank Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNUGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
