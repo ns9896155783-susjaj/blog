@@ -2,13 +2,13 @@
   "meta": {
     "amc": "BHARAT Bond Mutual Fund",
     "total_schemes": 8,
-    "last_updated": "2026-02-07 06:45"
+    "last_updated": "2026-02-07 22:01"
   },
   "schemes": {
     "bharat-bond-etf-fof-april-2032-reg-g": {
       "name": "BHARAT Bond ETF FOF - April 2032 -Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDO2RG-GR&type=purchase",
       "fund_manager": "Hetul Raval",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -51,7 +51,7 @@
     "bharat-bond-etf-fof-april-2033-reg-g": {
       "name": "BHARAT Bond ETF FOF - April 2033 -Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDO3RG-GR&type=purchase",
       "fund_manager": "Hetul Raval",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "bharat-bond-fof-april-2030-reg-g": {
       "name": "BHARAT Bond FOF - April 2030 -Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDFTRG-GR&type=purchase",
       "fund_manager": "Hetul Raval",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -137,7 +137,7 @@
     "bharat-bond-fof-april-2031-reg-g": {
       "name": "BHARAT Bond FOF - April 2031 -Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDO1RG-GR&type=purchase",
       "fund_manager": "Hetul Raval",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "icici-pru-bharat-22-fof-g": {
       "name": "ICICI Pru Bharat 22 FOF-(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC5004-GR&type=purchase",
       "fund_manager": "Nishit Patel",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -223,7 +223,7 @@
     "icici-pru-bharat-consumption-fund-reg-g": {
       "name": "ICICI Pru Bharat Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3349-GR&type=purchase",
       "fund_manager": "Priyanka Khandelwal",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -266,7 +266,7 @@
     "iti-bharat-consumption-fund-reg-g": {
       "name": "ITI Bharat Consumption Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITCFGP-GR&type=purchase",
       "fund_manager": "Rohan Korde",
       "category": "EQ-CONS",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "woc-digital-bharat-fund-reg-g": {
       "name": "WOC Digital Bharat Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE113G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
       "category": "EQ-TECH",
       "rupeevestrating": "Unrated",
