@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Arudha MutualFund",
     "total_schemes": 1,
-    "last_updated": "2026-02-10 06:45"
+    "last_updated": "2026-02-10 11:49"
   },
   "schemes": {
     "arudha-hybrid-long-short-fund-reg-g": {
@@ -28,8 +28,8 @@
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
-      "pe_ratio": null,
-      "pb_ratio": null,
+      "pe_ratio": 22.43,
+      "pb_ratio": 2.65,
       "turnover_ratio_": null,
       "no_ofstocks": 22,
       "avg_market_cap_in_rs_cr_": 131057,
