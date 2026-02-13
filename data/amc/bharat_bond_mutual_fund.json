@@ -2,7 +2,7 @@
   "meta": {
     "amc": "BHARAT Bond Mutual Fund",
     "total_schemes": 8,
-    "last_updated": "2026-02-12 06:45"
+    "last_updated": "2026-02-13 06:45"
   },
   "schemes": {
     "bharat-bond-etf-fof-april-2032-reg-g": {
@@ -196,9 +196,9 @@
       "return_3_mo": 7.77,
       "return_6_mo": 15.78,
       "return_1_yr": 21.91,
-      "return_2_yrs": 11.65,
-      "return_3_yrs": 28.74,
-      "return_5_yrs": 27.24,
+      "return_2_yrs": 11.86,
+      "return_3_yrs": 28.89,
+      "return_5_yrs": 27.47,
       "return_10_yrs": null,
       "pe_ratio": null,
       "pb_ratio": null,
@@ -239,9 +239,9 @@
       "return_3_mo": -3.68,
       "return_6_mo": 0.32,
       "return_1_yr": 2.18,
-      "return_2_yrs": 6.73,
-      "return_3_yrs": 16.24,
-      "return_5_yrs": 14.68,
+      "return_2_yrs": 7.08,
+      "return_3_yrs": 16.43,
+      "return_5_yrs": 14.78,
       "return_10_yrs": null,
       "pe_ratio": 30.93,
       "pb_ratio": 6.87,
