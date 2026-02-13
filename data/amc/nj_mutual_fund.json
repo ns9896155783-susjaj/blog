@@ -2,7 +2,7 @@
   "meta": {
     "amc": "NJ Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-02-12 06:46"
+    "last_updated": "2026-02-13 06:45"
   },
   "schemes": {
     "nj-balanced-advantage-fund-reg-g": {
@@ -24,8 +24,8 @@
       "return_3_mo": 0.52,
       "return_6_mo": 0.89,
       "return_1_yr": 3.03,
-      "return_2_yrs": 3.52,
-      "return_3_yrs": 11.36,
+      "return_2_yrs": 3.67,
+      "return_3_yrs": 11.43,
       "return_5_yrs": null,
       "return_10_yrs": null,
       "pe_ratio": 27.33,
@@ -67,7 +67,7 @@
       "return_3_mo": -1,
       "return_6_mo": -2.11,
       "return_1_yr": -0.86,
-      "return_2_yrs": 1.69,
+      "return_2_yrs": 2.02,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
@@ -110,7 +110,7 @@
       "return_3_mo": -0.08,
       "return_6_mo": 0,
       "return_1_yr": 0.23,
-      "return_2_yrs": 1.28,
+      "return_2_yrs": 1.54,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
