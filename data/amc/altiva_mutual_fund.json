@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Altiva Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-02-14 06:45"
+    "last_updated": "2026-02-14 22:13"
   },
   "schemes": {
     "altiva-hybrid-long-short-fund-reg-g": {
@@ -12,7 +12,7 @@
       "fund_manager": "Bhavesh Jain",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
-      "aum_in_rs_cr_": 1306.3,
+      "aum_in_rs_cr_": 2093.3,
       "expenseratio_": null,
       "fund_type": "Open Ended",
       "inception_date": "2025-10-19T18:30:00.000Z",
@@ -31,8 +31,8 @@
       "pe_ratio": 25.65,
       "pb_ratio": 3.32,
       "turnover_ratio_": null,
-      "no_ofstocks": 54,
-      "avg_market_cap_in_rs_cr_": 49201,
+      "no_ofstocks": 62,
+      "avg_market_cap_in_rs_cr_": 69322,
       "large_cap_": 16.32,
       "mid_cap_": 14.03,
       "small_cap_": 3.24,
