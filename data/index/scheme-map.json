@@ -1331,15 +1331,15 @@
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-bse-500-index-fund-reg-g"
   },
-  "hdfc-bse-india-sector-leaders-index-fund-review-can-it-really-deliver-long-term-returns/": {
+  "hdfc-bse-india-sector-leaders-index-fund-review-can-it-really-deliver-long-term-returns": {
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-bse-india-sector-leaders-index-fund-reg-g"
   },
-  "hdfc-business-cycle-fund-review-can-it-really-deliver-long-term-returns/": {
+  "hdfc-business-cycle-fund-review-can-it-really-deliver-long-term-returns": {
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-business-cycle-fund-reg-g"
   },
-  "hdfc-defence-fund-review-can-it-really-deliver-long-term-returns/": {
+  "hdfc-defence-fund-review-can-it-really-deliver-long-term-returns": {
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-defence-fund-reg-g"
   },
@@ -1347,7 +1347,7 @@
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-developed-world-overseas-equity-passive-fof-reg-g"
   },
-  "hdfc-diversified-equity-all-cap-active-fof-review-can-it-really-deliver-long-term-returns/": {
+  "hdfc-diversified-equity-all-cap-active-fof-review-can-it-really-deliver-long-term-returns": {
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-diversified-equity-all-cap-active-fof-reg-g"
   },
@@ -1639,19 +1639,19 @@
     "amc": "hsbc_mutual_fund",
     "scheme_key": "hsbc-value-fund-reg-g"
   },
-  "icici-pru-active-momentum-fund-review-how-it-performs-who-should-invest/": {
+  "icici-pru-active-momentum-fund-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-active-momentum-fund-reg-g"
   },
-  "icici-pru-balanced-advantage-fund-review-how-it-performs-who-should-invest/": {
+  "icici-pru-balanced-advantage-fund-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-balanced-advantage-fund-g"
   },
-  "icici-pru-bharat-22-fof-review-how-it-performs-who-should-invest/": {
+  "icici-pru-bharat-22-fof-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-bharat-22-fof-g"
   },
-  "icici-pru-bharat-consumption-fund-review-how-it-performs-who-should-invest/": {
+  "icici-pru-bharat-consumption-fund-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-bharat-consumption-fund-reg-g"
   },
@@ -1659,7 +1659,7 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-bse-500-etf-fof-reg-g"
   },
-  "icici-pru-bse-sensex-index-fund-review-how-it-performs-who-should-invest/": {
+  "icici-pru-bse-sensex-index-fund-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-bse-sensex-index-fund-g"
   },
@@ -1667,11 +1667,11 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-business-cycle-fund-g"
   },
-  "icici-pru-commodities-fund-review-how-it-performs-who-should-invest/": {
+  "icici-pru-commodities-fund-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-commodities-fund-reg-g"
   },
-  "icici-pru-conglomerate-fund-review-how-it-performs-who-should-invest/": {
+  "icici-pru-conglomerate-fund-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-conglomerate-fund-reg-g"
   },
@@ -1679,15 +1679,15 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-diversified-debt-strategy-active-fof-g"
   },
-  "icici-pru-diversified-equity-all-cap-omni-fof-review-how-it-performs-who-should-invest/": {
+  "icici-pru-diversified-equity-all-cap-omni-fof-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-diversified-equity-all-cap-omni-fof-g"
   },
-  "icici-pru-dividend-yield-equity-fund-review-how-it-performs-who-should-invest/": {
+  "icici-pru-dividend-yield-equity-fund-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-dividend-yield-equity-fund-g"
   },
-  "icici-pru-dynamic-asset-allocation-active-fof-review-how-it-performs-who-should-invest/": {
+  "icici-pru-dynamic-asset-allocation-active-fof-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-dynamic-asset-allocation-active-fof-g"
   },
@@ -1695,7 +1695,7 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-elss-tax-saver-fund-g"
   },
-  "icici-pru-energy-opportunities-fund-review-what-you-must-know-before-investing/": {
+  "icici-pru-energy-opportunities-fund-review-what-you-must-know-before-investing": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-energy-opportunities-fund-reg-g"
   },
@@ -1703,11 +1703,11 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-equity-debt-fund-g"
   },
-  "icici-pru-equity-minimum-variance-fund-review-what-you-must-know-before-investing/": {
+  "icici-pru-equity-minimum-variance-fund-review-what-you-must-know-before-investing": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-equity-minimum-variance-fund-reg-g"
   },
-  "icici-pru-equity-savings-fund-review-what-you-must-know-before-investing/": {
+  "icici-pru-equity-savings-fund-review-what-you-must-know-before-investing": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-equity-savings-fund-reg-g"
   },
@@ -1715,7 +1715,7 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-equity-arbitrage-fund-g"
   },
-  "icici-pru-esg-exclusionary-strategy-fund-review-what-you-must-know-before-investing/": {
+  "icici-pru-esg-exclusionary-strategy-fund-review-what-you-must-know-before-investing": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-esg-exclusionary-strategy-fund-g"
   },
@@ -1807,67 +1807,67 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty-bank-index-fund-reg-g"
   },
-  "icici-pru-nifty-ev-new-age-automotive-etf-fof-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty-ev-new-age-automotive-etf-fof-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty-ev-new-age-automotive-etf-fof-reg-g"
   },
-  "icici-pru-nifty-it-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty-it-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty-it-index-fund-reg-g"
   },
-  "icici-pru-nifty-largemidcap-250-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty-largemidcap-250-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty-largemidcap-250-index-fund-reg-g"
   },
-  "icici-pru-nifty-midcap-150-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty-midcap-150-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty-midcap-150-index-fund-reg-g"
   },
-  "icici-pru-nifty-next-50-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty-next-50-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty-next-50-index-fund-g"
   },
-  "icici-pru-nifty-pharma-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty-pharma-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty-pharma-index-fund-reg-g"
   },
-  "icici-pru-nifty-private-bank-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty-private-bank-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty-private-bank-index-fund-reg-g"
   },
-  "icici-pru-nifty-smallcap-250-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty-smallcap-250-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty-smallcap-250-index-fund-g"
   },
-  "icici-pru-nifty-top-15-equal-weight-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty-top-15-equal-weight-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty-top-15-equal-weight-index-fund-reg-g"
   },
-  "icici-pru-nifty200-quality-30-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty200-quality-30-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty200-quality-30-index-fund-reg-g"
   },
-  "icici-pru-nifty200-value-30-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty200-value-30-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty200-value-30-index-fund-reg-g"
   },
-  "icici-pru-nifty50-equal-weight-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty50-equal-weight-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty50-equal-weight-index-fund-reg-g"
   },
-  "icici-pru-nifty50-value-20-index-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-nifty50-value-20-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-nifty50-value-20-index-fund-reg-g"
   },
-  "icici-pru-passive-multi-asset-fof-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-passive-multi-asset-fof-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-passive-multi-asset-fof-g"
   },
-  "icici-pru-pharma-healthcare-diagnostics-p-h-d-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-pharma-healthcare-diagnostics-p-h-d-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-pharma-healthcare-diagnostics-p-h-d-fund-g"
   },
-  "icici-pru-psu-equity-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-psu-equity-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-psu-equity-fund-reg-g"
   },
@@ -1875,7 +1875,7 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-quality-fund-reg-g"
   },
-  "icici-pru-quant-fund-review-returns-risk-how-it-fits-investors/": {
+  "icici-pru-quant-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-quant-fund-g"
   },
@@ -1891,7 +1891,7 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-smallcap-fund-g"
   },
-  "icici-pru-strategic-metal-and-energy-equity-fof-review-performance-risk-portfolio/": {
+  "icici-pru-strategic-metal-and-energy-equity-fof-review-performance-risk-portfolio": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-strategic-metal-and-energy-equity-fof-reg-g"
   },
@@ -2635,7 +2635,7 @@
     "amc": "mirae_asset_mutual_fund",
     "scheme_key": "mirae-asset-small-cap-fund-reg-g"
   },
-  "motilal-oswal-5-year-g-sec-fof-review-performance-risk-portfolio/": {
+  "motilal-oswal-5-year-g-sec-fof-review-performance-risk-portfolio": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-5-year-g-sec-fof-reg-g"
   },
@@ -2647,7 +2647,7 @@
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-arbitrage-fund-reg-g"
   },
-  "motilal-oswal-asset-allocation-passive-fof-aggressive-review-performance-risk-portfolio/": {
+  "motilal-oswal-asset-allocation-passive-fof-aggressive-review-performance-risk-portfolio": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-asset-allocation-passive-fof-aggressive-reg-g"
   },
@@ -2659,23 +2659,23 @@
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-balanced-advantage-fund-reg-g"
   },
-  "motilal-oswal-bse-1000-index-fund-review-performance-risk-portfolio/": {
+  "motilal-oswal-bse-1000-index-fund-review-performance-risk-portfolio": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-bse-1000-index-fund-reg-g"
   },
-  "motilal-oswal-bse-enhanced-value-index-fund-review-performance-risk-portfolio/": {
+  "motilal-oswal-bse-enhanced-value-index-fund-review-performance-risk-portfolio": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-bse-enhanced-value-index-fund-reg-g"
   },
-  "motilal-oswal-bse-financials-ex-bank-30-index-fund-review-performance-risk-portfolio/": {
+  "motilal-oswal-bse-financials-ex-bank-30-index-fund-review-performance-risk-portfolio": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-bse-financials-ex-bank-30-index-fund-reg-g"
   },
-  "motilal-oswal-bse-low-volatility-index-fund-review-performance-risk-portfolio/": {
+  "motilal-oswal-bse-low-volatility-index-fund-review-performance-risk-portfolio": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-bse-low-volatility-index-fund-reg-g"
   },
-  "motilal-oswal-bse-quality-index-fund-review-performance-risk-portfolio/": {
+  "motilal-oswal-bse-quality-index-fund-review-performance-risk-portfolio": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-bse-quality-index-fund-reg-g"
   },
@@ -2687,7 +2687,7 @@
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-consumption-fund-reg-g"
   },
-  "motilal-oswal-developed-market-ex-us-etfs-overseas-equity-passive-fof-review-long-term-performance-risk/": {
+  "motilal-oswal-developed-market-ex-us-etfs-overseas-equity-passive-fof-review-long-term-performance-risk": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-developed-market-ex-us-etfs-overseas-equity-passive-fof-reg-g"
   },
@@ -2739,63 +2739,63 @@
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nasdaq-100-fof-reg-g"
   },
-  "motilal-oswal-nifty-200-momentum-30-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-200-momentum-30-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-200-momentum-30-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-50-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-50-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-50-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-500-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-500-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-500-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-500-momentum-50-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-500-momentum-50-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-500-momentum-50-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-bank-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-bank-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-bank-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-capital-market-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-capital-market-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-capital-market-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-india-defence-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-india-defence-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-india-defence-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-microcap-250-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-microcap-250-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-microcap-250-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-midcap-150-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-midcap-150-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-midcap-150-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-midsmall-financial-services-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-midsmall-financial-services-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-midsmall-financial-services-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-midsmall-healthcare-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-midsmall-healthcare-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-midsmall-healthcare-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-midsmall-india-consumption-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-midsmall-india-consumption-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-midsmall-india-consumption-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-midsmall-it-and-telecom-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-midsmall-it-and-telecom-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-midsmall-it-and-telecom-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-next-50-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-next-50-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-next-50-index-fund-reg-g"
   },
-  "motilal-oswal-nifty-smallcap-250-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-nifty-smallcap-250-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-nifty-smallcap-250-index-fund-reg-g"
   },
@@ -2803,7 +2803,7 @@
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-quant-fund-reg-g"
   },
-  "motilal-oswal-sp-500-index-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-sp-500-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-s-p-500-index-fund-reg-g"
   },
@@ -2811,7 +2811,7 @@
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-services-fund-reg-g"
   },
-  "motilal-oswal-small-cap-fund-review-long-term-performance-risk-profile/": {
+  "motilal-oswal-small-cap-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-small-cap-fund-reg-g"
   },
@@ -2891,7 +2891,7 @@
     "amc": "nippon_india_mutual_fund",
     "scheme_key": "nippon-india-aggressive-hybrid-fund-g"
   },
-  "nippon-india-arbitrage-fund-review-performance-risk-explained-simply/": {
+  "nippon-india-arbitrage-fund-review-performance-risk-explained-simply": {
     "amc": "nippon_india_mutual_fund",
     "scheme_key": "nippon-india-arbitrage-fund-g"
   },
@@ -2903,7 +2903,7 @@
     "amc": "nippon_india_mutual_fund",
     "scheme_key": "nippon-india-banking-financial-services-fund-g"
   },
-  "nippon-india-bse-sensex-next-30-index-fund-review-performance-risk-explained-simply/": {
+  "nippon-india-bse-sensex-next-30-index-fund-review-performance-risk-explained-simply": {
     "amc": "nippon_india_mutual_fund",
     "scheme_key": "nippon-india-bse-sensex-next-30-index-fund-reg-g"
   },
@@ -2911,7 +2911,7 @@
     "amc": "nippon_india_mutual_fund",
     "scheme_key": "nippon-india-consumption-fund-g"
   },
-  "nippon-india-diversified-equity-flexicap-passive-fof-review-performance-risk-explained-simply/": {
+  "nippon-india-diversified-equity-flexicap-passive-fof-review-performance-risk-explained-simply": {
     "amc": "nippon_india_mutual_fund",
     "scheme_key": "nippon-india-diversified-equity-flexicap-passive-fof-reg-g"
   },
@@ -2919,7 +2919,7 @@
     "amc": "nippon_india_mutual_fund",
     "scheme_key": "nippon-india-elss-tax-saver-fund-g"
   },
-  "nippon-india-equity-savings-fund-review-performance-risk-explained-simply/": {
+  "nippon-india-equity-savings-fund-review-performance-risk-explained-simply": {
     "amc": "nippon_india_mutual_fund",
     "scheme_key": "nippon-india-equity-savings-fund-g"
   },
@@ -3451,7 +3451,7 @@
     "amc": "sbi_mutual_fund",
     "scheme_key": "sbi-income-plus-arbitrage-active-fof-reg-g"
   },
-  "sbi-infrastructure-fund-review-what-the-performance-data-indicates/": {
+  "sbi-infrastructure-fund-review-what-the-performance-data-indicates": {
     "amc": "sbi_mutual_fund",
     "scheme_key": "sbi-infrastructure-fund-reg-g"
   },
