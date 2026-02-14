@@ -851,6 +851,10 @@
     "amc": "canara_robeco_mutual_fund",
     "scheme_key": "canara-rob-balanced-advantage-fund-reg-g"
   },
+  "canara-robeco-equity-hybrid-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_robeco_mutual_fund",
+    "scheme_key": "canara-rob-equity-hybrid-fund-reg-g"
+  },
   "capitalmind-flexi-cap-fund-review-what-the-performance-data-indicates": {
     "amc": "capitalmind_mutual_fund",
     "scheme_key": "capitalmind-flexi-cap-fund-reg-g"
