@@ -2,13 +2,13 @@
   "meta": {
     "amc": "iSIF Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-02-14 06:45"
+    "last_updated": "2026-02-14 22:13"
   },
   "schemes": {
     "isif-equity-ex-top-100-long-short-fund-reg-g": {
       "name": "iSIF Equity Ex-Top 100 Long-Short Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUIPGP-GR&type=purchase",
+      "invest_online_link": "OLD BRIDGE ARBITRAGE FUND - REGULAR PLAN - GROWTH",
       "fund_manager": "Sankaran Naren",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -17,9 +17,9 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-02-03T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.02,
+      "nav": 9.95,
       "52_weekhigh_nav_": 10.06,
-      "52_weeklow_nav_": 9.99,
+      "52_weeklow_nav_": 9.95,
       "return_1_mo": null,
       "return_3_mo": null,
       "return_6_mo": null,
@@ -51,7 +51,7 @@
     "isif-hybrid-long-short-fund-reg-g": {
       "name": "iSIF Hybrid Long-Short Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RMFAF-GR&type=purchase",
+      "invest_online_link": "NIPPON INDIA ARBITRAGE FUND - GROWTH",
       "fund_manager": "Rajat Chandak",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
@@ -60,7 +60,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-02-03T18:30:00.000Z",
       "benchmark_index": "CRISIL Hybrid 50+50 - Moderate Index",
-      "nav": 10.12,
+      "nav": 10.06,
       "52_weekhigh_nav_": 10.13,
       "52_weeklow_nav_": 10,
       "return_1_mo": null,
