@@ -41,7 +41,7 @@
   },
   "aditya-birla-sl-banking-financial-services-fund-best-analysis": {
     "amc": "aditya_birla_sunlife_mutual_fund",
-    "scheme_key": "aditya-birla-sl-banking-financial-services-fund-reg-g"
+    "scheme_key": "aditya-birla-sl-banking-and-financial-services-fund-reg-g"
   },
   "aditya-birla-sl-bse-500-momentum-50-index-fund-best-analysis-returns-suitability": {
     "amc": "aditya_birla_sunlife_mutual_fund",
@@ -133,7 +133,7 @@
   },
   "aditya-birla-sl-large-mid-cap-fund-review": {
     "amc": "aditya_birla_sunlife_mutual_fund",
-    "scheme_key": "aditya-birla-sl-large-mid-cap-fund-reg-g"
+    "scheme_key": "aditya-birla-sl-large-and-mid-cap-fund-reg-g"
   },
   "aditya-birla-sl-large-cap-fund-review": {
     "amc": "aditya_birla_sunlife_mutual_fund",
@@ -193,7 +193,7 @@
   },
   "aditya-birla-sl-pharma-healthcare-fund-review-what-you-must-know-before-investing": {
     "amc": "aditya_birla_sunlife_mutual_fund",
-    "scheme_key": "aditya-birla-sl-pharma-healthcare-fund-reg-g"
+    "scheme_key": "aditya-birla-sl-pharma-and-healthcare-fund-reg-g"
   },
   "aditya-birla-sl-psu-equity-fund-review-what-you-must-know-before-investing": {
     "amc": "aditya_birla_sunlife_mutual_fund",
@@ -329,7 +329,7 @@
   },
   "axis-large-mid-cap-fund-review-key-insights-on-returns-risk": {
     "amc": "axis_mutual_fund",
-    "scheme_key": "axis-large-mid-cap-fund-reg-g"
+    "scheme_key": "axis-large-and-mid-cap-fund-reg-g"
   },
   "axis-large-cap-fund-review-key-insights-on-returns-risk": {
     "amc": "axis_mutual_fund",
@@ -553,7 +553,7 @@
   },
   "bandhan-large-mid-cap-fund-review-evaluating-performance-risk": {
     "amc": "bandhan_mutual_fund",
-    "scheme_key": "bandhan-large-mid-cap-fund-reg-g"
+    "scheme_key": "bandhan-large-and-mid-cap-fund-reg-g"
   },
   "bandhan-large-cap-fund-review-evaluating-performance-risk": {
     "amc": "bandhan_mutual_fund",
@@ -685,7 +685,7 @@
   },
   "bank-of-india-large-mid-cap-fund-review-a-practical-look-at-returns-risk": {
     "amc": "Bank_of_india_mutual_fund",
-    "scheme_key": "bank-of-india-large-mid-cap-fund-reg-g"
+    "scheme_key": "bank-of-india-large-and-mid-cap-fund-reg-g"
   },
   "bank-of-india-large-cap-fund-review-a-practical-look-at-returns-risk": {
     "amc": "Bank_of_india_mutual_fund",
@@ -697,7 +697,7 @@
   },
   "bank-of-india-mid-small-cap-equity-debt-fund-review-a-practical-look-at-returns-risk": {
     "amc": "Bank_of_india_mutual_fund",
-    "scheme_key": "bank-of-india-mid-small-cap-equity-debt-fund-reg-g"
+    "scheme_key": "bank-of-india-mid-and-small-cap-equity-and-debt-fund-reg-g"
   },
   "bank-of-india-mid-cap-fund-review-a-practical-look-at-returns-risk": {
     "amc": "Bank_of_india_mutual_fund",
@@ -785,7 +785,7 @@
   },
   "baroda-bnp-paribas-large-mid-cap-fund-review-what-the-performance-data-indicates": {
     "amc": "baroda_bnp_paribas_mutual_fund",
-    "scheme_key": "baroda-bnp-paribas-large-mid-cap-fund-reg-g"
+    "scheme_key": "baroda-bnp-paribas-large-and-mid-cap-fund-reg-g"
   },
   "baroda-bnp-paribas-large-cap-fund-review-what-the-performance-data-indicates": {
     "amc": "baroda_bnp_paribas_mutual_fund",
@@ -1329,7 +1329,7 @@
   },
   "hdfc-banking-financial-services-fund-review-can-it-really-deliver-long-term-returns": {
     "amc": "hdfc_mutual_fund",
-    "scheme_key": "hdfc-banking-financial-services-fund-reg-g"
+    "scheme_key": "hdfc-banking-and-financial-services-fund-reg-g"
   },
   "hdfc-bse-500-index-fund-review-can-it-really-deliver-long-term-returns": {
     "amc": "hdfc_mutual_fund",
@@ -1705,7 +1705,7 @@
   },
   "icici-pru-equity-debt-fund-review-what-you-must-know-before-investing": {
     "amc": "icici_pru_mutual_fund",
-    "scheme_key": "icici-pru-equity-debt-fund-g"
+    "scheme_key": "icici-pru-equity-and-debt-fund-g"
   },
   "icici-pru-equity-minimum-variance-fund-review-what-you-must-know-before-investing": {
     "amc": "icici_pru_mutual_fund",
@@ -1725,7 +1725,7 @@
   },
   "icici-pru-exports-services-fund-review-what-you-must-know-before-investing": {
     "amc": "icici_pru_mutual_fund",
-    "scheme_key": "icici-pru-exports-services-fund-g"
+    "scheme_key": "icici-pru-exports-and-services-fund-g"
   },
   "icici-pru-flexicap-fund-review-what-you-must-know-before-investing": {
     "amc": "icici_pru_mutual_fund",
@@ -1753,7 +1753,7 @@
   },
   "icici-pru-large-mid-cap-fund-review-what-the-numbers-say-about-risk-returns": {
     "amc": "icici_pru_mutual_fund",
-    "scheme_key": "icici-pru-large-mid-cap-fund-g"
+    "scheme_key": "icici-pru-large-and-mid-cap-fund-g"
   },
   "icici-pru-large-cap-fund-review-what-the-numbers-say-about-risk-returns": {
     "amc": "icici_pru_mutual_fund",
@@ -1813,7 +1813,7 @@
   },
   "icici-pru-nifty-ev-new-age-automotive-etf-fof-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
-    "scheme_key": "icici-pru-nifty-ev-new-age-automotive-etf-fof-reg-g"
+    "scheme_key": "icici-pru-nifty-ev-and-new-age-automotive-etf-fof-reg-g"
   },
   "icici-pru-nifty-it-index-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
@@ -1869,7 +1869,7 @@
   },
   "icici-pru-pharma-healthcare-diagnostics-p-h-d-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
-    "scheme_key": "icici-pru-pharma-healthcare-diagnostics-p-h-d-fund-g"
+    "scheme_key": "icici-pru-pharma-healthcare-and-diagnostics-p-h-d-fund-g"
   },
   "icici-pru-psu-equity-fund-review-returns-risk-how-it-fits-investors": {
     "amc": "icici_pru_mutual_fund",
@@ -2317,7 +2317,7 @@
   },
   "kotak-transportation-logistics-fund-review-who-should-invest-who-should-avoid": {
     "amc": "kotak_mutual_fund",
-    "scheme_key": "kotak-transportation-logistics-fund-reg-g"
+    "scheme_key": "kotak-transportation-and-logistics-fund-reg-g"
   },
   "kotak-us-specific-equity-passive-fof-review-who-should-invest-who-should-avoid": {
     "amc": "kotak_mutual_fund",
@@ -2337,7 +2337,7 @@
   },
   "lic-mf-banking-financial-services-fund-review-worth-investing": {
     "amc": "lic_mutual_fund",
-    "scheme_key": "lic-mf-banking-financial-services-fund-reg-g"
+    "scheme_key": "lic-mf-banking-and-financial-services-fund-reg-g"
   },
   "lic-mf-bse-sensex-index-fund-review-worth-investing": {
     "amc": "lic_mutual_fund",
@@ -2381,7 +2381,7 @@
   },
   "lic-mf-large-midcap-fund-review-worth-investing": {
     "amc": "lic_mutual_fund",
-    "scheme_key": "lic-mf-large-midcap-fund-reg-g"
+    "scheme_key": "lic-mf-large-and-midcap-fund-reg-g"
   },
   "lic-mf-large-cap-fund-review-worth-investing": {
     "amc": "lic_mutual_fund",
@@ -2437,7 +2437,7 @@
   },
   "mahindra-manulife-banking-financial-services-fund-review-worth-investing": {
     "amc": "mahindra_manulife_mutual_fund",
-    "scheme_key": "mahindra-manulife-banking-financial-services-fund-reg-g"
+    "scheme_key": "mahindra-manulife-banking-and-financial-services-fund-reg-g"
   },
   "mahindra-manulife-business-cycle-fund-review-worth-investing": {
     "amc": "mahindra_manulife_mutual_fund",
@@ -2469,7 +2469,7 @@
   },
   "mahindra-manulife-large-mid-cap-fund-review-worth-investing": {
     "amc": "mahindra_manulife_mutual_fund",
-    "scheme_key": "mahindra-manulife-large-mid-cap-fund-reg-g"
+    "scheme_key": "mahindra-manulife-large-and-mid-cap-fund-reg-g"
   },
   "mahindra-manulife-large-cap-fund-review-worth-investing": {
     "amc": "mahindra_manulife_mutual_fund",
@@ -2545,11 +2545,11 @@
   },
   "mirae-asset-global-electric-autonomous-vehicles-equity-passive-fof-review": {
     "amc": "mirae_asset_mutual_fund",
-    "scheme_key": "mirae-asset-global-electric-autonomous-vehicles-equity-passive-fof-reg-g"
+    "scheme_key": "mirae-asset-global-electric-and-autonomous-vehicles-equity-passive-fof-reg-g"
   },
   "mirae-asset-global-x-artificial-intelligence-technology-etf-fof-review-what-the-returns-risks-reveal": {
     "amc": "mirae_asset_mutual_fund",
-    "scheme_key": "mirae-asset-global-x-artificial-intelligence-technology-etf-fof-reg-g"
+    "scheme_key": "mirae-asset-global-x-artificial-intelligence-and-technology-etf-fof-reg-g"
   },
   "mirae-asset-gold-silver-passive-fof-review-what-the-numbers-say-about-risk-returns": {
     "amc": "mirae_asset_mutual_fund",
@@ -2577,7 +2577,7 @@
   },
   "mirae-asset-large-midcap-fund-review-what-the-returns-risks-reveal": {
     "amc": "mirae_asset_mutual_fund",
-    "scheme_key": "mirae-asset-large-midcap-fund-reg-g"
+    "scheme_key": "mirae-asset-large-and-midcap-fund-reg-g"
   },
   "mirae-asset-large-cap-fund-review-what-the-returns-risks-reveal": {
     "amc": "mirae_asset_mutual_fund",
@@ -2641,7 +2641,7 @@
   },
   "mirae-asset-sp-500-top-50-etf-fof-review-what-the-returns-risks-reveal": {
     "amc": "mirae_asset_mutual_fund",
-    "scheme_key": "mirae-asset-s-p-500-top-50-etf-fof-reg-g"
+    "scheme_key": "mirae-asset-sandp-500-top-50-etf-fof-reg-g"
   },
   "mirae-asset-small-cap-fund-review-what-the-returns-risks-reveal": {
     "amc": "mirae_asset_mutual_fund",
@@ -2729,7 +2729,7 @@
   },
   "motilal-oswal-large-midcap-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
-    "scheme_key": "motilal-oswal-large-midcap-fund-reg-g"
+    "scheme_key": "motilal-oswal-large-and-midcap-fund-reg-g"
   },
   "motilal-oswal-large-cap-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
@@ -2817,7 +2817,7 @@
   },
   "motilal-oswal-sp-500-index-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
-    "scheme_key": "motilal-oswal-s-p-500-index-fund-reg-g"
+    "scheme_key": "motilal-oswal-sandp-500-index-fund-reg-g"
   },
   "motilal-oswal-services-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
@@ -2853,7 +2853,7 @@
   },
   "navi-large-midcap-fund-review-pros-cons-investment-suitability": {
     "amc": "navi_mutual_fund",
-    "scheme_key": "navi-large-midcap-fund-reg-g"
+    "scheme_key": "navi-large-and-midcap-fund-reg-g"
   },
   "navi-nasdaq100-us-specific-equity-passive-fof-review-pros-cons-investment-suitability": {
     "amc": "navi_mutual_fund",
@@ -2913,7 +2913,7 @@
   },
   "nippon-india-banking-financial-services-fund-review-performance-risk-explained-simply": {
     "amc": "nippon_india_mutual_fund",
-    "scheme_key": "nippon-india-banking-financial-services-fund-g"
+    "scheme_key": "nippon-india-banking-and-financial-services-fund-g"
   },
   "nippon-india-bse-sensex-next-30-index-fund-review-performance-risk-explained-simply": {
     "amc": "nippon_india_mutual_fund",
@@ -3053,7 +3053,7 @@
   },
   "nippon-india-power-infra-fund-review-performance-metrics-risk-profile": {
     "amc": "nippon_india_mutual_fund",
-    "scheme_key": "nippon-india-power-infra-fund-g"
+    "scheme_key": "nippon-india-power-and-infra-fund-g"
   },
   "nippon-india-quant-fund-review-performance-metrics-risk-profile": {
     "amc": "nippon_india_mutual_fund",
@@ -3081,7 +3081,7 @@
   },
   "nippon-india-vision-large-mid-cap-fund-review-performance-metrics-risk-profile": {
     "amc": "nippon_india_mutual_fund",
-    "scheme_key": "nippon-india-vision-large-mid-cap-fund-g"
+    "scheme_key": "nippon-india-vision-large-and-mid-cap-fund-g"
   },
   "nj-balanced-advantage-fund-review-pros-cons-investment-suitability": {
     "amc": "nj_mutual_fund",
@@ -3353,7 +3353,7 @@
   },
   "samco-large-mid-cap-fund-review-performance-risk-in-todays-market": {
     "amc": "samco_mutual_fund",
-    "scheme_key": "samco-large-mid-cap-fund-reg-g"
+    "scheme_key": "samco-large-and-mid-cap-fund-reg-g"
   },
   "samco-large-cap-fund-review-performance-risk-in-todays-market": {
     "amc": "samco_mutual_fund",
@@ -3389,7 +3389,7 @@
   },
   "sbi-banking-financial-services-fund-review-what-the-performance-data-indicates": {
     "amc": "sbi_mutual_fund",
-    "scheme_key": "sbi-banking-financial-services-fund-reg-g"
+    "scheme_key": "sbi-banking-and-financial-services-fund-reg-g"
   },
   "sbi-bse-psu-bank-index-fund-review-what-the-performance-data-indicates": {
     "amc": "sbi_mutual_fund",
@@ -3473,7 +3473,7 @@
   },
   "sbi-large-midcap-fund-review-a-practical-look-at-returns-risk": {
     "amc": "sbi_mutual_fund",
-    "scheme_key": "sbi-large-midcap-fund-reg-g"
+    "scheme_key": "sbi-large-and-midcap-fund-reg-g"
   },
   "sbi-large-cap-fund-review-a-practical-look-at-returns-risk": {
     "amc": "sbi_mutual_fund",
@@ -3697,7 +3697,7 @@
   },
   "tata-banking-financial-services-fund-review-performance-summary-risk-view": {
     "amc": "tata_mutual_fund",
-    "scheme_key": "tata-banking-financial-services-fund-reg-g"
+    "scheme_key": "tata-banking-and-financial-services-fund-reg-g"
   },
   "tata-bse-quality-index-fund-review-performance-summary-risk-view": {
     "amc": "tata_mutual_fund",
@@ -3765,7 +3765,7 @@
   },
   "tata-india-pharma-healthcare-fund-review-performance-risk-practical-relevance": {
     "amc": "tata_mutual_fund",
-    "scheme_key": "tata-india-pharma-healthcare-fund-reg-g"
+    "scheme_key": "tata-india-pharma-and-healthcare-fund-reg-g"
   },
   "tata-infrastructure-fund-review-performance-risk-practical-relevance": {
     "amc": "tata_mutual_fund",
@@ -3773,7 +3773,7 @@
   },
   "tata-large-mid-cap-fund-review-performance-risk-practical-relevance": {
     "amc": "tata_mutual_fund",
-    "scheme_key": "tata-large-mid-cap-fund-reg-g"
+    "scheme_key": "tata-large-and-mid-cap-fund-reg-g"
   },
   "tata-large-cap-fund-review-performance-risk-practical-relevance": {
     "amc": "tata_mutual_fund",
@@ -3849,7 +3849,7 @@
   },
   "tata-resources-energy-fund-review-performance-risk-practical-relevance": {
     "amc": "tata_mutual_fund",
-    "scheme_key": "tata-resources-energy-fund-reg-g"
+    "scheme_key": "tata-resources-and-energy-fund-reg-g"
   },
   "tata-silver-etf-fof-review-performance-risk-practical-relevance": {
     "amc": "tata_mutual_fund",
@@ -3865,7 +3865,7 @@
   },
   "taurus-banking-fin-serv-fund-review-key-performance-signals-risk-view": {
     "amc": "taurus_mutual_fund",
-    "scheme_key": "taurus-banking-fin-serv-fund-reg-g"
+    "scheme_key": "taurus-banking-and-fin-serv-fund-reg-g"
   },
   "taurus-elss-tax-saver-fund-review-performance-risk-practical-relevance": {
     "amc": "taurus_mutual_fund",
@@ -3997,11 +3997,11 @@
   },
   "union-innovation-opp-fund-review-key-performance-signals-risk-view": {
     "amc": "union_mutual_fund",
-    "scheme_key": "union-innovation-opp-fund-reg-g"
+    "scheme_key": "union-innovation-and-opp-fund-reg-g"
   },
   "union-large-midcap-fund-review-key-performance-signals-risk-view": {
     "amc": "union_mutual_fund",
-    "scheme_key": "union-large-midcap-fund-reg-g"
+    "scheme_key": "union-large-and-midcap-fund-reg-g"
   },
   "union-largecap-fund-review-key-performance-signals-risk-view": {
     "amc": "union_mutual_fund",
@@ -4101,7 +4101,7 @@
   },
   "uti-large-mid-cap-fund-review-performance-insights-risk-context": {
     "amc": "uti_mutual_fund",
-    "scheme_key": "uti-large-mid-cap-fund-reg-g"
+    "scheme_key": "uti-large-and-mid-cap-fund-reg-g"
   },
   "uti-large-cap-fund-review-performance-insights-risk-context": {
     "amc": "uti_mutual_fund",
@@ -4173,7 +4173,7 @@
   },
   "uti-transportation-logistics-fund-review-performance-risk-snapshot": {
     "amc": "uti_mutual_fund",
-    "scheme_key": "uti-transportation-logistics-fund-reg-g"
+    "scheme_key": "uti-transportation-and-logistics-fund-reg-g"
   },
   "uti-value-fund-review-performance-risk-snapshot": {
     "amc": "uti_mutual_fund",
