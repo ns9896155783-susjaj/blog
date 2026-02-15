@@ -2183,6 +2183,10 @@
     "amc": "kotak_mutual_fund",
     "scheme_key": "kotak-international-reit-overseas-equity-omni-fof-reg-g"
   },
+  "kotak-large-and-mid-cap-fund-review-pros-cons-investment-suitability": {
+    "amc": "kotak_mutual_fund",
+    "scheme_key": "kotak-large-and-midcap-fund-g"
+  },
   "kotak-large-cap-fund-review-pros-cons-investment-suitability": {
     "amc": "kotak_mutual_fund",
     "scheme_key": "kotak-large-cap-fund-g"
