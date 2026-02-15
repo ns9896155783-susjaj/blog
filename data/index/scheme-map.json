@@ -1883,6 +1883,10 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-quant-fund-g"
   },
+  "icici-pru-regular-gold-savings-fund-review-performance-risk-portfolio": {
+    "amc": "icici_pru_mutual_fund",
+    "scheme_key": "icici-pru-regular-gold-savings-fund-fof-g"
+  },
   "icici-pru-rural-opportunities-fund-review-performance-risk-portfolio": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-rural-opportunities-fund-reg-g"
