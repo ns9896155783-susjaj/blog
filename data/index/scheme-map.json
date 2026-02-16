@@ -1663,6 +1663,10 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-balanced-advantage-fund-g"
   },
+  "icici-pru-banking-financial-services-review-how-it-performs-who-should-invest": {
+    "amc": "icici_pru_mutual_fund",
+    "scheme_key": "icici-pru-banking-and-fin-serv-fund-g"
+  },
   "icici-pru-bharat-22-fof-review-how-it-performs-who-should-invest": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-bharat-22-fof-g"
