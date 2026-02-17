@@ -1391,6 +1391,10 @@
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-gold-etf-fof-g"
   },
+  "hdfc-housing-opportunities-fund-review-how-it-performs-who-should-invest": {
+    "amc": "hdfc_mutual_fund",
+    "scheme_key": "hdfc-housing-opp-fund-reg-g"
+  },
   "hdfc-hybrid-equity-fund-review-how-it-performs-who-should-invest": {
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-hybrid-equity-fund-g"
