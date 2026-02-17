@@ -1931,6 +1931,10 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-technology-fund-g"
   },
+  "icici-pru-thematic-advantage-fund-review-performance-risk-portfolio": {
+    "amc": "icici_pru_mutual_fund",
+    "scheme_key": "icici-pru-thematic-advantage-fund-fof-g"
+  },
   "icici-pru-transportation-and-logistics-fund-review-performance-risk-portfolio": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-transportation-and-logistics-fund-reg-g"
