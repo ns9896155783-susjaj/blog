@@ -2215,6 +2215,10 @@
     "amc": "kotak_mutual_fund",
     "scheme_key": "kotak-income-plus-arbitrage-omni-fof-reg-g"
   },
+  "kotak-infra-and-economic-reform-fund-review-pros-cons-investment-suitability": {
+    "amc": "kotak_mutual_fund",
+    "scheme_key": "kotak-infra-and-eco-reform-fund-g"
+  },
   "kotak-international-reit-overseas-equity-omni-fof-review-pros-cons-investment-suitability": {
     "amc": "kotak_mutual_fund",
     "scheme_key": "kotak-international-reit-overseas-equity-omni-fof-reg-g"
