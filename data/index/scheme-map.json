@@ -4253,6 +4253,10 @@
   },
   "white-oak-large-cap-fund-review-how-relevant-is-this-fund-today": {
     "amc": "woc_mutual_fund",
+    "scheme_key": "woc-large-cap-fund-reg-g"
+  },
+  "white-oak-mid-cap-fund-review-how-relevant-is-this-fund-today": {
+    "amc": "woc_mutual_fund",
     "scheme_key": "woc-mid-cap-fund-reg-g"
   },
   "white-oak-multi-asset-allocation-fund-review-how-relevant-is-this-fund-today": {
