@@ -4147,11 +4147,11 @@
     "amc": "uti_mutual_fund",
     "scheme_key": "uti-mnc-fund-reg-g"
   },
-  "review-performance-risk-snapshot/": {
+  "review-performance-risk-snapshot": {
     "amc": "uti_mutual_fund",
     "scheme_key": "uti-multi-asset-allocation-fund-reg-g"
   },
-  "review-performance-risk-snapshot-2/": {
+  "review-performance-risk-snapshot-2": {
     "amc": "uti_mutual_fund",
     "scheme_key": "uti-multi-cap-fund-reg-g"
   },
