@@ -4231,6 +4231,10 @@
     "amc": "woc_mutual_fund",
     "scheme_key": "woc-digital-bharat-fund-reg-g"
   },
+  "white-oak-digital-bharat-fund-review-how-relevant-is-this-fund-today": {
+    "amc": "bharat_bond_mutual_fund",
+    "scheme_key": "woc-digital-bharat-fund-reg-g"
+  },
   "white-oak-elss-tax-saver-fund-review-how-relevant-is-this-fund-today": {
     "amc": "woc_mutual_fund",
     "scheme_key": "woc-elss-tax-saver-fund-reg-g"
