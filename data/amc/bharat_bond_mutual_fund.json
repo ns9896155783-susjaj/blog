@@ -2,7 +2,7 @@
   "meta": {
     "amc": "BHARAT Bond Mutual Fund",
     "total_schemes": 8,
-    "last_updated": "2026-02-18 06:45"
+    "last_updated": "2026-02-19 06:45"
   },
   "schemes": {
     "bharat-bond-etf-fof-april-2032-reg-g": {
@@ -196,9 +196,9 @@
       "return_3_mo": 5.73,
       "return_6_mo": 13.65,
       "return_1_yr": 26.26,
-      "return_2_yrs": 12.74,
-      "return_3_yrs": 28.36,
-      "return_5_yrs": 27.47,
+      "return_2_yrs": 10.99,
+      "return_3_yrs": 28.44,
+      "return_5_yrs": 27.35,
       "return_10_yrs": null,
       "pe_ratio": null,
       "pb_ratio": null,
@@ -239,9 +239,9 @@
       "return_3_mo": -5.2,
       "return_6_mo": -1.72,
       "return_1_yr": 4.59,
-      "return_2_yrs": 6.41,
-      "return_3_yrs": 15.94,
-      "return_5_yrs": 14.52,
+      "return_2_yrs": 5.87,
+      "return_3_yrs": 15.78,
+      "return_5_yrs": 14.36,
       "return_10_yrs": null,
       "pe_ratio": 29.84,
       "pb_ratio": 6.33,
@@ -250,7 +250,7 @@
       "avg_market_cap_in_rs_cr_": 125711,
       "large_cap_": 62.38,
       "mid_cap_": 13.56,
-      "small_cap_": 20.21,
+      "small_cap_": 20.32,
       "highest_sector": "FMCG",
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
@@ -293,7 +293,7 @@
       "avg_market_cap_in_rs_cr_": 152210,
       "large_cap_": 68.06,
       "mid_cap_": 16.38,
-      "small_cap_": 10.63,
+      "small_cap_": 10.68,
       "highest_sector": "Automobile and Ancillaries",
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
