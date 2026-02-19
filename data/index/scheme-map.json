@@ -692,8 +692,8 @@
     "scheme_key": "bank-of-india-large-cap-fund-reg-g"
   },
   "Not Found": {
-    "amc": "uti_mutual_fund",
-    "scheme_key": "uti-nifty-india-manufacturing-index-fund-reg-g"
+    "amc": "tata_mutual_fund",
+    "scheme_key": "tata-bse-multicap-consumption-50-30-20-index-fund-reg-g"
   },
   "bank-of-india-mid-small-cap-equity-debt-fund-review-a-practical-look-at-returns-risk": {
     "amc": "Bank_of_india_mutual_fund",
@@ -4147,6 +4147,14 @@
     "amc": "uti_mutual_fund",
     "scheme_key": "uti-mnc-fund-reg-g"
   },
+  "review-performance-risk-snapshot/": {
+    "amc": "uti_mutual_fund",
+    "scheme_key": "uti-multi-asset-allocation-fund-reg-g"
+  },
+  "review-performance-risk-snapshot-2/": {
+    "amc": "uti_mutual_fund",
+    "scheme_key": "uti-multi-cap-fund-reg-g"
+  },
   "uti-nifty-50-index-fund-review-performance-risk-snapshot": {
     "amc": "uti_mutual_fund",
     "scheme_key": "uti-nifty-50-index-fund-reg-g"
@@ -4158,6 +4166,10 @@
   "uti-nifty-alpha-low-volatility-30-index-fund-review-performance-risk-snapshot": {
     "amc": "uti_mutual_fund",
     "scheme_key": "uti-nifty-alpha-low-volatility-30-index-fund-reg-g"
+  },
+  "review-performance-risk-snapshot-3": {
+    "amc": "uti_mutual_fund",
+    "scheme_key": "uti-nifty-india-manufacturing-index-fund-reg-g"
   },
   "uti-nifty-midcap-150-index-fund-review-performance-risk-snapshot": {
     "amc": "uti_mutual_fund",
@@ -4177,10 +4189,6 @@
   },
   "uti-nifty-private-bank-index-fund-review-performance-risk-snapshot": {
     "amc": "uti_mutual_fund",
-    "scheme_key": "uti-nifty-private-bank-index-fund-reg-g"
-  },
-  "uti-nifty-private-bank-index-fund-review-performance-risk-snapshot": {
-    "amc": "bank_of_india_mutual_fund",
     "scheme_key": "uti-nifty-private-bank-index-fund-reg-g"
   },
   "uti-nifty200-momentum-30-index-fund-review-performance-risk-snapshot": {
@@ -4233,10 +4241,6 @@
   },
   "white-oak-digital-bharat-fund-review-how-relevant-is-this-fund-today": {
     "amc": "woc_mutual_fund",
-    "scheme_key": "woc-digital-bharat-fund-reg-g"
-  },
-  "white-oak-digital-bharat-fund-review-how-relevant-is-this-fund-today": {
-    "amc": "bharat_bond_mutual_fund",
     "scheme_key": "woc-digital-bharat-fund-reg-g"
   },
   "white-oak-elss-tax-saver-fund-review-how-relevant-is-this-fund-today": {
