@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Angel Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-02-18 06:45"
+    "last_updated": "2026-02-19 06:45"
   },
   "schemes": {
     "angel-one-gold-etf-fof-reg-g": {
@@ -78,7 +78,7 @@
       "avg_market_cap_in_rs_cr_": 568547,
       "large_cap_": 99.24,
       "mid_cap_": 0.64,
-      "small_cap_": null,
+      "small_cap_": 0.03,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
@@ -121,7 +121,7 @@
       "avg_market_cap_in_rs_cr_": 202991,
       "large_cap_": 68.01,
       "mid_cap_": 18.89,
-      "small_cap_": 13.12,
+      "small_cap_": 13.14,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
