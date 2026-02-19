@@ -4179,6 +4179,10 @@
     "amc": "uti_mutual_fund",
     "scheme_key": "uti-nifty-private-bank-index-fund-reg-g"
   },
+  "uti-nifty-private-bank-index-fund-review-performance-risk-snapshot": {
+    "amc": "bank_of_india_mutual_fund",
+    "scheme_key": "uti-nifty-private-bank-index-fund-reg-g"
+  },
   "uti-nifty200-momentum-30-index-fund-review-performance-risk-snapshot": {
     "amc": "uti_mutual_fund",
     "scheme_key": "uti-nifty200-momentum-30-index-fund-reg-g"
