@@ -2111,6 +2111,10 @@
     "amc": "jm_mutual_fund",
     "scheme_key": "jm-focused-fund-reg-g"
   },
+  "is-jm-large-and-mid-cap-fund-good-for-long-term-complete-review": {
+    "amc": "jm_mutual_fund",
+    "scheme_key": "jm-large-and-mid-cap-fund-reg-g"
+  },
   "is-jm-large-cap-fund-good-for-long-term-complete-review": {
     "amc": "jm_mutual_fund",
     "scheme_key": "jm-large-cap-fund-reg-g"
