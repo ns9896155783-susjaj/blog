@@ -2071,6 +2071,10 @@
     "amc": "iti_mutual_fund",
     "scheme_key": "iti-focused-fund-reg-g"
   },
+  "is-iti-large-and-mid-cap-fund-good-for-long-term-complete-review": {
+    "amc": "iti_mutual_fund",
+    "scheme_key": "iti-large-and-mid-cap-fund-reg-g"
+  },
   "is-iti-large-cap-fund-good-for-long-term-complete-review": {
     "amc": "iti_mutual_fund",
     "scheme_key": "iti-large-cap-fund-reg-g"
@@ -2082,6 +2086,10 @@
   "is-iti-multi-cap-fund-good-for-long-term-complete-review": {
     "amc": "iti_mutual_fund",
     "scheme_key": "iti-multi-cap-fund-reg-g"
+  },
+  "is-iti-pharma-and-healthcare-fund-good-for-long-term-complete-review": {
+    "amc": "iti_mutual_fund",
+    "scheme_key": "iti-pharma-and-healthcare-fund-reg-g"
   },
   "is-iti-small-cap-fund-good-for-long-term-complete-review": {
     "amc": "iti_mutual_fund",
