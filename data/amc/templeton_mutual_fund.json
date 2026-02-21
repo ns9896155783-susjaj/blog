@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Templeton Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-02-20 06:46"
+    "last_updated": "2026-02-21 06:45"
   },
   "schemes": {
     "templeton-india-value-fund-g": {
@@ -17,16 +17,16 @@
       "fund_type": "Open Ended",
       "inception_date": "2003-09-04T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 739.66,
+      "nav": 732.66,
       "52_weekhigh_nav_": 749.7,
       "52_weeklow_nav_": 629.7,
       "return_1_mo": 0.86,
       "return_3_mo": 0,
       "return_6_mo": 5.5,
       "return_1_yr": 12.66,
-      "return_2_yrs": 7.15,
-      "return_3_yrs": 18.19,
-      "return_5_yrs": 17.72,
+      "return_2_yrs": 7.33,
+      "return_3_yrs": 18.31,
+      "return_5_yrs": 17.59,
       "return_10_yrs": 16.47,
       "pe_ratio": 17.67,
       "pb_ratio": 2.35,
