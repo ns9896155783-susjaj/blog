@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Old Bridge Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-02-20 06:46"
+    "last_updated": "2026-02-21 06:45"
   },
   "schemes": {
     "old-bridge-arbitrage-fund-reg-g": {
@@ -17,8 +17,8 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-11-12T18:30:00.000Z",
       "benchmark_index": "Nifty 50 Arbitrage - TRI",
-      "nav": 10.16,
-      "52_weekhigh_nav_": 10.16,
+      "nav": 10.17,
+      "52_weekhigh_nav_": 10.17,
       "52_weeklow_nav_": 10,
       "return_1_mo": 0.56,
       "return_3_mo": 1.52,
@@ -103,14 +103,14 @@
       "fund_type": "Open Ended",
       "inception_date": "2024-01-23T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 12.41,
+      "nav": 12.31,
       "52_weekhigh_nav_": 12.77,
       "52_weeklow_nav_": 10.41,
       "return_1_mo": -0.24,
       "return_3_mo": 0.16,
       "return_6_mo": 8.97,
       "return_1_yr": 14.94,
-      "return_2_yrs": 10.84,
+      "return_2_yrs": 10.91,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
@@ -130,7 +130,7 @@
       "sharpe": 0.13,
       "sortino": 0.24,
       "beta": 1.16,
-      "standard_deviation": 14.51,
+      "standard_deviation": 14.48,
       "classification": "Equity : Flexi Cap",
       "exit_load_remarks": "1% on or before 365D Nil after 365D"
     }
