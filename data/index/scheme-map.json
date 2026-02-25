@@ -3344,11 +3344,11 @@
     "scheme_key": "quant-value-fund-reg-g"
   },
   "quantum-diversified-equity-all-cap-active-fof-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-diversified-equity-all-cap-active-fof-reg-g"
   },
   "quantum-elss-tax-saver-fund-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-elss-tax-saver-fund-reg-g"
   },
   "quantum-esg-best-in-class-strategy-fund-review-performance-risk-in-todays-market": {
