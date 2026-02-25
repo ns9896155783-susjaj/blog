@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Capitalmind Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-02-24 06:45"
+    "last_updated": "2026-02-25 06:45"
   },
   "schemes": {
     "capitalmind-arbitrage-fund-reg-g": {
       "name": "Capitalmind Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS2053-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS2047-GR&type=purchase",
       "fund_manager": "Anoop Vijaykumar",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
@@ -60,12 +60,12 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-08-03T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.21,
+      "nav": 10.25,
       "52_weekhigh_nav_": 10.35,
       "52_weeklow_nav_": 9.61,
-      "return_1_mo": -0.09,
-      "return_3_mo": 1.01,
-      "return_6_mo": 3.07,
+      "return_1_mo": 1.22,
+      "return_3_mo": 0.51,
+      "return_6_mo": 2.54,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
@@ -94,7 +94,7 @@
     "capitalmind-multi-asset-allocation-fund-reg-g": {
       "name": "Capitalmind Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS2047-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Anoop Vijaykumar",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -132,7 +132,7 @@
       "beta": null,
       "standard_deviation": null,
       "classification": "Hybrid : Multi Asset Allocation",
-      "exit_load_remarks": "1% on or before 12M Nil after 12M"
+      "exit_load_remarks": "1% on or before 30D Nil after 30D"
     }
   }
 }
