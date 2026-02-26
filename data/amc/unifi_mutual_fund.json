@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Unifi Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-02-25 06:45"
+    "last_updated": "2026-02-26 06:46"
   },
   "schemes": {
     "unifi-dynamic-asset-allocation-fund-reg-g": {
@@ -89,7 +89,7 @@
       "beta": null,
       "standard_deviation": null,
       "classification": "Equity : Flexi Cap",
-      "exit_load_remarks": "NIL"
+      "exit_load_remarks": "1% on or before 12M Nil after 12M"
     }
   }
 }
