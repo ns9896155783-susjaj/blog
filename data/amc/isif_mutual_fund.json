@@ -2,13 +2,13 @@
   "meta": {
     "amc": "iSIF Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "isif-equity-ex-top-100-long-short-fund-reg-g": {
       "name": "iSIF Equity Ex-Top 100 Long-Short Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K179EA-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
