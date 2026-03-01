@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Parag Parikh Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-02-28 10:45"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "parag-parikh-arbitrage-fund-reg-g": {
       "name": "Parag Parikh Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUIPGP-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PPAFRG-GR&type=purchase",
       "fund_manager": "Rajeev Thakkar",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
@@ -180,7 +180,7 @@
     "parag-parikh-large-cap-fund-reg-g": {
       "name": "Parag Parikh Large Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAAFG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PPLCFRG-GR&type=purchase",
       "fund_manager": "Rajeev Thakkar",
       "category": "EQ-LC",
       "rupeevestrating": "Unrated",
