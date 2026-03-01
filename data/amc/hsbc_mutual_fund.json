@@ -2,7 +2,7 @@
   "meta": {
     "amc": "HSBC Mutual Fund",
     "total_schemes": 29,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "hsbc-aggressive-hybrid-active-fof-reg-g": {
@@ -94,7 +94,7 @@
     "hsbc-arbitrage-fund-reg-g": {
       "name": "HSBC Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "NIPPON INDIA ARBITRAGE FUND - GROWTH",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSLARG-GR&type=purchase",
       "fund_manager": "Praveen Ayathan",
       "category": "HY-ARB",
       "rupeevestrating": 5,
