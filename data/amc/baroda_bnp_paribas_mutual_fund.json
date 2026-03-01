@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Baroda BNP Paribas Mutual Fund",
     "total_schemes": 31,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "baroda-bnp-paribas-aggressive-hybrid-fund-reg-g": {
@@ -94,7 +94,7 @@
     "baroda-bnp-paribas-arbitrage-fund-reg-g": {
       "name": "Baroda BNP Paribas Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPEBRG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPARRG-GR&type=purchase",
       "fund_manager": "Neeraj Saxena",
       "category": "HY-ARB",
       "rupeevestrating": 4,
@@ -481,7 +481,7 @@
     "baroda-bnp-paribas-esg-best-in-class-strategy-fund-reg-g": {
       "name": "Baroda BNP Paribas ESG Best-in-class Strategy Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS576-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPEBRG-GR&type=purchase",
       "fund_manager": "Jitendra Sriram",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
