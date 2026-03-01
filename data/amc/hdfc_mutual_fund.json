@@ -2,13 +2,13 @@
   "meta": {
     "amc": "HDFC Mutual Fund",
     "total_schemes": 53,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "hdfc-arbitrage-wp-g": {
       "name": "HDFC Arbitrage-WP(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDAFWG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "HY-ARB",
       "rupeevestrating": 2,
@@ -825,7 +825,7 @@
     "hdfc-income-plus-arbitrage-omni-fof-reg-g": {
       "name": "HDFC Income Plus Arbitrage Omni FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "DSP NIFTY HEALTHCARE INDEX FUND - REGULAR PLAN - GROWTH",
+      "invest_online_link": null,
       "fund_manager": "Bhavyesh Divecha",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1255,7 +1255,7 @@
     "hdfc-multi-asset-allocation-fund-g": {
       "name": "HDFC Multi-Asset Allocation Fund(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFAFGP-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Srinivasan Ramamurthy",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -1427,7 +1427,7 @@
     "hdfc-nifty-india-consumption-index-fund-reg-g": {
       "name": "HDFC Nifty India Consumption Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "OLD BRIDGE ARBITRAGE FUND - REGULAR PLAN - GROWTH",
+      "invest_online_link": null,
       "fund_manager": "Nandita Menezes",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
