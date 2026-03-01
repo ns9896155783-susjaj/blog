@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Bandhan Mutual Fund",
     "total_schemes": 47,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "bandhan-aggressive-hybrid-fund-reg-g": {
@@ -94,7 +94,7 @@
     "bandhan-arbitrage-fund-reg-g": {
       "name": "Bandhan Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC209-GR&type=purchase",
       "fund_manager": "Kapil Kankonkar",
       "category": "HY-ARB",
       "rupeevestrating": 2,
@@ -567,7 +567,7 @@
     "bandhan-gold-etf-fof-reg-g": {
       "name": "Bandhan Gold ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID421-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID420-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "bandhan-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Bandhan Income Plus Arbitrage Active FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSMSCG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC51-GR&type=purchase",
       "fund_manager": "Harshal Joshi",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -997,7 +997,7 @@
     "bandhan-multi-asset-passive-fof-reg-g": {
       "name": "Bandhan Multi-Asset Passive FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFCMP-GR&type=purchase",
       "fund_manager": "Viraj Kulkarni",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1728,7 +1728,7 @@
     "bandhan-silver-etf-fof-reg-g": {
       "name": "Bandhan Silver ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID421-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -1900,7 +1900,7 @@
     "bandhan-us-specific-equity-active-fof-reg-idcw": {
       "name": "Bandhan US Specific Equity Active FOF-Reg(IDCW)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAAFRG-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Ritika Behera",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
