@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Axis Mutual Fund",
     "total_schemes": 45,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "axis-aggressive-hybrid-fund-reg-g": {
@@ -51,7 +51,7 @@
     "axis-arbitrage-fund-reg-g": {
       "name": "Axis Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXEAGP-GR&type=purchase",
       "fund_manager": "Karthik Kumar",
       "category": "HY-ARB",
       "rupeevestrating": 3,
@@ -137,7 +137,7 @@
     "axis-bse-india-sector-leaders-index-fund-reg-g": {
       "name": "Axis BSE India Sector Leaders Index Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXGSGP-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXSLGP-GR&type=purchase",
       "fund_manager": "Karthik Kumar",
       "category": "EQ-INDX",
       "rupeevestrating": "Unrated",
@@ -352,7 +352,7 @@
     "axis-equity-savings-fund-reg-g": {
       "name": "Axis Equity Savings Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDMULG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXESGP-GR&type=purchase",
       "fund_manager": "Mayank Hyanki",
       "category": "HY-EQ",
       "rupeevestrating": 2,
@@ -610,7 +610,7 @@
     "axis-gold-and-silver-passive-fof-reg-g": {
       "name": "Axis Gold and Silver Passive FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNQGP-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXGSGP-GR&type=purchase",
       "fund_manager": "Pratik Tibrewal",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -997,7 +997,7 @@
     "axis-midcap-fund-reg-g": {
       "name": "Axis Midcap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=091G&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXFMCGP-GR&type=purchase",
       "fund_manager": "Shreyash Devalkar",
       "category": "EQ-MID",
       "rupeevestrating": 3,
@@ -1083,7 +1083,7 @@
     "axis-multi-asset-allocation-fund-reg-g": {
       "name": "Axis Multi Asset Allocation Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=101G&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXFTPGP-GR&type=purchase",
       "fund_manager": "Ashish Naik",
       "category": "HY-MULTI",
       "rupeevestrating": "Unrated",
@@ -1126,7 +1126,7 @@
     "axis-multi-asset-active-fof-reg-g": {
       "name": "Axis Multi-Asset Active FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSMSMG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXMAGP-GR&type=purchase",
       "fund_manager": "Devang Shah",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -1212,7 +1212,7 @@
     "axis-nasdaq-100-us-specific-equity-passive-fof-reg-g": {
       "name": "Axis NASDAQ 100 US Specific Equity Passive FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJAFRG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNQGP-GR&type=purchase",
       "fund_manager": "Krishnaa N",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
