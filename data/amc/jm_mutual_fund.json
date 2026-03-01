@@ -2,7 +2,7 @@
   "meta": {
     "amc": "JM Mutual Fund",
     "total_schemes": 10,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "jm-aggressive-hybrid-fund-reg-g": {
@@ -51,7 +51,7 @@
     "jm-arbitrage-fund-g": {
       "name": "JM Arbitrage Fund(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCAFGP-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AAGP-GR&type=purchase",
       "fund_manager": "Asit Bhandarkar",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
