@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Bajaj Finserv Mutual Fund",
     "total_schemes": 15,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "bajaj-finserv-arbitrage-fund-reg-g": {
       "name": "Bajaj Finserv Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC209-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BJAFRG-GR&type=purchase",
       "fund_manager": "Ilesh Savla",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
