@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Sundaram Mutual Fund",
     "total_schemes": 24,
-    "last_updated": "2026-02-28 10:45"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "sundaram-aggressive-hybrid-fund-g": {
@@ -51,7 +51,7 @@
     "sundaram-arbitrage-fund-g": {
       "name": "Sundaram Arbitrage Fund(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TSSAGP-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUABRG-GR&type=purchase",
       "fund_manager": "Rohit Seksaria",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "sundaram-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Sundaram Income Plus Arbitrage Active FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE112G-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUIPGP-GR&type=purchase",
       "fund_manager": "S. Bharath",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
