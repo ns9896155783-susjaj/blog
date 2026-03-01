@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Navi Mutual Fund",
     "total_schemes": 15,
-    "last_updated": "2026-02-28 10:45"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "navi-aggressive-hybrid-fund-reg-g": {
@@ -266,7 +266,7 @@
     "navi-nasdaq100-us-specific-equity-passive-fof-reg-g": {
       "name": "Navi Nasdaq100 US Specific Equity Passive FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAARRG-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "navi-total-stock-market-us-specific-equity-passive-fof-reg-g": {
       "name": "Navi Total Stock Market US Specific Equity Passive FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAMIRG-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
       "category": "FOF-OVR",
       "rupeevestrating": "Unrated",
