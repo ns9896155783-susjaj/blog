@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Samco Mutual Fund",
     "total_schemes": 12,
-    "last_updated": "2026-02-28 10:45"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "samco-active-momentum-fund-reg-g": {
@@ -51,7 +51,7 @@
     "samco-arbitrage-fund-reg-g": {
       "name": "Samco Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=WEGFRG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAARRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
@@ -309,7 +309,7 @@
     "samco-mid-cap-fund-reg-g": {
       "name": "Samco Mid Cap Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTAFRG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAMIRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
       "category": "EQ-MID",
       "rupeevestrating": "Unrated",
