@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Motilal Oswal Mutual Fund",
     "total_schemes": 48,
-    "last_updated": "2026-02-28 10:45"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "motilal-oswal-5-year-g-sec-fof-reg-g": {
@@ -94,7 +94,7 @@
     "motilal-oswal-arbitrage-fund-reg-g": {
       "name": "Motilal Oswal Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=OBAFGP-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOARGP-GR&type=purchase",
       "fund_manager": "Vishal Ashar",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
@@ -610,7 +610,7 @@
     "motilal-oswal-diversified-equity-flexicap-passive-fof-reg-g": {
       "name": "Motilal Oswal Diversified Equity Flexicap Passive FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PPAFRG-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
@@ -696,7 +696,7 @@
     "motilal-oswal-financial-services-fund-reg-g": {
       "name": "Motilal Oswal Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PPLCFRG-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Ajay Khandelwal",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -825,7 +825,7 @@
     "motilal-oswal-gold-and-silver-passive-fof-reg-g": {
       "name": "Motilal Oswal Gold and Silver Passive FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DWARGPG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOMGGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -1169,7 +1169,7 @@
     "motilal-oswal-multi-factor-passive-fof-reg-g": {
       "name": "Motilal Oswal Multi Factor Passive FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUABGP-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Swapnil P Mayekar",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
