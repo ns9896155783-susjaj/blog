@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Mirae Asset Mutual Fund",
     "total_schemes": 39,
-    "last_updated": "2026-02-28 10:45"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "mirae-asset-aggressive-hybrid-fund-reg-g": {
@@ -51,7 +51,7 @@
     "mirae-asset-arbitrage-fund-reg-g": {
       "name": "Mirae Asset Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAAFRG-GR&type=purchase",
       "fund_manager": "Jignesh Rao",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
@@ -1341,7 +1341,7 @@
     "mirae-asset-nifty-metal-etf-fof-reg-g": {
       "name": "Mirae Asset Nifty Metal ETF FOF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RMFAF-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Ekta Gala",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
