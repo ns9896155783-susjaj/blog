@@ -2,13 +2,13 @@
   "meta": {
     "amc": "SBI Mutual Fund",
     "total_schemes": 46,
-    "last_updated": "2026-02-28 10:45"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "sbi-arbitrage-opportunities-fund-reg-g": {
       "name": "SBI Arbitrage Opportunities Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNAFG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=114G&type=purchase",
       "fund_manager": "Neeraj Kumar",
       "category": "HY-ARB",
       "rupeevestrating": 1,
@@ -1771,7 +1771,7 @@
     "sbi-quality-fund-reg-g": {
       "name": "SBI Quality Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTSFGPG-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Anup Upadhyay",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
