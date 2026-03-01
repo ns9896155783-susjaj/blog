@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Mahindra Manulife Mutual Fund",
     "total_schemes": 21,
-    "last_updated": "2026-02-28 10:45"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "mahindra-manulife-aggressive-hybrid-fund-reg-g": {
@@ -51,7 +51,7 @@
     "mahindra-manulife-arbitrage-fund-reg-g": {
       "name": "Mahindra Manulife Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "GROWW SILVER ETF FOF - REGULAR PLAN - GROWTH",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MHMAYRG-GR&type=purchase",
       "fund_manager": "Mitul Doshi",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
@@ -524,7 +524,7 @@
     "mahindra-manulife-innovation-opportunities-fund-reg-g": {
       "name": "Mahindra Manulife Innovation Opportunities Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOMGGP-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Kirti Dalvi",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
