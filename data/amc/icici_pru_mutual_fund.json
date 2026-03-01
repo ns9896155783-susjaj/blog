@@ -2,7 +2,7 @@
   "meta": {
     "amc": "ICICI Pru Mutual Fund",
     "total_schemes": 72,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "icici-pru-active-momentum-fund-reg-g": {
@@ -739,7 +739,7 @@
     "icici-pru-equity-arbitrage-fund-g": {
       "name": "ICICI Pru Equity-Arbitrage Fund(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITAFGP-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Archana Nair",
       "category": "HY-ARB",
       "rupeevestrating": 3,
@@ -1083,7 +1083,7 @@
     "icici-pru-gold-etf-fof-g": {
       "name": "ICICI Pru Gold ETF FOF(G)",
       "amc_list": null,
-      "invest_online_link": "PARAG PARIKH ARBITRAGE FUND-REGULAR PLAN-GROWTH",
+      "invest_online_link": null,
       "fund_manager": "Manish Banthia",
       "category": "GOLD-MF",
       "rupeevestrating": "Unrated",
@@ -1943,7 +1943,7 @@
     "icici-pru-nifty-commodities-etf": {
       "name": "ICICI Pru Nifty Commodities ETF",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AAGP-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Nishit Patel",
       "category": "EQ-THEM",
       "rupeevestrating": "Unrated",
