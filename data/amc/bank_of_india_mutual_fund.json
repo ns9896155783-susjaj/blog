@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Bank of India Mutual Fund",
     "total_schemes": 27,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "bank-of-india-arbitrage-fund-reg-g": {
       "name": "Bank of India Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BABFRG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAAFRG-GR&type=purchase",
       "fund_manager": "Nilesh Jethani",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
@@ -94,7 +94,7 @@
     "bank-of-india-banking-and-financial-services-fund-reg-g": {
       "name": "Bank of India Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPARRG-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BABFRG-GR&type=purchase",
       "fund_manager": "Nilesh Jethani",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
