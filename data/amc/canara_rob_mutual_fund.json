@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Canara Rob Mutual Fund",
     "total_schemes": 15,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "canara-rob-balanced-advantage-fund-reg-g": {
@@ -51,7 +51,7 @@
     "canara-rob-banking-and-financial-services-fund-reg-g": {
       "name": "Canara Rob Banking & Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS2053-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CABFGP-GR&type=purchase",
       "fund_manager": "Shridatta Bhandwaldar",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
