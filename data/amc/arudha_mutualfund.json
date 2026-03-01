@@ -2,13 +2,13 @@
   "meta": {
     "amc": "Arudha MutualFund",
     "total_schemes": 1,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "arudha-hybrid-long-short-fund-reg-g": {
       "name": "Arudha Hybrid Long-Short Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXEAGP-GR&type=purchase",
+      "invest_online_link": null,
       "fund_manager": "Kapil Kankonkar",
       "category": "HY-DYN",
       "rupeevestrating": "Unrated",
