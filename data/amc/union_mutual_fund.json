@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Union Mutual Fund",
     "total_schemes": 21,
-    "last_updated": "2026-02-28 10:45"
+    "last_updated": "2026-03-01 06:46"
   },
   "schemes": {
     "union-active-momentum-fund-reg-g": {
@@ -94,7 +94,7 @@
     "union-arbitrage-fund-reg-g": {
       "name": "Union Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNAFG-GR&type=purchase",
       "fund_manager": "Vishal Thakker",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
