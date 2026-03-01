@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Invesco India Mutual Fund",
     "total_schemes": 28,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "invesco-india-invesco-eqqq-nasdaq-100-etf-fof-reg-g": {
@@ -223,7 +223,7 @@
     "invesco-india-arbitrage-fund-reg-g": {
       "name": "Invesco India Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KM04G-GR&type=purchase",
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFAFGP-GR&type=purchase",
       "fund_manager": "Deepak Gupta",
       "category": "HY-ARB",
       "rupeevestrating": 3,
