@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Quant Mutual Fund",
     "total_schemes": 28,
-    "last_updated": "2026-02-28 10:45"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "quant-aggressive-hybrid-fund-g": {
@@ -51,7 +51,7 @@
     "quant-arbitrage-fund-reg-g": {
       "name": "Quant Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUABGP-GR&type=purchase",
       "fund_manager": "Sameer Kate",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
