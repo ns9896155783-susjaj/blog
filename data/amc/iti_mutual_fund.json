@@ -2,13 +2,13 @@
   "meta": {
     "amc": "ITI Mutual Fund",
     "total_schemes": 14,
-    "last_updated": "2026-02-28 10:44"
+    "last_updated": "2026-03-01 06:45"
   },
   "schemes": {
     "iti-arbitrage-fund-reg-g": {
       "name": "ITI Arbitrage Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITAFGP-GR&type=purchase",
       "fund_manager": "Vikas Nathani",
       "category": "HY-ARB",
       "rupeevestrating": "Unrated",
