@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Templeton Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-03-05 06:46"
+    "last_updated": "2026-03-05 10:35"
   },
   "schemes": {
     "templeton-india-value-fund-g": {
@@ -17,17 +17,17 @@
       "fund_type": "Open Ended",
       "inception_date": "2003-09-04T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 720.21,
+      "nav": 707.61,
       "52_weekhigh_nav_": 749.7,
-      "52_weeklow_nav_": 629.7,
-      "return_1_mo": 1.87,
-      "return_3_mo": -1.03,
-      "return_6_mo": 3.57,
-      "return_1_yr": 13.7,
-      "return_2_yrs": 5.5,
-      "return_3_yrs": 17.74,
-      "return_5_yrs": 16.94,
-      "return_10_yrs": 16.19,
+      "52_weeklow_nav_": 630.6,
+      "return_1_mo": 0.51,
+      "return_3_mo": -1.46,
+      "return_6_mo": 2.55,
+      "return_1_yr": 13.88,
+      "return_2_yrs": 4.24,
+      "return_3_yrs": 16.63,
+      "return_5_yrs": 16.27,
+      "return_10_yrs": 15.8,
       "pe_ratio": 17.67,
       "pb_ratio": 2.35,
       "turnover_ratio_": 26.37,
@@ -44,7 +44,7 @@
       "sharpe": 0.29,
       "sortino": 0.61,
       "beta": 0.91,
-      "standard_deviation": 11.68,
+      "standard_deviation": 11.69,
       "classification": "Equity : Value / Contra",
       "exit_load_remarks": "1% on or before 1Y"
     }
