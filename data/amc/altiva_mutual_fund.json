@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Altiva Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-03-06 06:45"
+    "last_updated": "2026-03-06 10:01"
   },
   "schemes": {
     "altiva-hybrid-long-short-fund-reg-g": {
@@ -33,8 +33,8 @@
       "turnover_ratio_": null,
       "no_ofstocks": 62,
       "avg_market_cap_in_rs_cr_": 69322,
-      "large_cap_": 16.36,
-      "mid_cap_": 12.09,
+      "large_cap_": 17.43,
+      "mid_cap_": 11.01,
       "small_cap_": 3.27,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": null,
