@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Edelweiss Mutual Fund",
     "total_schemes": 39,
-    "last_updated": "2026-03-07 12:26"
+    "last_updated": "2026-03-08 06:45"
   },
   "schemes": {
     "edelweiss-aggressive-hybrid-fund-reg-g": {
@@ -481,7 +481,7 @@
     "edelweiss-financial-services-fund-reg-g": {
       "name": "Edelweiss Financial Services Fund-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDFSRG-GR&type=purchase",
       "fund_manager": "Trideep Bhattacharya",
       "category": "EQ-FIN",
       "rupeevestrating": "Unrated",
@@ -653,7 +653,7 @@
     "edelweiss-gold-etf-fof-reg-g": {
       "name": "Edelweiss Gold ETF FoF-Reg(G)",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDGLRG-GR&type=purchase",
       "fund_manager": "Bhavesh Jain",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
