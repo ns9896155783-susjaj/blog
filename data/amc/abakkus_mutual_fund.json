@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Abakkus Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-03-11 06:45"
+    "last_updated": "2026-03-11 09:39"
   },
   "schemes": {
     "abakkus-flexi-cap-fund-reg-g": {
@@ -12,15 +12,15 @@
       "fund_manager": "Sanjay Doshi",
       "category": "EQ-FLEX",
       "rupeevestrating": "Unrated",
-      "aum_in_rs_cr_": 2808.6,
+      "aum_in_rs_cr_": 3073.1,
       "expenseratio_": 1.93,
       "fund_type": "Open Ended",
       "inception_date": "2025-12-28T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 9.52,
+      "nav": 9.7,
       "52_weekhigh_nav_": 10.19,
       "52_weeklow_nav_": 9.52,
-      "return_1_mo": -2.37,
+      "return_1_mo": -5.68,
       "return_3_mo": null,
       "return_6_mo": null,
       "return_1_yr": null,
@@ -32,10 +32,10 @@
       "pb_ratio": 3.25,
       "turnover_ratio_": null,
       "no_ofstocks": 42,
-      "avg_market_cap_in_rs_cr_": 98967,
-      "large_cap_": 44.63,
-      "mid_cap_": 14.73,
-      "small_cap_": 27.01,
+      "avg_market_cap_in_rs_cr_": 97912,
+      "large_cap_": 47.25,
+      "mid_cap_": 16.52,
+      "small_cap_": 29.44,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
