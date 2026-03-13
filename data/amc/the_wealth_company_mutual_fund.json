@@ -2,7 +2,7 @@
   "meta": {
     "amc": "The Wealth Company Mutual Fund",
     "total_schemes": 7,
-    "last_updated": "2026-03-12 06:46"
+    "last_updated": "2026-03-13 06:46"
   },
   "schemes": {
     "the-wealth-company-arbitrage-fund-reg-g": {
@@ -17,7 +17,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-13T18:30:00.000Z",
       "benchmark_index": "Nifty 50 Arbitrage - TRI",
-      "nav": 10.23,
+      "nav": 10.24,
       "52_weekhigh_nav_": 10.24,
       "52_weeklow_nav_": 10,
       "return_1_mo": 0.42,
@@ -60,7 +60,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-02-15T18:30:00.000Z",
       "benchmark_index": "CRISIL Hybrid 50+50 - Moderate Index",
-      "nav": 9.8,
+      "nav": 9.73,
       "52_weekhigh_nav_": 10,
       "52_weeklow_nav_": 9.73,
       "return_1_mo": null,
@@ -103,7 +103,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-13T18:30:00.000Z",
       "benchmark_index": "Nifty500 Shariah - TRI",
-      "nav": 9.23,
+      "nav": 9.14,
       "52_weekhigh_nav_": 10.04,
       "52_weeklow_nav_": 9.13,
       "return_1_mo": -7.47,
@@ -146,7 +146,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-13T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 9.48,
+      "nav": 9.4,
       "52_weekhigh_nav_": 10.37,
       "52_weeklow_nav_": 9.33,
       "return_1_mo": -7.75,
@@ -189,7 +189,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-01-29T18:30:00.000Z",
       "benchmark_index": "Gold-India",
-      "nav": 10.05,
+      "nav": 10.06,
       "52_weekhigh_nav_": 10.7,
       "52_weeklow_nav_": 9.55,
       "return_1_mo": 2.17,
@@ -232,7 +232,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-12-08T18:30:00.000Z",
       "benchmark_index": "Nifty Short Duration Debt Index",
-      "nav": 10.4,
+      "nav": 10.34,
       "52_weekhigh_nav_": 10.93,
       "52_weeklow_nav_": 10,
       "return_1_mo": -1.91,
