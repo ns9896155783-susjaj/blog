@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Unifi Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-03-26 06:45"
+    "last_updated": "2026-03-27 06:45"
   },
   "schemes": {
     "unifi-dynamic-asset-allocation-fund-reg-g": {
@@ -20,10 +20,10 @@
       "nav": 10.76,
       "52_weekhigh_nav_": 10.77,
       "52_weeklow_nav_": 10.03,
-      "return_1_mo": 0.24,
-      "return_3_mo": 1.67,
-      "return_6_mo": 3.53,
-      "return_1_yr": 7.4,
+      "return_1_mo": 0.26,
+      "return_3_mo": 1.56,
+      "return_6_mo": 3.47,
+      "return_1_yr": 7.33,
       "return_2_yrs": null,
       "return_3_yrs": null,
       "return_5_yrs": null,
@@ -60,12 +60,12 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-06-05T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 9.24,
+      "nav": 9.42,
       "52_weekhigh_nav_": 10.42,
       "52_weeklow_nav_": 9.05,
-      "return_1_mo": -11.21,
-      "return_3_mo": -12.69,
-      "return_6_mo": -10.55,
+      "return_1_mo": -8.42,
+      "return_3_mo": -10.77,
+      "return_6_mo": -8.34,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
