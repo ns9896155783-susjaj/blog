@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Qsif Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-03-31 06:45"
+    "last_updated": "2026-03-31 10:14"
   },
   "schemes": {
     "qsif-equity-ex-top-100-long-short-fund-reg-g": {
@@ -17,9 +17,9 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-11-11T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 8.72,
+      "nav": 8.56,
       "52_weekhigh_nav_": 10.03,
-      "52_weeklow_nav_": 8.58,
+      "52_weeklow_nav_": 8.56,
       "return_1_mo": null,
       "return_3_mo": null,
       "return_6_mo": null,
@@ -60,9 +60,9 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-06T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 9.05,
+      "nav": 8.86,
       "52_weekhigh_nav_": 10.18,
-      "52_weeklow_nav_": 8.9,
+      "52_weeklow_nav_": 8.87,
       "return_1_mo": null,
       "return_3_mo": null,
       "return_6_mo": null,
@@ -103,7 +103,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-14T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-      "nav": 9.82,
+      "nav": 9.78,
       "52_weekhigh_nav_": 10.1,
       "52_weeklow_nav_": 9.71,
       "return_1_mo": null,
