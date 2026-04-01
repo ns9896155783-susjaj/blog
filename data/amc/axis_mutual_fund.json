@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Axis Mutual Fund",
     "total_schemes": 45,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:26"
   },
   "schemes": {
     "axis-aggressive-hybrid-fund-reg-g": {
       "name": "Axis Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 4.23,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXEHGP-GR&type=purchase",
       "fund_manager": "Jayesh Sundar",
@@ -50,6 +52,8 @@
     },
     "axis-arbitrage-fund-reg-g": {
       "name": "Axis Arbitrage Fund-Reg(G)",
+      "ns_score": 3.52,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXEAGP-GR&type=purchase",
       "fund_manager": "Karthik Kumar",
@@ -93,6 +97,8 @@
     },
     "axis-balanced-advantage-fund-reg-g": {
       "name": "Axis Balanced Advantage Fund-Reg(G)",
+      "ns_score": 5.38,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXDEGP-GR&type=purchase",
       "fund_manager": "Jayesh Sundar",
@@ -136,6 +142,8 @@
     },
     "axis-bse-india-sector-leaders-index-fund-reg-g": {
       "name": "Axis BSE India Sector Leaders Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXSLGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -179,6 +187,8 @@
     },
     "axis-bse-sensex-index-fund-reg-g": {
       "name": "Axis BSE Sensex Index Fund-Reg(G)",
+      "ns_score": -1.23,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXSPGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -222,6 +232,8 @@
     },
     "axis-business-cycles-fund-reg-g": {
       "name": "Axis Business Cycles Fund-Reg(G)",
+      "ns_score": 4.4,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXBCGP-GR&type=purchase",
       "fund_manager": "Ashish Naik",
@@ -265,6 +277,8 @@
     },
     "axis-consumption-fund-reg-g": {
       "name": "Axis Consumption Fund-Reg(G)",
+      "ns_score": -1.72,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXCNGPG-GR&type=purchase",
       "fund_manager": "Hitesh Das",
@@ -308,6 +322,8 @@
     },
     "axis-elss-tax-saver-fund-reg-g": {
       "name": "Axis ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 4.27,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXFTSGP-GR&type=purchase",
       "fund_manager": "Shreyash Devalkar",
@@ -351,6 +367,8 @@
     },
     "axis-equity-savings-fund-reg-g": {
       "name": "Axis Equity Savings Fund-Reg(G)",
+      "ns_score": 4.23,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXESGP-GR&type=purchase",
       "fund_manager": "Mayank Hyanki",
@@ -394,6 +412,8 @@
     },
     "axis-esg-integration-strategy-fund-reg-g": {
       "name": "Axis ESG Integration Strategy Fund-Reg(G)",
+      "ns_score": 3.67,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXEEGP-GR&type=purchase",
       "fund_manager": "Vishal Agarwal",
@@ -437,6 +457,8 @@
     },
     "axis-flexi-cap-fund-reg-g": {
       "name": "Axis Flexi Cap Fund-Reg(G)",
+      "ns_score": 4.94,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXMLGP-GR&type=purchase",
       "fund_manager": "Sachin Relekar",
@@ -480,6 +502,8 @@
     },
     "axis-focused-fund-reg-g": {
       "name": "Axis Focused Fund-Reg(G)",
+      "ns_score": 2.78,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXFAFGP-GR&type=purchase",
       "fund_manager": "Sachin Relekar",
@@ -523,6 +547,8 @@
     },
     "axis-global-equity-alpha-fof-reg-g": {
       "name": "Axis Global Equity Alpha FoF-Reg(G)",
+      "ns_score": 9.72,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXGAGP-GR&type=purchase",
       "fund_manager": "Krishnaa N",
@@ -566,6 +592,8 @@
     },
     "axis-global-innovation-fof-reg-g": {
       "name": "Axis Global Innovation FoF-Reg(G)",
+      "ns_score": 7.52,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXGIGP-GR&type=purchase",
       "fund_manager": "Krishnaa N",
@@ -609,6 +637,8 @@
     },
     "axis-gold-and-silver-passive-fof-reg-g": {
       "name": "Axis Gold and Silver Passive FoF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXGSGP-GR&type=purchase",
       "fund_manager": "Pratik Tibrewal",
@@ -652,6 +682,8 @@
     },
     "axis-gold-fund-reg-g": {
       "name": "Axis Gold Fund-Reg(G)",
+      "ns_score": 18.9,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXFXS123-GR&type=purchase",
       "fund_manager": "Aditya Pagaria",
@@ -695,6 +727,8 @@
     },
     "axis-greater-china-equity-fof-reg-g": {
       "name": "Axis Greater China Equity FoF-Reg(G)",
+      "ns_score": 6.44,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXGCGP-GR&type=purchase",
       "fund_manager": "Krishnaa N",
@@ -738,6 +772,8 @@
     },
     "axis-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Axis Income Plus Arbitrage Active FOF-Reg(G)",
+      "ns_score": 3.81,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXASGP-GR&type=purchase",
       "fund_manager": "Devang Shah",
@@ -781,6 +817,8 @@
     },
     "axis-income-plus-arbitrage-passive-fof-reg-g": {
       "name": "Axis Income Plus Arbitrage Passive FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXAPGP-GR&type=purchase",
       "fund_manager": "Devang Shah",
@@ -824,6 +862,8 @@
     },
     "axis-india-manufacturing-fund-reg-g": {
       "name": "Axis India Manufacturing Fund-Reg(G)",
+      "ns_score": 1.7,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXIMGP-GR&type=purchase",
       "fund_manager": "Nitin Arora",
@@ -867,6 +907,8 @@
     },
     "axis-innovation-fund-reg-g": {
       "name": "Axis Innovation Fund-Reg(G)",
+      "ns_score": 6.07,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXSSGP-GR&type=purchase",
       "fund_manager": "Ashish Naik",
@@ -910,6 +952,8 @@
     },
     "axis-large-and-mid-cap-fund-reg-g": {
       "name": "Axis Large & Mid Cap Fund-Reg(G)",
+      "ns_score": 7.32,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXOGGP-GR&type=purchase",
       "fund_manager": "Shreyash Devalkar",
@@ -953,6 +997,8 @@
     },
     "axis-large-cap-fund-reg-g": {
       "name": "Axis Large Cap Fund-Reg(G)",
+      "ns_score": 3.64,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXFEFGP-GR&type=purchase",
       "fund_manager": "Shreyash Devalkar",
@@ -996,6 +1042,8 @@
     },
     "axis-midcap-fund-reg-g": {
       "name": "Axis Midcap Fund-Reg(G)",
+      "ns_score": 7.82,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXFMCGP-GR&type=purchase",
       "fund_manager": "Shreyash Devalkar",
@@ -1039,6 +1087,8 @@
     },
     "axis-momentum-fund-reg-g": {
       "name": "Axis Momentum Fund-Reg(G)",
+      "ns_score": -0.91,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXMFGP-GR&type=purchase",
       "fund_manager": "Karthik Kumar",
@@ -1082,6 +1132,8 @@
     },
     "axis-multi-asset-allocation-fund-reg-g": {
       "name": "Axis Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 6.88,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXFTPGP-GR&type=purchase",
       "fund_manager": "Ashish Naik",
@@ -1125,6 +1177,8 @@
     },
     "axis-multi-asset-active-fof-reg-g": {
       "name": "Axis Multi-Asset Active FoF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXMAGP-GR&type=purchase",
       "fund_manager": "Devang Shah",
@@ -1168,6 +1222,8 @@
     },
     "axis-multicap-fund-reg-g": {
       "name": "Axis Multicap Fund-Reg(G)",
+      "ns_score": 6.52,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXMTGP-GR&type=purchase",
       "fund_manager": "Shreyash Devalkar",
@@ -1211,6 +1267,8 @@
     },
     "axis-nasdaq-100-us-specific-equity-passive-fof-reg-g": {
       "name": "Axis NASDAQ 100 US Specific Equity Passive FOF-Reg(G)",
+      "ns_score": 11.46,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNQGP-GR&type=purchase",
       "fund_manager": "Krishnaa N",
@@ -1254,6 +1312,8 @@
     },
     "axis-nifty-100-index-fund-reg-g": {
       "name": "Axis Nifty 100 Index Fund-Reg(G)",
+      "ns_score": 4.6,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNIGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1297,6 +1357,8 @@
     },
     "axis-nifty-50-index-fund-reg-g": {
       "name": "Axis Nifty 50 Index Fund-Reg(G)",
+      "ns_score": 3.14,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXN5GP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1340,6 +1402,8 @@
     },
     "axis-nifty-500-index-fund-reg-g": {
       "name": "Axis Nifty 500 Index Fund-Reg(G)",
+      "ns_score": -0.63,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNFGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1383,6 +1447,8 @@
     },
     "axis-nifty-bank-index-fund-reg-g": {
       "name": "Axis Nifty Bank Index Fund-Reg(G)",
+      "ns_score": 0.26,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNBGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1426,6 +1492,8 @@
     },
     "axis-nifty-it-index-fund-reg-g": {
       "name": "Axis NIFTY IT Index Fund-Reg(G)",
+      "ns_score": -5.1,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNTGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1469,6 +1537,8 @@
     },
     "axis-nifty-midcap-50-index-fund-reg-g": {
       "name": "Axis Nifty Midcap 50 Index Fund-Reg(G)",
+      "ns_score": 7.32,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNMGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1512,6 +1582,8 @@
     },
     "axis-nifty-next-50-index-fund-reg-g": {
       "name": "Axis Nifty Next 50 Index Fund-Reg(G)",
+      "ns_score": 5.31,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXN6GP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1555,6 +1627,8 @@
     },
     "axis-nifty-smallcap-50-index-fund-reg-g": {
       "name": "Axis Nifty Smallcap 50 Index Fund-Reg(G)",
+      "ns_score": 6.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNSGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1598,6 +1672,8 @@
     },
     "axis-nifty500-momentum-50-index-fund-reg-g": {
       "name": "Axis Nifty500 Momentum 50 Index Fund-Reg(G)",
+      "ns_score": -0.56,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNYGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1641,6 +1717,8 @@
     },
     "axis-nifty500-quality-50-index-fund-reg-g": {
       "name": "Axis Nifty500 Quality 50 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNUGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1684,6 +1762,8 @@
     },
     "axis-nifty500-value-50-index-fund-reg-g": {
       "name": "Axis Nifty500 Value 50 Index Fund-Reg(G)",
+      "ns_score": 3.42,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXNVGP-GR&type=purchase",
       "fund_manager": "Nandik Mallik",
@@ -1727,6 +1807,8 @@
     },
     "axis-quant-fund-reg-g": {
       "name": "Axis Quant Fund-Reg(G)",
+      "ns_score": 3.21,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXQFGP-GR&type=purchase",
       "fund_manager": "Karthik Kumar",
@@ -1770,6 +1852,8 @@
     },
     "axis-services-opportunities-fund-reg-g": {
       "name": "Axis Services Opportunities Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXSOGP-GR&type=purchase",
       "fund_manager": "Sachin Relekar",
@@ -1813,6 +1897,8 @@
     },
     "axis-silver-fof-reg-g": {
       "name": "Axis Silver FoF-Reg(G)",
+      "ns_score": 25.45,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXSVGP-GR&type=purchase",
       "fund_manager": "Aditya Pagaria",
@@ -1856,6 +1942,8 @@
     },
     "axis-small-cap-fund-reg-g": {
       "name": "Axis Small Cap Fund-Reg(G)",
+      "ns_score": 7.6,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXSCGP-GR&type=purchase",
       "fund_manager": "Tejas Sheth",
@@ -1899,6 +1987,8 @@
     },
     "axis-value-fund-reg-g": {
       "name": "Axis Value Fund-Reg(G)",
+      "ns_score": 6.9,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AXVFGP-GR&type=purchase",
       "fund_manager": "Nitin Arora",
