@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Franklin Mutual Fund",
     "total_schemes": 23,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "franklin-asian-equity-fund-g": {
       "name": "Franklin Asian Equity Fund(G)",
+      "ns_score": 6.37,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=F304-GR&type=purchase",
       "fund_manager": "Shyam Sundar Sriram",
@@ -50,6 +52,8 @@
     },
     "franklin-build-india-fund-g": {
       "name": "Franklin Build India Fund(G)",
+      "ns_score": 11.29,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=F387-GR&type=purchase",
       "fund_manager": "Ajay Argal",
@@ -93,6 +97,8 @@
     },
     "franklin-india-aggressive-hybrid-fund-g": {
       "name": "Franklin India Aggressive Hybrid Fund(G)",
+      "ns_score": 5.04,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=F045-GR&type=purchase",
       "fund_manager": "Rajasa Kakulavarapu",
@@ -136,6 +142,8 @@
     },
     "franklin-india-arbitrage-fund-reg-g": {
       "name": "Franklin India Arbitrage Fund-Reg(G)",
+      "ns_score": 1.57,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FR996-GR&type=purchase",
       "fund_manager": "Mukesh Jain",
@@ -179,6 +187,8 @@
     },
     "franklin-india-balanced-advantage-fund-reg-g": {
       "name": "Franklin India Balanced Advantage Fund-Reg(G)",
+      "ns_score": 3.38,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FR970-GR&type=purchase",
       "fund_manager": "Rajasa Kakulavarapu",
@@ -222,6 +232,8 @@
     },
     "franklin-india-dividend-yield-fund-g": {
       "name": "Franklin India Dividend Yield Fund(G)",
+      "ns_score": 6.51,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=F225-GR&type=purchase",
       "fund_manager": "Rajasa Kakulavarapu",
@@ -265,6 +277,8 @@
     },
     "franklin-india-dynamic-asset-allocation-active-fofs-g": {
       "name": "Franklin India Dynamic Asset Allocation Active FOFs(G)",
+      "ns_score": 5.79,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FTIFTDPEF-GR&type=purchase",
       "fund_manager": "Rajasa Kakulavarapu",
@@ -308,6 +322,8 @@
     },
     "franklin-india-elss-tax-saver-fund-g": {
       "name": "Franklin India ELSS Tax Saver Fund(G)",
+      "ns_score": 6.26,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=034-GR&type=purchase",
       "fund_manager": "R. Janakiraman",
@@ -351,6 +367,8 @@
     },
     "franklin-india-equity-savings-fund-g": {
       "name": "Franklin India Equity Savings Fund(G)",
+      "ns_score": 4.03,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FR778-GR&type=purchase",
       "fund_manager": "Rajasa Kakulavarapu",
@@ -394,6 +412,8 @@
     },
     "franklin-india-flexi-cap-fund-g": {
       "name": "Franklin India Flexi Cap Fund(G)",
+      "ns_score": 6.58,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FTIFIPP-GR&type=purchase",
       "fund_manager": "R. Janakiraman",
@@ -437,6 +457,8 @@
     },
     "franklin-india-focused-equity-fund-g": {
       "name": "Franklin India Focused Equity Fund(G)",
+      "ns_score": 5.7,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=F273-GR&type=purchase",
       "fund_manager": "Ajay Argal",
@@ -480,6 +502,8 @@
     },
     "franklin-india-income-plus-arbitrage-active-fof-g": {
       "name": "Franklin India Income Plus Arbitrage Active FoF(G)",
+      "ns_score": 7.41,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FT615-GR&type=purchase",
       "fund_manager": "Rohan Maru",
@@ -523,6 +547,8 @@
     },
     "franklin-india-large-and-mid-cap-fund-g": {
       "name": "Franklin India Large & Mid Cap Fund(G)",
+      "ns_score": 5.94,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FTIFIFCAP-GR&type=purchase",
       "fund_manager": "Venkatesh Sanjeevi",
@@ -566,6 +592,8 @@
     },
     "franklin-india-large-cap-fund-g": {
       "name": "Franklin India Large Cap Fund(G)",
+      "ns_score": 5.02,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FTIFIBCF-GR&type=purchase",
       "fund_manager": "Venkatesh Sanjeevi",
@@ -609,6 +637,8 @@
     },
     "franklin-india-mid-cap-fund-g": {
       "name": "Franklin India Mid Cap Fund(G)",
+      "ns_score": 7.43,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=F036-GR&type=purchase",
       "fund_manager": "R. Janakiraman",
@@ -652,6 +682,8 @@
     },
     "franklin-india-multi-asset-allocation-fund-reg-g": {
       "name": "Franklin India Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FR1000-GR&type=purchase",
       "fund_manager": "R. Janakiraman",
@@ -695,6 +727,8 @@
     },
     "franklin-india-multi-cap-fund-reg-g": {
       "name": "Franklin India Multi Cap Fund-Reg(G)",
+      "ns_score": 0.05,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FR976-GR&type=purchase",
       "fund_manager": "R. Janakiraman",
@@ -738,6 +772,8 @@
     },
     "franklin-india-multi-factor-fund-g": {
       "name": "Franklin India Multi-Factor Fund(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FR1004-GR&type=purchase",
       "fund_manager": "Arihant Jain",
@@ -781,6 +817,8 @@
     },
     "franklin-india-nse-nifty-50-index-fund-g": {
       "name": "Franklin India NSE Nifty 50 Index Fund(G)",
+      "ns_score": 4.47,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=F183-GR&type=purchase",
       "fund_manager": "Shyam Sundar Sriram",
@@ -824,6 +862,8 @@
     },
     "franklin-india-opportunities-fund-g": {
       "name": "Franklin India Opportunities Fund(G)",
+      "ns_score": 9.83,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=F047-GR&type=purchase",
       "fund_manager": "R. Janakiraman",
@@ -867,6 +907,8 @@
     },
     "franklin-india-small-cap-fund-g": {
       "name": "Franklin India Small Cap Fund(G)",
+      "ns_score": 7.56,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=F219-GR&type=purchase",
       "fund_manager": "R. Janakiraman",
@@ -910,6 +952,8 @@
     },
     "franklin-india-technology-fund-g": {
       "name": "Franklin India Technology Fund(G)",
+      "ns_score": 4.52,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=F025-GR&type=purchase",
       "fund_manager": "R. Janakiraman",
@@ -953,6 +997,8 @@
     },
     "franklin-u-s-opportunities-equity-active-fof-g": {
       "name": "Franklin U.S. Opportunities Equity Active FOF(G)",
+      "ns_score": 7.76,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=410-GR&type=purchase",
       "fund_manager": "Sandeep Manam",
