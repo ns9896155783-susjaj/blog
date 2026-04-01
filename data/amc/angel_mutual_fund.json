@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Angel Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:26"
   },
   "schemes": {
     "angel-one-gold-etf-fof-reg-g": {
       "name": "Angel One Gold ETF FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AOAOGFR-GR&type=purchase",
       "fund_manager": "Mehul Dama",
@@ -50,6 +52,8 @@
     },
     "angel-one-nifty-50-index-fund-reg-g": {
       "name": "Angel One Nifty 50 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AONFIRG-GR&type=purchase",
       "fund_manager": "Mehul Dama",
@@ -93,6 +97,8 @@
     },
     "angel-one-nifty-total-market-index-fund-reg-g": {
       "name": "Angel One Nifty Total Market Index Fund-Reg(G)",
+      "ns_score": -0.52,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AOAOIRG-GR&type=purchase",
       "fund_manager": "Mehul Dama",
@@ -136,6 +142,8 @@
     },
     "angel-one-nifty-total-market-momentum-quality-50-index-fund-reg-g": {
       "name": "Angel One Nifty Total Market Momentum Quality 50 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AOAOMRG-GR&type=purchase",
       "fund_manager": "Mehul Dama",
@@ -179,6 +187,8 @@
     },
     "angel-one-silver-etf-fof-reg-g": {
       "name": "Angel One Silver ETF FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AOSLFRG-GR&type=purchase",
       "fund_manager": "Mehul Dama",
