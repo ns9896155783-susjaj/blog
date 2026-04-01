@@ -2,11 +2,13 @@
   "meta": {
     "amc": "JM Mutual Fund",
     "total_schemes": 10,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "jm-aggressive-hybrid-fund-reg-g": {
       "name": "JM Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 5.87,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BFGP-GR&type=purchase",
       "fund_manager": "Asit Bhandarkar",
@@ -50,6 +52,8 @@
     },
     "jm-arbitrage-fund-g": {
       "name": "JM Arbitrage Fund(G)",
+      "ns_score": 3.26,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AAGP-GR&type=purchase",
       "fund_manager": "Asit Bhandarkar",
@@ -93,6 +97,8 @@
     },
     "jm-elss-tax-saver-fund-g": {
       "name": "JM ELSS Tax Saver Fund(G)",
+      "ns_score": 6.41,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TGGP-GR&type=purchase",
       "fund_manager": "Deepak Gupta.",
@@ -136,6 +142,8 @@
     },
     "jm-flexicap-fund-reg-g": {
       "name": "JM Flexicap Fund-Reg(G)",
+      "ns_score": 6.78,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MSGP-GR&type=purchase",
       "fund_manager": "Satish Ramanathan",
@@ -179,6 +187,8 @@
     },
     "jm-focused-fund-reg-g": {
       "name": "JM Focused Fund-Reg(G)",
+      "ns_score": 5.3,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CRGP-GR&type=purchase",
       "fund_manager": "Asit Bhandarkar",
@@ -222,6 +232,8 @@
     },
     "jm-large-and-mid-cap-fund-reg-g": {
       "name": "JM Large & Mid Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=JMLMGP-GR&type=purchase",
       "fund_manager": "Asit Bhandarkar",
@@ -265,6 +277,8 @@
     },
     "jm-large-cap-fund-reg-g": {
       "name": "JM Large Cap Fund-Reg(G)",
+      "ns_score": 5.3,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EFGP-GR&type=purchase",
       "fund_manager": "Deepak Gupta.",
@@ -308,6 +322,8 @@
     },
     "jm-midcap-fund-reg-g": {
       "name": "JM Midcap Fund-Reg(G)",
+      "ns_score": 6.45,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=JMMDGP-GR&type=purchase",
       "fund_manager": "Satish Ramanathan",
@@ -351,6 +367,8 @@
     },
     "jm-small-cap-fund-reg-g": {
       "name": "JM Small Cap Fund-Reg(G)",
+      "ns_score": -1.68,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=JMSCGP-GR&type=purchase",
       "fund_manager": "Asit Bhandarkar",
@@ -394,6 +412,8 @@
     },
     "jm-value-fund-reg-g": {
       "name": "JM Value Fund-Reg(G)",
+      "ns_score": 6.28,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAGP-GR&type=purchase",
       "fund_manager": "Satish Ramanathan",
