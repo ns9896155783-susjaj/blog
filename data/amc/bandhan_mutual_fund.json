@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Bandhan Mutual Fund",
     "total_schemes": 47,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:26"
   },
   "schemes": {
     "bandhan-aggressive-hybrid-fund-reg-g": {
       "name": "Bandhan Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 6.5,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID311-GR&type=purchase",
       "fund_manager": "Prateek Poddar",
@@ -50,6 +52,8 @@
     },
     "bandhan-aggressive-hybrid-passive-fof-reg-g": {
       "name": "Bandhan Aggressive Hybrid Passive FOF-Reg(G)",
+      "ns_score": 5.6,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFCAP-GR&type=purchase",
       "fund_manager": "Viraj Kulkarni",
@@ -93,6 +97,8 @@
     },
     "bandhan-arbitrage-fund-reg-g": {
       "name": "Bandhan Arbitrage Fund-Reg(G)",
+      "ns_score": 3.48,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC209-GR&type=purchase",
       "fund_manager": "Kapil Kankonkar",
@@ -136,6 +142,8 @@
     },
     "bandhan-balanced-advantage-fund-reg-g": {
       "name": "Bandhan Balanced Advantage Fund-Reg(G)",
+      "ns_score": 4.07,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID299-GR&type=purchase",
       "fund_manager": "Manish Gunwani",
@@ -179,6 +187,8 @@
     },
     "bandhan-bse-healthcare-index-fund-reg-g": {
       "name": "Bandhan BSE Healthcare Index Fund-Reg(G)",
+      "ns_score": 0.28,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID401-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -222,6 +232,8 @@
     },
     "bandhan-bse-india-sector-leaders-index-fund-reg-g": {
       "name": "Bandhan BSE India Sector Leaders Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID415-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -265,6 +277,8 @@
     },
     "bandhan-business-cycle-fund-reg-g": {
       "name": "Bandhan Business Cycle Fund-Reg(G)",
+      "ns_score": -1.41,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID402-GR&type=purchase",
       "fund_manager": "Vishal Biraia",
@@ -308,6 +322,8 @@
     },
     "bandhan-conservative-hybrid-passive-fof-reg-g": {
       "name": "Bandhan Conservative Hybrid Passive FOF-Reg(G)",
+      "ns_score": 3.99,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC243-GR&type=purchase",
       "fund_manager": "Viraj Kulkarni",
@@ -351,6 +367,8 @@
     },
     "bandhan-elss-tax-saver-fund-reg-g": {
       "name": "Bandhan ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 6.18,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC223-GR&type=purchase",
       "fund_manager": "Daylynn Pinto",
@@ -394,6 +412,8 @@
     },
     "bandhan-equity-savings-fund-reg-g": {
       "name": "Bandhan Equity Savings Fund-Reg(G)",
+      "ns_score": 3.49,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC217-GR&type=purchase",
       "fund_manager": "Kapil Kankonkar",
@@ -437,6 +457,8 @@
     },
     "bandhan-financial-services-fund-reg-g": {
       "name": "Bandhan Financial Services Fund-Reg(G)",
+      "ns_score": -0.31,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID381-GR&type=purchase",
       "fund_manager": "Ritu Modi",
@@ -480,6 +502,8 @@
     },
     "bandhan-flexi-cap-fund-reg-g": {
       "name": "Bandhan Flexi Cap Fund-Reg(G)",
+      "ns_score": 5.86,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC203-GR&type=purchase",
       "fund_manager": "Manish Gunwani",
@@ -523,6 +547,8 @@
     },
     "bandhan-focused-fund-reg-g": {
       "name": "Bandhan Focused Fund-Reg(G)",
+      "ns_score": 6.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC205-GR&type=purchase",
       "fund_manager": "Manish Gunwani",
@@ -566,6 +592,8 @@
     },
     "bandhan-gold-etf-fof-reg-g": {
       "name": "Bandhan Gold ETF FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID420-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -609,6 +637,8 @@
     },
     "bandhan-healthcare-fund-reg-g": {
       "name": "Bandhan Healthcare Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID418-GR&type=purchase",
       "fund_manager": "Viraj Kulkarni",
@@ -652,6 +682,8 @@
     },
     "bandhan-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Bandhan Income Plus Arbitrage Active FOF-Reg(G)",
+      "ns_score": 3.53,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC51-GR&type=purchase",
       "fund_manager": "Harshal Joshi",
@@ -695,6 +727,8 @@
     },
     "bandhan-infrastructure-fund-reg-g": {
       "name": "Bandhan Infrastructure Fund-Reg(G)",
+      "ns_score": 7.98,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC265-GR&type=purchase",
       "fund_manager": "Vishal Biraia",
@@ -738,6 +772,8 @@
     },
     "bandhan-innovation-fund-reg-g": {
       "name": "Bandhan Innovation Fund-Reg(G)",
+      "ns_score": 1.36,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID397-GR&type=purchase",
       "fund_manager": "Manish Gunwani",
@@ -781,6 +817,8 @@
     },
     "bandhan-large-and-mid-cap-fund-reg-g": {
       "name": "Bandhan Large & Mid Cap Fund-Reg(G)",
+      "ns_score": 9.16,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC201-GR&type=purchase",
       "fund_manager": "Manish Gunwani",
@@ -824,6 +862,8 @@
     },
     "bandhan-large-cap-fund-reg-g": {
       "name": "Bandhan Large Cap Fund-Reg(G)",
+      "ns_score": 5.97,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC207-GR&type=purchase",
       "fund_manager": "Manish Gunwani",
@@ -867,6 +907,8 @@
     },
     "bandhan-midcap-fund-reg-g": {
       "name": "Bandhan Midcap Fund-Reg(G)",
+      "ns_score": 6.26,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID361-GR&type=purchase",
       "fund_manager": "Ritu Modi",
@@ -910,6 +952,8 @@
     },
     "bandhan-multi-asset-allocation-fund-reg-g": {
       "name": "Bandhan Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 4.06,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID391-GR&type=purchase",
       "fund_manager": "Viraj Kulkarni",
@@ -953,6 +997,8 @@
     },
     "bandhan-multi-cap-fund-reg-g": {
       "name": "Bandhan Multi Cap Fund-Reg(G)",
+      "ns_score": 4.33,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID357-GR&type=purchase",
       "fund_manager": "Daylynn Pinto",
@@ -996,6 +1042,8 @@
     },
     "bandhan-multi-asset-passive-fof-reg-g": {
       "name": "Bandhan Multi-Asset Passive FOF-Reg(G)",
+      "ns_score": 5.27,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFCMP-GR&type=purchase",
       "fund_manager": "Viraj Kulkarni",
@@ -1039,6 +1087,8 @@
     },
     "bandhan-multi-factor-fund-reg-g": {
       "name": "Bandhan Multi-Factor Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID413-GR&type=purchase",
       "fund_manager": "Rishi Sharma",
@@ -1082,6 +1132,8 @@
     },
     "bandhan-nifty-100-index-fund-reg-g": {
       "name": "Bandhan Nifty 100 Index Fund-Reg(G)",
+      "ns_score": 3.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID359-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1125,6 +1177,8 @@
     },
     "bandhan-nifty-200-quality-30-index-fund-reg-g": {
       "name": "Bandhan Nifty 200 Quality 30 Index Fund-Reg(G)",
+      "ns_score": -0.97,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID407-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1168,6 +1222,8 @@
     },
     "bandhan-nifty-50-index-fund-reg-g": {
       "name": "Bandhan Nifty 50 Index Fund-Reg(G)",
+      "ns_score": 4.45,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFCNF-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1211,6 +1267,8 @@
     },
     "bandhan-nifty-500-momentum-50-index-fund-reg-g": {
       "name": "Bandhan Nifty 500 Momentum 50 Index Fund-Reg(G)",
+      "ns_score": -0.74,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID406-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1254,6 +1312,8 @@
     },
     "bandhan-nifty-500-value-50-index-fund-reg-g": {
       "name": "Bandhan Nifty 500 Value 50 Index Fund-Reg(G)",
+      "ns_score": 3.38,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID405-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1297,6 +1357,8 @@
     },
     "bandhan-nifty-alpha-50-index-fund-reg-g": {
       "name": "Bandhan Nifty Alpha 50 Index Fund-Reg(G)",
+      "ns_score": -0.51,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID387-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1340,6 +1402,8 @@
     },
     "bandhan-nifty-alpha-low-volatility-30-index-fund-reg-g": {
       "name": "Bandhan Nifty Alpha Low Volatility 30 Index Fund-Reg(G)",
+      "ns_score": -0.84,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID408-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1383,6 +1447,8 @@
     },
     "bandhan-nifty-bank-index-fund-reg-g": {
       "name": "Bandhan Nifty Bank Index Fund-Reg(G)",
+      "ns_score": 0.22,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID400-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1426,6 +1492,8 @@
     },
     "bandhan-nifty-it-index-fund-reg-g": {
       "name": "Bandhan Nifty IT Index Fund-Reg(G)",
+      "ns_score": -5.11,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID383-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1469,6 +1537,8 @@
     },
     "bandhan-nifty-midcap-150-index-fund-reg-g": {
       "name": "Bandhan Nifty Midcap 150 Index Fund-Reg(G)",
+      "ns_score": 0.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID404-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1512,6 +1582,8 @@
     },
     "bandhan-nifty-next-50-index-fund-reg-g": {
       "name": "Bandhan Nifty Next 50 Index Fund-Reg(G)",
+      "ns_score": -0.57,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID409-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1555,6 +1627,8 @@
     },
     "bandhan-nifty-smallcap-250-index-fund-reg-g": {
       "name": "Bandhan Nifty Smallcap 250 Index Fund-Reg(G)",
+      "ns_score": -1,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID389-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1598,6 +1672,8 @@
     },
     "bandhan-nifty-total-market-index-fund-reg-g": {
       "name": "Bandhan Nifty Total Market Index Fund-Reg(G)",
+      "ns_score": -0.67,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID399-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1641,6 +1717,8 @@
     },
     "bandhan-nifty100-low-volatility-30-index-fund-reg-g": {
       "name": "Bandhan Nifty100 Low Volatility 30 Index Fund-Reg(G)",
+      "ns_score": 3.9,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID365-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1684,6 +1762,8 @@
     },
     "bandhan-nifty200-momentum-30-index-fund-reg-g": {
       "name": "Bandhan Nifty200 Momentum 30 Index Fund-Reg(G)",
+      "ns_score": 4.39,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID363-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1727,6 +1807,8 @@
     },
     "bandhan-silver-etf-fof-reg-g": {
       "name": "Bandhan Silver ETF FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID421-GR&type=purchase",
       "fund_manager": "Abhishek Jain",
@@ -1770,6 +1852,8 @@
     },
     "bandhan-small-cap-fund-reg-g": {
       "name": "Bandhan Small Cap Fund-Reg(G)",
+      "ns_score": 11.41,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID340-GR&type=purchase",
       "fund_manager": "Manish Gunwani",
@@ -1813,6 +1897,8 @@
     },
     "bandhan-transportation-and-logistics-fund-reg-g": {
       "name": "Bandhan Transportation and Logistics Fund-Reg(G)",
+      "ns_score": 8.17,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID367-GR&type=purchase",
       "fund_manager": "Daylynn Pinto",
@@ -1856,6 +1942,8 @@
     },
     "bandhan-us-specific-equity-active-fof-reg-g": {
       "name": "Bandhan US Specific Equity Active FOF-Reg(G)",
+      "ns_score": 9.29,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID355-GR&type=purchase",
       "fund_manager": "Ritika Behera",
@@ -1899,6 +1987,8 @@
     },
     "bandhan-us-specific-equity-active-fof-reg-idcw": {
       "name": "Bandhan US Specific Equity Active FOF-Reg(IDCW)",
+      "ns_score": 9.29,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ritika Behera",
@@ -1942,6 +2032,8 @@
     },
     "bandhan-us-treasury-bond-0-1-year-specific-debt-passive-fof-reg-g": {
       "name": "Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF-Reg(G)",
+      "ns_score": 3.87,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ID379-GR&type=purchase",
       "fund_manager": "Brijesh Shah",
@@ -1985,6 +2077,8 @@
     },
     "bandhan-value-fund-reg-g": {
       "name": "Bandhan Value Fund-Reg(G)",
+      "ns_score": 6.92,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IDFC215-GR&type=purchase",
       "fund_manager": "Daylynn Pinto",
