@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Old Bridge Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "old-bridge-arbitrage-fund-reg-g": {
       "name": "Old Bridge Arbitrage Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=OBAFGP-GR&type=purchase",
       "fund_manager": "Kenneth Andrade",
@@ -50,6 +52,8 @@
     },
     "old-bridge-flexi-cap-fund-reg-g": {
       "name": "Old Bridge Flexi Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kenneth Andrade",
@@ -93,6 +97,8 @@
     },
     "old-bridge-focused-fund-reg-g": {
       "name": "Old Bridge Focused Fund-Reg(G)",
+      "ns_score": 0.16,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=OBFEGP-GR&type=purchase",
       "fund_manager": "Tarang Agrawal",
