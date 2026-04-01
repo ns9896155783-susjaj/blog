@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Baroda BNP Paribas Mutual Fund",
     "total_schemes": 31,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "baroda-bnp-paribas-aggressive-hybrid-fund-reg-g": {
       "name": "Baroda BNP Paribas Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 5.32,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPSERG-GR&type=purchase",
       "fund_manager": "Jitendra Sriram",
@@ -50,6 +52,8 @@
     },
     "baroda-bnp-paribas-aqua-fof-reg-g": {
       "name": "Baroda BNP Paribas Aqua FoF-Reg(G)",
+      "ns_score": 5.72,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPAFRG-GR&type=purchase",
       "fund_manager": "Swapna Shelar",
@@ -93,6 +97,8 @@
     },
     "baroda-bnp-paribas-arbitrage-fund-reg-g": {
       "name": "Baroda BNP Paribas Arbitrage Fund-Reg(G)",
+      "ns_score": 3.44,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPARRG-GR&type=purchase",
       "fund_manager": "Neeraj Saxena",
@@ -136,6 +142,8 @@
     },
     "baroda-bnp-paribas-balanced-advantage-fund-reg-g": {
       "name": "Baroda BNP Paribas Balanced Advantage Fund-Reg(G)",
+      "ns_score": 5.47,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPDEGP-GR&type=purchase",
       "fund_manager": "Sanjay Chawla",
@@ -179,6 +187,8 @@
     },
     "baroda-bnp-paribas-banking-and-fin-serv-fund-reg-g": {
       "name": "Baroda BNP Paribas Banking and Fin Serv Fund-Reg(G)",
+      "ns_score": 5.67,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPBSGP-GR&type=purchase",
       "fund_manager": "Sanjay Chawla",
@@ -222,6 +232,8 @@
     },
     "baroda-bnp-paribas-business-conglomerates-fund-reg-g": {
       "name": "Baroda BNP Paribas Business Conglomerates Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPBLRG-GR&type=purchase",
       "fund_manager": "Jitendra Sriram",
@@ -265,6 +277,8 @@
     },
     "baroda-bnp-paribas-business-cycle-fund-reg-g": {
       "name": "Baroda BNP Paribas Business Cycle Fund-Reg(G)",
+      "ns_score": 4.39,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPBCGP-GR&type=purchase",
       "fund_manager": "Jitendra Sriram",
@@ -308,6 +322,8 @@
     },
     "baroda-bnp-paribas-dividend-yield-fund-reg-g": {
       "name": "Baroda BNP Paribas Dividend Yield Fund-Reg(G)",
+      "ns_score": -0.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPYFRG-GR&type=purchase",
       "fund_manager": "Jitendra Sriram",
@@ -351,6 +367,8 @@
     },
     "baroda-bnp-paribas-elss-tax-saver-fund-reg-g": {
       "name": "Baroda BNP Paribas ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 6.75,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPTARG-GR&type=purchase",
       "fund_manager": "Sanjay Chawla",
@@ -394,6 +412,8 @@
     },
     "baroda-bnp-paribas-energy-opportunities-fund-reg-g": {
       "name": "Baroda BNP Paribas Energy Opportunities Fund-Reg(G)",
+      "ns_score": 1.37,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPEORG-GR&type=purchase",
       "fund_manager": "Sanjay Chawla",
@@ -437,6 +457,8 @@
     },
     "baroda-bnp-paribas-equity-savings-fund-reg-g": {
       "name": "Baroda BNP Paribas Equity Savings Fund-Reg(G)",
+      "ns_score": 4.11,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPESGP-GR&type=purchase",
       "fund_manager": "Pratish Krishnan",
@@ -480,6 +502,8 @@
     },
     "baroda-bnp-paribas-esg-best-in-class-strategy-fund-reg-g": {
       "name": "Baroda BNP Paribas ESG Best-in-class Strategy Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPEBRG-GR&type=purchase",
       "fund_manager": "Jitendra Sriram",
@@ -523,6 +547,8 @@
     },
     "baroda-bnp-paribas-flexi-cap-fund-reg-g": {
       "name": "Baroda BNP Paribas Flexi Cap Fund-Reg(G)",
+      "ns_score": 4.28,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPFXRG-GR&type=purchase",
       "fund_manager": "Sanjay Chawla",
@@ -566,6 +592,8 @@
     },
     "baroda-bnp-paribas-focused-fund-reg-g": {
       "name": "Baroda BNP Paribas Focused Fund-Reg(G)",
+      "ns_score": 4.41,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPFORG-GR&type=purchase",
       "fund_manager": "Sanjay Chawla",
@@ -609,6 +637,8 @@
     },
     "baroda-bnp-paribas-gold-etf-fof-reg-g": {
       "name": "Baroda BNP Paribas Gold ETF FoF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPEFRG-GR&type=purchase",
       "fund_manager": "Gurvinder Singh Wasan",
@@ -652,6 +682,8 @@
     },
     "baroda-bnp-paribas-health-and-wellness-fund-reg-g": {
       "name": "Baroda BNP Paribas Health and Wellness Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPHWRG-GR&type=purchase",
       "fund_manager": "Sanjay Chawla",
@@ -695,6 +727,8 @@
     },
     "baroda-bnp-paribas-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Baroda BNP Paribas Income Plus Arbitrage Active FoF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPIARG-GR&type=purchase",
       "fund_manager": "Vikram Pamnani",
@@ -738,6 +772,8 @@
     },
     "baroda-bnp-paribas-india-consumption-fund-reg-g": {
       "name": "Baroda BNP Paribas India Consumption Fund-Reg(G)",
+      "ns_score": 4.8,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPICRG-GR&type=purchase",
       "fund_manager": "Pratish Krishnan",
@@ -781,6 +817,8 @@
     },
     "baroda-bnp-paribas-innovation-fund-reg-g": {
       "name": "Baroda BNP Paribas Innovation Fund-Reg(G)",
+      "ns_score": 1.59,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPIVRG-GR&type=purchase",
       "fund_manager": "Pratish Krishnan",
@@ -824,6 +862,8 @@
     },
     "baroda-bnp-paribas-large-and-mid-cap-fund-reg-g": {
       "name": "Baroda BNP Paribas Large & Mid Cap Fund-Reg(G)",
+      "ns_score": 6.72,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPLMGP-GR&type=purchase",
       "fund_manager": "Sanjay Chawla",
@@ -867,6 +907,8 @@
     },
     "baroda-bnp-paribas-large-cap-fund-reg-g": {
       "name": "Baroda BNP Paribas Large Cap Fund-Reg(G)",
+      "ns_score": 5.58,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPLCRG-GR&type=purchase",
       "fund_manager": "Jitendra Sriram",
@@ -910,6 +952,8 @@
     },
     "baroda-bnp-paribas-manufacturing-fund-reg-g": {
       "name": "Baroda BNP Paribas Manufacturing Fund-Reg(G)",
+      "ns_score": 2.44,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPMFRG-GR&type=purchase",
       "fund_manager": "Jitendra Sriram",
@@ -953,6 +997,8 @@
     },
     "baroda-bnp-paribas-mid-cap-fund-reg-g": {
       "name": "Baroda BNP Paribas Mid Cap Fund-Reg(G)",
+      "ns_score": 8.75,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPMCRG-GR&type=purchase",
       "fund_manager": "Pratish Krishnan",
@@ -996,6 +1042,8 @@
     },
     "baroda-bnp-paribas-multi-asset-active-fof-reg-g": {
       "name": "Baroda BNP Paribas Multi Asset Active FoF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPAMRG-GR&type=purchase",
       "fund_manager": "Gurvinder Singh Wasan",
@@ -1039,6 +1087,8 @@
     },
     "baroda-bnp-paribas-multi-asset-fund-reg-g": {
       "name": "Baroda BNP Paribas Multi Asset Fund-Reg(G)",
+      "ns_score": 5.56,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPMARG-GR&type=purchase",
       "fund_manager": "Jitendra Sriram",
@@ -1082,6 +1132,8 @@
     },
     "baroda-bnp-paribas-multi-cap-fund-reg-g": {
       "name": "Baroda BNP Paribas Multi Cap Fund-Reg(G)",
+      "ns_score": 6.96,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPGRGP-GR&type=purchase",
       "fund_manager": "Sanjay Chawla",
@@ -1125,6 +1177,8 @@
     },
     "baroda-bnp-paribas-nifty-50-index-fund-reg-g": {
       "name": "Baroda BNP Paribas Nifty 50 Index Fund-Reg(G)",
+      "ns_score": -0.74,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPNFRG-GR&type=purchase",
       "fund_manager": "Neeraj Saxena",
@@ -1168,6 +1222,8 @@
     },
     "baroda-bnp-paribas-nifty-midcap-150-index-fund-reg-g": {
       "name": "Baroda BNP Paribas NIFTY Midcap 150 Index Fund-Reg(G)",
+      "ns_score": 0.79,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPN3RG-GR&type=purchase",
       "fund_manager": "Neeraj Saxena",
@@ -1211,6 +1267,8 @@
     },
     "baroda-bnp-paribas-nifty200-momentum-30-index-fund-reg-g": {
       "name": "Baroda BNP Paribas Nifty200 Momentum 30 Index Fund-Reg(G)",
+      "ns_score": -0.88,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPNMRG-GR&type=purchase",
       "fund_manager": "Neeraj Saxena",
@@ -1254,6 +1312,8 @@
     },
     "baroda-bnp-paribas-small-cap-fund-reg-g": {
       "name": "Baroda BNP Paribas Small Cap Fund-Reg(G)",
+      "ns_score": 0.04,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPSCRG-GR&type=purchase",
       "fund_manager": "Sanjay Chawla",
@@ -1297,6 +1357,8 @@
     },
     "baroda-bnp-paribas-value-fund-reg-g": {
       "name": "Baroda BNP Paribas Value Fund-Reg(G)",
+      "ns_score": -1.02,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BPVFRG-GR&type=purchase",
       "fund_manager": "Jitendra Sriram",
