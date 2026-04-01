@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Tata Mutual Fund",
     "total_schemes": 46,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "tata-aggressive-hybrid-fund-reg-g": {
       "name": "Tata Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 4.04,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BFG-TATA-DP&type=purchase",
       "fund_manager": "Satish Chandra Mishra",
@@ -50,6 +52,8 @@
     },
     "tata-arbitrage-fund-reg-g": {
       "name": "Tata Arbitrage Fund-Reg(G)",
+      "ns_score": 3.54,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAAFG-GR&type=purchase",
       "fund_manager": "Sailesh Jain",
@@ -93,6 +97,8 @@
     },
     "tata-balanced-adv-fund-reg-g": {
       "name": "Tata Balanced Adv Fund-Reg(G)",
+      "ns_score": 4.11,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TABAFG-GR&type=purchase",
       "fund_manager": "Rahul Singh (Tata)",
@@ -136,6 +142,8 @@
     },
     "tata-banking-and-financial-services-fund-reg-g": {
       "name": "Tata Banking & Financial Services Fund-Reg(G)",
+      "ns_score": 6.25,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TABSG-GR&type=purchase",
       "fund_manager": "Kapil Malhotra",
@@ -179,6 +187,8 @@
     },
     "tata-bse-multicap-consumption-50-30-20-index-fund-reg-g": {
       "name": "Tata BSE Multicap Consumption 50:30:20 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TABMCG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -222,6 +232,8 @@
     },
     "tata-bse-quality-index-fund-reg-g": {
       "name": "Tata BSE Quality Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAQIG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -265,6 +277,8 @@
     },
     "tata-bse-select-business-groups-index-fund-reg-g": {
       "name": "Tata BSE Select Business Groups Index Fund-Reg(G)",
+      "ns_score": -0.07,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TASBG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -308,6 +322,8 @@
     },
     "tata-bse-sensex-index-fund-reg-g": {
       "name": "Tata BSE Sensex Index Fund-Reg(G)",
+      "ns_score": 3.58,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAISA-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -351,6 +367,8 @@
     },
     "tata-business-cycle-fund-reg-g": {
       "name": "Tata Business Cycle Fund-Reg(G)",
+      "ns_score": 4.3,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TABCG-GR&type=purchase",
       "fund_manager": "Rahul Singh (Tata)",
@@ -394,6 +412,8 @@
     },
     "tata-digital-india-fund-reg-g": {
       "name": "Tata Digital India Fund-Reg(G)",
+      "ns_score": 1.98,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TADIFG-GR&type=purchase",
       "fund_manager": "Meeta Shetty",
@@ -437,6 +457,8 @@
     },
     "tata-dividend-yield-fund-reg-g": {
       "name": "Tata Dividend Yield Fund-Reg(G)",
+      "ns_score": 5.46,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAYFG-GR&type=purchase",
       "fund_manager": "Sailesh Jain",
@@ -480,6 +502,8 @@
     },
     "tata-elss-fund-reg-g": {
       "name": "Tata ELSS Fund-Reg(G)",
+      "ns_score": 6.3,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TATSFG-GR&type=purchase",
       "fund_manager": "Sailesh Jain",
@@ -523,6 +547,8 @@
     },
     "tata-equity-savings-fund-reg-g": {
       "name": "Tata Equity Savings Fund-Reg(G)",
+      "ns_score": 4.84,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IFMG&type=purchase",
       "fund_manager": "Sailesh Jain",
@@ -566,6 +592,8 @@
     },
     "tata-ethical-fund-reg-g": {
       "name": "Tata Ethical Fund-Reg(G)",
+      "ns_score": 3.39,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SSF&type=purchase",
       "fund_manager": "Abhinav Sharma",
@@ -609,6 +637,8 @@
     },
     "tata-flexi-cap-fund-reg-g": {
       "name": "Tata Flexi Cap Fund-Reg(G)",
+      "ns_score": 5.66,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAMTCG-GR&type=purchase",
       "fund_manager": "Anand Sharma",
@@ -652,6 +682,8 @@
     },
     "tata-focused-fund-reg-g": {
       "name": "Tata Focused Fund-Reg(G)",
+      "ns_score": 5.32,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAFEG-GR&type=purchase",
       "fund_manager": "Anand Sharma",
@@ -695,6 +727,8 @@
     },
     "tata-gold-etf-fof-reg-g": {
       "name": "Tata Gold ETF FoF-Reg(G)",
+      "ns_score": 15.58,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAGOG-GR&type=purchase",
       "fund_manager": "Tapan Patel",
@@ -738,6 +772,8 @@
     },
     "tata-housing-opportunities-fund-reg-g": {
       "name": "Tata Housing Opportunities Fund-Reg(G)",
+      "ns_score": 2.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAHOG-GR&type=purchase",
       "fund_manager": "Murthy Nagarajan",
@@ -781,6 +817,8 @@
     },
     "tata-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Tata Income Plus Arbitrage Active FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAAAG-GR&type=purchase",
       "fund_manager": "Sailesh Jain",
@@ -824,6 +862,8 @@
     },
     "tata-india-consumer-fund-reg-g": {
       "name": "Tata India Consumer Fund-Reg(G)",
+      "ns_score": 6.06,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAICFG-GR&type=purchase",
       "fund_manager": "Sonam Udasi",
@@ -867,6 +907,8 @@
     },
     "tata-india-innovation-fund-reg-g": {
       "name": "Tata India Innovation Fund-Reg(G)",
+      "ns_score": -1.59,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAING-GR&type=purchase",
       "fund_manager": "Meeta Shetty",
@@ -910,6 +952,8 @@
     },
     "tata-india-pharma-and-healthcare-fund-reg-g": {
       "name": "Tata India Pharma & Healthcare Fund-Reg(G)",
+      "ns_score": 8.31,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAIPHG-GR&type=purchase",
       "fund_manager": "Rajat Srivastava",
@@ -953,6 +997,8 @@
     },
     "tata-infrastructure-fund-reg-g": {
       "name": "Tata Infrastructure Fund-Reg(G)",
+      "ns_score": 7.35,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Abhinav Sharma",
@@ -996,6 +1042,8 @@
     },
     "tata-large-and-mid-cap-fund-reg-g": {
       "name": "Tata Large & Mid Cap Fund-Reg(G)",
+      "ns_score": 3.36,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EOG&type=purchase",
       "fund_manager": "Chandraprakash Padiyar",
@@ -1039,6 +1087,8 @@
     },
     "tata-large-cap-fund-reg-g": {
       "name": "Tata Large Cap Fund-Reg(G)",
+      "ns_score": 5.23,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PEF&type=purchase",
       "fund_manager": "Abhinav Sharma",
@@ -1082,6 +1132,8 @@
     },
     "tata-mid-cap-fund-reg-g": {
       "name": "Tata Mid Cap Fund-Reg(G)",
+      "ns_score": 8.58,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=GROG&type=purchase",
       "fund_manager": "Satish Chandra Mishra",
@@ -1125,6 +1177,8 @@
     },
     "tata-multi-asset-allocation-fund-reg-g": {
       "name": "Tata Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 6.82,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAMAG-GR&type=purchase",
       "fund_manager": "Rahul Singh (Tata)",
@@ -1168,6 +1222,8 @@
     },
     "tata-multicap-fund-reg-g": {
       "name": "Tata Multicap Fund-Reg(G)",
+      "ns_score": 3.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAMLG-GR&type=purchase",
       "fund_manager": "Meeta Shetty",
@@ -1211,6 +1267,8 @@
     },
     "tata-nifty-50-index-fund-reg-g": {
       "name": "Tata NIFTY 50 Index Fund-Reg(G)",
+      "ns_score": 4.47,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAINA-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1254,6 +1312,8 @@
     },
     "tata-nifty-auto-index-fund-reg-g": {
       "name": "Tata Nifty Auto Index Fund-Reg(G)",
+      "ns_score": 3.22,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAAIG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1297,6 +1357,8 @@
     },
     "tata-nifty-capital-markets-index-fund-reg-g": {
       "name": "Tata Nifty Capital Markets Index Fund-Reg(G)",
+      "ns_score": 7.62,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TACMG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1340,6 +1402,8 @@
     },
     "tata-nifty-financial-services-index-fund-reg-g": {
       "name": "Tata Nifty Financial Services Index Fund-Reg(G)",
+      "ns_score": -0.7,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TANFG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1383,6 +1447,8 @@
     },
     "tata-nifty-india-digital-etf-fof-reg-g": {
       "name": "Tata Nifty India Digital ETF FoF-Reg(G)",
+      "ns_score": 2.8,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAFOG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1426,6 +1492,8 @@
     },
     "tata-nifty-india-tourism-index-fund-reg-g": {
       "name": "Tata Nifty India Tourism Index Fund-Reg(G)",
+      "ns_score": -5.7,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TATOG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1469,6 +1537,8 @@
     },
     "tata-nifty-midcap-150-index-fund-reg-g": {
       "name": "Tata Nifty Midcap 150 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAM1G-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1512,6 +1582,8 @@
     },
     "tata-nifty-midcap-150-momentum-50-index-fund-reg-g": {
       "name": "Tata Nifty Midcap 150 Momentum 50 Index Fund-Reg(G)",
+      "ns_score": 6.42,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TANMG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1555,6 +1627,8 @@
     },
     "tata-nifty-midsmall-healthcare-index-fund-reg-g": {
       "name": "Tata Nifty MidSmall Healthcare Index Fund-Reg(G)",
+      "ns_score": 0.75,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAMSG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1598,6 +1672,8 @@
     },
     "tata-nifty-next-50-index-fund-reg-g": {
       "name": "Tata Nifty Next 50 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nitin Sharma",
@@ -1641,6 +1717,8 @@
     },
     "tata-nifty-realty-index-fund-reg-g": {
       "name": "Tata Nifty Realty Index Fund-Reg(G)",
+      "ns_score": -5.9,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TARIG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1684,6 +1762,8 @@
     },
     "tata-nifty200-alpha-30-index-fund-reg-g": {
       "name": "Tata Nifty200 Alpha 30 Index Fund-Reg(G)",
+      "ns_score": -0.13,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAALG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1727,6 +1807,8 @@
     },
     "tata-nifty500-multicap-india-manufacturing-50-30-20-index-fund-reg-g": {
       "name": "Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund-Reg(G)",
+      "ns_score": 1.13,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAMNG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1770,6 +1852,8 @@
     },
     "tata-nifty500-multicap-infrastructure-50-30-20-index-fund-reg-g": {
       "name": "Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund-Reg(G)",
+      "ns_score": -0.17,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TANIG-GR&type=purchase",
       "fund_manager": "Nitin Sharma",
@@ -1813,6 +1897,8 @@
     },
     "tata-resources-and-energy-fund-reg-g": {
       "name": "Tata Resources & Energy Fund-Reg(G)",
+      "ns_score": 7.43,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TAREFG-GR&type=purchase",
       "fund_manager": "Satish Chandra Mishra",
@@ -1856,6 +1942,8 @@
     },
     "tata-silver-etf-fof-reg-g": {
       "name": "Tata Silver ETF FoF-Reg(G)",
+      "ns_score": 30.11,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TASLG-GR&type=purchase",
       "fund_manager": "Tapan Patel",
@@ -1899,6 +1987,8 @@
     },
     "tata-small-cap-fund-reg-g": {
       "name": "Tata Small Cap Fund-Reg(G)",
+      "ns_score": 4.58,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TASCFG-GR&type=purchase",
       "fund_manager": "Chandraprakash Padiyar",
@@ -1942,6 +2032,8 @@
     },
     "tata-value-fund-g": {
       "name": "Tata Value Fund(G)",
+      "ns_score": 7.37,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EPEG&type=purchase",
       "fund_manager": "Sonam Udasi",
