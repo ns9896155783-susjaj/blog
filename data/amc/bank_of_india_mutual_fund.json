@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Bank of India Mutual Fund",
     "total_schemes": 28,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:26"
   },
   "schemes": {
     "bank-of-india-arbitrage-fund-reg-g": {
       "name": "Bank of India Arbitrage Fund-Reg(G)",
+      "ns_score": 3.09,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAAFRG-GR&type=purchase",
       "fund_manager": "Nilesh Jethani",
@@ -50,6 +52,8 @@
     },
     "bank-of-india-balanced-advantage-fund-reg-g": {
       "name": "Bank of India Balanced Advantage Fund-Reg(G)",
+      "ns_score": 5.3,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BXBA139-GR&type=purchase",
       "fund_manager": "Alok Singh",
@@ -93,6 +97,8 @@
     },
     "bank-of-india-banking-and-financial-services-fund-reg-g": {
       "name": "Bank of India Banking & Financial Services Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BABFRG-GR&type=purchase",
       "fund_manager": "Nilesh Jethani",
@@ -136,6 +142,8 @@
     },
     "bank-of-india-business-cycle-fund-reg-g": {
       "name": "Bank of India Business Cycle Fund-Reg(G)",
+      "ns_score": -1,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BABSRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
@@ -179,6 +187,8 @@
     },
     "bank-of-india-consumption-fund-reg-g": {
       "name": "Bank of India Consumption Fund-Reg(G)",
+      "ns_score": 0.56,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BACFRG-GR&type=purchase",
       "fund_manager": "Nitin Gosar",
@@ -222,6 +232,8 @@
     },
     "bank-of-india-elss-tax-saver-reg-g": {
       "name": "Bank of India ELSS Tax Saver-Reg(G)",
+      "ns_score": 6.96,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAFTARG-GR&type=purchase",
       "fund_manager": "Alok Singh",
@@ -265,6 +277,8 @@
     },
     "bank-of-india-flexi-cap-fund-reg-g": {
       "name": "Bank of India Flexi Cap Fund-Reg(G)",
+      "ns_score": 9,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAMPRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
@@ -308,6 +322,8 @@
     },
     "bank-of-india-large-and-mid-cap-fund-reg-g": {
       "name": "Bank of India Large & Mid Cap Fund-Reg(G)",
+      "ns_score": 7.21,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAFEFRG-GR&type=purchase",
       "fund_manager": "Nitin Gosar",
@@ -351,6 +367,8 @@
     },
     "bank-of-india-large-cap-fund-reg-g": {
       "name": "Bank of India Large Cap Fund-Reg(G)",
+      "ns_score": 4.79,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BABCRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
@@ -394,6 +412,8 @@
     },
     "bank-of-india-mfg-and-infra-fund-reg-g": {
       "name": "Bank of India Mfg & Infra Fund-Reg(G)",
+      "ns_score": 11.31,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAFFIRG-GR&type=purchase",
       "fund_manager": "Nitin Gosar",
@@ -437,6 +457,8 @@
     },
     "bank-of-india-mid-and-small-cap-equity-and-debt-fund-reg-g": {
       "name": "Bank of India Mid & Small Cap Equity & Debt Fund-Reg(G)",
+      "ns_score": 8.26,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAMCRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
@@ -480,6 +502,8 @@
     },
     "bank-of-india-mid-cap-fund-reg-g": {
       "name": "Bank of India Mid Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAMDRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
@@ -523,6 +547,8 @@
     },
     "bank-of-india-multi-asset-allocation-fund-reg-g": {
       "name": "Bank of India Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 2.62,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAMARG-GR&type=purchase",
       "fund_manager": "Mithraem Bharucha",
@@ -566,6 +592,8 @@
     },
     "bank-of-india-multi-cap-fund-reg-g": {
       "name": "Bank of India Multi Cap Fund-Reg(G)",
+      "ns_score": 6.64,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAMLRG-GR&type=purchase",
       "fund_manager": "Nitin Gosar",
@@ -609,6 +637,8 @@
     },
     "bank-of-india-small-cap-fund-reg-g": {
       "name": "Bank of India Small Cap Fund-Reg(G)",
+      "ns_score": 8.18,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BASCRG-GR&type=purchase",
       "fund_manager": "Alok Singh",
@@ -652,6 +682,8 @@
     },
     "dsp-nifty-bank-index-fund-reg-g": {
       "name": "DSP Nifty Bank Index Fund-Reg(G)",
+      "ns_score": 0.31,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS665-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
@@ -695,6 +727,8 @@
     },
     "dsp-nifty-private-bank-index-fund-reg-g": {
       "name": "DSP Nifty Private Bank Index Fund-Reg(G)",
+      "ns_score": -0.89,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DS675-GR&type=purchase",
       "fund_manager": "Anil Ghelani",
@@ -738,6 +772,8 @@
     },
     "groww-nifty-psu-bank-index-fund-reg-g": {
       "name": "Groww Nifty PSU Bank Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nikhil Satam",
@@ -781,6 +817,8 @@
     },
     "icici-pru-nifty-bank-index-fund-reg-g": {
       "name": "ICICI Pru Nifty Bank Index Fund-Reg(G)",
+      "ns_score": 3.12,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3473-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -824,6 +862,8 @@
     },
     "icici-pru-nifty-private-bank-index-fund-reg-g": {
       "name": "ICICI Pru Nifty Private Bank Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3571-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -867,6 +907,8 @@
     },
     "kotak-nifty-financial-services-ex-bank-index-fund-reg-g": {
       "name": "Kotak Nifty Financial Services Ex-Bank Index Fund-Reg(G)",
+      "ns_score": 1.54,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO299-GR&type=purchase",
       "fund_manager": "Satish Dondapat",
@@ -910,6 +952,8 @@
     },
     "motilal-oswal-bse-financials-ex-bank-30-index-fund-reg-g": {
       "name": "Motilal Oswal BSE Financials ex Bank 30 Index Fund-Reg(G)",
+      "ns_score": 6.36,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOS2GP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
@@ -953,6 +997,8 @@
     },
     "motilal-oswal-nifty-bank-index-fund-reg-g": {
       "name": "Motilal Oswal Nifty Bank Index Fund-Reg(G)",
+      "ns_score": 4.35,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOBIGP-GR&type=purchase",
       "fund_manager": "Swapnil P Mayekar",
@@ -996,6 +1042,8 @@
     },
     "navi-nifty-bank-index-fund-reg-g": {
       "name": "Navi Nifty Bank Index Fund-Reg(G)",
+      "ns_score": 3.04,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESNBGP-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -1039,6 +1087,8 @@
     },
     "nippon-india-nifty-bank-index-fund-reg-g": {
       "name": "Nippon India Nifty Bank Index Fund-Reg(G)",
+      "ns_score": 0.32,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RLBXGP-GR&type=purchase",
       "fund_manager": "Jitendra Tolani",
@@ -1082,6 +1132,8 @@
     },
     "sbi-bse-psu-bank-index-fund-reg-g": {
       "name": "SBI BSE PSU Bank Index Fund-Reg(G)",
+      "ns_score": 8.53,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SB698G-GR&type=purchase",
       "fund_manager": "Viral Chhadva",
@@ -1125,6 +1177,8 @@
     },
     "sbi-nifty-bank-index-fund-reg-g": {
       "name": "SBI Nifty Bank Index Fund-Reg(G)",
+      "ns_score": 0.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SB695G-GR&type=purchase",
       "fund_manager": "Viral Chhadva",
@@ -1168,6 +1222,8 @@
     },
     "uti-nifty-private-bank-index-fund-reg-g": {
       "name": "UTI Nifty Private Bank Index Fund-Reg(G)",
+      "ns_score": -0.9,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNUGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
