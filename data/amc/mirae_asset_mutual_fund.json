@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Mirae Asset Mutual Fund",
     "total_schemes": 40,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "mirae-asset-aggressive-hybrid-fund-reg-g": {
       "name": "Mirae Asset Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 5.57,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAPFRG-GR&type=purchase",
       "fund_manager": "Harshad Borawake",
@@ -50,6 +52,8 @@
     },
     "mirae-asset-arbitrage-fund-reg-g": {
       "name": "Mirae Asset Arbitrage Fund-Reg(G)",
+      "ns_score": 3.47,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAAFRG-GR&type=purchase",
       "fund_manager": "Jignesh Rao",
@@ -93,6 +97,8 @@
     },
     "mirae-asset-balanced-advantage-fund-reg-g": {
       "name": "Mirae Asset Balanced Advantage Fund-Reg(G)",
+      "ns_score": 3.97,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MABARG-GR&type=purchase",
       "fund_manager": "Harshad Borawake",
@@ -136,6 +142,8 @@
     },
     "mirae-asset-banking-and-financial-services-fund-reg-g": {
       "name": "Mirae Asset Banking and Financial Services Fund-Reg(G)",
+      "ns_score": 6.97,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MABFRG-GR&type=purchase",
       "fund_manager": "Abhijith Vara",
@@ -179,6 +187,8 @@
     },
     "mirae-asset-bse-200-equal-weight-etf-fof-reg-g": {
       "name": "Mirae Asset BSE 200 Equal Weight ETF FoF-Reg(G)",
+      "ns_score": 0.04,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MABWRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -222,6 +232,8 @@
     },
     "mirae-asset-bse-india-defence-etf-fof-reg-g": {
       "name": "Mirae Asset BSE India Defence ETF FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -265,6 +277,8 @@
     },
     "mirae-asset-bse-select-ipo-etf-fof-reg-g": {
       "name": "Mirae Asset BSE Select IPO ETF FoF-Reg(G)",
+      "ns_score": -2.44,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MABIRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -308,6 +322,8 @@
     },
     "mirae-asset-diversified-equity-allocator-passive-fof-reg-g": {
       "name": "Mirae Asset Diversified Equity Allocator Passive FOF-Reg(G)",
+      "ns_score": 5.83,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAEARG-GR&type=purchase",
       "fund_manager": "Siddharth Srivastava",
@@ -351,6 +367,8 @@
     },
     "mirae-asset-elss-tax-saver-fund-reg-g": {
       "name": "Mirae Asset ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 6.18,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MATSRG-GR&type=purchase",
       "fund_manager": "Neelesh Surana",
@@ -394,6 +412,8 @@
     },
     "mirae-asset-equity-savings-fund-reg-g": {
       "name": "Mirae Asset Equity Savings Fund-Reg(G)",
+      "ns_score": 5.07,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAESRG-GR&type=purchase",
       "fund_manager": "Harshad Borawake",
@@ -437,6 +457,8 @@
     },
     "mirae-asset-flexi-cap-fund-reg-g": {
       "name": "Mirae Asset Flexi Cap Fund-Reg(G)",
+      "ns_score": 4.74,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAFCRG-GR&type=purchase",
       "fund_manager": "Varun Goel",
@@ -480,6 +502,8 @@
     },
     "mirae-asset-focused-fund-reg-g": {
       "name": "Mirae Asset Focused Fund-Reg(G)",
+      "ns_score": 2.05,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAFFRG-GR&type=purchase",
       "fund_manager": "Gaurav Misra",
@@ -523,6 +547,8 @@
     },
     "mirae-asset-global-electric-and-autonomous-vehicles-equity-passive-fof-reg-g": {
       "name": "Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF-Reg(G)",
+      "ns_score": 10.01,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAGERG-GR&type=purchase",
       "fund_manager": "Siddharth Srivastava",
@@ -566,6 +592,8 @@
     },
     "mirae-asset-global-x-artificial-intelligence-and-technology-etf-fof-reg-g": {
       "name": "Mirae Asset Global X Artificial Intelligence & Technology ETF FoF-Reg(G)",
+      "ns_score": 12.95,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAAIRG-GR&type=purchase",
       "fund_manager": "Siddharth Srivastava",
@@ -609,6 +637,8 @@
     },
     "mirae-asset-gold-silver-passive-fof-reg-g": {
       "name": "Mirae Asset Gold Silver Passive FoF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAGSRG-GR&type=purchase",
       "fund_manager": "Ritesh Patel",
@@ -652,6 +682,8 @@
     },
     "mirae-asset-great-consumer-fund-reg-g": {
       "name": "Mirae Asset Great Consumer Fund-Reg(G)",
+      "ns_score": 5.65,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAFICRG-GR&type=purchase",
       "fund_manager": "Siddhant Chhabria",
@@ -695,6 +727,8 @@
     },
     "mirae-asset-hang-seng-tech-etf-fof-reg-g": {
       "name": "Mirae Asset Hang Seng TECH ETF FoF-Reg(G)",
+      "ns_score": 4.11,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAHSRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -738,6 +772,8 @@
     },
     "mirae-asset-healthcare-fund-reg-g": {
       "name": "Mirae Asset Healthcare Fund-Reg(G)",
+      "ns_score": 9.58,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAHCRG-GR&type=purchase",
       "fund_manager": "Vrijesh Kasera",
@@ -781,6 +817,8 @@
     },
     "mirae-asset-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Mirae Asset Income plus Arbitrage Active FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAIPRG-GR&type=purchase",
       "fund_manager": "Basant Bafna",
@@ -824,6 +862,8 @@
     },
     "mirae-asset-infrastructure-fund-reg-g": {
       "name": "Mirae Asset Infrastructure Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAIFRG-GR&type=purchase",
       "fund_manager": "Bharti Sawant",
@@ -867,6 +907,8 @@
     },
     "mirae-asset-large-and-midcap-fund-reg-g": {
       "name": "Mirae Asset Large & Midcap Fund-Reg(G)",
+      "ns_score": 6.52,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAFEBRG-GR&type=purchase",
       "fund_manager": "Neelesh Surana",
@@ -910,6 +952,8 @@
     },
     "mirae-asset-large-cap-fund-reg-g": {
       "name": "Mirae Asset Large Cap Fund-Reg(G)",
+      "ns_score": 4.31,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAFIORG-GR&type=purchase",
       "fund_manager": "Gaurav Misra",
@@ -953,6 +997,8 @@
     },
     "mirae-asset-midcap-fund-reg-g": {
       "name": "Mirae Asset Midcap Fund-Reg(G)",
+      "ns_score": 8.8,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAMCRG-GR&type=purchase",
       "fund_manager": "Ankit Jain",
@@ -996,6 +1042,8 @@
     },
     "mirae-asset-multi-asset-allocation-fund-reg-g": {
       "name": "Mirae Asset Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 3.23,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAMARG-GR&type=purchase",
       "fund_manager": "Harshad Borawake",
@@ -1039,6 +1087,8 @@
     },
     "mirae-asset-multi-factor-passive-fof-reg-g": {
       "name": "Mirae Asset Multi Factor Passive FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAMURG-GR&type=purchase",
       "fund_manager": "Ritesh Patel",
@@ -1082,6 +1132,8 @@
     },
     "mirae-asset-multicap-fund-reg-g": {
       "name": "Mirae Asset Multicap Fund-Reg(G)",
+      "ns_score": 0.55,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAMPRG-GR&type=purchase",
       "fund_manager": "Ankit Jain",
@@ -1125,6 +1177,8 @@
     },
     "mirae-asset-nifty-100-esg-sector-leaders-fof-reg-g": {
       "name": "Mirae Asset Nifty 100 ESG Sector Leaders FoF-Reg(G)",
+      "ns_score": 4.11,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MANIRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1168,6 +1222,8 @@
     },
     "mirae-asset-nifty-50-index-fund-reg-g": {
       "name": "Mirae Asset Nifty 50 Index Fund-Reg(G)",
+      "ns_score": -0.85,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MANIRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1211,6 +1267,8 @@
     },
     "mirae-asset-nifty-india-manufacturing-etf-fof-reg-g": {
       "name": "Mirae Asset Nifty India Manufacturing ETF FoF-Reg(G)",
+      "ns_score": 7.51,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAMFRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1254,6 +1312,8 @@
     },
     "mirae-asset-nifty-india-new-age-consumption-etf-fof-reg-g": {
       "name": "Mirae Asset Nifty India New Age Consumption ETF FoF-Reg(G)",
+      "ns_score": -1.84,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAACRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1297,6 +1357,8 @@
     },
     "mirae-asset-nifty-largemidcap-250-index-fund-reg-g": {
       "name": "Mirae Asset Nifty LargeMidcap 250 Index Fund-Reg(G)",
+      "ns_score": -0.02,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MALMRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1340,6 +1402,8 @@
     },
     "mirae-asset-nifty-metal-etf-fof-reg-g": {
       "name": "Mirae Asset Nifty Metal ETF FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ekta Gala",
@@ -1383,6 +1447,8 @@
     },
     "mirae-asset-nifty-midsmallcap400-momentum-quality-100-etf-fof-reg-g": {
       "name": "Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF FoF-Reg(G)",
+      "ns_score": -0.36,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAMSRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1426,6 +1492,8 @@
     },
     "mirae-asset-nifty-smallcap-250-momentum-quality-100-etf-fof-reg-g": {
       "name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF FoF-Reg(G)",
+      "ns_score": -2.35,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MASQRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1469,6 +1537,8 @@
     },
     "mirae-asset-nifty-total-market-index-fund-reg-g": {
       "name": "Mirae Asset Nifty Total Market Index Fund-Reg(G)",
+      "ns_score": -0.62,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MATMRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1512,6 +1582,8 @@
     },
     "mirae-asset-nifty200-alpha-30-etf-fof-reg-g": {
       "name": "Mirae Asset Nifty200 Alpha 30 ETF FoF-Reg(G)",
+      "ns_score": -0.14,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAALRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1555,6 +1627,8 @@
     },
     "mirae-asset-nyse-fang-etf-fof-reg-g": {
       "name": "Mirae Asset NYSE FANG+ETF FoF-Reg(G)",
+      "ns_score": 17.65,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MAFPRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1598,6 +1672,8 @@
     },
     "mirae-asset-sandp-500-top-50-etf-fof-reg-g": {
       "name": "Mirae Asset S&P 500 Top 50 ETF FoF-Reg(G)",
+      "ns_score": 14.05,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MASPRG-GR&type=purchase",
       "fund_manager": "Ekta Gala",
@@ -1641,6 +1717,8 @@
     },
     "mirae-asset-silver-etf-fof-reg-g": {
       "name": "Mirae Asset Silver ETF FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ritesh Patel",
@@ -1684,6 +1762,8 @@
     },
     "mirae-asset-small-cap-fund-reg-g": {
       "name": "Mirae Asset Small Cap Fund-Reg(G)",
+      "ns_score": 1.45,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MASCRG-GR&type=purchase",
       "fund_manager": "Varun Goel",
