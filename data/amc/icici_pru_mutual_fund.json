@@ -2,11 +2,13 @@
   "meta": {
     "amc": "ICICI Pru Mutual Fund",
     "total_schemes": 73,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "icici-pru-active-momentum-fund-reg-g": {
       "name": "ICICI Pru Active Momentum Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3572-GR&type=purchase",
       "fund_manager": "Manasvi Shah",
@@ -50,6 +52,8 @@
     },
     "icici-pru-balanced-advantage-fund-g": {
       "name": "ICICI Pru Balanced Advantage Fund(G)",
+      "ns_score": 5.67,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDWRG&type=purchase",
       "fund_manager": "Rajat Chandak",
@@ -93,6 +97,8 @@
     },
     "icici-pru-banking-and-fin-serv-fund-g": {
       "name": "ICICI Pru Banking & Fin Serv Fund(G)",
+      "ns_score": 5.25,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BAFIN&type=purchase",
       "fund_manager": "Antariksha Banerjee",
@@ -136,6 +142,8 @@
     },
     "icici-pru-bse-500-etf-fof-reg-g": {
       "name": "ICICI Pru BSE 500 ETF FOF-Reg(G)",
+      "ns_score": 3.96,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3458-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -179,6 +187,8 @@
     },
     "icici-pru-bse-sensex-index-fund-g": {
       "name": "ICICI Pru BSE Sensex Index Fund(G)",
+      "ns_score": 3.8,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3007-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -222,6 +232,8 @@
     },
     "icici-pru-business-cycle-fund-g": {
       "name": "ICICI Pru Business Cycle Fund(G)",
+      "ns_score": 8.64,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3439-GR&type=purchase",
       "fund_manager": "Manish Banthia",
@@ -265,6 +277,8 @@
     },
     "icici-pru-commodities-fund-reg-g": {
       "name": "ICICI Pru Commodities Fund-Reg(G)",
+      "ns_score": 9.69,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3398-GR&type=purchase",
       "fund_manager": "Lalit Kumar",
@@ -308,6 +322,8 @@
     },
     "icici-pru-conglomerate-fund-reg-g": {
       "name": "ICICI Pru Conglomerate Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3573-GR&type=purchase",
       "fund_manager": "Lalit Kumar",
@@ -351,6 +367,8 @@
     },
     "icici-pru-diversified-debt-strategy-active-fof-g": {
       "name": "ICICI Pru Diversified Debt Strategy Active FOF(G)",
+      "ns_score": 3.57,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICIAVCP-GR&type=purchase",
       "fund_manager": "Manish Banthia",
@@ -394,6 +412,8 @@
     },
     "icici-pru-diversified-equity-all-cap-active-fof-reg-g": {
       "name": "ICICI Pru Diversified Equity All Cap Active FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dharmesh Kakkad",
@@ -437,6 +457,8 @@
     },
     "icici-pru-diversified-equity-all-cap-omni-fof-g": {
       "name": "ICICI Pru Diversified Equity All Cap Omni FOF(G)",
+      "ns_score": 7.94,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3409-GR&type=purchase",
       "fund_manager": "Dharmesh Kakkad",
@@ -480,6 +502,8 @@
     },
     "icici-pru-dividend-yield-equity-fund-g": {
       "name": "ICICI Pru Dividend Yield Equity Fund(G)",
+      "ns_score": 9.5,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=2373-GR&type=purchase",
       "fund_manager": "Mittul Kalawadia",
@@ -523,6 +547,8 @@
     },
     "icici-pru-dynamic-asset-allocation-active-fof-g": {
       "name": "ICICI Pru Dynamic Asset Allocation Active FOF(G)",
+      "ns_score": 5.46,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICIAMP-GR&type=purchase",
       "fund_manager": "Dharmesh Kakkad",
@@ -566,6 +592,8 @@
     },
     "icici-pru-elss-tax-saver-fund-g": {
       "name": "ICICI Pru ELSS Tax Saver Fund(G)",
+      "ns_score": 6.12,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=1&type=purchase",
       "fund_manager": "Mittul Kalawadia",
@@ -609,6 +637,8 @@
     },
     "icici-pru-energy-opportunities-fund-reg-g": {
       "name": "ICICI Pru Energy Opportunities Fund-Reg(G)",
+      "ns_score": 2.65,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3549-GR&type=purchase",
       "fund_manager": "Nitya Mishra",
@@ -652,6 +682,8 @@
     },
     "icici-pru-equity-and-debt-fund-g": {
       "name": "ICICI Pru Equity & Debt Fund(G)",
+      "ns_score": 8.48,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICI61-GR&type=purchase",
       "fund_manager": "Sankaran Naren",
@@ -695,6 +727,8 @@
     },
     "icici-pru-equity-minimum-variance-fund-reg-g": {
       "name": "ICICI Pru Equity Minimum Variance Fund-Reg(G)",
+      "ns_score": -0.21,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3553-GR&type=purchase",
       "fund_manager": "Aatur Shah",
@@ -738,6 +772,8 @@
     },
     "icici-pru-equity-savings-fund-reg-g": {
       "name": "ICICI Pru Equity Savings Fund-Reg(G)",
+      "ns_score": 3.96,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC2556-GR&type=purchase",
       "fund_manager": "Dharmesh Kakkad",
@@ -781,6 +817,8 @@
     },
     "icici-pru-equity-arbitrage-fund-g": {
       "name": "ICICI Pru Equity-Arbitrage Fund(G)",
+      "ns_score": 3.59,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Archana Nair",
@@ -824,6 +862,8 @@
     },
     "icici-pru-esg-exclusionary-strategy-fund-g": {
       "name": "ICICI Pru ESG Exclusionary Strategy Fund(G)",
+      "ns_score": 5.59,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3435-GR&type=purchase",
       "fund_manager": "Mittul Kalawadia",
@@ -867,6 +907,8 @@
     },
     "icici-pru-exports-and-services-fund-g": {
       "name": "ICICI Pru Exports & Services Fund(G)",
+      "ns_score": 7.51,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SIG-ICICI-DP&type=purchase",
       "fund_manager": "Sankaran Naren",
@@ -910,6 +952,8 @@
     },
     "icici-pru-flexicap-fund-g": {
       "name": "ICICI Pru Flexicap Fund(G)",
+      "ns_score": 5.55,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3443-GR&type=purchase",
       "fund_manager": "Rajat Chandak",
@@ -953,6 +997,8 @@
     },
     "icici-pru-fmcg-fund-g": {
       "name": "ICICI Pru FMCG Fund(G)",
+      "ns_score": 0.84,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FMCG&type=purchase",
       "fund_manager": "Nitya Mishra",
@@ -996,6 +1042,8 @@
     },
     "icici-pru-focused-equity-fund-g": {
       "name": "ICICI Pru Focused Equity Fund(G)",
+      "ns_score": 8.48,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TARGET&type=purchase",
       "fund_manager": "Vaibhav Dusad",
@@ -1039,6 +1087,8 @@
     },
     "icici-pru-global-advantage-fund-fof-g": {
       "name": "ICICI Pru Global Advantage Fund(FOF)(G)",
+      "ns_score": 7.19,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3396-GR&type=purchase",
       "fund_manager": "Sankaran Naren",
@@ -1082,6 +1132,8 @@
     },
     "icici-pru-global-stable-equity-fund-fof-g": {
       "name": "ICICI Pru Global Stable Equity Fund(FOF)(G)",
+      "ns_score": 6.67,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICI2144-GR&type=purchase",
       "fund_manager": "Ritesh Lunawat",
@@ -1125,6 +1177,8 @@
     },
     "icici-pru-gold-etf-fof-g": {
       "name": "ICICI Pru Gold ETF FOF(G)",
+      "ns_score": 19,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Manish Banthia",
@@ -1168,6 +1222,8 @@
     },
     "icici-pru-housing-opp-fund-reg-g": {
       "name": "ICICI Pru Housing Opp Fund-Reg(G)",
+      "ns_score": 4.37,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3480-GR&type=purchase",
       "fund_manager": "Sanket Gaidhani",
@@ -1211,6 +1267,8 @@
     },
     "icici-pru-income-plus-arbitrage-omni-fof-g": {
       "name": "ICICI Pru Income plus Arbitrage Omni FOF(G)",
+      "ns_score": 5.6,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICIACP-GR&type=purchase",
       "fund_manager": "Manish Banthia",
@@ -1254,6 +1312,8 @@
     },
     "icici-pru-india-opp-fund-g": {
       "name": "ICICI Pru India Opp Fund(G)",
+      "ns_score": 10.05,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3251-GR&type=purchase",
       "fund_manager": "Sankaran Naren",
@@ -1297,6 +1357,8 @@
     },
     "icici-pru-infrastructure-fund-g": {
       "name": "ICICI Pru Infrastructure Fund(G)",
+      "ns_score": 10.71,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IFG-ICICIPRU-GR&type=purchase",
       "fund_manager": "Ihab Dalwai",
@@ -1340,6 +1402,8 @@
     },
     "icici-pru-innovation-fund-reg-g": {
       "name": "ICICI Pru Innovation Fund-Reg(G)",
+      "ns_score": 0.61,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3539-GR&type=purchase",
       "fund_manager": "Vaibhav Dusad",
@@ -1383,6 +1447,8 @@
     },
     "icici-pru-large-and-mid-cap-fund-g": {
       "name": "ICICI Pru Large & Mid Cap Fund(G)",
+      "ns_score": 8.7,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=GROWTH&type=purchase",
       "fund_manager": "Ihab Dalwai",
@@ -1426,6 +1492,8 @@
     },
     "icici-pru-large-cap-fund-g": {
       "name": "ICICI Pru Large Cap Fund(G)",
+      "ns_score": 6.59,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FOCUS-RET&type=purchase",
       "fund_manager": "Sankaran Naren",
@@ -1469,6 +1537,8 @@
     },
     "icici-pru-manufacturing-fund-g": {
       "name": "ICICI Pru Manufacturing Fund(G)",
+      "ns_score": 10.46,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3190-GR&type=purchase",
       "fund_manager": "Roshan Chutkey",
@@ -1512,6 +1582,8 @@
     },
     "icici-pru-midcap-fund-g": {
       "name": "ICICI Pru Midcap Fund(G)",
+      "ns_score": 10.96,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESG&type=purchase",
       "fund_manager": "Lalit Kumar",
@@ -1555,6 +1627,8 @@
     },
     "icici-pru-mnc-fund-g": {
       "name": "ICICI Pru MNC Fund(G)",
+      "ns_score": 6.03,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3392-GR&type=purchase",
       "fund_manager": "Roshan Chutkey",
@@ -1598,6 +1672,8 @@
     },
     "icici-pru-multi-sector-passive-fof-g": {
       "name": "ICICI Pru Multi Sector Passive FOF(G)",
+      "ns_score": 6.75,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICIAAP-GR&type=purchase",
       "fund_manager": "Sankaran Naren",
@@ -1641,6 +1717,8 @@
     },
     "icici-pru-multi-asset-fund-g": {
       "name": "ICICI Pru Multi-Asset Fund(G)",
+      "ns_score": 9.05,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DYNMIC&type=purchase",
       "fund_manager": "Sankaran Naren",
@@ -1684,6 +1762,8 @@
     },
     "icici-pru-multicap-fund-g": {
       "name": "ICICI Pru Multicap Fund(G)",
+      "ns_score": 7.64,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICI121-GR&type=purchase",
       "fund_manager": "Lalit Kumar",
@@ -1727,6 +1807,8 @@
     },
     "icici-pru-nasdaq-100-index-fund-g": {
       "name": "ICICI Pru NASDAQ 100 Index Fund(G)",
+      "ns_score": 11.35,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3454-GR&type=purchase",
       "fund_manager": "Sharmila Dmello",
@@ -1770,6 +1852,8 @@
     },
     "icici-pru-nifty-200-momentum-30-index-fund-reg-g": {
       "name": "ICICI Pru Nifty 200 Momentum 30 Index Fund-Reg(G)",
+      "ns_score": 4.46,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3482-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -1813,6 +1897,8 @@
     },
     "icici-pru-nifty-50-index-fund-reg-g": {
       "name": "ICICI Pru Nifty 50 Index Fund-Reg(G)",
+      "ns_score": 4.6,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICIINXNB-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -1856,6 +1942,8 @@
     },
     "icici-pru-nifty-500-index-fund-reg-g": {
       "name": "ICICI Pru Nifty 500 Index Fund-Reg(G)",
+      "ns_score": -0.59,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3555-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -1899,6 +1987,8 @@
     },
     "icici-pru-nifty-alpha-low-volatility-30-etf-fof-g": {
       "name": "ICICI Pru Nifty Alpha Low - Volatility 30 ETF FOF(G)",
+      "ns_score": 4.02,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3445-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -1942,6 +2032,8 @@
     },
     "icici-pru-nifty-auto-index-fund-reg-g": {
       "name": "ICICI Pru Nifty Auto Index Fund-Reg(G)",
+      "ns_score": 9.32,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3501-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -1985,6 +2077,8 @@
     },
     "icici-pru-nifty-commodities-etf": {
       "name": "ICICI Pru Nifty Commodities ETF",
+      "ns_score": 7.01,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nishit Patel",
@@ -2028,6 +2122,8 @@
     },
     "icici-pru-nifty-ev-and-new-age-automotive-etf-fof-reg-g": {
       "name": "ICICI Pru Nifty EV & New Age Automotive ETF FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3563-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2071,6 +2167,8 @@
     },
     "icici-pru-nifty-it-index-fund-reg-g": {
       "name": "ICICI Pru Nifty IT Index Fund-Reg(G)",
+      "ns_score": -1.21,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3487-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2114,6 +2212,8 @@
     },
     "icici-pru-nifty-largemidcap-250-index-fund-reg-g": {
       "name": "ICICI Pru Nifty LargeMidcap 250 Index Fund-Reg(G)",
+      "ns_score": 0.13,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3545-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2157,6 +2257,8 @@
     },
     "icici-pru-nifty-midcap-150-index-fund-reg-g": {
       "name": "ICICI Pru Nifty Midcap 150 Index Fund-Reg(G)",
+      "ns_score": 6.79,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3460-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2200,6 +2302,8 @@
     },
     "icici-pru-nifty-next-50-index-fund-g": {
       "name": "ICICI Pru Nifty Next 50 Index Fund(G)",
+      "ns_score": 6.76,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICI1615-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2243,6 +2347,8 @@
     },
     "icici-pru-nifty-pharma-index-fund-reg-g": {
       "name": "ICICI Pru Nifty Pharma Index Fund-Reg(G)",
+      "ns_score": 7.61,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3509-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2286,6 +2392,8 @@
     },
     "icici-pru-nifty-smallcap-250-index-fund-g": {
       "name": "ICICI Pru Nifty Smallcap 250 Index Fund(G)",
+      "ns_score": 5.35,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3456-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2329,6 +2437,8 @@
     },
     "icici-pru-nifty-top-15-equal-weight-index-fund-reg-g": {
       "name": "ICICI Pru Nifty Top 15 Equal Weight Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3569-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2372,6 +2482,8 @@
     },
     "icici-pru-nifty200-quality-30-index-fund-reg-g": {
       "name": "ICICI Pru Nifty200 Quality 30 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3567-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2415,6 +2527,8 @@
     },
     "icici-pru-nifty200-value-30-index-fund-reg-g": {
       "name": "ICICI Pru Nifty200 Value 30 Index Fund-Reg(G)",
+      "ns_score": 3.89,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3551-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2458,6 +2572,8 @@
     },
     "icici-pru-nifty50-equal-weight-index-fund-reg-g": {
       "name": "ICICI Pru Nifty50 Equal Weight Index Fund-Reg(G)",
+      "ns_score": 5.17,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3499-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2501,6 +2617,8 @@
     },
     "icici-pru-nifty50-value-20-index-fund-reg-g": {
       "name": "ICICI Pru Nifty50 Value 20 Index Fund-Reg(G)",
+      "ns_score": -1.41,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3543-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -2544,6 +2662,8 @@
     },
     "icici-pru-passive-multi-asset-fof-g": {
       "name": "ICICI Pru Passive Multi-Asset FoF(G)",
+      "ns_score": 5.34,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3467-GR&type=purchase",
       "fund_manager": "Sankaran Naren",
@@ -2587,6 +2707,8 @@
     },
     "icici-pru-pharma-healthcare-and-diagnostics-p-h-d-fund-g": {
       "name": "ICICI Pru Pharma Healthcare & Diagnostics (P.H.D) Fund-(G)",
+      "ns_score": 10.15,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3131-GR&type=purchase",
       "fund_manager": "Dharmesh Kakkad",
@@ -2630,6 +2752,8 @@
     },
     "icici-pru-psu-equity-fund-reg-g": {
       "name": "ICICI Pru PSU Equity Fund-Reg(G)",
+      "ns_score": 9.11,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3489-GR&type=purchase",
       "fund_manager": "Antariksha Banerjee",
@@ -2673,6 +2797,8 @@
     },
     "icici-pru-quality-fund-reg-g": {
       "name": "ICICI Pru Quality Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3565-GR&type=purchase",
       "fund_manager": "Ihab Dalwai",
@@ -2716,6 +2842,8 @@
     },
     "icici-pru-quant-fund-g": {
       "name": "ICICI Pru Quant Fund(G)",
+      "ns_score": 6.33,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3437-GR&type=purchase",
       "fund_manager": "Roshan Chutkey",
@@ -2759,6 +2887,8 @@
     },
     "icici-pru-rural-opportunities-fund-reg-g": {
       "name": "ICICI Pru Rural Opportunities Fund-Reg(G)",
+      "ns_score": 0.61,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3557-GR&type=purchase",
       "fund_manager": "Priyanka Khandelwal",
@@ -2802,6 +2932,8 @@
     },
     "icici-pru-silver-etf-fof-g": {
       "name": "ICICI Pru Silver ETF FOF(G)",
+      "ns_score": 25.62,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3471-GR&type=purchase",
       "fund_manager": "Manish Banthia",
@@ -2845,6 +2977,8 @@
     },
     "icici-pru-smallcap-fund-g": {
       "name": "ICICI Pru Smallcap Fund(G)",
+      "ns_score": 6.71,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=INASIA-RETAIL&type=purchase",
       "fund_manager": "Rajat Chandak",
@@ -2888,6 +3022,8 @@
     },
     "icici-pru-strategic-metal-and-energy-equity-fof-reg-g": {
       "name": "ICICI Pru Strategic Metal and Energy Equity FoF-Reg(G)",
+      "ns_score": 18.53,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3469-GR&type=purchase",
       "fund_manager": "Sharmila Dmello",
@@ -2931,6 +3067,8 @@
     },
     "icici-pru-technology-fund-g": {
       "name": "ICICI Pru Technology Fund(G)",
+      "ns_score": 2.59,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TECH&type=purchase",
       "fund_manager": "Vaibhav Dusad",
@@ -2974,6 +3112,8 @@
     },
     "icici-pru-thematic-advantage-fund-fof-g": {
       "name": "ICICI Pru Thematic Advantage Fund(FOF)(G)",
+      "ns_score": 7.37,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICIAVAP-GR&type=purchase",
       "fund_manager": "Sankaran Naren",
@@ -3017,6 +3157,8 @@
     },
     "icici-pru-transportation-and-logistics-fund-reg-g": {
       "name": "ICICI Pru Transportation and Logistics Fund-Reg(G)",
+      "ns_score": 8.8,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3503-GR&type=purchase",
       "fund_manager": "Rajat Chandak",
@@ -3060,6 +3202,8 @@
     },
     "icici-pru-us-bluechip-equity-fund-g": {
       "name": "ICICI Pru US Bluechip Equity Fund(G)",
+      "ns_score": 7.17,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ICICI1950-GR&type=purchase",
       "fund_manager": "Ritesh Lunawat",
@@ -3103,6 +3247,8 @@
     },
     "icici-pru-value-fund-g": {
       "name": "ICICI Pru Value Fund(G)",
+      "ns_score": 8.68,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DFG&type=purchase",
       "fund_manager": "Sankaran Naren",
