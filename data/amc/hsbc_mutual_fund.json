@@ -2,11 +2,13 @@
   "meta": {
     "amc": "HSBC Mutual Fund",
     "total_schemes": 30,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "hsbc-aggressive-hybrid-active-fof-reg-g": {
       "name": "HSBC Aggressive Hybrid Active FOF-Reg(G)",
+      "ns_score": 5.57,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSMSGG-GR&type=purchase",
       "fund_manager": "Gautam Bhupal",
@@ -50,6 +52,8 @@
     },
     "hsbc-aggressive-hybrid-fund-reg-g": {
       "name": "HSBC Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 6.01,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSFCPEG-GR&type=purchase",
       "fund_manager": "Gautam Bhupal",
@@ -93,6 +97,8 @@
     },
     "hsbc-arbitrage-fund-reg-g": {
       "name": "HSBC Arbitrage Fund-Reg(G)",
+      "ns_score": 3.47,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSLARG-GR&type=purchase",
       "fund_manager": "Praveen Ayathan",
@@ -136,6 +142,8 @@
     },
     "hsbc-asia-pacific-ex-japan-dyf-reg-g": {
       "name": "HSBC Asia Pacific (Ex Japan) DYF-Reg(G)",
+      "ns_score": 11.49,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSAPDG-GR&type=purchase",
       "fund_manager": "Sonal Gupta",
@@ -179,6 +187,8 @@
     },
     "hsbc-balanced-advantage-fund-reg-g": {
       "name": "HSBC Balanced Advantage Fund-Reg(G)",
+      "ns_score": 4.12,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSFCPMG-GR&type=purchase",
       "fund_manager": "Neelotpal Sahai",
@@ -222,6 +232,8 @@
     },
     "hsbc-brazil-fund-g": {
       "name": "HSBC Brazil Fund(G)",
+      "ns_score": 12.58,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSBFG-GR&type=purchase",
       "fund_manager": "Sonal Gupta",
@@ -265,6 +277,8 @@
     },
     "hsbc-business-cycles-fund-reg-g": {
       "name": "HSBC Business Cycles Fund-Reg(G)",
+      "ns_score": 6.34,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSLBCFG-GR&type=purchase",
       "fund_manager": "Gautam Bhupal",
@@ -308,6 +322,8 @@
     },
     "hsbc-consumption-fund-reg-g": {
       "name": "HSBC Consumption Fund-Reg(G)",
+      "ns_score": -0.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSHCORG-GR&type=purchase",
       "fund_manager": "Anish Goenka",
@@ -351,6 +367,8 @@
     },
     "hsbc-elss-tax-saver-fund-reg-g": {
       "name": "HSBC ELSS Tax saver Fund-Reg(G)",
+      "ns_score": 6.87,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSFTAFG-GR&type=purchase",
       "fund_manager": "Abhishek Gupta",
@@ -394,6 +412,8 @@
     },
     "hsbc-equity-savings-fund-reg-g": {
       "name": "HSBC Equity Savings Fund-Reg(G)",
+      "ns_score": 6.38,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HS243-GR&type=purchase",
       "fund_manager": "Cheenu Gupta",
@@ -437,6 +457,8 @@
     },
     "hsbc-financial-services-fund-reg-g": {
       "name": "HSBC Financial Services Fund-Reg(G)",
+      "ns_score": 1.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSHFSRG-GR&type=purchase",
       "fund_manager": "Gautam Bhupal",
@@ -480,6 +502,8 @@
     },
     "hsbc-flexi-cap-fund-reg-g": {
       "name": "HSBC Flexi Cap Fund-Reg(G)",
+      "ns_score": 6.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSBCEOIG-GR&type=purchase",
       "fund_manager": "Abhishek Gupta",
@@ -523,6 +547,8 @@
     },
     "hsbc-focused-fund-reg-g": {
       "name": "HSBC Focused Fund-Reg(G)",
+      "ns_score": 6.34,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSFEG-GR&type=purchase",
       "fund_manager": "Neelotpal Sahai",
@@ -566,6 +592,8 @@
     },
     "hsbc-global-emerging-markets-fund-g": {
       "name": "HSBC Global Emerging Markets Fund(G)",
+      "ns_score": 11.1,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSEMFG-GR&type=purchase",
       "fund_manager": "Sonal Gupta",
@@ -609,6 +637,8 @@
     },
     "hsbc-global-equity-climate-change-fof-reg-g": {
       "name": "HSBC Global Equity Climate Change FoF-Reg(G)",
+      "ns_score": 5.24,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSGCG-GR&type=purchase",
       "fund_manager": "Sonal Gupta",
@@ -652,6 +682,8 @@
     },
     "hsbc-gold-etf-fof-reg-g": {
       "name": "HSBC Gold ETF FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Dipan Parikh",
@@ -695,6 +727,8 @@
     },
     "hsbc-income-plus-arbitrage-active-fof-reg-g": {
       "name": "HSBC Income Plus Arbitrage Active FOF-Reg(G)",
+      "ns_score": 3.54,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSMSCG-GR&type=purchase",
       "fund_manager": "Mohd Asif Rizwi",
@@ -738,6 +772,8 @@
     },
     "hsbc-india-export-opportunities-fund-reg-g": {
       "name": "HSBC India Export Opportunities Fund-Reg(G)",
+      "ns_score": 0.21,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSHEORG-GR&type=purchase",
       "fund_manager": "Abhishek Gupta",
@@ -781,6 +817,8 @@
     },
     "hsbc-infrastructure-fund-reg-g": {
       "name": "HSBC Infrastructure Fund-Reg(G)",
+      "ns_score": 8.8,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HS416-GR&type=purchase",
       "fund_manager": "Venugopal Manghat",
@@ -824,6 +862,8 @@
     },
     "hsbc-large-and-mid-cap-fund-reg-g": {
       "name": "HSBC Large & Mid Cap Fund-Reg(G)",
+      "ns_score": 7.95,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSLMEG-GR&type=purchase",
       "fund_manager": "Cheenu Gupta",
@@ -867,6 +907,8 @@
     },
     "hsbc-large-cap-fund-g": {
       "name": "HSBC Large Cap Fund(G)",
+      "ns_score": 5.37,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSBCEFG-GR&type=purchase",
       "fund_manager": "Neelotpal Sahai",
@@ -910,6 +952,8 @@
     },
     "hsbc-midcap-fund-reg-g": {
       "name": "HSBC Midcap Fund-Reg(G)",
+      "ns_score": 10.02,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HS17-GR&type=purchase",
       "fund_manager": "Cheenu Gupta",
@@ -953,6 +997,8 @@
     },
     "hsbc-multi-asset-active-fof-reg-g": {
       "name": "HSBC Multi Asset Active FOF-Reg(G)",
+      "ns_score": 7.64,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSMSMG-GR&type=purchase",
       "fund_manager": "Gautam Bhupal",
@@ -996,6 +1042,8 @@
     },
     "hsbc-multi-asset-allocation-fund-reg-g": {
       "name": "HSBC Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 4.6,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSHMARG-GR&type=purchase",
       "fund_manager": "Cheenu Gupta",
@@ -1039,6 +1087,8 @@
     },
     "hsbc-multi-cap-fund-reg-g": {
       "name": "HSBC Multi Cap Fund-Reg(G)",
+      "ns_score": 6.47,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSHMCRG-GR&type=purchase",
       "fund_manager": "Venugopal Manghat",
@@ -1082,6 +1132,8 @@
     },
     "hsbc-nifty-50-index-fund-reg-g": {
       "name": "HSBC Nifty 50 Index Fund-Reg(G)",
+      "ns_score": 4.58,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSLNIGR-GR&type=purchase",
       "fund_manager": "Praveen Ayathan",
@@ -1125,6 +1177,8 @@
     },
     "hsbc-nifty-next-50-index-fund-reg-g": {
       "name": "HSBC Nifty Next 50 Index Fund-Reg(G)",
+      "ns_score": 6.65,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSLNNGR-GR&type=purchase",
       "fund_manager": "Praveen Ayathan",
@@ -1168,6 +1222,8 @@
     },
     "hsbc-small-cap-fund-reg-g": {
       "name": "HSBC Small Cap Fund-Reg(G)",
+      "ns_score": 7.26,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSLEBFG-GR&type=purchase",
       "fund_manager": "Venugopal Manghat",
@@ -1211,6 +1267,8 @@
     },
     "hsbc-tax-saver-equity-fund-g": {
       "name": "HSBC Tax Saver Equity Fund(G)",
+      "ns_score": 7.39,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSFTAFG-GR&type=purchase",
       "fund_manager": "Gautam Bhupal",
@@ -1254,6 +1312,8 @@
     },
     "hsbc-value-fund-reg-g": {
       "name": "HSBC Value Fund-Reg(G)",
+      "ns_score": 9.5,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HSFIVFG-GR&type=purchase",
       "fund_manager": "Venugopal Manghat",
