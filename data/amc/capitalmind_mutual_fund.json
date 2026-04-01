@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Capitalmind Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "capitalmind-arbitrage-fund-reg-g": {
       "name": "Capitalmind Arbitrage Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CMARRG-GR&type=purchase",
       "fund_manager": "Anoop Vijaykumar",
@@ -50,6 +52,8 @@
     },
     "capitalmind-flexi-cap-fund-reg-g": {
       "name": "Capitalmind Flexi Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CMFCGP-GR&type=purchase",
       "fund_manager": "Anoop Vijaykumar",
@@ -93,6 +97,8 @@
     },
     "capitalmind-multi-asset-allocation-fund-reg-g": {
       "name": "Capitalmind Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CMMARG-GR&type=purchase",
       "fund_manager": "Anoop Vijaykumar",
