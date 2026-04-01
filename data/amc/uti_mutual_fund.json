@@ -2,11 +2,13 @@
   "meta": {
     "amc": "UTI Mutual Fund",
     "total_schemes": 40,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "uti-aggressive-hybrid-fund-reg-g": {
       "name": "UTI Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 6.46,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIBALANCE-GR&type=purchase",
       "fund_manager": "V. Srivatsa",
@@ -50,6 +52,8 @@
     },
     "uti-arbitrage-fund-reg-g": {
       "name": "UTI Arbitrage Fund-Reg(G)",
+      "ns_score": 3.63,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTSFGPG-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -93,6 +97,8 @@
     },
     "uti-balanced-advantage-fund-reg-g": {
       "name": "UTI Balanced Advantage Fund-Reg(G)",
+      "ns_score": -0.3,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTFBGP-GR&type=purchase",
       "fund_manager": "Sachin Trivedi",
@@ -136,6 +142,8 @@
     },
     "uti-banking-and-financial-services-fund-reg-g": {
       "name": "UTI Banking and Financial Services Fund-Reg(G)",
+      "ns_score": 6.06,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIBANKING-GR&type=purchase",
       "fund_manager": "Amit Premchandani",
@@ -179,6 +187,8 @@
     },
     "uti-bse-housing-index-fund-reg-g": {
       "name": "UTI BSE Housing Index Fund-Reg(G)",
+      "ns_score": -2.57,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTSBGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -222,6 +232,8 @@
     },
     "uti-bse-low-volatility-index-fund-reg-g": {
       "name": "UTI BSE Low Volatility Index Fund-Reg(G)",
+      "ns_score": 3.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTLIGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -265,6 +277,8 @@
     },
     "uti-bse-sensex-index-fund-reg-g": {
       "name": "UTI BSE Sensex Index Fund-Reg(G)",
+      "ns_score": 2.41,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTSIGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -308,6 +322,8 @@
     },
     "uti-dividend-yield-fund-reg-g": {
       "name": "UTI Dividend Yield Fund-Reg(G)",
+      "ns_score": 7.57,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIDYF-GR&type=purchase",
       "fund_manager": "Amit Premchandani",
@@ -351,6 +367,8 @@
     },
     "uti-elss-tax-saver-fund-reg-g": {
       "name": "UTI ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 4.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIETSP-GR&type=purchase",
       "fund_manager": "Amit Premchandani",
@@ -394,6 +412,8 @@
     },
     "uti-equity-savings-fund-reg-g": {
       "name": "UTI Equity Savings Fund-Reg(G)",
+      "ns_score": 4.77,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTESGP-GR&type=purchase",
       "fund_manager": "V. Srivatsa",
@@ -437,6 +457,8 @@
     },
     "uti-flexi-cap-fund-reg-g": {
       "name": "UTI Flexi Cap Fund-Reg(G)",
+      "ns_score": 2.12,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIEQUITY-GR&type=purchase",
       "fund_manager": "Ajay Tyagi",
@@ -480,6 +502,8 @@
     },
     "uti-focused-fund-reg-g": {
       "name": "UTI Focused Fund-Reg(G)",
+      "ns_score": 3.57,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTEYGP-GR&type=purchase",
       "fund_manager": "Vishal Chopda",
@@ -523,6 +547,8 @@
     },
     "uti-gold-etf-fof-reg-g": {
       "name": "UTI Gold ETF FoF-Reg(G)",
+      "ns_score": 16.56,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTGUGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -566,6 +592,8 @@
     },
     "uti-healthcare-fund-reg-g": {
       "name": "UTI Healthcare Fund-Reg(G)",
+      "ns_score": 9.36,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIPHARMA-GR&type=purchase",
       "fund_manager": "Kamal Gada",
@@ -609,6 +637,8 @@
     },
     "uti-income-plus-arbitrage-active-fof-reg-g": {
       "name": "UTI Income Plus Arbitrage Active FoF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTFOGP-GR&type=purchase",
       "fund_manager": "Anurag Mittal",
@@ -652,6 +682,8 @@
     },
     "uti-india-consumer-fund-reg-g": {
       "name": "UTI India Consumer Fund-Reg(G)",
+      "ns_score": 4.58,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIILF-GR&type=purchase",
       "fund_manager": "Vishal Chopda",
@@ -695,6 +727,8 @@
     },
     "uti-infrastructure-fund-reg-g": {
       "name": "UTI Infrastructure Fund-Reg(G)",
+      "ns_score": 7.13,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIINFRA-GR&type=purchase",
       "fund_manager": "Sachin Trivedi",
@@ -738,6 +772,8 @@
     },
     "uti-innovation-fund-reg-g": {
       "name": "UTI Innovation Fund-Reg(G)",
+      "ns_score": -3.41,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTFIGPG-GR&type=purchase",
       "fund_manager": "Nitin Jain",
@@ -781,6 +817,8 @@
     },
     "uti-large-and-mid-cap-fund-reg-g": {
       "name": "UTI Large & Mid Cap Fund-Reg(G)",
+      "ns_score": 8.58,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTITOP100-GR&type=purchase",
       "fund_manager": "V. Srivatsa",
@@ -824,6 +862,8 @@
     },
     "uti-large-cap-fund-reg-g": {
       "name": "UTI Large Cap Fund-Reg(G)",
+      "ns_score": 4,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIMSHARE-GR&type=purchase",
       "fund_manager": "Karthikraj Lakshmanan",
@@ -867,6 +907,8 @@
     },
     "uti-mid-cap-fund-reg-g": {
       "name": "UTI Mid Cap Fund-Reg(G)",
+      "ns_score": 6.76,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIMIDCAP-GR&type=purchase",
       "fund_manager": "Vishal Chopda",
@@ -910,6 +952,8 @@
     },
     "uti-mnc-fund-reg-g": {
       "name": "UTI MNC Fund-Reg(G)",
+      "ns_score": 4.45,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIMNC-GR&type=purchase",
       "fund_manager": "Karthikraj Lakshmanan",
@@ -953,6 +997,8 @@
     },
     "uti-multi-asset-allocation-fund-reg-g": {
       "name": "UTI Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 6.75,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTW2GP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -996,6 +1042,8 @@
     },
     "uti-multi-cap-fund-reg-g": {
       "name": "UTI Multi Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTMAGP-GR&type=purchase",
       "fund_manager": "Karthikraj Lakshmanan",
@@ -1039,6 +1087,8 @@
     },
     "uti-nifty-50-index-fund-reg-g": {
       "name": "UTI Nifty 50 Index Fund-Reg(G)",
+      "ns_score": 4.66,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNIGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1082,6 +1132,8 @@
     },
     "uti-nifty-500-value-50-index-fund-reg-g": {
       "name": "UTI Nifty 500 Value 50 Index Fund-Reg(G)",
+      "ns_score": 3.65,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNVGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1125,6 +1177,8 @@
     },
     "uti-nifty-alpha-low-volatility-30-index-fund-reg-g": {
       "name": "UTI Nifty Alpha Low-Volatility 30 Index Fund-Reg(G)",
+      "ns_score": -0.83,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNAGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1168,6 +1222,8 @@
     },
     "uti-nifty-india-manufacturing-index-fund-reg-g": {
       "name": "UTI Nifty India Manufacturing Index Fund-Reg(G)",
+      "ns_score": 2.22,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNZGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1211,6 +1267,8 @@
     },
     "uti-nifty-midcap-150-index-fund-reg-g": {
       "name": "UTI Nifty Midcap 150 Index Fund-Reg(G)",
+      "ns_score": 0.82,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNRGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1254,6 +1312,8 @@
     },
     "uti-nifty-midcap-150-quality-50-index-fund-reg-g": {
       "name": "UTI Nifty Midcap 150 Quality 50 Index Fund-Reg(G)",
+      "ns_score": 3.35,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTMQGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1297,6 +1357,8 @@
     },
     "uti-nifty-midsmallcap-400-momentum-quality-100-index-fund-reg-g": {
       "name": "UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund-Reg(G)",
+      "ns_score": -0.15,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTMDGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1340,6 +1402,8 @@
     },
     "uti-nifty-next-50-index-fund-reg-g": {
       "name": "UTI Nifty Next 50 Index Fund-Reg(G)",
+      "ns_score": 6.78,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNYGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1383,6 +1447,8 @@
     },
     "uti-nifty200-momentum-30-index-fund-reg-g": {
       "name": "UTI Nifty200 Momentum 30 Index Fund-Reg(G)",
+      "ns_score": 6.57,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNMGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1426,6 +1492,8 @@
     },
     "uti-nifty200-quality-30-index-fund-reg-g": {
       "name": "UTI Nifty200 Quality 30 Index Fund-Reg(G)",
+      "ns_score": -0.97,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNTGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1469,6 +1537,8 @@
     },
     "uti-nifty50-equal-weight-index-fund-reg-g": {
       "name": "UTI NIFTY50 Equal Weight Index Fund-Reg(G)",
+      "ns_score": 0.79,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTNWGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1512,6 +1582,8 @@
     },
     "uti-nifty500-shariah-index-fund-reg-g": {
       "name": "UTI Nifty500 Shariah Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TSSAGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1555,6 +1627,8 @@
     },
     "uti-silver-etf-fof-reg-g": {
       "name": "UTI Silver ETF FoF-Reg(G)",
+      "ns_score": 30.21,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTSEGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
@@ -1598,6 +1672,8 @@
     },
     "uti-small-cap-fund-reg-g": {
       "name": "UTI Small Cap Fund-Reg(G)",
+      "ns_score": 6.88,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTSPGP-GR&type=purchase",
       "fund_manager": "Nitin Jain",
@@ -1641,6 +1717,8 @@
     },
     "uti-transportation-and-logistics-fund-reg-g": {
       "name": "UTI Transportation & Logistics Fund-Reg(G)",
+      "ns_score": 9.97,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTITRNSPRT-GR&type=purchase",
       "fund_manager": "Sachin Trivedi",
@@ -1684,6 +1762,8 @@
     },
     "uti-value-fund-reg-g": {
       "name": "UTI Value Fund-Reg(G)",
+      "ns_score": 6.48,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTIOPRTUNE-GR&type=purchase",
       "fund_manager": "Amit Premchandani",
