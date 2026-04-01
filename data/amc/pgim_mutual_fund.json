@@ -2,11 +2,13 @@
   "meta": {
     "amc": "PGIM Mutual Fund",
     "total_schemes": 16,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "pgim-india-aggressive-hybrid-equity-fund-g": {
       "name": "PGIM India Aggressive Hybrid Equity Fund(G)",
+      "ns_score": 3.37,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRIOGP-GR&type=purchase",
       "fund_manager": "Sharma Vivek",
@@ -50,6 +52,8 @@
     },
     "pgim-india-arbitrage-fund-reg-g": {
       "name": "PGIM India Arbitrage Fund-Reg(G)",
+      "ns_score": 3.27,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DWARGPG-GR&type=purchase",
       "fund_manager": "Chetan Chavan",
@@ -93,6 +97,8 @@
     },
     "pgim-india-balanced-advantage-fund-reg-g": {
       "name": "PGIM India Balanced Advantage Fund-Reg(G)",
+      "ns_score": 3.15,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRBLGP-GR&type=purchase",
       "fund_manager": "Utsav Mehta",
@@ -136,6 +142,8 @@
     },
     "pgim-india-elss-tax-saver-fund-reg-g": {
       "name": "PGIM India ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 3.72,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRTFGP-GR&type=purchase",
       "fund_manager": "Sharma Vivek",
@@ -179,6 +187,8 @@
     },
     "pgim-india-emerging-markets-equity-fof-g": {
       "name": "PGIM India Emerging Markets Equity FoF(G)",
+      "ns_score": 8.27,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DWGTGP-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
@@ -222,6 +232,8 @@
     },
     "pgim-india-equity-savings-fund-g": {
       "name": "PGIM India Equity Savings Fund(G)",
+      "ns_score": 3.18,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DWMARG-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
@@ -265,6 +277,8 @@
     },
     "pgim-india-flexi-cap-fund-reg-g": {
       "name": "PGIM India Flexi Cap Fund-Reg(G)",
+      "ns_score": 4.56,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRDEGP-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
@@ -308,6 +322,8 @@
     },
     "pgim-india-global-equity-opp-fof-g": {
       "name": "PGIM India Global Equity Opp FoF(G)",
+      "ns_score": 5.33,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DWGAGR-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
@@ -351,6 +367,8 @@
     },
     "pgim-india-global-select-real-estate-securities-fof-reg-g": {
       "name": "PGIM India Global Select Real Estate Securities FoF-Reg(G)",
+      "ns_score": 5.97,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRGSGP-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
@@ -394,6 +412,8 @@
     },
     "pgim-india-healthcare-fund-reg-g": {
       "name": "PGIM India Healthcare Fund-Reg(G)",
+      "ns_score": 0.6,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRHCGP-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
@@ -437,6 +457,8 @@
     },
     "pgim-india-large-and-mid-cap-fund-g": {
       "name": "PGIM India Large and Mid Cap Fund(G)",
+      "ns_score": -0.59,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRLMGP-GR&type=purchase",
       "fund_manager": "Vinay Paharia",
@@ -480,6 +502,8 @@
     },
     "pgim-india-large-cap-fund-g": {
       "name": "PGIM India Large Cap Fund(G)",
+      "ns_score": 3.31,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRFEGP-GR&type=purchase",
       "fund_manager": "Anandha Padmanabhan Anjeneyan",
@@ -523,6 +547,8 @@
     },
     "pgim-india-midcap-fund-reg-g": {
       "name": "PGIM India Midcap Fund-Reg(G)",
+      "ns_score": 5.46,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=MOGP-GR&type=purchase",
       "fund_manager": "Sharma Vivek",
@@ -566,6 +592,8 @@
     },
     "pgim-india-multi-asset-allocation-fund-reg-g": {
       "name": "PGIM India Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRMUGP-GR&type=purchase",
       "fund_manager": "Utsav Mehta",
@@ -609,6 +637,8 @@
     },
     "pgim-india-multi-cap-fund-reg-g": {
       "name": "PGIM India Multi Cap Fund-Reg(G)",
+      "ns_score": 0.07,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRMCGP-GR&type=purchase",
       "fund_manager": "Sharma Vivek",
@@ -652,6 +682,8 @@
     },
     "pgim-india-small-cap-fund-reg-g": {
       "name": "PGIM India Small Cap Fund-Reg(G)",
+      "ns_score": 4.16,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PRSCGP-GR&type=purchase",
       "fund_manager": "Utsav Mehta",
