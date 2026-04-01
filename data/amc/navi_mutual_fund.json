@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Navi Mutual Fund",
     "total_schemes": 15,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "navi-aggressive-hybrid-fund-reg-g": {
       "name": "Navi Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 4.67,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESEHGPG-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -50,6 +52,8 @@
     },
     "navi-bse-sensex-index-fund-reg-g": {
       "name": "Navi BSE Sensex Index Fund-Reg(G)",
+      "ns_score": -1.2,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESNSBPG-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -93,6 +97,8 @@
     },
     "navi-elss-tax-saver-fund-reg-g": {
       "name": "Navi ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 4.1,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PLLADP-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -136,6 +142,8 @@
     },
     "navi-elss-tax-saver-nifty-50-index-fund-reg-g": {
       "name": "Navi ELSS Tax Saver Nifty 50 Index Fund-Reg(G)",
+      "ns_score": 2.81,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESETGP-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -179,6 +187,8 @@
     },
     "navi-flexi-cap-fund-reg-g": {
       "name": "Navi Flexi Cap Fund-Reg(G)",
+      "ns_score": 5.35,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESMFGP-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -222,6 +232,8 @@
     },
     "navi-large-and-midcap-fund-reg-g": {
       "name": "Navi Large & Midcap Fund-Reg(G)",
+      "ns_score": 4.64,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PLMCGP-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -265,6 +277,8 @@
     },
     "navi-nasdaq100-us-specific-equity-passive-fof-reg-g": {
       "name": "Navi Nasdaq100 US Specific Equity Passive FOF-Reg(G)",
+      "ns_score": 11.6,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
@@ -308,6 +322,8 @@
     },
     "navi-nifty-50-index-fund-reg-g": {
       "name": "Navi Nifty 50 Index Fund-Reg(G)",
+      "ns_score": 3.19,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESNIGP-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -351,6 +367,8 @@
     },
     "navi-nifty-500-multicap-50-25-25-index-fund-reg-g": {
       "name": "Navi Nifty 500 Multicap 50:25:25 Index Fund-Reg(G)",
+      "ns_score": -0.5,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESMNGPG-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -394,6 +412,8 @@
     },
     "navi-nifty-india-manufacturing-index-fund-reg-g": {
       "name": "Navi Nifty India Manufacturing Index Fund-Reg(G)",
+      "ns_score": 7.49,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PLMIGP-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -437,6 +457,8 @@
     },
     "navi-nifty-midcap-150-index-fund-reg-g": {
       "name": "Navi Nifty Midcap 150 Index Fund-Reg(G)",
+      "ns_score": 6.66,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESNMGP-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -480,6 +502,8 @@
     },
     "navi-nifty-midsmallcap-400-index-fund-reg-g": {
       "name": "Navi Nifty MidSmallcap 400 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESMSGPG-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -523,6 +547,8 @@
     },
     "navi-nifty-next-50-index-fund-reg-g": {
       "name": "Navi Nifty Next 50 Index Fund-Reg(G)",
+      "ns_score": 5.33,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESNNGP-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -566,6 +592,8 @@
     },
     "navi-nifty-smallcap250-momentum-quality-100-index-fund-reg-g": {
       "name": "Navi Nifty Smallcap250 Momentum Quality 100 Index Fund-Reg(G)",
+      "ns_score": -2.55,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ESSMGPG-GR&type=purchase",
       "fund_manager": "Ashutosh Shirwaikar",
@@ -609,6 +637,8 @@
     },
     "navi-total-stock-market-us-specific-equity-passive-fof-reg-g": {
       "name": "Navi Total Stock Market US Specific Equity Passive FoF-Reg(G)",
+      "ns_score": 9.94,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Ashutosh Shirwaikar",
