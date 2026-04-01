@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Sundaram Mutual Fund",
     "total_schemes": 24,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "sundaram-aggressive-hybrid-fund-g": {
       "name": "Sundaram Aggressive Hybrid Fund(G)",
+      "ns_score": 4.58,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUSBGP-GR&type=purchase",
       "fund_manager": "S. Bharath",
@@ -50,6 +52,8 @@
     },
     "sundaram-arbitrage-fund-g": {
       "name": "Sundaram Arbitrage Fund(G)",
+      "ns_score": 3.31,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUABRG-GR&type=purchase",
       "fund_manager": "Rohit Seksaria",
@@ -93,6 +97,8 @@
     },
     "sundaram-balanced-advantage-fund-g": {
       "name": "Sundaram Balanced Advantage Fund(G)",
+      "ns_score": 3.64,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUSAGP-GR&type=purchase",
       "fund_manager": "S. Bharath",
@@ -136,6 +142,8 @@
     },
     "sundaram-business-cycle-fund-reg-g": {
       "name": "Sundaram Business Cycle Fund-Reg(G)",
+      "ns_score": -2.32,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUBUGP-GR&type=purchase",
       "fund_manager": "Madanagopal Ramu",
@@ -179,6 +187,8 @@
     },
     "sundaram-consumption-fund-g": {
       "name": "Sundaram Consumption Fund(G)",
+      "ns_score": 4.55,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SBNP92-GR&type=purchase",
       "fund_manager": "Anuj Bansal",
@@ -222,6 +232,8 @@
     },
     "sundaram-dividend-yield-fund-g": {
       "name": "Sundaram Dividend Yield Fund(G)",
+      "ns_score": 6.09,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUDYGP-GR&type=purchase",
       "fund_manager": "Siddarth Mohta",
@@ -265,6 +277,8 @@
     },
     "sundaram-elss-tax-saver-fund-reg-g": {
       "name": "Sundaram ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 5.6,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUTFGP-GR&type=purchase",
       "fund_manager": "S. Bharath",
@@ -308,6 +322,8 @@
     },
     "sundaram-equity-savings-fund-g": {
       "name": "Sundaram Equity Savings Fund(G)",
+      "ns_score": 4.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUQSGP-GR&type=purchase",
       "fund_manager": "Clyton Richard Fernandes",
@@ -351,6 +367,8 @@
     },
     "sundaram-fin-serv-opp-fund-g": {
       "name": "Sundaram Fin Serv Opp Fund(G)",
+      "ns_score": 6.68,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SBNP98-GR&type=purchase",
       "fund_manager": "Rohit Seksaria",
@@ -394,6 +412,8 @@
     },
     "sundaram-flexi-cap-fund-reg-g": {
       "name": "Sundaram Flexi Cap Fund-Reg(G)",
+      "ns_score": 3.7,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUFCGP-GR&type=purchase",
       "fund_manager": "S. Bharath",
@@ -437,6 +457,8 @@
     },
     "sundaram-focused-fund-g": {
       "name": "Sundaram Focused Fund(G)",
+      "ns_score": 4.86,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SULCGP-GR&type=purchase",
       "fund_manager": "Ashwin Jain",
@@ -480,6 +502,8 @@
     },
     "sundaram-global-brand-theme-equity-active-fof-g": {
       "name": "Sundaram Global Brand Theme - Equity Active FoF(G)",
+      "ns_score": 8.21,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=S94-GR&type=purchase",
       "fund_manager": "Shalav Saket",
@@ -523,6 +547,8 @@
     },
     "sundaram-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Sundaram Income Plus Arbitrage Active FoF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUIPGP-GR&type=purchase",
       "fund_manager": "S. Bharath",
@@ -566,6 +592,8 @@
     },
     "sundaram-infra-advantage-fund-g": {
       "name": "Sundaram Infra Advantage Fund(G)",
+      "ns_score": 9.69,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=82-GR&type=purchase",
       "fund_manager": "Siddarth Mohta",
@@ -609,6 +637,8 @@
     },
     "sundaram-large-and-mid-cap-fund-g": {
       "name": "Sundaram Large and Mid Cap Fund(G)",
+      "ns_score": 6.12,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SEMG-GR&type=purchase",
       "fund_manager": "Madanagopal Ramu",
@@ -652,6 +682,8 @@
     },
     "sundaram-large-cap-fund-reg-g": {
       "name": "Sundaram Large Cap Fund-Reg(G)",
+      "ns_score": 4.3,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUBCGP-GR&type=purchase",
       "fund_manager": "Ashwin Jain",
@@ -695,6 +727,8 @@
     },
     "sundaram-mid-cap-fund-reg-g": {
       "name": "Sundaram Mid Cap Fund-Reg(G)",
+      "ns_score": 9.73,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SBNP04-GR&type=purchase",
       "fund_manager": "S. Bharath",
@@ -738,6 +772,8 @@
     },
     "sundaram-multi-asset-allocation-fund-reg-g": {
       "name": "Sundaram Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 2.36,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUMUGP-GR&type=purchase",
       "fund_manager": "Rohit Seksaria",
@@ -781,6 +817,8 @@
     },
     "sundaram-multi-cap-fund-g": {
       "name": "Sundaram Multi Cap Fund(G)",
+      "ns_score": 6.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUMGGP-GR&type=purchase",
       "fund_manager": "S. Bharath",
@@ -824,6 +862,8 @@
     },
     "sundaram-multi-factor-fund-reg-g": {
       "name": "Sundaram Multi-Factor Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUMLGP-GR&type=purchase",
       "fund_manager": "Rohit Seksaria",
@@ -867,6 +907,8 @@
     },
     "sundaram-nifty-100-equal-weight-fund-g": {
       "name": "Sundaram Nifty 100 Equal Weight Fund(G)",
+      "ns_score": 6.67,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUNHGP-GR&type=purchase",
       "fund_manager": "Rohit Seksaria",
@@ -910,6 +952,8 @@
     },
     "sundaram-services-fund-reg-g": {
       "name": "Sundaram Services Fund-Reg(G)",
+      "ns_score": 6.91,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUSSFRG-GR&type=purchase",
       "fund_manager": "Rohit Seksaria",
@@ -953,6 +997,8 @@
     },
     "sundaram-small-cap-fund-g": {
       "name": "Sundaram Small Cap Fund(G)",
+      "ns_score": 8.14,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SBNP72-GR&type=purchase",
       "fund_manager": "Rohit Seksaria",
@@ -996,6 +1042,8 @@
     },
     "sundaram-value-fund-reg-g": {
       "name": "Sundaram Value Fund-Reg(G)",
+      "ns_score": 4.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SBNP14-GR&type=purchase",
       "fund_manager": "Rohit Seksaria",
