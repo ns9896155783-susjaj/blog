@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Altiva Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:26"
   },
   "schemes": {
     "altiva-hybrid-long-short-fund-reg-g": {
       "name": "Altiva Hybrid Long-Short Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Bhavesh Jain",
