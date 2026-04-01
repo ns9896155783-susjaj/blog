@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Shriram Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "shriram-aggressive-hybrid-fund-reg-g": {
       "name": "Shriram Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 4.12,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SHRI101-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
@@ -50,6 +52,8 @@
     },
     "shriram-balanced-advantage-fund-reg-g": {
       "name": "Shriram Balanced Advantage Fund-Reg(G)",
+      "ns_score": 2.53,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SH107-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
@@ -93,6 +97,8 @@
     },
     "shriram-elss-tax-saver-fund-reg-g": {
       "name": "Shriram ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 3.27,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SUTFGP-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
@@ -136,6 +142,8 @@
     },
     "shriram-flexi-cap-fund-reg-g": {
       "name": "Shriram Flexi Cap Fund-Reg(G)",
+      "ns_score": 3.16,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SH103-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
@@ -179,6 +187,8 @@
     },
     "shriram-multi-asset-allocation-fund-reg-g": {
       "name": "Shriram Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 2.03,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SH109-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
@@ -222,6 +232,8 @@
     },
     "shriram-multi-sector-rotation-fund-reg-g": {
       "name": "Shriram Multi Sector Rotation Fund-Reg(G)",
+      "ns_score": -3.08,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SH110-GR&type=purchase",
       "fund_manager": "Deepak Ramaraju",
