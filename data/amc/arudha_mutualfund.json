@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Arudha MutualFund",
     "total_schemes": 2,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:26"
   },
   "schemes": {
     "arudha-equity-long-short-fund-reg-g": {
       "name": "Arudha Equity Long-Short Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nilesh Saha",
@@ -50,6 +52,8 @@
     },
     "arudha-hybrid-long-short-fund-reg-g": {
       "name": "Arudha Hybrid Long-Short Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Kapil Kankonkar",
