@@ -2,11 +2,13 @@
   "meta": {
     "amc": "360 One Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:26"
   },
   "schemes": {
     "360-one-balanced-hybrid-fund-reg-g": {
       "name": "360 ONE Balanced Hybrid Fund-Reg(G)",
+      "ns_score": 0.19,
+      "stars": "??",
       "amc_list": "360 One Mutual Fund",
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IIIBHRG-GR&type=purchase",
       "fund_manager": "Mayur Patel",
@@ -50,6 +52,8 @@
     },
     "360-one-elss-tax-saver-nifty-50-index-fund-reg-g": {
       "name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund-Reg(G)",
+      "ns_score": 3.11,
+      "stars": "??",
       "amc_list": "Aditya Birla SL Mutual Fund",
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IIITRG-GR&type=purchase",
       "fund_manager": "Ashish Ongari",
@@ -93,6 +97,8 @@
     },
     "360-one-flexicap-fund-reg-g": {
       "name": "360 ONE Flexicap Fund-Reg(G)",
+      "ns_score": -0.69,
+      "stars": "??",
       "amc_list": "Axis Mutual Fund",
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IIIFCRG-GR&type=purchase",
       "fund_manager": "Mayur Patel",
@@ -136,6 +142,8 @@
     },
     "360-one-focused-fund-reg-g": {
       "name": "360 ONE Focused Fund-Reg(G)",
+      "ns_score": 5.42,
+      "stars": "??",
       "amc_list": "Abakkus Mutual Fund",
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IFIGRG-GR&type=purchase",
       "fund_manager": "Mayur Patel",
@@ -179,6 +187,8 @@
     },
     "360-one-multi-asset-allocation-fund-reg-g": {
       "name": "360 ONE Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": "Altiva Mutual Fund",
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IIMAFRG-GR&type=purchase",
       "fund_manager": "Mayur Patel",
@@ -222,6 +232,8 @@
     },
     "360-one-quant-fund-reg-g": {
       "name": "360 ONE Quant Fund-Reg(G)",
+      "ns_score": 6.58,
+      "stars": "??",
       "amc_list": "Angel Mutual Fund",
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IIIQRG-GR&type=purchase",
       "fund_manager": "Ashish Ongari",
