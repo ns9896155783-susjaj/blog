@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Samco Mutual Fund",
     "total_schemes": 12,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "samco-active-momentum-fund-reg-g": {
       "name": "Samco Active Momentum Fund-Reg(G)",
+      "ns_score": -4.04,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAAMRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
@@ -50,6 +52,8 @@
     },
     "samco-arbitrage-fund-reg-g": {
       "name": "Samco Arbitrage Fund-Reg(G)",
+      "ns_score": 0.2,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAARRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
@@ -93,6 +97,8 @@
     },
     "samco-dynamic-asset-allocation-fund-reg-g": {
       "name": "Samco Dynamic Asset Allocation Fund-Reg(G)",
+      "ns_score": -1.52,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SADARG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
@@ -136,6 +142,8 @@
     },
     "samco-elss-tax-saver-fund-reg-g": {
       "name": "Samco ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 0.66,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAELRG-GR&type=purchase",
       "fund_manager": "Nirali Bhansali",
@@ -179,6 +187,8 @@
     },
     "samco-flexi-cap-fund-reg-g": {
       "name": "Samco Flexi Cap Fund-Reg(G)",
+      "ns_score": -0.67,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAFCRG-GR&type=purchase",
       "fund_manager": "Nirali Bhansali",
@@ -222,6 +232,8 @@
     },
     "samco-large-and-mid-cap-fund-reg-g": {
       "name": "Samco Large & Mid Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SALMRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
@@ -265,6 +277,8 @@
     },
     "samco-large-cap-fund-reg-g": {
       "name": "Samco Large Cap Fund-Reg(G)",
+      "ns_score": -3.67,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SALCRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
@@ -308,6 +322,8 @@
     },
     "samco-mid-cap-fund-reg-g": {
       "name": "Samco Mid Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAMIRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
@@ -351,6 +367,8 @@
     },
     "samco-multi-asset-allocation-fund-reg-g": {
       "name": "Samco Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": -1.49,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAMARG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
@@ -394,6 +412,8 @@
     },
     "samco-multi-cap-fund-reg-g": {
       "name": "Samco Multi Cap Fund-Reg(G)",
+      "ns_score": -3.49,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAMCRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
@@ -437,6 +457,8 @@
     },
     "samco-small-cap-fund-reg-g": {
       "name": "Samco Small Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SASCRG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
@@ -480,6 +502,8 @@
     },
     "samco-special-opportunities-fund-reg-g": {
       "name": "Samco Special Opportunities Fund-Reg(G)",
+      "ns_score": -1.59,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SASORG-GR&type=purchase",
       "fund_manager": "Umeshkumar Mehta",
