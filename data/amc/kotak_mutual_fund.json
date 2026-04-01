@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Kotak Mutual Fund",
     "total_schemes": 65,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "kotak-active-momentum-fund-reg-g": {
       "name": "Kotak Active Momentum Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1269-GR&type=purchase",
       "fund_manager": "Rohit Tandon",
@@ -50,6 +52,8 @@
     },
     "kotak-aggressive-hybrid-fund-reg-g": {
       "name": "Kotak Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 6.09,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KM04G-GR&type=purchase",
       "fund_manager": "Atul Bhole",
@@ -93,6 +97,8 @@
     },
     "kotak-arbitrage-fund-g": {
       "name": "Kotak Arbitrage Fund(G)",
+      "ns_score": 3.68,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K179EA-GR&type=purchase",
       "fund_manager": "Hiten Shah",
@@ -136,6 +142,8 @@
     },
     "kotak-balanced-advantage-fund-reg-g": {
       "name": "Kotak Balanced Advantage Fund-Reg(G)",
+      "ns_score": 4.26,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO477-GR&type=purchase",
       "fund_manager": "Rohit Tandon",
@@ -179,6 +187,8 @@
     },
     "kotak-banking-and-financial-services-fund-reg-g": {
       "name": "Kotak Banking & Financial Services Fund-Reg(G)",
+      "ns_score": 4.34,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO286-GR&type=purchase",
       "fund_manager": "Shibani Kurian",
@@ -222,6 +232,8 @@
     },
     "kotak-bse-housing-index-fund-reg-g": {
       "name": "Kotak BSE Housing Index Fund-Reg(G)",
+      "ns_score": -2.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1195-GR&type=purchase",
       "fund_manager": "Satish Dondapat",
@@ -265,6 +277,8 @@
     },
     "kotak-bse-psu-index-fund-reg-g": {
       "name": "Kotak BSE PSU Index Fund-Reg(G)",
+      "ns_score": 2.98,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1231-GR&type=purchase",
       "fund_manager": "Satish Dondapat",
@@ -308,6 +322,8 @@
     },
     "kotak-bse-sensex-index-fund-reg-g": {
       "name": "Kotak BSE Sensex Index Fund-Reg(G)",
+      "ns_score": -1.16,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1251-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -351,6 +367,8 @@
     },
     "kotak-business-cycle-fund-reg-g": {
       "name": "Kotak Business Cycle Fund-Reg(G)",
+      "ns_score": 5.06,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO274-GR&type=purchase",
       "fund_manager": "Harish Bihani",
@@ -394,6 +412,8 @@
     },
     "kotak-consumption-fund-reg-g": {
       "name": "Kotak Consumption Fund-Reg(G)",
+      "ns_score": 0.19,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1201-GR&type=purchase",
       "fund_manager": "Devender Singhal",
@@ -437,6 +457,8 @@
     },
     "kotak-contra-fund-reg-g": {
       "name": "Kotak Contra Fund-Reg(G)",
+      "ns_score": 7.76,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K124C-GR&type=purchase",
       "fund_manager": "Shibani Kurian",
@@ -480,6 +502,8 @@
     },
     "kotak-dividend-yield-fund-reg-g": {
       "name": "Kotak Dividend Yield Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Shibani Kurian",
@@ -523,6 +547,8 @@
     },
     "kotak-elss-tax-saver-fund-g": {
       "name": "Kotak ELSS Tax Saver Fund(G)",
+      "ns_score": 5.65,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K144TS-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
@@ -566,6 +592,8 @@
     },
     "kotak-energy-opportunities-fund-reg-g": {
       "name": "Kotak Energy Opportunities Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1261-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
@@ -609,6 +637,8 @@
     },
     "kotak-equity-savings-fund-g": {
       "name": "Kotak Equity Savings Fund(G)",
+      "ns_score": 5.08,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KM35-GR&type=purchase",
       "fund_manager": "Devender Singhal",
@@ -652,6 +682,8 @@
     },
     "kotak-esg-exclusionary-strategy-fund-reg-g": {
       "name": "Kotak ESG Exclusionary Strategy Fund-Reg(G)",
+      "ns_score": 4.46,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO489-GR&type=purchase",
       "fund_manager": "Mandar Pawar",
@@ -695,6 +727,8 @@
     },
     "kotak-flexicap-fund-g": {
       "name": "Kotak Flexicap Fund(G)",
+      "ns_score": 6.18,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K168SF-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
@@ -738,6 +772,8 @@
     },
     "kotak-focused-fund-reg-g": {
       "name": "Kotak Focused Fund-Reg(G)",
+      "ns_score": 7.02,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO485-GR&type=purchase",
       "fund_manager": "Shibani Kurian",
@@ -781,6 +817,8 @@
     },
     "kotak-global-emerging-market-overseas-equity-omni-fof-g": {
       "name": "Kotak Global Emerging Market Overseas Equity Omni FOF(G)",
+      "ns_score": 10.46,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K143-GR&type=purchase",
       "fund_manager": "Arjun Khanna",
@@ -824,6 +862,8 @@
     },
     "kotak-global-innovation-overseas-equity-omni-fof-reg-g": {
       "name": "Kotak Global Innovation Overseas Equity Omni FOF-Reg(G)",
+      "ns_score": 8.73,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO498-GR&type=purchase",
       "fund_manager": "Arjun Khanna",
@@ -867,6 +907,8 @@
     },
     "kotak-gold-fund-g": {
       "name": "Kotak Gold Fund(G)",
+      "ns_score": 18.91,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K46G-GR&type=purchase",
       "fund_manager": "Abhishek Bisen",
@@ -910,6 +952,8 @@
     },
     "kotak-gold-silver-passive-fof-reg-g": {
       "name": "Kotak Gold Silver Passive FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1275-GR&type=purchase",
       "fund_manager": "Rohit Tandon",
@@ -953,6 +997,8 @@
     },
     "kotak-healthcare-fund-reg-g": {
       "name": "Kotak Healthcare Fund-Reg(G)",
+      "ns_score": 1.19,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1205-GR&type=purchase",
       "fund_manager": "Shibani Kurian",
@@ -996,6 +1042,8 @@
     },
     "kotak-income-plus-arbitrage-omni-fof-reg-g": {
       "name": "Kotak Income Plus Arbitrage Omni FOF-Reg(G)",
+      "ns_score": 3.09,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO280-GR&type=purchase",
       "fund_manager": "Abhishek Bisen",
@@ -1039,6 +1087,8 @@
     },
     "kotak-infra-and-eco-reform-fund-g": {
       "name": "Kotak Infra & Eco Reform Fund(G)",
+      "ns_score": 8.53,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO03G-GR&type=purchase",
       "fund_manager": "Nalin Rasik Bhatt",
@@ -1082,6 +1132,8 @@
     },
     "kotak-international-reit-overseas-equity-omni-fof-reg-g": {
       "name": "Kotak International REIT Overseas Equity Omni FOF-Reg(G)",
+      "ns_score": 3.44,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO491-GR&type=purchase",
       "fund_manager": "Arjun Khanna",
@@ -1125,6 +1177,8 @@
     },
     "kotak-large-and-midcap-fund-g": {
       "name": "Kotak Large & Midcap Fund(G)",
+      "ns_score": 7.53,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K108O-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
@@ -1168,6 +1222,8 @@
     },
     "kotak-large-cap-fund-g": {
       "name": "Kotak Large Cap Fund(G)",
+      "ns_score": 5.4,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K133U-GR&type=purchase",
       "fund_manager": "Rohit Tandon",
@@ -1211,6 +1267,8 @@
     },
     "kotak-manufacture-in-india-fund-reg-g": {
       "name": "Kotak Manufacture in India Fund-Reg(G)",
+      "ns_score": 7.16,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO265-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
@@ -1254,6 +1312,8 @@
     },
     "kotak-midcap-fund-reg-g": {
       "name": "Kotak Midcap Fund-Reg(G)",
+      "ns_score": 8.93,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K123-GR&type=purchase",
       "fund_manager": "Atul Bhole",
@@ -1297,6 +1357,8 @@
     },
     "kotak-mnc-fund-reg-g": {
       "name": "Kotak MNC Fund-Reg(G)",
+      "ns_score": 3.3,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1241-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
@@ -1340,6 +1402,8 @@
     },
     "kotak-multi-asset-active-fof-reg-g": {
       "name": "Kotak Multi Asset Active FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Devender Singhal",
@@ -1383,6 +1447,8 @@
     },
     "kotak-multi-asset-allocation-fund-reg-g": {
       "name": "Kotak Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 5.45,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1197-GR&type=purchase",
       "fund_manager": "Devender Singhal",
@@ -1426,6 +1492,8 @@
     },
     "kotak-multi-asset-omni-fof-g": {
       "name": "Kotak Multi Asset Omni FOF(G)",
+      "ns_score": 8.82,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K107EFOF-GR&type=purchase",
       "fund_manager": "Devender Singhal",
@@ -1469,6 +1537,8 @@
     },
     "kotak-multi-factor-passive-fof-reg-g": {
       "name": "Kotak Multi Factor Passive FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Tandon",
@@ -1512,6 +1582,8 @@
     },
     "kotak-multicap-fund-reg-g": {
       "name": "Kotak Multicap Fund-Reg(G)",
+      "ns_score": 7.21,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1155-GR&type=purchase",
       "fund_manager": "Devender Singhal",
@@ -1555,6 +1627,8 @@
     },
     "kotak-nifty-100-equal-weight-index-fund-reg-g": {
       "name": "Kotak Nifty 100 Equal Weight Index Fund-Reg(G)",
+      "ns_score": -0.04,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1245-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -1598,6 +1672,8 @@
     },
     "kotak-nifty-100-low-volatility-30-index-fund-reg-g": {
       "name": "Kotak NIFTY 100 Low Volatility 30 Index Fund-Reg(G)",
+      "ns_score": -0.31,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1227-GR&type=purchase",
       "fund_manager": "Satish Dondapat",
@@ -1641,6 +1717,8 @@
     },
     "kotak-nifty-200-momentum-30-index-fund-reg-g": {
       "name": "Kotak Nifty 200 Momentum 30 Index Fund-Reg(G)",
+      "ns_score": -0.31,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO295-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -1684,6 +1762,8 @@
     },
     "kotak-nifty-200-quality-30-index-fund-reg-g": {
       "name": "Kotak Nifty 200 Quality 30 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1265-GR&type=purchase",
       "fund_manager": "Satish Dondapat",
@@ -1727,6 +1807,8 @@
     },
     "kotak-nifty-50-equal-weight-index-fund-reg-g": {
       "name": "Kotak Nifty 50 Equal Weight Index Fund-Reg(G)",
+      "ns_score": 0.53,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1247-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -1770,6 +1852,8 @@
     },
     "kotak-nifty-50-index-fund-reg-g": {
       "name": "Kotak Nifty 50 Index Fund-Reg(G)",
+      "ns_score": 3.1,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO496-GR&type=purchase",
       "fund_manager": "Satish Dondapat",
@@ -1813,6 +1897,8 @@
     },
     "kotak-nifty-alpha-50-index-fund-reg-g": {
       "name": "Kotak Nifty Alpha 50 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1271-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -1856,6 +1942,8 @@
     },
     "kotak-nifty-commodities-index-fund-reg-g": {
       "name": "Kotak Nifty Commodities Index Fund-Reg(G)",
+      "ns_score": 2.21,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1255-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -1899,6 +1987,8 @@
     },
     "kotak-nifty-india-tourism-index-fund-reg-g": {
       "name": "Kotak Nifty India Tourism Index Fund-Reg(G)",
+      "ns_score": -5.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1235-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -1942,6 +2032,8 @@
     },
     "kotak-nifty-midcap-150-index-fund-reg-g": {
       "name": "Kotak Nifty Midcap 150 Index Fund-Reg(G)",
+      "ns_score": 0.5,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1233-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -1985,6 +2077,8 @@
     },
     "kotak-nifty-midcap-150-momentum-50-index-fund-reg-g": {
       "name": "Kotak NIFTY Midcap 150 Momentum 50 Index Fund-Reg(G)",
+      "ns_score": -0.06,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1239-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -2028,6 +2122,8 @@
     },
     "kotak-nifty-midcap-50-index-fund-reg-g": {
       "name": "Kotak NIFTY Midcap 50 Index Fund-Reg(G)",
+      "ns_score": 1.15,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1233-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -2071,6 +2167,8 @@
     },
     "kotak-nifty-next-50-index-fund-reg-g": {
       "name": "Kotak Nifty Next 50 Index Fund-Reg(G)",
+      "ns_score": 6.8,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO494-GR&type=purchase",
       "fund_manager": "Satish Dondapat",
@@ -2114,6 +2212,8 @@
     },
     "kotak-nifty-smallcap-250-index-fund-reg-g": {
       "name": "Kotak Nifty Smallcap 250 Index Fund-Reg(G)",
+      "ns_score": -0.9,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1249-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -2157,6 +2257,8 @@
     },
     "kotak-nifty-smallcap-50-index-fund-reg-g": {
       "name": "Kotak Nifty Smallcap 50 Index Fund-Reg(G)",
+      "ns_score": -0.29,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO293-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -2200,6 +2302,8 @@
     },
     "kotak-nifty-top-10-equal-weight-index-fund-reg-g": {
       "name": "Kotak Nifty Top 10 Equal Weight Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1263-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -2243,6 +2347,8 @@
     },
     "kotak-nifty200-value-30-index-fund-reg-g": {
       "name": "Kotak Nifty200 Value 30 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Satish Dondapati",
@@ -2286,6 +2392,8 @@
     },
     "kotak-nifty500-momentum-50-index-fund-reg-g": {
       "name": "Kotak Nifty500 Momentum 50 Index Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1278-GR&type=purchase",
       "fund_manager": "Satish Dondapati",
@@ -2329,6 +2437,8 @@
     },
     "kotak-pioneer-fund-reg-g": {
       "name": "Kotak Pioneer Fund-Reg(G)",
+      "ns_score": 8.59,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO487-GR&type=purchase",
       "fund_manager": "Harish Bihani",
@@ -2372,6 +2482,8 @@
     },
     "kotak-quality-overseas-equity-omni-fof-reg-g": {
       "name": "Kotak Quality Overseas Equity Omni FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Arjun Khanna",
@@ -2415,6 +2527,8 @@
     },
     "kotak-quant-fund-reg-g": {
       "name": "Kotak Quant Fund-Reg(G)",
+      "ns_score": -0.04,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO297-GR&type=purchase",
       "fund_manager": "Harsha Upadhyaya",
@@ -2458,6 +2572,8 @@
     },
     "kotak-rural-opportunities-fund-reg-g": {
       "name": "Kotak Rural Opportunities Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1276-GR&type=purchase",
       "fund_manager": "Arjun Khanna",
@@ -2501,6 +2617,8 @@
     },
     "kotak-services-fund-reg-g": {
       "name": "Kotak Services Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rohit Tandon",
@@ -2544,6 +2662,8 @@
     },
     "kotak-silver-etf-fof-reg-g": {
       "name": "Kotak Silver ETF FoF-Reg(G)",
+      "ns_score": 30.96,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO290-GR&type=purchase",
       "fund_manager": "Jeetu Valechha Sonar",
@@ -2587,6 +2707,8 @@
     },
     "kotak-small-cap-fund-g": {
       "name": "Kotak Small Cap Fund(G)",
+      "ns_score": 5.49,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=K104M-GR&type=purchase",
       "fund_manager": "Harish Bihani",
@@ -2630,6 +2752,8 @@
     },
     "kotak-special-opportunities-fund-reg-g": {
       "name": "Kotak Special Opportunities Fund-Reg(G)",
+      "ns_score": -0.01,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1229-GR&type=purchase",
       "fund_manager": "Devender Singhal",
@@ -2673,6 +2797,8 @@
     },
     "kotak-technology-fund-reg-g": {
       "name": "Kotak Technology Fund-Reg(G)",
+      "ns_score": -3.22,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1215-GR&type=purchase",
       "fund_manager": "Shibani Kurian",
@@ -2716,6 +2842,8 @@
     },
     "kotak-transportation-and-logistics-fund-reg-g": {
       "name": "Kotak Transportation & Logistics Fund-Reg(G)",
+      "ns_score": 2.37,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO1243-GR&type=purchase",
       "fund_manager": "Nalin Rasik Bhatt",
@@ -2759,6 +2887,8 @@
     },
     "kotak-us-specific-equity-passive-fof-reg-g": {
       "name": "Kotak US Specific Equity Passive FOF-Reg(G)",
+      "ns_score": 13.43,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=KO493-GR&type=purchase",
       "fund_manager": "Arjun Khanna",
