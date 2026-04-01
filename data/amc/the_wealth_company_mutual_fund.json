@@ -2,11 +2,13 @@
   "meta": {
     "amc": "The Wealth Company Mutual Fund",
     "total_schemes": 7,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "the-wealth-company-arbitrage-fund-reg-g": {
       "name": "The Wealth Company Arbitrage Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=WEABRG-GR&type=purchase",
       "fund_manager": "Rouhak Shah",
@@ -50,6 +52,8 @@
     },
     "the-wealth-company-balanced-advantage-fund-reg-g": {
       "name": "The Wealth Company Balanced Advantage Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aparna Shanker",
@@ -93,6 +97,8 @@
     },
     "the-wealth-company-ethical-fund-reg-g": {
       "name": "The Wealth Company Ethical Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=WEEFRG-GR&type=purchase",
       "fund_manager": "Aparna Shanker",
@@ -136,6 +142,8 @@
     },
     "the-wealth-company-flexi-cap-fund-reg-g": {
       "name": "The Wealth Company Flexi Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=WEFCRG-GR&type=purchase",
       "fund_manager": "Aparna Shanker",
@@ -179,6 +187,8 @@
     },
     "the-wealth-company-gold-etf-fof-reg-g": {
       "name": "The Wealth Company Gold ETF FOF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=WEGFRG-GR&type=purchase",
       "fund_manager": "Niranjan Das",
@@ -222,6 +232,8 @@
     },
     "the-wealth-company-multi-asset-allocation-fund-reg-g": {
       "name": "The Wealth Company Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=WEMARG-GR&type=purchase",
       "fund_manager": "Aparna Shanker",
@@ -265,6 +277,8 @@
     },
     "the-wealth-company-small-cap-fund-reg-g": {
       "name": "The Wealth Company Small Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Aparna Shanker",
