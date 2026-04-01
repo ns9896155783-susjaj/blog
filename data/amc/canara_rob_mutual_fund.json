@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Canara Rob Mutual Fund",
     "total_schemes": 15,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "canara-rob-balanced-advantage-fund-reg-g": {
       "name": "Canara Rob Balanced Advantage Fund-Reg(G)",
+      "ns_score": -0.55,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CABAGP-GR&type=purchase",
       "fund_manager": "Ennettee Fernandes",
@@ -50,6 +52,8 @@
     },
     "canara-rob-banking-and-financial-services-fund-reg-g": {
       "name": "Canara Rob Banking & Financial Services Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CABFGP-GR&type=purchase",
       "fund_manager": "Shridatta Bhandwaldar",
@@ -93,6 +97,8 @@
     },
     "canara-rob-consumer-trends-fund-reg-g": {
       "name": "Canara Rob Consumer Trends Fund-Reg(G)",
+      "ns_score": 4.94,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CRCFGP-GR&type=purchase",
       "fund_manager": "Ennettee Fernandes",
@@ -136,6 +142,8 @@
     },
     "canara-rob-elss-tax-saver-reg-g": {
       "name": "Canara Rob ELSS Tax Saver-Reg(G)",
+      "ns_score": 5.68,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CRETGP-GR&type=purchase",
       "fund_manager": "Vishal Mishra",
@@ -179,6 +187,8 @@
     },
     "canara-rob-equity-hybrid-fund-reg-g": {
       "name": "Canara Rob Equity Hybrid Fund-Reg(G)",
+      "ns_score": 5.15,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CRGBOE-GR&type=purchase",
       "fund_manager": "Ennettee Fernandes",
@@ -222,6 +232,8 @@
     },
     "canara-rob-flexi-cap-fund-reg-g": {
       "name": "Canara Rob Flexi Cap Fund-Reg(G)",
+      "ns_score": 5.46,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CRDVGP-GR&type=purchase",
       "fund_manager": "Shridatta Bhandwaldar",
@@ -265,6 +277,8 @@
     },
     "canara-rob-focused-fund-reg-g": {
       "name": "Canara Rob Focused Fund-Reg(G)",
+      "ns_score": 4.32,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CAFEGP-GR&type=purchase",
       "fund_manager": "Shridatta Bhandwaldar",
@@ -308,6 +322,8 @@
     },
     "canara-rob-infrastructure-fund-reg-g": {
       "name": "Canara Rob Infrastructure Fund-Reg(G)",
+      "ns_score": 11.29,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CRINGP-GR&type=purchase",
       "fund_manager": "Vishal Mishra",
@@ -351,6 +367,8 @@
     },
     "canara-rob-large-and-mid-cap-fund-reg-g": {
       "name": "Canara Rob Large and Mid Cap Fund-Reg(G)",
+      "ns_score": 5.32,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CREQGP-GR&type=purchase",
       "fund_manager": "Amit Nadekar",
@@ -394,6 +412,8 @@
     },
     "canara-rob-large-cap-fund-reg-g": {
       "name": "Canara Rob Large Cap Fund-Reg(G)",
+      "ns_score": 4.85,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CRLCGP-GR&type=purchase",
       "fund_manager": "Shridatta Bhandwaldar",
@@ -437,6 +457,8 @@
     },
     "canara-rob-manufacturing-fund-reg-g": {
       "name": "Canara Rob Manufacturing Fund-Reg(G)",
+      "ns_score": 1.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CAMNGP-GR&type=purchase",
       "fund_manager": "Pranav Gokhale",
@@ -480,6 +502,8 @@
     },
     "canara-rob-mid-cap-fund-reg-g": {
       "name": "Canara Rob Mid Cap Fund-Reg(G)",
+      "ns_score": 6.15,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CAMDGP-GR&type=purchase",
       "fund_manager": "Pranav Gokhale",
@@ -523,6 +547,8 @@
     },
     "canara-rob-multi-asset-allocation-fund-reg-g": {
       "name": "Canara Rob Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CAMAGP-GR&type=purchase",
       "fund_manager": "Amit Kadam",
@@ -566,6 +592,8 @@
     },
     "canara-rob-multi-cap-fund-reg-g": {
       "name": "Canara Rob Multi Cap Fund-Reg(G)",
+      "ns_score": 0.15,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CAMFGP-GR&type=purchase",
       "fund_manager": "Shridatta Bhandwaldar",
@@ -609,6 +637,8 @@
     },
     "canara-rob-small-cap-fund-reg-g": {
       "name": "Canara Rob Small Cap Fund-Reg(G)",
+      "ns_score": 7.2,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=CASCGP-GR&type=purchase",
       "fund_manager": "Pranav Gokhale",
