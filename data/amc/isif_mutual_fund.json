@@ -2,11 +2,13 @@
   "meta": {
     "amc": "iSIF Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "isif-equity-ex-top-100-long-short-fund-reg-g": {
       "name": "iSIF Equity Ex-Top 100 Long-Short Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Sankaran Naren",
@@ -50,6 +52,8 @@
     },
     "isif-hybrid-long-short-fund-reg-g": {
       "name": "iSIF Hybrid Long-Short Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Rajat Chandak",
