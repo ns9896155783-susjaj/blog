@@ -2,11 +2,13 @@
   "meta": {
     "amc": "ITI Mutual Fund",
     "total_schemes": 14,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "iti-arbitrage-fund-reg-g": {
       "name": "ITI Arbitrage Fund-Reg(G)",
+      "ns_score": 3.39,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITAFGP-GR&type=purchase",
       "fund_manager": "Vikas Nathani",
@@ -50,6 +52,8 @@
     },
     "iti-balanced-advantage-fund-reg-g": {
       "name": "ITI Balanced Advantage Fund-Reg(G)",
+      "ns_score": 3.83,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITBFGP-GR&type=purchase",
       "fund_manager": "Rajesh Bhatia",
@@ -93,6 +97,8 @@
     },
     "iti-banking-and-financial-services-fund-reg-g": {
       "name": "ITI Banking & Financial Services Fund-Reg(G)",
+      "ns_score": 4.12,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITBAGP-GR&type=purchase",
       "fund_manager": "Nilay Dalal",
@@ -136,6 +142,8 @@
     },
     "iti-business-cycle-fund-reg-g": {
       "name": "ITI Business Cycle Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Nilay Dalal",
@@ -179,6 +187,8 @@
     },
     "iti-elss-tax-saver-fund-reg-g": {
       "name": "ITI ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 5.56,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITELGP-GR&type=purchase",
       "fund_manager": "Alok Ranjan",
@@ -222,6 +232,8 @@
     },
     "iti-flexi-cap-fund-reg-g": {
       "name": "ITI Flexi Cap Fund-Reg(G)",
+      "ns_score": 6.2,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITFCGP-GR&type=purchase",
       "fund_manager": "Dhimant Shah",
@@ -265,6 +277,8 @@
     },
     "iti-focused-fund-reg-g": {
       "name": "ITI Focused Fund-Reg(G)",
+      "ns_score": 0.87,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITFEGP-GR&type=purchase",
       "fund_manager": "Dhimant Shah",
@@ -308,6 +322,8 @@
     },
     "iti-large-and-mid-cap-fund-reg-g": {
       "name": "ITI Large & Mid Cap Fund-Reg(G)",
+      "ns_score": -1.65,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITLMGP-GR&type=purchase",
       "fund_manager": "Alok Ranjan",
@@ -351,6 +367,8 @@
     },
     "iti-large-cap-fund-reg-g": {
       "name": "ITI Large Cap Fund-Reg(G)",
+      "ns_score": 3.65,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITLCGP-GR&type=purchase",
       "fund_manager": "Alok Ranjan",
@@ -394,6 +412,8 @@
     },
     "iti-mid-cap-fund-reg-g": {
       "name": "ITI Mid Cap Fund-Reg(G)",
+      "ns_score": 8.48,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITMDGP-GR&type=purchase",
       "fund_manager": "Rohan Korde",
@@ -437,6 +457,8 @@
     },
     "iti-multi-cap-fund-reg-g": {
       "name": "ITI Multi-Cap Fund-Reg(G)",
+      "ns_score": 6.99,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITMCGP-GR&type=purchase",
       "fund_manager": "Dhimant Shah",
@@ -480,6 +502,8 @@
     },
     "iti-pharma-and-healthcare-fund-reg-g": {
       "name": "ITI Pharma & Healthcare Fund-Reg(G)",
+      "ns_score": 5.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITPHGP-GR&type=purchase",
       "fund_manager": "Rohan Korde",
@@ -523,6 +547,8 @@
     },
     "iti-small-cap-fund-reg-g": {
       "name": "ITI Small Cap Fund-Reg(G)",
+      "ns_score": 8.63,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITSCGP-GR&type=purchase",
       "fund_manager": "Dhimant Shah",
@@ -566,6 +592,8 @@
     },
     "iti-value-fund-reg-g": {
       "name": "ITI Value Fund-Reg(G)",
+      "ns_score": 4.69,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITVFGP-GR&type=purchase",
       "fund_manager": "Rohan Korde",
