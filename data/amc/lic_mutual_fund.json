@@ -2,11 +2,13 @@
   "meta": {
     "amc": "LIC Mutual Fund",
     "total_schemes": 25,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "lic-mf-aggressive-hybrid-fund-g": {
       "name": "LIC MF Aggressive Hybrid Fund(G)",
+      "ns_score": 4.28,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCBLGP-GR&type=purchase",
       "fund_manager": "Karan Doshi",
@@ -50,6 +52,8 @@
     },
     "lic-mf-arbitrage-fund-reg-g": {
       "name": "LIC MF Arbitrage Fund-Reg(G)",
+      "ns_score": 3.34,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCAFGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
@@ -93,6 +97,8 @@
     },
     "lic-mf-balanced-advantage-fund-reg-g": {
       "name": "LIC MF Balanced Advantage Fund-Reg(G)",
+      "ns_score": 2.03,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCBAGP-GR&type=purchase",
       "fund_manager": "Yogesh Patil",
@@ -136,6 +142,8 @@
     },
     "lic-mf-banking-and-financial-services-fund-reg-g": {
       "name": "LIC MF Banking & Financial Services Fund-Reg(G)",
+      "ns_score": 5.03,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCBKGP-GR&type=purchase",
       "fund_manager": "Jaiprakash Toshniwal",
@@ -179,6 +187,8 @@
     },
     "lic-mf-bse-sensex-index-fund-reg-g": {
       "name": "LIC MF BSE Sensex Index Fund-Reg(G)",
+      "ns_score": 3.33,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCIFGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
@@ -222,6 +232,8 @@
     },
     "lic-mf-consumption-fund-reg-g": {
       "name": "LIC MF Consumption Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCCNGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
@@ -265,6 +277,8 @@
     },
     "lic-mf-dividend-yield-fund-reg-g": {
       "name": "LIC MF Dividend Yield Fund-Reg(G)",
+      "ns_score": 7.13,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCDYGP-GR&type=purchase",
       "fund_manager": "Dikshit Mittal",
@@ -308,6 +322,8 @@
     },
     "lic-mf-elss-tax-saver-reg-g": {
       "name": "LIC MF ELSS Tax Saver-Reg(G)",
+      "ns_score": 4.33,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCTPGP-GR&type=purchase",
       "fund_manager": "Yogesh Patil",
@@ -351,6 +367,8 @@
     },
     "lic-mf-equity-savings-fund-g": {
       "name": "LIC MF Equity Savings Fund(G)",
+      "ns_score": 3.77,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCIIGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
@@ -394,6 +412,8 @@
     },
     "lic-mf-flexi-cap-fund-reg-g": {
       "name": "LIC MF Flexi Cap Fund-Reg(G)",
+      "ns_score": 5.08,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCEFGP-GR&type=purchase",
       "fund_manager": "Karan Doshi",
@@ -437,6 +457,8 @@
     },
     "lic-mf-focused-fund-reg-g": {
       "name": "LIC MF Focused Fund-Reg(G)",
+      "ns_score": 3.74,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCFEGP-GR&type=purchase",
       "fund_manager": "Jaiprakash Toshniwal",
@@ -480,6 +502,8 @@
     },
     "lic-mf-gold-etf-fof-g": {
       "name": "LIC MF Gold ETF FoF(G)",
+      "ns_score": 18.74,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCIGGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
@@ -523,6 +547,8 @@
     },
     "lic-mf-healthcare-fund-reg-g": {
       "name": "LIC MF Healthcare Fund-Reg(G)",
+      "ns_score": 7.24,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCHCGP-GR&type=purchase",
       "fund_manager": "Karan Doshi",
@@ -566,6 +592,8 @@
     },
     "lic-mf-infra-fund-reg-g": {
       "name": "LIC MF Infra Fund-Reg(G)",
+      "ns_score": 11.55,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCIRGP-GR&type=purchase",
       "fund_manager": "Yogesh Patil",
@@ -609,6 +637,8 @@
     },
     "lic-mf-large-and-midcap-fund-reg-g": {
       "name": "LIC MF Large & Midcap Fund-Reg(G)",
+      "ns_score": 6.05,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCMCGP-GR&type=purchase",
       "fund_manager": "Yogesh Patil",
@@ -652,6 +682,8 @@
     },
     "lic-mf-large-cap-fund-reg-g": {
       "name": "LIC MF Large Cap Fund-Reg(G)",
+      "ns_score": 3.43,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCGFGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
@@ -695,6 +727,8 @@
     },
     "lic-mf-manufacturing-fund-reg-g": {
       "name": "LIC MF Manufacturing Fund-Reg(G)",
+      "ns_score": 2.31,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCMFGP-GR&type=purchase",
       "fund_manager": "Yogesh Patil",
@@ -738,6 +772,8 @@
     },
     "lic-mf-midcap-fund-reg-g": {
       "name": "LIC MF Midcap Fund-Reg(G)",
+      "ns_score": 6.68,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCIMGP-GR&type=purchase",
       "fund_manager": "Karan Doshi",
@@ -781,6 +817,8 @@
     },
     "lic-mf-multi-asset-allocation-fund-reg-g": {
       "name": "LIC MF Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 1.81,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCMAGP-GR&type=purchase",
       "fund_manager": "Jaiprakash Toshniwal",
@@ -824,6 +862,8 @@
     },
     "lic-mf-multi-cap-fund-reg-g": {
       "name": "LIC MF Multi Cap Fund-Reg(G)",
+      "ns_score": 5.5,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCMKGP-GR&type=purchase",
       "fund_manager": "Dikshit Mittal",
@@ -867,6 +907,8 @@
     },
     "lic-mf-nifty-50-index-fund-g": {
       "name": "LIC MF Nifty 50 Index Fund(G)",
+      "ns_score": 4.17,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCINNG-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
@@ -910,6 +952,8 @@
     },
     "lic-mf-nifty-next-50-index-fund-g": {
       "name": "LIC MF Nifty Next 50 Index Fund(G)",
+      "ns_score": 6.68,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCNJGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
@@ -953,6 +997,8 @@
     },
     "lic-mf-small-cap-fund-reg-g": {
       "name": "LIC MF Small Cap Fund-Reg(G)",
+      "ns_score": 6.82,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCSCGP-GR&type=purchase",
       "fund_manager": "Dikshit Mittal",
@@ -996,6 +1042,8 @@
     },
     "lic-mf-technology-fund-reg-g": {
       "name": "LIC MF Technology Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Karan Doshi",
@@ -1039,6 +1087,8 @@
     },
     "lic-mf-value-fund-reg-g": {
       "name": "LIC MF Value Fund-Reg(G)",
+      "ns_score": 6.62,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCLVGP-GR&type=purchase",
       "fund_manager": "Sumit Bhatnagar",
