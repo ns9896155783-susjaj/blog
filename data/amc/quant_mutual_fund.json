@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Quant Mutual Fund",
     "total_schemes": 28,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "quant-aggressive-hybrid-fund-g": {
       "name": "Quant Aggressive Hybrid Fund(G)",
+      "ns_score": 6.25,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUBFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -50,6 +52,8 @@
     },
     "quant-arbitrage-fund-reg-g": {
       "name": "Quant Arbitrage Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUABGP-GR&type=purchase",
       "fund_manager": "Sameer Kate",
@@ -93,6 +97,8 @@
     },
     "quant-bfsi-fund-reg-g": {
       "name": "Quant BFSI Fund-Reg(G)",
+      "ns_score": 4.62,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUBSGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -136,6 +142,8 @@
     },
     "quant-business-cycle-fund-reg-g": {
       "name": "Quant Business Cycle Fund-Reg(G)",
+      "ns_score": -1.79,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUBCGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -179,6 +187,8 @@
     },
     "quant-commodities-fund-reg-g": {
       "name": "Quant Commodities Fund-Reg(G)",
+      "ns_score": -0.89,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUCOGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -222,6 +232,8 @@
     },
     "quant-consumption-fund-reg-g": {
       "name": "Quant Consumption Fund-Reg(G)",
+      "ns_score": -3.63,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUCNGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -265,6 +277,8 @@
     },
     "quant-dynamic-asset-allocation-fund-reg-g": {
       "name": "Quant Dynamic Asset Allocation Fund-Reg(G)",
+      "ns_score": -0.61,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUDAGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -308,6 +322,8 @@
     },
     "quant-elss-tax-saver-fund-g": {
       "name": "Quant ELSS Tax Saver Fund(G)",
+      "ns_score": 7.77,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUTPGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -351,6 +367,8 @@
     },
     "quant-equity-savings-fund-reg-g": {
       "name": "Quant Equity Savings Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QJESGP-GR&type=purchase",
       "fund_manager": "Sanjeev Sharma",
@@ -394,6 +412,8 @@
     },
     "quant-esg-integration-strategy-fund-reg-g": {
       "name": "Quant ESG Integration Strategy Fund-Reg(G)",
+      "ns_score": 7.11,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUEFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -437,6 +457,8 @@
     },
     "quant-flexi-cap-fund-g": {
       "name": "Quant Flexi Cap Fund(G)",
+      "ns_score": 7.6,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUPEGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -480,6 +502,8 @@
     },
     "quant-focused-fund-g": {
       "name": "Quant Focused Fund(G)",
+      "ns_score": 4.44,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QULSGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -523,6 +547,8 @@
     },
     "quant-healthcare-fund-reg-g": {
       "name": "Quant Healthcare Fund-Reg(G)",
+      "ns_score": 0.84,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUHCGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -566,6 +592,8 @@
     },
     "quant-infrastructure-fund-g": {
       "name": "Quant Infrastructure Fund(G)",
+      "ns_score": 7.37,
+      "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUISGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -609,6 +637,8 @@
     },
     "quant-large-and-mid-cap-fund-g": {
       "name": "Quant Large & Mid Cap Fund(G)",
+      "ns_score": 5.96,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUHYGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -652,6 +682,8 @@
     },
     "quant-large-cap-fund-reg-g": {
       "name": "Quant Large Cap Fund-Reg(G)",
+      "ns_score": 3.94,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QULCGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -695,6 +727,8 @@
     },
     "quant-manufacturing-fund-reg-g": {
       "name": "Quant Manufacturing Fund-Reg(G)",
+      "ns_score": -2.08,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUMFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -738,6 +772,8 @@
     },
     "quant-mid-cap-fund-g": {
       "name": "Quant Mid Cap Fund(G)",
+      "ns_score": 6.96,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUOFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -781,6 +817,8 @@
     },
     "quant-momentum-fund-reg-g": {
       "name": "Quant Momentum Fund-Reg(G)",
+      "ns_score": -1.04,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUMOGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -824,6 +862,8 @@
     },
     "quant-multi-asset-allocation-fund-g": {
       "name": "Quant Multi Asset Allocation Fund(G)",
+      "ns_score": 9.78,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUGLGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -867,6 +907,8 @@
     },
     "quant-multi-cap-fund-g": {
       "name": "Quant Multi Cap Fund(G)",
+      "ns_score": 4.75,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUGFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -910,6 +952,8 @@
     },
     "quant-psu-fund-reg-g": {
       "name": "Quant PSU Fund-Reg(G)",
+      "ns_score": -1.96,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUPUGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -953,6 +997,8 @@
     },
     "quant-quantamental-fund-reg-g": {
       "name": "Quant Quantamental Fund-Reg(G)",
+      "ns_score": 5.5,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUQMGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -996,6 +1042,8 @@
     },
     "quant-small-cap-fund-g": {
       "name": "Quant Small Cap Fund(G)",
+      "ns_score": 9.1,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUIBGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -1039,6 +1087,8 @@
     },
     "quant-teck-fund-reg-g": {
       "name": "Quant Teck Fund-Reg(G)",
+      "ns_score": -7.27,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUTKGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -1082,6 +1132,8 @@
     },
     "quant-value-fund-reg-g": {
       "name": "Quant Value Fund-Reg(G)",
+      "ns_score": 6.7,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUVFGP-GR&type=purchase",
       "fund_manager": "Sandeep Tandon",
@@ -1125,6 +1177,8 @@
     },
     "sbi-quant-fund-reg-g": {
       "name": "SBI Quant Fund-Reg(G)",
+      "ns_score": 0.13,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SB694G-GR&type=purchase",
       "fund_manager": "Sukanya Ghosh",
@@ -1168,6 +1222,8 @@
     },
     "uti-quant-fund-reg-g": {
       "name": "UTI Quant Fund-Reg(G)",
+      "ns_score": -0.97,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTFDGP-GR&type=purchase",
       "fund_manager": "Sharwan Kumar Goyal",
