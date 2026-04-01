@@ -2,11 +2,13 @@
   "meta": {
     "amc": "Invesco India Mutual Fund",
     "total_schemes": 28,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "invesco-india-invesco-eqqq-nasdaq-100-etf-fof-reg-g": {
       "name": "Invesco India - Invesco EQQQ NASDAQ-100 ETF FoF-Reg(G)",
+      "ns_score": 11.79,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGEQGP-GR&type=purchase",
       "fund_manager": "Abhisek Bahinipati",
@@ -50,6 +52,8 @@
     },
     "invesco-india-invesco-global-consumer-trends-fof-reg-g": {
       "name": "Invesco India - Invesco Global Consumer Trends FoF-Reg(G)",
+      "ns_score": 6.53,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGGCGP-GR&type=purchase",
       "fund_manager": "Sagar Gandhi",
@@ -93,6 +97,8 @@
     },
     "invesco-india-invesco-global-equity-income-fof-reg-g": {
       "name": "Invesco India - Invesco Global Equity Income FoF-Reg(G)",
+      "ns_score": 10,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=GEGP-GR&type=purchase",
       "fund_manager": "Sagar Gandhi",
@@ -136,6 +142,8 @@
     },
     "invesco-india-invesco-pan-european-equity-fof-reg-g": {
       "name": "Invesco India - Invesco Pan European Equity FoF-Reg(G)",
+      "ns_score": 9.45,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PEGP-GR&type=purchase",
       "fund_manager": "Sagar Gandhi",
@@ -179,6 +187,8 @@
     },
     "invesco-india-aggressive-hybrid-fund-reg-g": {
       "name": "Invesco India Aggressive Hybrid Fund-Reg(G)",
+      "ns_score": 4.27,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGEBGP-GR&type=purchase",
       "fund_manager": "Hiten Jain",
@@ -222,6 +232,8 @@
     },
     "invesco-india-arbitrage-fund-reg-g": {
       "name": "Invesco India Arbitrage Fund-Reg(G)",
+      "ns_score": 3.65,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFAFGP-GR&type=purchase",
       "fund_manager": "Deepak Gupta",
@@ -265,6 +277,8 @@
     },
     "invesco-india-balanced-advantage-fund-reg-g": {
       "name": "Invesco India Balanced Advantage Fund-Reg(G)",
+      "ns_score": 4.1,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFEF-GR&type=purchase",
       "fund_manager": "Amey Sathe",
@@ -308,6 +322,8 @@
     },
     "invesco-india-business-cycle-fund-reg-g": {
       "name": "Invesco India Business Cycle Fund-Reg(G)",
+      "ns_score": 2.29,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGBCGP-GR&type=purchase",
       "fund_manager": "Aditya Khemani",
@@ -351,6 +367,8 @@
     },
     "invesco-india-consumption-fund-reg-g": {
       "name": "Invesco India Consumption Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGCPGP-GR&type=purchase",
       "fund_manager": "Manish Poddar",
@@ -394,6 +412,8 @@
     },
     "invesco-india-contra-fund-reg-g": {
       "name": "Invesco India Contra Fund-Reg(G)",
+      "ns_score": 6.65,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFCF-GR&type=purchase",
       "fund_manager": "Taher Badshah",
@@ -437,6 +457,8 @@
     },
     "invesco-india-elss-tax-saver-fund-reg-g": {
       "name": "Invesco India ELSS Tax Saver Fund-Reg(G)",
+      "ns_score": 4.56,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFTP-GR&type=purchase",
       "fund_manager": "Deepesh Kashyap",
@@ -480,6 +502,8 @@
     },
     "invesco-india-equity-savings-fund-reg-g": {
       "name": "Invesco India Equity Savings Fund-Reg(G)",
+      "ns_score": -1.53,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGESGP-GR&type=purchase",
       "fund_manager": "Amey Sathe",
@@ -523,6 +547,8 @@
     },
     "invesco-india-esg-integration-strategy-fund-reg-g": {
       "name": "Invesco India ESG Integration Strategy Fund-Reg(G)",
+      "ns_score": 2.95,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGEGGP-GR&type=purchase",
       "fund_manager": "Taher Badshah",
@@ -566,6 +592,8 @@
     },
     "invesco-india-financial-services-fund-reg-g": {
       "name": "Invesco India Financial Services Fund-Reg(G)",
+      "ns_score": 8.31,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFBF-GR&type=purchase",
       "fund_manager": "Hiten Jain",
@@ -609,6 +637,8 @@
     },
     "invesco-india-flexi-cap-fund-reg-g": {
       "name": "Invesco India Flexi Cap Fund-Reg(G)",
+      "ns_score": 5.04,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGF9GP-GR&type=purchase",
       "fund_manager": "Taher Badshah",
@@ -652,6 +682,8 @@
     },
     "invesco-india-focused-fund-reg-g": {
       "name": "Invesco India Focused Fund-Reg(G)",
+      "ns_score": 6.61,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGIFGP-GR&type=purchase",
       "fund_manager": "Taher Badshah",
@@ -695,6 +727,8 @@
     },
     "invesco-india-gold-etf-fof-reg-g": {
       "name": "Invesco India Gold ETF FoF-Reg(G)",
+      "ns_score": 18.57,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGGF-GR&type=purchase",
       "fund_manager": "Abhisek Bahinipati",
@@ -738,6 +772,8 @@
     },
     "invesco-india-income-plus-arbitrage-active-fof-reg-g": {
       "name": "Invesco India Income Plus Arbitrage Active FoF-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGAPGP-GR&type=purchase",
       "fund_manager": "Vikas Garg",
@@ -781,6 +817,8 @@
     },
     "invesco-india-infrastructure-fund-reg-g": {
       "name": "Invesco India Infrastructure Fund-Reg(G)",
+      "ns_score": 8.59,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFISGP-GR&type=purchase",
       "fund_manager": "Sagar Gandhi",
@@ -824,6 +862,8 @@
     },
     "invesco-india-large-and-mid-cap-fund-reg-g": {
       "name": "Invesco India Large & Mid Cap Fund-Reg(G)",
+      "ns_score": 8.69,
+      "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFGF-GR&type=purchase",
       "fund_manager": "Aditya Khemani",
@@ -867,6 +907,8 @@
     },
     "invesco-india-largecap-fund-reg-g": {
       "name": "Invesco India Largecap Fund-Reg(G)",
+      "ns_score": 6.16,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFBL-GR&type=purchase",
       "fund_manager": "Hiten Jain",
@@ -910,6 +952,8 @@
     },
     "invesco-india-manufacturing-fund-reg-g": {
       "name": "Invesco India Manufacturing Fund-Reg(G)",
+      "ns_score": 0.05,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGMGGP-GR&type=purchase",
       "fund_manager": "Nikhil Kale",
@@ -953,6 +997,8 @@
     },
     "invesco-india-midcap-fund-reg-g": {
       "name": "Invesco India Midcap Fund-Reg(G)",
+      "ns_score": 10.41,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFMCGP-GR&type=purchase",
       "fund_manager": "Aditya Khemani",
@@ -996,6 +1042,8 @@
     },
     "invesco-india-multi-asset-allocation-fund-reg-g": {
       "name": "Invesco India Multi Asset Allocation Fund-Reg(G)",
+      "ns_score": 4.26,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGMLGP-GR&type=purchase",
       "fund_manager": "Taher Badshah",
@@ -1039,6 +1087,8 @@
     },
     "invesco-india-multicap-fund-reg-g": {
       "name": "Invesco India Multicap Fund-Reg(G)",
+      "ns_score": 5.19,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFMSGR-GR&type=purchase",
       "fund_manager": "Taher Badshah",
@@ -1082,6 +1132,8 @@
     },
     "invesco-india-psu-equity-fund-reg-g": {
       "name": "Invesco India PSU Equity Fund-Reg(G)",
+      "ns_score": 12.33,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGFPS-GR&type=purchase",
       "fund_manager": "Sagar Gandhi",
@@ -1125,6 +1177,8 @@
     },
     "invesco-india-smallcap-fund-reg-g": {
       "name": "Invesco India Smallcap Fund-Reg(G)",
+      "ns_score": 10,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGSCGP-GR&type=purchase",
       "fund_manager": "Taher Badshah",
@@ -1168,6 +1222,8 @@
     },
     "invesco-india-technology-fund-reg-g": {
       "name": "Invesco India Technology Fund-Reg(G)",
+      "ns_score": -1.8,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=RGTFGP-GR&type=purchase",
       "fund_manager": "Hiten Jain",
