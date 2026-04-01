@@ -2,11 +2,13 @@
   "meta": {
     "amc": "TRUSTMF Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-04-01 15:09"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "trustmf-arbitrage-fund-reg-g": {
       "name": "TRUSTMF Arbitrage Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTAFRG-GR&type=purchase",
       "fund_manager": "Mihir Vora",
@@ -50,6 +52,8 @@
     },
     "trustmf-flexi-cap-fund-reg-g": {
       "name": "TRUSTMF Flexi Cap Fund-Reg(G)",
+      "ns_score": -0.82,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TSFCRG-GR&type=purchase",
       "fund_manager": "Mihir Vora",
@@ -93,6 +97,8 @@
     },
     "trustmf-mid-cap-fund-reg-g": {
       "name": "TRUSTMF Mid Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": null,
       "fund_manager": "Mihir Vora",
@@ -136,6 +142,8 @@
     },
     "trustmf-multi-cap-fund-reg-g": {
       "name": "TRUSTMF Multi Cap Fund-Reg(G)",
+      "ns_score": 0,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTMCRG-GR&type=purchase",
       "fund_manager": "Mihir Vora",
@@ -179,6 +187,8 @@
     },
     "trustmf-small-cap-fund-reg-g": {
       "name": "TRUSTMF Small Cap Fund-Reg(G)",
+      "ns_score": 1.88,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=TSSCRG-GR&type=purchase",
       "fund_manager": "Mihir Vora",
