@@ -2,11 +2,13 @@
   "meta": {
     "amc": "BHARAT Bond Mutual Fund",
     "total_schemes": 8,
-    "last_updated": "2026-04-01 15:08"
+    "last_updated": "2026-04-01 15:27"
   },
   "schemes": {
     "bharat-bond-etf-fof-april-2032-reg-g": {
       "name": "BHARAT Bond ETF FOF - April 2032 -Reg(G)",
+      "ns_score": 2.83,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDO2RG-GR&type=purchase",
       "fund_manager": "Hetul Raval",
@@ -50,6 +52,8 @@
     },
     "bharat-bond-etf-fof-april-2033-reg-g": {
       "name": "BHARAT Bond ETF FOF - April 2033 -Reg(G)",
+      "ns_score": 2.91,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDO3RG-GR&type=purchase",
       "fund_manager": "Hetul Raval",
@@ -93,6 +97,8 @@
     },
     "bharat-bond-fof-april-2030-reg-g": {
       "name": "BHARAT Bond FOF - April 2030 -Reg(G)",
+      "ns_score": 3.75,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDFTRG-GR&type=purchase",
       "fund_manager": "Hetul Raval",
@@ -136,6 +142,8 @@
     },
     "bharat-bond-fof-april-2031-reg-g": {
       "name": "BHARAT Bond FOF - April 2031 -Reg(G)",
+      "ns_score": 3.61,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDO1RG-GR&type=purchase",
       "fund_manager": "Hetul Raval",
@@ -179,6 +187,8 @@
     },
     "icici-pru-bharat-22-fof-g": {
       "name": "ICICI Pru Bharat 22 FOF-(G)",
+      "ns_score": 12.91,
+      "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC5004-GR&type=purchase",
       "fund_manager": "Nishit Patel",
@@ -222,6 +232,8 @@
     },
     "icici-pru-bharat-consumption-fund-reg-g": {
       "name": "ICICI Pru Bharat Consumption Fund-Reg(G)",
+      "ns_score": 5.52,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=IC3349-GR&type=purchase",
       "fund_manager": "Priyanka Khandelwal",
@@ -265,6 +277,8 @@
     },
     "iti-bharat-consumption-fund-reg-g": {
       "name": "ITI Bharat Consumption Fund-Reg(G)",
+      "ns_score": -0.78,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=ITCFGP-GR&type=purchase",
       "fund_manager": "Rohan Korde",
@@ -308,6 +322,8 @@
     },
     "woc-digital-bharat-fund-reg-g": {
       "name": "WOC Digital Bharat Fund-Reg(G)",
+      "ns_score": -2.11,
+      "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE113G-GR&type=purchase",
       "fund_manager": "Ramesh Mantri",
