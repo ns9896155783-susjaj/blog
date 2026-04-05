@@ -848,11 +848,11 @@
     "scheme_key": "bharat-bond-fof-april-2031-reg-g"
   },
   "canara-rob-balanced-advantage-fund-review-what-the-performance-data-indicates/": {
-    "amc": "canara_robeco_mutual_fund",
+    "amc": "canara_rob_mutual_fund",
     "scheme_key": "canara-rob-balanced-advantage-fund-reg-g"
   },
   "canara-robeco-equity-hybrid-fund-review-what-the-performance-data-indicates": {
-    "amc": "canara_robeco_mutual_fund",
+    "amc": "canara_rob_mutual_fund",
     "scheme_key": "canara-rob-equity-hybrid-fund-reg-g"
   },
   "capitalmind-flexi-cap-fund-review-what-the-performance-data-indicates": {
