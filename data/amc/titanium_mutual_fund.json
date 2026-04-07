@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Titanium Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-04-07 06:46"
+    "last_updated": "2026-04-07 09:38"
   },
   "schemes": {
     "titanium-hybrid-long-short-fund-reg-g": {
@@ -39,9 +39,9 @@
       "mid_cap_": 9.3,
       "small_cap_": 5.31,
       "highest_sector": "Financials",
-      "avg_maturity_in_yrs_": 1.05,
-      "mod_duration_in_yrs_": 1.38,
-      "yield_to_maturity_": 6.88,
+      "avg_maturity_in_yrs_": 0.77,
+      "mod_duration_in_yrs_": 0.66,
+      "yield_to_maturity_": 6.04,
       "alpha": null,
       "sharpe": null,
       "sortino": null,
