@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Magnum Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-04-09 06:45"
+    "last_updated": "2026-04-09 09:15"
   },
   "schemes": {
     "magnum-hybrid-long-short-fund-reg-g": {
@@ -14,12 +14,12 @@
       "fund_manager": "Gaurav Mehta",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
-      "aum_in_rs_cr_": 3314.6,
+      "aum_in_rs_cr_": 3390.8,
       "expenseratio_": 1.19,
       "fund_type": "Open Ended",
       "inception_date": "2025-10-22T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-      "nav": 10,
+      "nav": 10.08,
       "52_weekhigh_nav_": 10.25,
       "52_weeklow_nav_": 9.96,
       "return_1_mo": null,
@@ -34,10 +34,10 @@
       "pb_ratio": 3.08,
       "turnover_ratio_": 0,
       "no_ofstocks": 34,
-      "avg_market_cap_in_rs_cr_": 238668,
-      "large_cap_": 56.81,
-      "mid_cap_": 6.26,
-      "small_cap_": 2.31,
+      "avg_market_cap_in_rs_cr_": 225374,
+      "large_cap_": 61.46,
+      "mid_cap_": 4.46,
+      "small_cap_": 3.59,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 2.03,
       "mod_duration_in_yrs_": 1.76,
