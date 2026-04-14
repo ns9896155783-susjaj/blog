@@ -691,9 +691,9 @@
     "amc": "bank_of_india_mutual_fund",
     "scheme_key": "bank-of-india-large-cap-fund-reg-g"
   },
-  "Not Found": {
-    "amc": "qsif",
-    "scheme_key": "qsif-hybrid-long-short-fund-reg-g"
+  "bank-of-india-manufacturing-infra-fund-review-a-practical-look-at-returns-risk": {
+    "amc": "bank_of_india_mutual_fund",
+    "scheme_key": "bank-of-india-mfg-and-infra-fund-reg-g"
   },
   "bank-of-india-mid-small-cap-equity-debt-fund-review-a-practical-look-at-returns-risk": {
     "amc": "bank_of_india_mutual_fund",
@@ -730,6 +730,10 @@
   "baroda-bnp-paribas-balanced-advantage-fund-review-what-the-performance-data-indicates": {
     "amc": "baroda_bnp_paribas_mutual_fund",
     "scheme_key": "baroda-bnp-paribas-balanced-advantage-fund-reg-g"
+  },
+  "Not Found": {
+    "amc": "qsif",
+    "scheme_key": "qsif-hybrid-long-short-fund-reg-g"
   },
   "baroda-bnp-paribas-business-conglomerates-fund-review-what-the-performance-data-indicates": {
     "amc": "baroda_bnp_paribas_mutual_fund",
