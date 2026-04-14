@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Altiva Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-04-13 06:45"
+    "last_updated": "2026-04-14 06:45"
   },
   "schemes": {
     "altiva-hybrid-long-short-fund-reg-g": {
@@ -14,13 +14,13 @@
       "fund_manager": "Bhavesh Jain",
       "category": "HY-EQ",
       "rupeevestrating": "Unrated",
-      "aum_in_rs_cr_": 2704.2,
+      "aum_in_rs_cr_": 3216.1,
       "expenseratio_": 1.67,
       "fund_type": "Open Ended",
       "inception_date": "2025-10-19T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-      "nav": 10.38,
-      "52_weekhigh_nav_": 10.38,
+      "nav": 10.4,
+      "52_weekhigh_nav_": 10.4,
       "52_weeklow_nav_": 10,
       "return_1_mo": null,
       "return_3_mo": null,
@@ -30,25 +30,25 @@
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
-      "pe_ratio": 22.68,
-      "pb_ratio": 2.99,
+      "pe_ratio": 19.81,
+      "pb_ratio": 2.58,
       "turnover_ratio_": 0,
-      "no_ofstocks": 64,
-      "avg_market_cap_in_rs_cr_": 78703,
-      "large_cap_": 17.76,
-      "mid_cap_": 11.53,
-      "small_cap_": 4.21,
+      "no_ofstocks": 62,
+      "avg_market_cap_in_rs_cr_": 118208,
+      "large_cap_": 20.98,
+      "mid_cap_": 10.41,
+      "small_cap_": 5.45,
       "highest_sector": "Financials",
-      "avg_maturity_in_yrs_": 2.26,
-      "mod_duration_in_yrs_": 1.96,
-      "yield_to_maturity_": 7.76,
+      "avg_maturity_in_yrs_": 2.04,
+      "mod_duration_in_yrs_": 1.79,
+      "yield_to_maturity_": 8.13,
       "alpha": null,
       "sharpe": null,
       "sortino": null,
       "beta": null,
       "standard_deviation": null,
       "classification": "Hybrid : Equity Oriented",
-      "exit_load_remarks": "0.50% on or before 180D Nil after 180D"
+      "exit_load_remarks": "0.50% on or before 90D Nil after 90D"
     }
   }
 }
