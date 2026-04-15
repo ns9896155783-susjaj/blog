@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Navi Mutual Fund",
     "total_schemes": 15,
-    "last_updated": "2026-04-14 06:45"
+    "last_updated": "2026-04-15 06:45"
   },
   "schemes": {
     "navi-aggressive-hybrid-fund-reg-g": {
@@ -119,7 +119,7 @@
       "return_2_yrs": 1.75,
       "return_3_yrs": 10.89,
       "return_5_yrs": 9.54,
-      "return_10_yrs": 10.81,
+      "return_10_yrs": 10.75,
       "pe_ratio": 22.8,
       "pb_ratio": 3.03,
       "turnover_ratio_": 15,
@@ -254,7 +254,7 @@
       "return_2_yrs": 4.92,
       "return_3_yrs": 12.43,
       "return_5_yrs": 11.69,
-      "return_10_yrs": 13.04,
+      "return_10_yrs": 12.98,
       "pe_ratio": 21.57,
       "pb_ratio": 3.01,
       "turnover_ratio_": 66,
@@ -314,7 +314,7 @@
       "yield_to_maturity_": null,
       "alpha": 0.39,
       "sharpe": 0.38,
-      "sortino": 0.71,
+      "sortino": 0.7,
       "beta": 0.98,
       "standard_deviation": 16.71,
       "classification": "FoFs : Overseas",
@@ -672,7 +672,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 1.29,
+      "alpha": 1.28,
       "sharpe": 0.38,
       "sortino": 0.68,
       "beta": 0.33,
