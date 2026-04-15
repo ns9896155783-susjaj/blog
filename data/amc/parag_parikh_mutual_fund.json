@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Parag Parikh Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-04-14 06:45"
+    "last_updated": "2026-04-15 06:45"
   },
   "schemes": {
     "parag-parikh-arbitrage-fund-reg-g": {
@@ -20,7 +20,7 @@
       "inception_date": "2023-11-01T18:30:00.000Z",
       "benchmark_index": "Nifty 50 Arbitrage - TRI",
       "nav": 11.74,
-      "52_weekhigh_nav_": 11.73,
+      "52_weekhigh_nav_": 11.74,
       "52_weeklow_nav_": 11.08,
       "return_1_mo": 0.64,
       "return_3_mo": 1.59,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2024-02-26T18:30:00.000Z",
       "benchmark_index": "CRISIL Hybrid 50+50 - Moderate Index",
-      "nav": 11.57,
+      "nav": 11.55,
       "52_weekhigh_nav_": 11.66,
       "52_weeklow_nav_": 11.14,
       "return_1_mo": 0.08,
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2019-07-23T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 29.75,
+      "nav": 29.55,
       "52_weekhigh_nav_": 32.68,
       "52_weeklow_nav_": 27.72,
       "return_1_mo": 0.14,
@@ -142,7 +142,7 @@
     },
     "parag-parikh-flexi-cap-fund-reg-g": {
       "name": "Parag Parikh Flexi Cap Fund-Reg(G)",
-      "ns_score": 8.48,
+      "ns_score": 8.47,
       "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PP001RG-GR&type=purchase",
@@ -164,7 +164,7 @@
       "return_2_yrs": 7.48,
       "return_3_yrs": 17.79,
       "return_5_yrs": 15.77,
-      "return_10_yrs": 17.35,
+      "return_10_yrs": 17.34,
       "pe_ratio": 15.71,
       "pb_ratio": 2.71,
       "turnover_ratio_": 46.5,
@@ -178,7 +178,7 @@
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
       "alpha": 0.43,
-      "sharpe": 0.35,
+      "sharpe": 0.34,
       "sortino": 0.72,
       "beta": 0.63,
       "standard_deviation": 9.09,
@@ -199,7 +199,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-02-03T18:30:00.000Z",
       "benchmark_index": "NIFTY 100 - TRI",
-      "nav": 9.43,
+      "nav": 9.36,
       "52_weekhigh_nav_": 10.11,
       "52_weeklow_nav_": 8.71,
       "return_1_mo": -0.61,
