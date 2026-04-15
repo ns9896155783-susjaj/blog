@@ -931,6 +931,10 @@
     "amc": "dsp_mutual_fund",
     "scheme_key": "dsp-india-t-i-g-e-r-fund-reg-g"
   },
+  "dsp-large-and-mid-cap-fund-review-performance-risk-investor-relevance": {
+    "amc": "dsp_mutual_fund",
+    "scheme_key": "dsp-large-and-mid-cap-fund-reg-g"
+  },
   "dsp-large-cap-fund-review-performance-risk-investor-relevance": {
     "amc": "dsp_mutual_fund",
     "scheme_key": "dsp-large-cap-fund-reg-g"
