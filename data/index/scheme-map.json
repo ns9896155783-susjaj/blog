@@ -951,6 +951,10 @@
     "amc": "dsp_mutual_fund",
     "scheme_key": "dsp-multicap-fund-reg-g"
   },
+  "dsp-natural-resources-and-new-energy-fund-review-evaluating-performance-risk": {
+    "amc": "dsp_mutual_fund",
+    "scheme_key": "dsp-natural-res-and-new-energy-fund-reg-g"
+  },
   "dsp-nifty-50-equal-weight-index-fund-review-evaluating-performance-risk": {
     "amc": "dsp_mutual_fund",
     "scheme_key": "dsp-nifty-50-equal-weight-index-fund-reg-g"
@@ -984,7 +988,7 @@
     "scheme_key": "dsp-nifty-next-50-index-fund-reg-g"
   },
   "dsp-nifty-private-bank-index-fund-review-evaluating-performance-risk": {
-    "amc": "bank_of_india_mutual_fund",
+    "amc": "dsp_mutual_fund",
     "scheme_key": "dsp-nifty-private-bank-index-fund-reg-g"
   },
   "dsp-nifty-smallcap-250-index-fund-review-evaluating-performance-risk": {
