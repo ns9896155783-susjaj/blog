@@ -875,6 +875,10 @@
     "amc": "dsp_mutual_fund",
     "scheme_key": "dsp-arbitrage-fund-reg-g"
   },
+  "dsp-banking-and-financial-services-fund-review-performance-risk-investor-relevance": {
+    "amc": "dsp_mutual_fund",
+    "scheme_key": "dsp-banking-and-financial-services-fund-reg-g"
+  },
   "dsp-bse-sensex-next-30-index-fund-review-performance-risk-investor-relevance": {
     "amc": "dsp_mutual_fund",
     "scheme_key": "dsp-bse-sensex-next-30-index-fund-reg-g"
