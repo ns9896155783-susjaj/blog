@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Quantum Mutual Fund",
     "total_schemes": 10,
-    "last_updated": "2026-04-14 06:45"
+    "last_updated": "2026-04-15 06:45"
   },
   "schemes": {
     "quantum-diversified-equity-all-cap-active-fof-reg-g": {
@@ -29,7 +29,7 @@
       "return_2_yrs": 5.09,
       "return_3_yrs": 15.44,
       "return_5_yrs": 12.37,
-      "return_10_yrs": 12.94,
+      "return_10_yrs": 12.87,
       "pe_ratio": null,
       "pb_ratio": null,
       "turnover_ratio_": 8.43,
@@ -74,7 +74,7 @@
       "return_2_yrs": 2.99,
       "return_3_yrs": 14.65,
       "return_5_yrs": 11.89,
-      "return_10_yrs": 11.85,
+      "return_10_yrs": 11.73,
       "pe_ratio": 18.36,
       "pb_ratio": 2.32,
       "turnover_ratio_": 12.61,
@@ -209,7 +209,7 @@
       "return_2_yrs": 42.61,
       "return_3_yrs": 33.75,
       "return_5_yrs": 24.81,
-      "return_10_yrs": 16.48,
+      "return_10_yrs": 16.43,
       "pe_ratio": null,
       "pb_ratio": null,
       "turnover_ratio_": 9.27,
@@ -224,8 +224,8 @@
       "yield_to_maturity_": null,
       "alpha": 2.1,
       "sharpe": 0.44,
-      "sortino": 1.14,
-      "beta": 0.17,
+      "sortino": 1.13,
+      "beta": 0.15,
       "standard_deviation": 16.43,
       "classification": "Gold : MFs",
       "exit_load_remarks": "Nil"
@@ -254,7 +254,7 @@
       "return_2_yrs": 9.6,
       "return_3_yrs": 12.53,
       "return_5_yrs": 10.13,
-      "return_10_yrs": 9.78,
+      "return_10_yrs": 9.73,
       "pe_ratio": null,
       "pb_ratio": null,
       "turnover_ratio_": 28.52,
@@ -434,7 +434,7 @@
       "return_2_yrs": 3.05,
       "return_3_yrs": 14.79,
       "return_5_yrs": 11.89,
-      "return_10_yrs": 11.8,
+      "return_10_yrs": 11.67,
       "pe_ratio": 18.35,
       "pb_ratio": 2.32,
       "turnover_ratio_": 15.11,
