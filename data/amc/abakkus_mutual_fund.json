@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Abakkus Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-04-16 06:45"
+    "last_updated": "2026-04-16 11:30"
   },
   "schemes": {
     "abakkus-flexi-cap-fund-reg-g": {
@@ -22,8 +22,8 @@
       "nav": 9.85,
       "52_weekhigh_nav_": 10.19,
       "52_weeklow_nav_": 9.08,
-      "return_1_mo": 1.83,
-      "return_3_mo": -0.55,
+      "return_1_mo": 5.21,
+      "return_3_mo": -0.77,
       "return_6_mo": null,
       "return_1_yr": null,
       "return_2_yrs": null,
