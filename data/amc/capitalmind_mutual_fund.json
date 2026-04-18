@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Capitalmind Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-04-18 06:45"
+    "last_updated": "2026-04-18 09:30"
   },
   "schemes": {
     "capitalmind-arbitrage-fund-reg-g": {
@@ -22,7 +22,7 @@
       "nav": 10.05,
       "52_weekhigh_nav_": 10.05,
       "52_weeklow_nav_": 10,
-      "return_1_mo": null,
+      "return_1_mo": 0.55,
       "return_3_mo": null,
       "return_6_mo": null,
       "return_1_yr": null,
@@ -67,9 +67,9 @@
       "nav": 9.91,
       "52_weekhigh_nav_": 10.35,
       "52_weeklow_nav_": 9.39,
-      "return_1_mo": 1.69,
-      "return_3_mo": -3.41,
-      "return_6_mo": -1.29,
+      "return_1_mo": 2.76,
+      "return_3_mo": -3.27,
+      "return_6_mo": -1.2,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
@@ -112,7 +112,7 @@
       "nav": 10.22,
       "52_weekhigh_nav_": 10.2,
       "52_weeklow_nav_": 9.95,
-      "return_1_mo": null,
+      "return_1_mo": 2.16,
       "return_3_mo": null,
       "return_6_mo": null,
       "return_1_yr": null,
@@ -125,8 +125,8 @@
       "turnover_ratio_": 4,
       "no_ofstocks": 25,
       "avg_market_cap_in_rs_cr_": 185957,
-      "large_cap_": 28.72,
-      "mid_cap_": 9.27,
+      "large_cap_": 30.96,
+      "mid_cap_": 7.02,
       "small_cap_": null,
       "highest_sector": "Energy",
       "avg_maturity_in_yrs_": 0.18,
