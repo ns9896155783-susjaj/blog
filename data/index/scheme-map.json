@@ -1235,6 +1235,10 @@
     "amc": "franklin_mutual_fund",
     "scheme_key": "franklin-india-income-plus-arbitrage-active-fof-g"
   },
+  "franklin-india-large-and-mid-cap-fund-review-what-the-performance-data-indicates": {
+    "amc": "franklin_mutual_fund",
+    "scheme_key": "franklin-india-large-and-mid-cap-fund-g"
+  },
   "franklin-india-large-cap-fund-review-what-the-performance-data-indicates": {
     "amc": "franklin_mutual_fund",
     "scheme_key": "franklin-india-large-cap-fund-g"
