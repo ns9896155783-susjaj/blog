@@ -1275,6 +1275,10 @@
     "amc": "franklin_mutual_fund",
     "scheme_key": "franklin-india-technology-fund-g"
   },
+  "franklin-india-u-s-opportunities-equity-active-fof-review-what-the-performance-data-indicates": {
+    "amc": "franklin_mutual_fund",
+    "scheme_key": "franklin-u-s-opportunities-equity-active-fof-g"
+  },
   "groww-aggressive-hybrid-fund-review-performance-risk-investor-relevance": {
     "amc": "groww_mutual_fund",
     "scheme_key": "groww-aggressive-hybrid-fund-reg-g"
