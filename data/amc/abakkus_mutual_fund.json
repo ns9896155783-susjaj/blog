@@ -2,14 +2,14 @@
   "meta": {
     "amc": "Abakkus Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-04-17 06:45"
+    "last_updated": "2026-04-18 06:45"
   },
   "schemes": {
     "abakkus-flexi-cap-fund-reg-g": {
       "name": "Abakkus Flexi Cap Fund-Reg(G)",
       "ns_score": 0,
       "stars": "??",
-      "amc_list": "Arudha MutualFund",
+      "amc_list": "Angel Mutual Fund",
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AKFCRG-GR&type=purchase",
       "fund_manager": "Abhishek Srinivas",
       "category": "EQ-FLEX",
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-12-28T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 9.85,
+      "nav": 10.07,
       "52_weekhigh_nav_": 10.19,
       "52_weeklow_nav_": 9.08,
       "return_1_mo": 5.21,
@@ -54,7 +54,7 @@
       "name": "Abakkus Small Cap Fund-Reg(G)",
       "ns_score": 0,
       "stars": "??",
-      "amc_list": "Bajaj Finserv Mutual Fund",
+      "amc_list": "Arudha MutualFund",
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AKSCRG-GR&type=purchase",
       "fund_manager": "Abhishek Srinivas",
       "category": "EQ-SML",
@@ -64,8 +64,8 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-16T18:30:00.000Z",
       "benchmark_index": "Nifty Smallcap 250 - TRI",
-      "nav": 10.51,
-      "52_weekhigh_nav_": 10.51,
+      "nav": 10.83,
+      "52_weekhigh_nav_": 10.83,
       "52_weeklow_nav_": 9.85,
       "return_1_mo": null,
       "return_3_mo": null,
