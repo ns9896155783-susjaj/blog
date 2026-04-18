@@ -1211,6 +1211,10 @@
     "amc": "franklin_mutual_fund",
     "scheme_key": "franklin-india-dividend-yield-fund-g"
   },
+  "franklin-india-dynamic-asset-allocation-active-fof-review-what-the-performance-data-indicates": {
+    "amc": "franklin_mutual_fund",
+    "scheme_key": "franklin-india-dynamic-asset-allocation-active-fofs-g"
+  },
   "franklin-india-elss-tax-saver-fund-review-what-the-performance-data-indicates": {
     "amc": "franklin_mutual_fund",
     "scheme_key": "franklin-india-elss-tax-saver-fund-g"
