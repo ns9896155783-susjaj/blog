@@ -2,7 +2,7 @@
   "meta": {
     "amc": "iSIF Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-04-20 11:07"
+    "last_updated": "2026-04-21 11:07"
   },
   "schemes": {
     "isif-equity-ex-top-100-long-short-fund-reg-g": {
@@ -31,7 +31,7 @@
       "return_5_yrs": null,
       "return_10_yrs": null,
       "pe_ratio": 22.8,
-      "pb_ratio": 3.09,
+      "pb_ratio": 3.05,
       "turnover_ratio_": 33,
       "no_ofstocks": 98,
       "avg_market_cap_in_rs_cr_": 70726,
