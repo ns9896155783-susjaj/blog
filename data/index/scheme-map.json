@@ -4342,5 +4342,9 @@
   "white-oak-special-opp-fund-review-how-relevant-is-this-fund-today": {
     "amc": "woc_mutual_fund",
     "scheme_key": "woc-special-opp-fund-reg-g"
+  },
+  "hdfc-nifty-india-consumption-index-fund-review-who-should-invest": {
+    "amc": "hdfc_mutual_fund",
+    "scheme_key": "hdfc-nifty-india-consumption-index-fund-reg-g"
   }
 }
