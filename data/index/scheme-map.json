@@ -1487,6 +1487,10 @@
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-nifty-100-index-fund-reg-g"
   },
+  "hdfc-nifty-50-index-fund-review-portfolio-quality-returns-stability": {
+    "amc": "hdfc_mutual_fund",
+    "scheme_key": "hdfc-nifty-50-index-fund-g-post-addendum"
+  },
   "hdfc-nifty-india-digital-index-fund-review-portfolio-quality-returns-stability": {
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-nifty-india-digital-index-fund-reg-g"
