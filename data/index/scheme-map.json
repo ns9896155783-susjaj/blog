@@ -1659,6 +1659,10 @@
     "amc": "hsbc_mutual_fund",
     "scheme_key": "hsbc-infrastructure-fund-reg-g"
   },
+  "hsbc-large-and-mid-cap-fund-review-performance-risk-investor-relevance": {
+    "amc": "hsbc_mutual_fund",
+    "scheme_key": "hsbc-large-and-mid-cap-fund-reg-g"
+  },
   "hsbc-large-cap-fundreview-performance-risk-investor-relevance": {
     "amc": "hsbc_mutual_fund",
     "scheme_key": "hsbc-large-cap-fund-g"
