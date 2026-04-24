@@ -2007,6 +2007,18 @@
     "amc": "invesco_india_mutual_fund",
     "scheme_key": "invesco-india-invesco-eqqq-nasdaq-100-etf-fof-reg-g"
   },
+  "invesco-global-consumer-trends-fof-review-a-practical-look-at-returns-risk": {
+    "amc": "invesco_india_mutual_fund",
+    "scheme_key": "invesco-india-invesco-global-consumer-trends-fof-reg-g"
+  },
+  "invesco-global-equity-income-fof-review-a-practical-look-at-returns-risk": {
+    "amc": "invesco_india_mutual_fund",
+    "scheme_key": "invesco-india-invesco-global-equity-income-fof-reg-g"
+  },
+  "invesco-pan-european-equity-fof-review-a-practical-look-at-returns-risk": {
+    "amc": "invesco_india_mutual_fund",
+    "scheme_key": "invesco-india-invesco-pan-european-equity-fof-reg-g"
+  },
   "invesco-india-aggressive-hybrid-fund-review-a-practical-look-at-returns-risk": {
     "amc": "invesco_india_mutual_fund",
     "scheme_key": "invesco-india-aggressive-hybrid-fund-reg-g"
@@ -2066,6 +2078,10 @@
   "invesco-india-infrastructure-fund-review-key-insights-on-returns": {
     "amc": "invesco_india_mutual_fund",
     "scheme_key": "invesco-india-infrastructure-fund-reg-g"
+  },
+  "invesco-india-large-and-mid-cap-fund-review-key-insights-on-returns": {
+    "amc": "invesco_india_mutual_fund",
+    "scheme_key": "invesco-india-large-and-mid-cap-fund-reg-g"
   },
   "invesco-india-largecap-fund-review-key-insights-on-returns": {
     "amc": "invesco_india_mutual_fund",
