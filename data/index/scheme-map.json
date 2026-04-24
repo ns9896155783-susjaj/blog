@@ -1803,6 +1803,18 @@
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-focused-equity-fund-g"
   },
+  "icici-pru-global-advantage-fund-review-what-you-must-know-before-investing": {
+    "amc": "icici_pru_mutual_fund",
+    "scheme_key": "icici-pru-global-advantage-fund-fof-g"
+  },
+  "icici-pru-global-stable-equity-fund-review-what-you-must-know-before-investing": {
+    "amc": "icici_pru_mutual_fund",
+    "scheme_key": "icici-pru-global-stable-equity-fund-fof-g"
+  },
+  "icici-pru-housing-opportunities-fund-review-what-you-must-know-before-investing": {
+    "amc": "icici_pru_mutual_fund",
+    "scheme_key": "icici-pru-housing-opp-fund-reg-g"
+  },
   "icici-pru-income-plus-arbitrage-omni-fof-review-what-you-must-know-before-investing": {
     "amc": "icici_pru_mutual_fund",
     "scheme_key": "icici-pru-income-plus-arbitrage-omni-fof-g"
