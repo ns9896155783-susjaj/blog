@@ -2843,6 +2843,10 @@
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-focused-fund-reg-g"
   },
+  "motilal-oswal-gold-and-silver-etfs-fof-review-long-term-performance-risk-profile": {
+    "amc": "motilal_oswal_mutual_fund",
+    "scheme_key": "motilal-oswal-gold-and-silver-passive-fof-reg-g"
+  },
   "motilal-oswal-infrastructure-fund-review-long-term-performance-risk-profile": {
     "amc": "motilal_oswal_mutual_fund",
     "scheme_key": "motilal-oswal-infrastructure-fund-reg-g"
