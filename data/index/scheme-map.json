@@ -1639,6 +1639,10 @@
     "amc": "helios_mutual_fund",
     "scheme_key": "helios-flexi-cap-fund-reg-g"
   },
+  "helios-large-and-mid-cap-fund-key-insights-on-returns-risk": {
+    "amc": "helios_mutual_fund",
+    "scheme_key": "helios-large-and-mid-cap-fund-reg-g"
+  },
   "helios-mid-cap-fund-key-insights-on-returns-risk": {
     "amc": "helios_mutual_fund",
     "scheme_key": "helios-mid-cap-fund-reg-g"
