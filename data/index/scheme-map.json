@@ -1411,6 +1411,10 @@
     "amc": "groww_mutual_fund",
     "scheme_key": "groww-nifty-smallcap-250-index-fund-reg-g"
   },
+  "groww-nidty-total-market-index-fund-review-performance-risk-investor-relevance": {
+    "amc": "groww_mutual_fund",
+    "scheme_key": "groww-nifty-total-market-index-fund-reg-g"
+  },
   "groww-silver-etf-fof-review-performance-risk-investor-relevance": {
     "amc": "groww_mutual_fund",
     "scheme_key": "groww-silver-etf-fof-reg-g"
