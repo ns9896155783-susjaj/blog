@@ -731,9 +731,9 @@
     "amc": "baroda_bnp_paribas_mutual_fund",
     "scheme_key": "baroda-bnp-paribas-balanced-advantage-fund-reg-g"
   },
-  "Not Found": {
-    "amc": "qsif",
-    "scheme_key": "qsif-hybrid-long-short-fund-reg-g"
+  "baroda-bnp-paribas-banking-and-financial-services-fund-review-what-the-performance-data-indicates": {
+    "amc": "baroda_bnp_paribas_mutual_fund",
+    "scheme_key": "baroda-bnp-paribas-banking-and-fin-serv-fund-reg-g"
   },
   "baroda-bnp-paribas-business-conglomerates-fund-review-what-the-performance-data-indicates": {
     "amc": "baroda_bnp_paribas_mutual_fund",
@@ -854,6 +854,10 @@
   "canara-rob-balanced-advantage-fund-review-what-the-performance-data-indicates": {
     "amc": "canara_rob_mutual_fund",
     "scheme_key": "canara-rob-balanced-advantage-fund-reg-g"
+  },
+  "Not Found": {
+    "amc": "qsif",
+    "scheme_key": "qsif-hybrid-long-short-fund-reg-g"
   },
   "canara-robeco-equity-hybrid-fund-review-what-the-performance-data-indicates": {
     "amc": "canara_rob_mutual_fund",
