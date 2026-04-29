@@ -1335,6 +1335,10 @@
     "amc": "groww_mutual_fund",
     "scheme_key": "groww-aggressive-hybrid-fund-reg-g"
   },
+  "groww-banking-and-financial-services-fund-review-performance-risk-investor-relevance": {
+    "amc": "groww_mutual_fund",
+    "scheme_key": "groww-banking-and-financial-services-fund-reg-g"
+  },
   "groww-bse-power-etf-fof-review-performance-risk-investor-relevance": {
     "amc": "groww_mutual_fund",
     "scheme_key": "groww-bse-power-etf-fof-reg-g"
