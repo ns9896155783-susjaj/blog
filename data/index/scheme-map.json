@@ -855,13 +855,57 @@
     "amc": "canara_rob_mutual_fund",
     "scheme_key": "canara-rob-balanced-advantage-fund-reg-g"
   },
-  "Not Found": {
-    "amc": "qsif",
-    "scheme_key": "qsif-hybrid-long-short-fund-reg-g"
+  "canara-robeco-consumer-trends-fund": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-consumer-trends-fund-reg-g"
+  },
+  "canara-robeco-elss-tax-saver-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-elss-tax-saver-reg-g"
   },
   "canara-robeco-equity-hybrid-fund-review-what-the-performance-data-indicates": {
     "amc": "canara_rob_mutual_fund",
     "scheme_key": "canara-rob-equity-hybrid-fund-reg-g"
+  },
+  "canara-robeco-flexi-cap-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-flexi-cap-fund-reg-g"
+  },
+  "canara-robeco-focused-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-focused-fund-reg-g"
+  },
+  "canara-robeco-infrastructure-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-infrastructure-fund-reg-g"
+  },
+  "canara-robeco-large-and-mid-cap-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-large-and-mid-cap-fund-reg-g"
+  },
+  "canara-robeco-large-cap-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-large-cap-fund-reg-g"
+  },
+  "canara-robeco-manufacturing-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-manufacturing-fund-reg-g"
+  },
+  "canara-robeco-mid-cap-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-mid-cap-fund-reg-g"
+  },
+  "canara-robeco-multi-asset-allocation-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-multi-asset-allocation-fund-reg-g"
+  },
+  "canara-robeco-multi-cap-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-multi-cap-fund-reg-g"
+  },
+  "canara-robeco-small-cap-fund-review-what-the-performance-data-indicates": {
+    "amc": "canara_rob_mutual_fund",
+    "scheme_key": "canara-rob-small-cap-fund-reg-g"
   },
   "capitalmind-flexi-cap-fund-review-what-the-performance-data-indicates": {
     "amc": "capitalmind_mutual_fund",
@@ -966,6 +1010,10 @@
   "dsp-nifty-50-index-fund-review-evaluating-performance-risk": {
     "amc": "dsp_mutual_fund",
     "scheme_key": "dsp-nifty-50-index-fund-reg-g"
+  },
+  "Not Found": {
+    "amc": "qsif",
+    "scheme_key": "qsif-hybrid-long-short-fund-reg-g"
   },
   "dsp-nifty-bank-index-fund-review-evaluating-performance-risk": {
     "amc": "dsp_mutual_fund",
