@@ -2,12 +2,12 @@
   "meta": {
     "amc": "Templeton Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-04-29 11:08"
+    "last_updated": "2026-04-30 11:08"
   },
   "schemes": {
     "templeton-india-value-fund-g": {
       "name": "Templeton India Value Fund(G)",
-      "ns_score": 7.77,
+      "ns_score": 7.82,
       "stars": "???",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FTIGF-GR&type=purchase",
@@ -19,16 +19,16 @@
       "fund_type": "Open Ended",
       "inception_date": "2003-09-04T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 704.24,
+      "nav": 702.55,
       "52_weekhigh_nav_": 749.7,
       "52_weeklow_nav_": 646.36,
-      "return_1_mo": 5.43,
-      "return_3_mo": -1.89,
-      "return_6_mo": -4.04,
-      "return_1_yr": 0.45,
-      "return_2_yrs": 3.25,
-      "return_3_yrs": 15.86,
-      "return_5_yrs": 17.84,
+      "return_1_mo": 6.71,
+      "return_3_mo": -1.62,
+      "return_6_mo": -3.98,
+      "return_1_yr": 2.75,
+      "return_2_yrs": 3.12,
+      "return_3_yrs": 15.49,
+      "return_5_yrs": 17.4,
       "return_10_yrs": 14.44,
       "pe_ratio": 15.54,
       "pb_ratio": 2.04,
@@ -46,7 +46,7 @@
       "sharpe": 0.21,
       "sortino": 0.39,
       "beta": 0.93,
-      "standard_deviation": 12.96,
+      "standard_deviation": 13,
       "classification": "Equity : Value / Contra",
       "exit_load_remarks": "1% on or before 1Y"
     }
