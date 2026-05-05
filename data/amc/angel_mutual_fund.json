@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Angel Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-05-05 09:25"
+    "last_updated": "2026-05-05 09:31"
   },
   "schemes": {
     "angel-one-gold-etf-fof-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-09-09T18:30:00.000Z",
       "benchmark_index": "Gold-India",
-      "nav": 13.53,
+      "nav": 13.42,
       "52_weekhigh_nav_": 16.18,
       "52_weeklow_nav_": 9.98,
       "return_1_mo": 2.36,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-05-21T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 - TRI",
-      "nav": 9.77,
+      "nav": 9.82,
       "52_weekhigh_nav_": 10.74,
       "52_weeklow_nav_": 9.1,
       "return_1_mo": 7.4,
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-02-27T18:30:00.000Z",
       "benchmark_index": "Nifty Total Market - TRI",
-      "nav": 11.38,
+      "nav": 11.46,
       "52_weekhigh_nav_": 12.08,
       "52_weeklow_nav_": 10.28,
       "return_1_mo": 10.79,
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-11-20T18:30:00.000Z",
       "benchmark_index": "Nifty Total Market Momentum Quality 50 - TRI",
-      "nav": 9.91,
+      "nav": 9.98,
       "52_weekhigh_nav_": 10.02,
       "52_weeklow_nav_": 8.7,
       "return_1_mo": 13.43,
@@ -199,7 +199,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-01T18:30:00.000Z",
       "benchmark_index": "Silver",
-      "nav": 8.2,
+      "nav": 8.31,
       "52_weekhigh_nav_": 10,
       "52_weeklow_nav_": 7.26,
       "return_1_mo": 3.67,
