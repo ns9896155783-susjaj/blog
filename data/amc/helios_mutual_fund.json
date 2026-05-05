@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Helios Mutual Fund",
     "total_schemes": 7,
-    "last_updated": "2026-05-05 09:25"
+    "last_updated": "2026-05-05 09:31"
   },
   "schemes": {
     "helios-arbitrage-fund-reg-g": {
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2024-03-26T18:30:00.000Z",
       "benchmark_index": "CRISIL Hybrid 50+50 - Moderate Index",
-      "nav": 11.26,
+      "nav": 11.34,
       "52_weekhigh_nav_": 11.81,
       "52_weeklow_nav_": 10.48,
       "return_1_mo": 7.44,
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2024-06-23T18:30:00.000Z",
       "benchmark_index": "Nifty Financial Services - TRI",
-      "nav": 11.06,
+      "nav": 11.15,
       "52_weekhigh_nav_": 12.09,
       "52_weeklow_nav_": 9.91,
       "return_1_mo": 11.6,
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2023-11-12T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 14.49,
+      "nav": 14.67,
       "52_weekhigh_nav_": 15.46,
       "52_weeklow_nav_": 12.88,
       "return_1_mo": 12.5,
@@ -199,7 +199,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2024-10-29T18:30:00.000Z",
       "benchmark_index": "NIFTY LargeMidcap 250 - TRI",
-      "nav": 10.71,
+      "nav": 10.82,
       "52_weekhigh_nav_": 11.24,
       "52_weeklow_nav_": 9.52,
       "return_1_mo": 12.5,
@@ -244,7 +244,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-03-12T18:30:00.000Z",
       "benchmark_index": "Nifty Midcap 150 - TRI",
-      "nav": 12.41,
+      "nav": 12.54,
       "52_weekhigh_nav_": 13.06,
       "52_weeklow_nav_": 10.52,
       "return_1_mo": 14.38,
@@ -289,7 +289,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-11-26T18:30:00.000Z",
       "benchmark_index": "Nifty Smallcap 250 - TRI",
-      "nav": 9.78,
+      "nav": 9.92,
       "52_weekhigh_nav_": 10.06,
       "52_weeklow_nav_": 8.32,
       "return_1_mo": 16.57,
