@@ -3484,43 +3484,43 @@
     "scheme_key": "quant-value-fund-reg-g"
   },
   "quantum-diversified-equity-all-cap-active-fof-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-diversified-equity-all-cap-active-fof-reg-g"
   },
   "quantum-elss-tax-saver-fund-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-elss-tax-saver-fund-reg-g"
   },
   "quantum-esg-best-in-class-strategy-fund-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-esg-best-in-class-strategy-fund-reg-g"
   },
   "quantum-ethical-fund-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-ethical-fund-reg-g"
   },
   "quantum-gold-saving-fund-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-gold-saving-fund-reg-g"
   },
   "quantum-multi-asset-active-fof-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-multi-asset-active-fof-reg-g"
   },
   "quantum-multi-asset-allocation-fund-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-multi-asset-allocation-fund-reg-g"
   },
   "quantum-nifty-50-etf-fof-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-nifty-50-etf-fof-reg-g"
   },
   "quantum-small-cap-fund-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-small-cap-fund-reg-g"
   },
   "quantum-value-fund-review-performance-risk-in-todays-market": {
-    "amc": "quant_mutual_fund",
+    "amc": "quantum_mutual_fund",
     "scheme_key": "quantum-value-fund-reg-g"
   },
   "samco-active-momentum-fund-review-performance-risk-in-todays-market": {
@@ -4092,7 +4092,7 @@
     "scheme_key": "taurus-nifty-50-index-fund-reg-g"
   },
   "templeton-india-value-fund-review-key-performance-signals-risk-view": {
-    "amc": "Templeton_mutual_fund",
+    "amc": "templeton_mutual_fund",
     "scheme_key": "templeton-india-value-fund-g"
   },
   "the-wealth-company-arbitrage-fund-review-key-performance-signals-risk-view": {
@@ -4130,6 +4130,14 @@
   "trustmf-small-cap-fund-review-key-performance-signals-risk-view": {
     "amc": "trustmf_mutual_fund",
     "scheme_key": "trustmf-small-cap-fund-reg-g"
+  },
+  "unifi-dynamic-asset-allocation-fund-review-key-performance-signals-risk-view": {
+    "amc": "unifi",
+    "scheme_key": "unifi-dynamic-asset-allocation-fund-reg-g"
+  },
+  "unifi-flexi-cap-fund-review-key-performance-signals-risk-view": {
+    "amc": "unifi",
+    "scheme_key": "unifi-flexi-cap-fund-reg-g"
   },
   "union-active-momentum-fund-review-key-performance-signals-risk-view": {
     "amc": "union_mutual_fund",
@@ -4450,5 +4458,9 @@
   "hdfc-nifty-india-consumption-index-fund-review-who-should-invest": {
     "amc": "hdfc_mutual_fund",
     "scheme_key": "hdfc-nifty-india-consumption-index-fund-reg-g"
+  },
+  "invest-in-old-bridge-flexi-cap-fund-nfo-feb-2026-dynamic-growth-across-all-caps": {
+    "amc": "old_bridge_mutual_fund",
+    "scheme_key": "old-bridge-flexi-cap-fund-reg-g"
   }
 }
