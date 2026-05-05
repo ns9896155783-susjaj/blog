@@ -2,7 +2,7 @@
   "meta": {
     "amc": "DSP Mutual Fund",
     "total_schemes": 46,
-    "last_updated": "2026-05-05 09:25"
+    "last_updated": "2026-05-05 09:31"
   },
   "schemes": {
     "dsp-aggressive-hybrid-fund-reg-g": {
@@ -514,7 +514,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2022-02-13T18:30:00.000Z",
       "benchmark_index": "MSCI ACWI Net TRI",
-      "nav": 19.9,
+      "nav": 20.25,
       "52_weekhigh_nav_": 20.15,
       "52_weeklow_nav_": 14.23,
       "return_1_mo": 12.43,
@@ -1954,7 +1954,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2020-12-09T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 23.15,
+      "nav": 23.03,
       "52_weekhigh_nav_": 23.46,
       "52_weeklow_nav_": 20.1,
       "return_1_mo": 6.39,
