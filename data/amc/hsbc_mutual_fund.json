@@ -2,7 +2,7 @@
   "meta": {
     "amc": "HSBC Mutual Fund",
     "total_schemes": 30,
-    "last_updated": "2026-05-05 09:25"
+    "last_updated": "2026-05-05 09:31"
   },
   "schemes": {
     "hsbc-aggressive-hybrid-active-fof-reg-g": {
@@ -734,7 +734,7 @@
       "fund_manager": "Mohd Asif Rizwi",
       "category": "FOF-DOM",
       "rupeevestrating": "Unrated",
-      "aum_in_rs_cr_": 553.8,
+      "aum_in_rs_cr_": 552.7,
       "expenseratio_": 0.51,
       "fund_type": "Open Ended",
       "inception_date": "2014-04-29T18:30:00.000Z",
