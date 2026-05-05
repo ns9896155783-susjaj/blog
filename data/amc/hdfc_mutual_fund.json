@@ -2,7 +2,7 @@
   "meta": {
     "amc": "HDFC Mutual Fund",
     "total_schemes": 56,
-    "last_updated": "2026-05-05 09:25"
+    "last_updated": "2026-05-05 09:31"
   },
   "schemes": {
     "hdfc-arbitrage-wp-g": {
@@ -469,7 +469,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2021-10-05T18:30:00.000Z",
       "benchmark_index": "MSCI World",
-      "nav": 19.9,
+      "nav": 20.07,
       "52_weekhigh_nav_": 19.9,
       "52_weeklow_nav_": 14.13,
       "return_1_mo": 9.54,
