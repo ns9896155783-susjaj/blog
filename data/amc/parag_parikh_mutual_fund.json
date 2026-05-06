@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Parag Parikh Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-05-06 06:18"
+    "last_updated": "2026-05-06 09:11"
   },
   "schemes": {
     "parag-parikh-arbitrage-fund-reg-g": {
@@ -26,7 +26,7 @@
       "return_3_mo": 1.37,
       "return_6_mo": 3.06,
       "return_1_yr": 5.82,
-      "return_2_yrs": 6.48,
+      "return_2_yrs": 6.53,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
@@ -71,7 +71,7 @@
       "return_3_mo": 1.39,
       "return_6_mo": 1.5,
       "return_1_yr": 3.8,
-      "return_2_yrs": 6.77,
+      "return_2_yrs": 6.65,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
@@ -97,7 +97,7 @@
     },
     "parag-parikh-elss-tax-saver-fund-reg-g": {
       "name": "Parag Parikh ELSS Tax Saver Fund-Reg(G)",
-      "ns_score": 5.95,
+      "ns_score": 5.91,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=PPTSFG-GR&type=purchase",
@@ -116,9 +116,9 @@
       "return_3_mo": -4.61,
       "return_6_mo": -8.74,
       "return_1_yr": -3.56,
-      "return_2_yrs": 4.35,
-      "return_3_yrs": 12.72,
-      "return_5_yrs": 14.65,
+      "return_2_yrs": 4.2,
+      "return_3_yrs": 12.56,
+      "return_5_yrs": 14.6,
       "return_10_yrs": null,
       "pe_ratio": 16.37,
       "pb_ratio": 2.01,
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2013-05-23T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 83.35,
+      "nav": 83.32,
       "52_weekhigh_nav_": 87.73,
       "52_weeklow_nav_": 77.88,
       "return_1_mo": 7.02,
@@ -202,8 +202,8 @@
       "nav": 9.52,
       "52_weekhigh_nav_": 10.11,
       "52_weeklow_nav_": 8.71,
-      "return_1_mo": 8.7,
-      "return_3_mo": null,
+      "return_1_mo": 7.37,
+      "return_3_mo": -4.78,
       "return_6_mo": null,
       "return_1_yr": null,
       "return_2_yrs": null,
