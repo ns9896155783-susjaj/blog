@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Arudha MutualFund",
     "total_schemes": 2,
-    "last_updated": "2026-05-06 10:25"
+    "last_updated": "2026-05-07 09:33"
   },
   "schemes": {
     "arudha-equity-long-short-fund-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-23T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.2,
+      "nav": 10.29,
       "52_weekhigh_nav_": 10.3,
       "52_weeklow_nav_": 9.82,
       "return_1_mo": null,
@@ -59,7 +59,7 @@
       "fund_manager": "Kapil Kankonkar",
       "category": "HY-LS",
       "rupeevestrating": "Unrated",
-      "aum_in_rs_cr_": 65.3,
+      "aum_in_rs_cr_": 113.7,
       "expenseratio_": 0.73,
       "fund_type": "Open Ended",
       "inception_date": "2026-01-27T18:30:00.000Z",
@@ -80,9 +80,9 @@
       "turnover_ratio_": 0,
       "no_ofstocks": 33,
       "avg_market_cap_in_rs_cr_": 177072,
-      "large_cap_": 23.53,
-      "mid_cap_": 2.7,
-      "small_cap_": 5.02,
+      "large_cap_": 29.17,
+      "mid_cap_": 3.85,
+      "small_cap_": 2.65,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 1.65,
       "mod_duration_in_yrs_": 1.4,
