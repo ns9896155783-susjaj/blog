@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Parag Parikh Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-05-07 10:25"
+    "last_updated": "2026-05-08 09:09"
   },
   "schemes": {
     "parag-parikh-arbitrage-fund-reg-g": {
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2013-05-23T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 83.22,
+      "nav": 83.93,
       "52_weekhigh_nav_": 87.73,
       "52_weeklow_nav_": 77.88,
       "return_1_mo": 7.02,
@@ -202,8 +202,8 @@
       "nav": 9.62,
       "52_weekhigh_nav_": 10.11,
       "52_weeklow_nav_": 8.71,
-      "return_1_mo": 7.37,
-      "return_3_mo": -4.78,
+      "return_1_mo": 7.15,
+      "return_3_mo": -4.97,
       "return_6_mo": null,
       "return_1_yr": null,
       "return_2_yrs": null,
