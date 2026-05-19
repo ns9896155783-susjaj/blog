@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Magnum Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-05-18 10:25"
+    "last_updated": "2026-05-19 09:25"
   },
   "schemes": {
     "magnum-hybrid-long-short-fund-reg-g": {
@@ -30,7 +30,7 @@
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
-      "pe_ratio": 23,
+      "pe_ratio": 23.09,
       "pb_ratio": 2.91,
       "turnover_ratio_": 0,
       "no_ofstocks": 28,
