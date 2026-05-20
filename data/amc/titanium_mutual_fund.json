@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Titanium Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-05-19 10:26"
+    "last_updated": "2026-05-20 09:14"
   },
   "schemes": {
     "titanium-equity-long-short-fund-reg-g": {
@@ -60,11 +60,11 @@
       "category": "HY-LS",
       "rupeevestrating": "Unrated",
       "aum_in_rs_cr_": 364.8,
-      "expenseratio_": 2.09,
+      "expenseratio_": 2.36,
       "fund_type": "Open Ended",
       "inception_date": "2025-12-10T18:30:00.000Z",
       "benchmark_index": "CRISIL Hybrid 50+50 - Moderate Index",
-      "nav": 9.87,
+      "nav": 9.85,
       "52_weekhigh_nav_": 10.14,
       "52_weeklow_nav_": 9.36,
       "return_1_mo": null,
