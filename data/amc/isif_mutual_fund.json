@@ -2,7 +2,7 @@
   "meta": {
     "amc": "iSIF Mutual Fund",
     "total_schemes": 4,
-    "last_updated": "2026-05-20 10:25"
+    "last_updated": "2026-05-21 10:17"
   },
   "schemes": {
     "isif-active-asset-allocator-long-short-fund-reg-g": {
@@ -60,11 +60,11 @@
       "category": "HY-LS",
       "rupeevestrating": "Unrated",
       "aum_in_rs_cr_": 1535.2,
-      "expenseratio_": 2.15,
+      "expenseratio_": 1.81,
       "fund_type": "Open Ended",
       "inception_date": "2026-02-03T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 9.89,
+      "nav": 9.9,
       "52_weekhigh_nav_": 10.06,
       "52_weeklow_nav_": 9,
       "return_1_mo": null,
@@ -150,11 +150,11 @@
       "category": "HY-LS",
       "rupeevestrating": "Unrated",
       "aum_in_rs_cr_": 803,
-      "expenseratio_": 2.37,
+      "expenseratio_": 2,
       "fund_type": "Open Ended",
       "inception_date": "2026-02-03T18:30:00.000Z",
       "benchmark_index": "CRISIL Hybrid 50+50 - Moderate Index",
-      "nav": 9.78,
+      "nav": 9.81,
       "52_weekhigh_nav_": 10.13,
       "52_weeklow_nav_": 9.21,
       "return_1_mo": null,
