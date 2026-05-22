@@ -2,12 +2,12 @@
   "meta": {
     "amc": "Templeton Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-05-21 10:25"
+    "last_updated": "2026-05-22 09:08"
   },
   "schemes": {
     "templeton-india-value-fund-g": {
       "name": "Templeton India Value Fund(G)",
-      "ns_score": 6.36,
+      "ns_score": 6.42,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=FTIGF-GR&type=purchase",
@@ -26,9 +26,9 @@
       "return_3_mo": -6.56,
       "return_6_mo": -6.95,
       "return_1_yr": -3.75,
-      "return_2_yrs": 0.74,
-      "return_3_yrs": 13.53,
-      "return_5_yrs": 15.77,
+      "return_2_yrs": 0.81,
+      "return_3_yrs": 13.57,
+      "return_5_yrs": 15.96,
       "return_10_yrs": 14.11,
       "pe_ratio": 16.67,
       "pb_ratio": 2.18,
