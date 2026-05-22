@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Angel Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-05-21 10:25"
+    "last_updated": "2026-05-22 09:08"
   },
   "schemes": {
     "angel-one-gold-etf-fof-reg-g": {
@@ -52,7 +52,7 @@
     },
     "angel-one-nifty-50-index-fund-reg-g": {
       "name": "Angel One Nifty 50 Index Fund-Reg(G)",
-      "ns_score": 0,
+      "ns_score": -0.12,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AONFIRG-GR&type=purchase",
@@ -87,10 +87,10 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": null,
-      "sharpe": null,
-      "sortino": null,
-      "beta": null,
+      "alpha": -0.04,
+      "sharpe": -0.19,
+      "sortino": -0.26,
+      "beta": 1,
       "standard_deviation": null,
       "classification": "Equity : Index Funds",
       "exit_load_remarks": "NIL"
