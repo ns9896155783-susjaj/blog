@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Samco Mutual Fund",
     "total_schemes": 12,
-    "last_updated": "2026-06-02 10:25"
+    "last_updated": "2026-06-03 09:26"
   },
   "schemes": {
     "samco-active-momentum-fund-reg-g": {
@@ -26,7 +26,7 @@
       "return_3_mo": 8.93,
       "return_6_mo": 6.1,
       "return_1_yr": 1.61,
-      "return_2_yrs": 2.31,
+      "return_2_yrs": 1.96,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
@@ -116,7 +116,7 @@
       "return_3_mo": 1.27,
       "return_6_mo": -0.86,
       "return_1_yr": 0.78,
-      "return_2_yrs": -0.34,
+      "return_2_yrs": -0.63,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
@@ -142,7 +142,7 @@
     },
     "samco-elss-tax-saver-fund-reg-g": {
       "name": "Samco ELSS Tax Saver Fund-Reg(G)",
-      "ns_score": 0.91,
+      "ns_score": 0.67,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAELRG-GR&type=purchase",
@@ -161,8 +161,8 @@
       "return_3_mo": 0.97,
       "return_6_mo": -3.19,
       "return_1_yr": -6.46,
-      "return_2_yrs": -5.36,
-      "return_3_yrs": 5.76,
+      "return_2_yrs": -5.69,
+      "return_3_yrs": 4.95,
       "return_5_yrs": null,
       "return_10_yrs": null,
       "pe_ratio": 25.67,
@@ -187,7 +187,7 @@
     },
     "samco-flexi-cap-fund-reg-g": {
       "name": "Samco Flexi Cap Fund-Reg(G)",
-      "ns_score": -0.88,
+      "ns_score": -2.08,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SAFCRG-GR&type=purchase",
@@ -206,8 +206,8 @@
       "return_3_mo": -1.31,
       "return_6_mo": -1.61,
       "return_1_yr": -7.03,
-      "return_2_yrs": -9.22,
-      "return_3_yrs": 0.31,
+      "return_2_yrs": -9.34,
+      "return_3_yrs": -0.65,
       "return_5_yrs": null,
       "return_10_yrs": null,
       "pe_ratio": 19.32,
