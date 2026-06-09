@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Baroda BNP Paribas Mutual Fund",
     "total_schemes": 33,
-    "last_updated": "2026-06-08 10:25"
+    "last_updated": "2026-06-09 09:14"
   },
   "schemes": {
     "baroda-bnp-paribas-aggressive-hybrid-fund-reg-g": {
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2021-05-06T18:30:00.000Z",
       "benchmark_index": "MSCI World",
-      "nav": 15.37,
+      "nav": 15.16,
       "52_weekhigh_nav_": 15.78,
       "52_weeklow_nav_": 12.94,
       "return_1_mo": -0.38,
@@ -178,7 +178,7 @@
       "mod_duration_in_yrs_": 2.68,
       "yield_to_maturity_": 7.2,
       "alpha": 0.31,
-      "sharpe": 0.21,
+      "sharpe": 0.2,
       "sortino": 0.38,
       "beta": 0.75,
       "standard_deviation": 10.1,
