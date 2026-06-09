@@ -2,7 +2,7 @@
   "meta": {
     "amc": "TRUSTMF Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-06-08 10:26"
+    "last_updated": "2026-06-09 09:15"
   },
   "schemes": {
     "trustmf-arbitrage-fund-reg-g": {
@@ -19,8 +19,8 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-08-27T18:30:00.000Z",
       "benchmark_index": "Nifty 50 Arbitrage - TRI",
-      "nav": 10.41,
-      "52_weekhigh_nav_": 10.41,
+      "nav": 10.43,
+      "52_weekhigh_nav_": 10.43,
       "52_weeklow_nav_": 10,
       "return_1_mo": 0.3,
       "return_3_mo": 1.1,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2024-04-25T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 11.28,
+      "nav": 11.16,
       "52_weekhigh_nav_": 11.82,
       "52_weeklow_nav_": 10.13,
       "return_1_mo": 0.71,
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-19T18:30:00.000Z",
       "benchmark_index": "Nifty Midcap 150 - TRI",
-      "nav": 11.11,
+      "nav": 10.98,
       "52_weekhigh_nav_": 11.23,
       "52_weeklow_nav_": 9.8,
       "return_1_mo": 2.78,
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-07-20T18:30:00.000Z",
       "benchmark_index": "Nifty500 Multicap 50:25:25 - TRI",
-      "nav": 10.81,
+      "nav": 10.67,
       "52_weekhigh_nav_": 10.83,
       "52_weeklow_nav_": 9.28,
       "return_1_mo": 2.08,
@@ -199,7 +199,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2024-11-03T18:30:00.000Z",
       "benchmark_index": "Nifty Smallcap 250 - TRI",
-      "nav": 12.15,
+      "nav": 11.97,
       "52_weekhigh_nav_": 12.21,
       "52_weeklow_nav_": 9.55,
       "return_1_mo": 5.38,
