@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Arudha MutualFund",
     "total_schemes": 2,
-    "last_updated": "2026-06-16 10:25"
+    "last_updated": "2026-06-17 09:53"
   },
   "schemes": {
     "arudha-equity-long-short-fund-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-23T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.15,
+      "nav": 10.2,
       "52_weekhigh_nav_": 10.3,
       "52_weeklow_nav_": 9.82,
       "return_1_mo": 0.17,
@@ -81,8 +81,8 @@
       "no_ofstocks": 56,
       "avg_market_cap_in_rs_cr_": 216862,
       "large_cap_": 28.46,
-      "mid_cap_": 6.84,
-      "small_cap_": 1.24,
+      "mid_cap_": 6.26,
+      "small_cap_": 1.82,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 2.85,
       "mod_duration_in_yrs_": 2.08,
