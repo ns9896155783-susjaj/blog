@@ -4462,5 +4462,9 @@
   "invest-in-old-bridge-flexi-cap-fund-nfo-feb-2026-dynamic-growth-across-all-caps": {
     "amc": "old_bridge_mutual_fund",
     "scheme_key": "old-bridge-flexi-cap-fund-reg-g"
+  },
+  "aditya-birla-sl-bal-bhavishya-yojna-review-should-you-invest": {
+    "amc": "aditya_birla_sl_mutual_fund",
+    "scheme_key": "aditya-birla-sl-bal-bhavishya-yojna-reg-g"
   }
 }
