@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Aditya Birla SL Mutual Fund",
     "total_schemes": 53,
-    "last_updated": "2026-07-05 11:55"
+    "last_updated": "2026-07-05 22:58"
   },
   "schemes": {
     "aditya-birla-sl-aggressive-hybrid-omni-fof-g": {
@@ -100,7 +100,7 @@
       "ns_score": 5.04,
       "stars": "??",
       "amc_list": "Bank of India Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=BS41B-GR&type=purchase",
       "fund_manager": "Harshil Suvarnkar",
       "category": "EQ-FLEX",
       "rupeevestrating": 2,
@@ -550,7 +550,7 @@
       "ns_score": -0.27,
       "stars": "??",
       "amc_list": "HDFC Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=B16&type=purchase",
       "fund_manager": "Kunal Sangoi",
       "category": "EQ-TECH",
       "rupeevestrating": "Unrated",
@@ -595,7 +595,7 @@
       "ns_score": 6.72,
       "stars": "??",
       "amc_list": "Helios Mutual Fund",
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=B261G&type=purchase",
       "fund_manager": "Pavas Pethia",
       "category": "EQ-DIV",
       "rupeevestrating": "Unrated",
