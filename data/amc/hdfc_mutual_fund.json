@@ -2,7 +2,7 @@
   "meta": {
     "amc": "HDFC Mutual Fund",
     "total_schemes": 58,
-    "last_updated": "2026-07-05 10:25"
+    "last_updated": "2026-07-05 11:55"
   },
   "schemes": {
     "hdfc-arbitrage-fund-reg-g": {
@@ -10,7 +10,7 @@
       "ns_score": 3.51,
       "stars": "??",
       "amc_list": null,
-      "invest_online_link": null,
+      "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=HDAFWG-GR&type=purchase",
       "fund_manager": "Arun Agarwal",
       "category": "HY-ARB",
       "rupeevestrating": 2,
