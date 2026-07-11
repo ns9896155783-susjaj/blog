@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Arudha MutualFund",
     "total_schemes": 2,
-    "last_updated": "2026-07-11 10:25"
+    "last_updated": "2026-07-11 11:34"
   },
   "schemes": {
     "arudha-equity-long-short-fund-reg-g": {
@@ -19,11 +19,11 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-23T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.36,
+      "nav": 10.43,
       "52_weekhigh_nav_": 10.43,
       "52_weeklow_nav_": 9.82,
-      "return_1_mo": 4.12,
-      "return_3_mo": 4.26,
+      "return_1_mo": 3.45,
+      "return_3_mo": 2.32,
       "return_6_mo": null,
       "return_1_yr": null,
       "return_2_yrs": null,
@@ -64,11 +64,11 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-01-27T18:30:00.000Z",
       "benchmark_index": "CRISIL Hybrid 85+15 - Conservative Index",
-      "nav": 10.3,
+      "nav": 10.32,
       "52_weekhigh_nav_": 10.32,
       "52_weeklow_nav_": 10,
-      "return_1_mo": 1.42,
-      "return_3_mo": 2.36,
+      "return_1_mo": 0.97,
+      "return_3_mo": 1.99,
       "return_6_mo": null,
       "return_1_yr": null,
       "return_2_yrs": null,
