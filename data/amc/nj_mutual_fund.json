@@ -2,12 +2,12 @@
   "meta": {
     "amc": "NJ Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-07-17 10:25"
+    "last_updated": "2026-07-18 09:35"
   },
   "schemes": {
     "nj-balanced-advantage-fund-reg-g": {
       "name": "NJ Balanced Advantage Fund-Reg(G)",
-      "ns_score": 2.52,
+      "ns_score": 2.51,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=NJBARG-GR&type=purchase",
@@ -27,7 +27,7 @@
       "return_6_mo": 0.15,
       "return_1_yr": -1.23,
       "return_2_yrs": -1.79,
-      "return_3_yrs": 8.6,
+      "return_3_yrs": 8.54,
       "return_5_yrs": null,
       "return_10_yrs": null,
       "pe_ratio": 24.59,
@@ -52,7 +52,7 @@
     },
     "nj-elss-tax-saver-scheme-reg-g": {
       "name": "NJ ELSS Tax Saver Scheme-Reg(G)",
-      "ns_score": 2.47,
+      "ns_score": 2.49,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=NJTSRG-GR&type=purchase",
@@ -71,8 +71,8 @@
       "return_3_mo": 3.4,
       "return_6_mo": 0.79,
       "return_1_yr": -7.22,
-      "return_2_yrs": -4.72,
-      "return_3_yrs": 10.47,
+      "return_2_yrs": -4.43,
+      "return_3_yrs": 10.54,
       "return_5_yrs": null,
       "return_10_yrs": null,
       "pe_ratio": 22.9,
@@ -116,7 +116,7 @@
       "return_3_mo": 4.42,
       "return_6_mo": -1.74,
       "return_1_yr": -4.91,
-      "return_2_yrs": -7.77,
+      "return_2_yrs": -7.69,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
