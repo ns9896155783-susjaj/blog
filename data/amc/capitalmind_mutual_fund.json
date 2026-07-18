@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Capitalmind Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-07-17 10:25"
+    "last_updated": "2026-07-18 09:34"
   },
   "schemes": {
     "capitalmind-arbitrage-fund-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-15T18:30:00.000Z",
       "benchmark_index": "Nifty 50 Arbitrage - TRI",
-      "nav": 10.17,
+      "nav": 10.18,
       "52_weekhigh_nav_": 10.18,
       "52_weeklow_nav_": 10,
       "return_1_mo": 0.39,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-08-03T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.01,
+      "nav": 9.93,
       "52_weekhigh_nav_": 10.35,
       "52_weeklow_nav_": 9.39,
       "return_1_mo": 3.22,
