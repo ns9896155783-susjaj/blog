@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Angel Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-07-17 10:25"
+    "last_updated": "2026-07-18 09:34"
   },
   "schemes": {
     "angel-one-gold-etf-fof-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-09-09T18:30:00.000Z",
       "benchmark_index": "Gold-India",
-      "nav": 12.74,
+      "nav": 12.7,
       "52_weekhigh_nav_": 16.18,
       "52_weeklow_nav_": 9.98,
       "return_1_mo": -6.39,
@@ -52,7 +52,7 @@
     },
     "angel-one-nifty-50-index-fund-reg-g": {
       "name": "Angel One Nifty 50 Index Fund-Reg(G)",
-      "ns_score": -1.13,
+      "ns_score": -1.12,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=AONFIRG-GR&type=purchase",
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-05-21T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 - TRI",
-      "nav": 9.85,
+      "nav": 9.95,
       "52_weekhigh_nav_": 10.74,
       "52_weeklow_nav_": 9.1,
       "return_1_mo": 1.2,
@@ -88,8 +88,8 @@
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
       "alpha": -0.04,
-      "sharpe": -0.18,
-      "sortino": -0.25,
+      "sharpe": -0.17,
+      "sortino": -0.24,
       "beta": 1,
       "standard_deviation": null,
       "classification": "Equity : Index Funds",
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-02-27T18:30:00.000Z",
       "benchmark_index": "Nifty Total Market - TRI",
-      "nav": 11.71,
+      "nav": 11.76,
       "52_weekhigh_nav_": 12.08,
       "52_weeklow_nav_": 10.28,
       "return_1_mo": 1.86,
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-11-20T18:30:00.000Z",
       "benchmark_index": "Nifty Total Market Momentum Quality 50 - TRI",
-      "nav": 10.05,
+      "nav": 9.94,
       "52_weekhigh_nav_": 10.46,
       "52_weeklow_nav_": 8.7,
       "return_1_mo": -0.84,
@@ -199,7 +199,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-01T18:30:00.000Z",
       "benchmark_index": "Silver",
-      "nav": 7.51,
+      "nav": 7.42,
       "52_weekhigh_nav_": 10,
       "52_weeklow_nav_": 7.26,
       "return_1_mo": -12.39,
