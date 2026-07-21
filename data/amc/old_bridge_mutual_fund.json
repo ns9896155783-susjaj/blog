@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Old Bridge Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-07-20 10:26"
+    "last_updated": "2026-07-21 09:22"
   },
   "schemes": {
     "old-bridge-arbitrage-fund-reg-g": {
@@ -22,9 +22,9 @@
       "nav": 10.38,
       "52_weekhigh_nav_": 10.38,
       "52_weeklow_nav_": 10,
-      "return_1_mo": 0.6,
-      "return_3_mo": 1.28,
-      "return_6_mo": 2.77,
+      "return_1_mo": 0.58,
+      "return_3_mo": 1.33,
+      "return_6_mo": 2.79,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
@@ -67,8 +67,8 @@
       "nav": 10.98,
       "52_weekhigh_nav_": 11.19,
       "52_weeklow_nav_": 9.85,
-      "return_1_mo": 1.19,
-      "return_3_mo": 5.14,
+      "return_1_mo": 0.73,
+      "return_3_mo": 3.88,
       "return_6_mo": null,
       "return_1_yr": null,
       "return_2_yrs": null,
@@ -97,7 +97,7 @@
     },
     "old-bridge-focused-fund-reg-g": {
       "name": "Old Bridge Focused Fund-Reg(G)",
-      "ns_score": 2.3,
+      "ns_score": 2.19,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=OBFEGP-GR&type=purchase",
@@ -112,11 +112,11 @@
       "nav": 13.11,
       "52_weekhigh_nav_": 13.39,
       "52_weeklow_nav_": 11.09,
-      "return_1_mo": 2.97,
-      "return_3_mo": 6.9,
-      "return_6_mo": 5.7,
-      "return_1_yr": 8.22,
-      "return_2_yrs": 6.78,
+      "return_1_mo": 2.5,
+      "return_3_mo": 5.05,
+      "return_6_mo": 5.56,
+      "return_1_yr": 7.81,
+      "return_2_yrs": 6.53,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
