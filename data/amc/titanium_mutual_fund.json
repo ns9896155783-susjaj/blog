@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Titanium Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-07-27 10:26"
+    "last_updated": "2026-07-28 09:41"
   },
   "schemes": {
     "titanium-equity-long-short-fund-reg-g": {
@@ -22,7 +22,7 @@
       "nav": 10.22,
       "52_weekhigh_nav_": 10.35,
       "52_weeklow_nav_": 9.84,
-      "return_1_mo": 0.28,
+      "return_1_mo": 0,
       "return_3_mo": null,
       "return_6_mo": null,
       "return_1_yr": null,
@@ -67,9 +67,9 @@
       "nav": 10.05,
       "52_weekhigh_nav_": 10.17,
       "52_weeklow_nav_": 9.36,
-      "return_1_mo": -0.05,
-      "return_3_mo": 1.52,
-      "return_6_mo": 1.91,
+      "return_1_mo": -0.37,
+      "return_3_mo": 1.91,
+      "return_6_mo": 2.24,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
