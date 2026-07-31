@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Abakkus Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-07-30 10:25"
+    "last_updated": "2026-07-31 09:43"
   },
   "schemes": {
     "abakkus-flexi-cap-fund-reg-g": {
@@ -22,9 +22,9 @@
       "nav": 10.94,
       "52_weekhigh_nav_": 11.02,
       "52_weeklow_nav_": 9.08,
-      "return_1_mo": 0.66,
-      "return_3_mo": 6.41,
-      "return_6_mo": 12.28,
+      "return_1_mo": 1.32,
+      "return_3_mo": 6.37,
+      "return_6_mo": 10.92,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
@@ -109,11 +109,11 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-16T18:30:00.000Z",
       "benchmark_index": "Nifty Smallcap 250 - TRI",
-      "nav": 12.21,
+      "nav": 12.18,
       "52_weekhigh_nav_": 12.34,
       "52_weeklow_nav_": 9.85,
-      "return_1_mo": 1.47,
-      "return_3_mo": 9.93,
+      "return_1_mo": 2.05,
+      "return_3_mo": 10.4,
       "return_6_mo": null,
       "return_1_yr": null,
       "return_2_yrs": null,
