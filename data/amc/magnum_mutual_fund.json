@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Magnum Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-08-05 10:25"
+    "last_updated": "2026-08-06 09:35"
   },
   "schemes": {
     "magnum-hybrid-long-short-fund-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-22T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-      "nav": 10.51,
+      "nav": 10.5,
       "52_weekhigh_nav_": 10.53,
       "52_weeklow_nav_": 9.96,
       "return_1_mo": 0.92,
