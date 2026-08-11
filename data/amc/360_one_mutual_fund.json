@@ -2,7 +2,7 @@
   "meta": {
     "amc": "360 One Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-08-10 10:25"
+    "last_updated": "2026-08-11 09:20"
   },
   "schemes": {
     "360-one-elss-tax-saver-nifty-50-index-fund-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2022-12-27T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 - TRI",
-      "nav": 13.85,
+      "nav": 13.86,
       "52_weekhigh_nav_": 14.74,
       "52_weeklow_nav_": 12.53,
       "return_1_mo": 0.89,
@@ -35,8 +35,8 @@
       "turnover_ratio_": 12,
       "no_ofstocks": 50,
       "avg_market_cap_in_rs_cr_": 523846,
-      "large_cap_": 97.07,
-      "mid_cap_": 2.27,
+      "large_cap_": 97.82,
+      "mid_cap_": 1.52,
       "small_cap_": null,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": null,
@@ -44,7 +44,7 @@
       "yield_to_maturity_": null,
       "alpha": -0.05,
       "sharpe": 0.06,
-      "sortino": 0.11,
+      "sortino": 0.1,
       "beta": 0.99,
       "standard_deviation": 11.96,
       "classification": "Equity : Tax Saving (ELSS)",
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2023-06-29T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 16.44,
+      "nav": 16.51,
       "52_weekhigh_nav_": 16.53,
       "52_weeklow_nav_": 13.13,
       "return_1_mo": 4.02,
@@ -89,7 +89,7 @@
       "yield_to_maturity_": null,
       "alpha": 0.39,
       "sharpe": 0.2,
-      "sortino": 0.39,
+      "sortino": 0.38,
       "beta": 1.04,
       "standard_deviation": 14.66,
       "classification": "Equity : Flexi Cap",
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2014-10-29T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 49.18,
+      "nav": 49.36,
       "52_weekhigh_nav_": 49.59,
       "52_weeklow_nav_": 41.32,
       "return_1_mo": 1.62,
@@ -135,7 +135,7 @@
       "alpha": 0.09,
       "sharpe": 0.14,
       "sortino": 0.24,
-      "beta": 0.94,
+      "beta": 0.95,
       "standard_deviation": 13.14,
       "classification": "Equity : Focused",
       "exit_load_remarks": "NIL"
