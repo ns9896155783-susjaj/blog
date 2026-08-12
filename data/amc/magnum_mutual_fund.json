@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Magnum Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-08-11 10:26"
+    "last_updated": "2026-08-12 09:30"
   },
   "schemes": {
     "magnum-equity-ex-top-100-long-short-fund-reg-g": {
@@ -59,7 +59,7 @@
       "fund_manager": "Gaurav Mehta",
       "category": "HY-LS",
       "rupeevestrating": "Unrated",
-      "aum_in_rs_cr_": 3646.6,
+      "aum_in_rs_cr_": 3799.5,
       "expenseratio_": 1.75,
       "fund_type": "Open Ended",
       "inception_date": "2025-10-22T18:30:00.000Z",
