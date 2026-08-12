@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Diviniti Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-08-11 10:25"
+    "last_updated": "2026-08-12 09:30"
   },
   "schemes": {
     "diviniti-equity-long-short-fund-reg-g": {
@@ -14,12 +14,12 @@
       "fund_manager": "Vasav Sahgal",
       "category": "HY-LS",
       "rupeevestrating": "Unrated",
-      "aum_in_rs_cr_": 333.8,
+      "aum_in_rs_cr_": 316.8,
       "expenseratio_": 4.31,
       "fund_type": "Open Ended",
       "inception_date": "2025-11-30T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 - TRI",
-      "nav": 943.62,
+      "nav": 939.64,
       "52_weekhigh_nav_": 1006.06,
       "52_weeklow_nav_": 905.86,
       "return_1_mo": -0.18,
