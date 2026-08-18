@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Shriram Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-08-17 10:25"
+    "last_updated": "2026-08-18 09:25"
   },
   "schemes": {
     "shriram-aggressive-hybrid-fund-reg-g": {
@@ -35,8 +35,8 @@
       "turnover_ratio_": 31.5,
       "no_ofstocks": 79,
       "avg_market_cap_in_rs_cr_": 212838,
-      "large_cap_": 50.51,
-      "mid_cap_": 10.39,
+      "large_cap_": 51.37,
+      "mid_cap_": 9.52,
       "small_cap_": 11.52,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 1.9,
@@ -80,8 +80,8 @@
       "turnover_ratio_": 28,
       "no_ofstocks": 68,
       "avg_market_cap_in_rs_cr_": 264964,
-      "large_cap_": 53.18,
-      "mid_cap_": 6.04,
+      "large_cap_": 54.08,
+      "mid_cap_": 5.14,
       "small_cap_": 9.26,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 1.72,
@@ -215,8 +215,8 @@
       "turnover_ratio_": 29.8,
       "no_ofstocks": 72,
       "avg_market_cap_in_rs_cr_": 253512,
-      "large_cap_": 52.02,
-      "mid_cap_": 5.99,
+      "large_cap_": 52.7,
+      "mid_cap_": 5.31,
       "small_cap_": 10.54,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 0.33,
