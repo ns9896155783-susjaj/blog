@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Bajaj Finserv Mutual Fund",
     "total_schemes": 15,
-    "last_updated": "2026-08-17 10:25"
+    "last_updated": "2026-08-18 09:25"
   },
   "schemes": {
     "bajaj-finserv-arbitrage-fund-reg-g": {
@@ -35,8 +35,8 @@
       "turnover_ratio_": 0,
       "no_ofstocks": 121,
       "avg_market_cap_in_rs_cr_": 274179,
-      "large_cap_": 51.74,
-      "mid_cap_": 15.04,
+      "large_cap_": 51.9,
+      "mid_cap_": 14.89,
       "small_cap_": 2.41,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 0.25,
@@ -260,8 +260,8 @@
       "turnover_ratio_": 0,
       "no_ofstocks": 48,
       "avg_market_cap_in_rs_cr_": 212693,
-      "large_cap_": 56.43,
-      "mid_cap_": 4.18,
+      "large_cap_": 55.63,
+      "mid_cap_": 4.97,
       "small_cap_": 9.96,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 0.39,
@@ -485,8 +485,8 @@
       "turnover_ratio_": 119,
       "no_ofstocks": 55,
       "avg_market_cap_in_rs_cr_": 211720,
-      "large_cap_": 46.01,
-      "mid_cap_": 8.23,
+      "large_cap_": 44.55,
+      "mid_cap_": 9.69,
       "small_cap_": 13.89,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 2.89,
@@ -575,8 +575,8 @@
       "turnover_ratio_": null,
       "no_ofstocks": 50,
       "avg_market_cap_in_rs_cr_": 533269,
-      "large_cap_": 97.6,
-      "mid_cap_": 2.1,
+      "large_cap_": 98.34,
+      "mid_cap_": 1.36,
       "small_cap_": null,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": null,
