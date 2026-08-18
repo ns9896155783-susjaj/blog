@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Abakkus Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-08-17 10:25"
+    "last_updated": "2026-08-18 09:25"
   },
   "schemes": {
     "abakkus-flexi-cap-fund-reg-g": {
@@ -19,8 +19,8 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-12-28T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 11.24,
-      "52_weekhigh_nav_": 11.24,
+      "nav": 11.25,
+      "52_weekhigh_nav_": 11.25,
       "52_weeklow_nav_": 9.08,
       "return_1_mo": 3.14,
       "return_3_mo": 10.5,
@@ -35,8 +35,8 @@
       "turnover_ratio_": null,
       "no_ofstocks": 45,
       "avg_market_cap_in_rs_cr_": 103691,
-      "large_cap_": 44.78,
-      "mid_cap_": 19.14,
+      "large_cap_": 42.16,
+      "mid_cap_": 21.76,
       "small_cap_": 29.21,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": null,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-08-03T18:30:00.000Z",
       "benchmark_index": "NIFTY LargeMidcap 250 - TRI",
-      "nav": 10.03,
+      "nav": 10.02,
       "52_weekhigh_nav_": 10.05,
       "52_weeklow_nav_": 10,
       "return_1_mo": null,
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-16T18:30:00.000Z",
       "benchmark_index": "Nifty Smallcap 250 - TRI",
-      "nav": 12.49,
+      "nav": 12.53,
       "52_weekhigh_nav_": 12.55,
       "52_weeklow_nav_": 9.85,
       "return_1_mo": 2.24,
