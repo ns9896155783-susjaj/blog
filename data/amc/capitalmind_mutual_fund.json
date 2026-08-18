@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Capitalmind Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-08-17 10:25"
+    "last_updated": "2026-08-18 09:25"
   },
   "schemes": {
     "capitalmind-arbitrage-fund-reg-g": {
@@ -35,8 +35,8 @@
       "turnover_ratio_": 119,
       "no_ofstocks": 45,
       "avg_market_cap_in_rs_cr_": 170503,
-      "large_cap_": 48.9,
-      "mid_cap_": 15.12,
+      "large_cap_": 48.27,
+      "mid_cap_": 15.75,
       "small_cap_": 9.02,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 0.06,
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-15T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.03,
+      "nav": 10.04,
       "52_weekhigh_nav_": 10.3,
       "52_weeklow_nav_": 9.72,
       "return_1_mo": 2.47,
