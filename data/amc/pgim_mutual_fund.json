@@ -2,7 +2,7 @@
   "meta": {
     "amc": "PGIM Mutual Fund",
     "total_schemes": 17,
-    "last_updated": "2026-08-17 10:25"
+    "last_updated": "2026-08-18 09:25"
   },
   "schemes": {
     "pgim-india-aggressive-hybrid-equity-fund-g": {
@@ -260,8 +260,8 @@
       "turnover_ratio_": 26,
       "no_ofstocks": 56,
       "avg_market_cap_in_rs_cr_": 431652,
-      "large_cap_": 58.53,
-      "mid_cap_": 9.14,
+      "large_cap_": 58.59,
+      "mid_cap_": 9.08,
       "small_cap_": null,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 6.56,
@@ -440,8 +440,8 @@
       "turnover_ratio_": 24,
       "no_ofstocks": 29,
       "avg_market_cap_in_rs_cr_": 72873,
-      "large_cap_": 30.58,
-      "mid_cap_": 38.76,
+      "large_cap_": 32.97,
+      "mid_cap_": 36.37,
       "small_cap_": 26.13,
       "highest_sector": "Healthcare",
       "avg_maturity_in_yrs_": null,
