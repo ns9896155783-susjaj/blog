@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Old Bridge Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-08-18 10:25"
+    "last_updated": "2026-08-19 09:32"
   },
   "schemes": {
     "old-bridge-arbitrage-fund-reg-g": {
@@ -116,7 +116,7 @@
       "return_3_mo": 9.94,
       "return_6_mo": 11.81,
       "return_1_yr": 21.55,
-      "return_2_yrs": 8.13,
+      "return_2_yrs": 7.73,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
