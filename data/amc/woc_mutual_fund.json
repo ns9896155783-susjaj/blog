@@ -2,7 +2,7 @@
   "meta": {
     "amc": "WOC Mutual Fund",
     "total_schemes": 11,
-    "last_updated": "2026-08-18 10:26"
+    "last_updated": "2026-08-19 09:33"
   },
   "schemes": {
     "woc-aggressive-hybrid-fund-reg-g": {
@@ -116,8 +116,8 @@
       "return_3_mo": 5.78,
       "return_6_mo": 3.47,
       "return_1_yr": 4.98,
-      "return_2_yrs": 6.32,
-      "return_3_yrs": 11.37,
+      "return_2_yrs": 5.77,
+      "return_3_yrs": 11.35,
       "return_5_yrs": null,
       "return_10_yrs": null,
       "pe_ratio": 26.38,
@@ -161,7 +161,7 @@
       "return_3_mo": 5.05,
       "return_6_mo": 3.13,
       "return_1_yr": 5.28,
-      "return_2_yrs": 5.6,
+      "return_2_yrs": 5.05,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
@@ -206,7 +206,7 @@
       "return_3_mo": 6.45,
       "return_6_mo": -0.34,
       "return_1_yr": 5.37,
-      "return_2_yrs": 10.7,
+      "return_2_yrs": 9.84,
       "return_3_yrs": null,
       "return_5_yrs": null,
       "return_10_yrs": null,
@@ -367,7 +367,7 @@
     },
     "woc-elss-tax-saver-fund-reg-g": {
       "name": "WOC ELSS Tax Saver Fund-Reg(G)",
-      "ns_score": 5.89,
+      "ns_score": 5.9,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE102G-GR&type=purchase",
@@ -386,8 +386,8 @@
       "return_3_mo": 9.29,
       "return_6_mo": 7.07,
       "return_1_yr": 6.51,
-      "return_2_yrs": 7.31,
-      "return_3_yrs": 16.67,
+      "return_2_yrs": 6.5,
+      "return_3_yrs": 16.69,
       "return_5_yrs": null,
       "return_10_yrs": null,
       "pe_ratio": 25.83,
