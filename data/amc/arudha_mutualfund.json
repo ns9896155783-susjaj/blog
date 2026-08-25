@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Arudha MutualFund",
     "total_schemes": 2,
-    "last_updated": "2026-08-24 10:25"
+    "last_updated": "2026-08-25 09:27"
   },
   "schemes": {
     "arudha-equity-long-short-fund-reg-g": {
@@ -19,11 +19,11 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-23T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.56,
+      "nav": 10.55,
       "52_weekhigh_nav_": 10.58,
       "52_weeklow_nav_": 9.82,
-      "return_1_mo": 0.79,
-      "return_3_mo": 4.44,
+      "return_1_mo": 0.85,
+      "return_3_mo": 4.53,
       "return_6_mo": null,
       "return_1_yr": null,
       "return_2_yrs": null,
@@ -67,9 +67,9 @@
       "nav": 10.36,
       "52_weekhigh_nav_": 10.37,
       "52_weeklow_nav_": 10,
-      "return_1_mo": 0.41,
-      "return_3_mo": 2.16,
-      "return_6_mo": 2.88,
+      "return_1_mo": 0.37,
+      "return_3_mo": 2.25,
+      "return_6_mo": 2.93,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
@@ -81,8 +81,8 @@
       "no_ofstocks": 55,
       "avg_market_cap_in_rs_cr_": 222263,
       "large_cap_": 28.39,
-      "mid_cap_": 8.59,
-      "small_cap_": 1.32,
+      "mid_cap_": 9.27,
+      "small_cap_": 0.63,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 4.39,
       "mod_duration_in_yrs_": 3.25,
