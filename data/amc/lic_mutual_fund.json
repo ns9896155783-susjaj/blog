@@ -2,7 +2,7 @@
   "meta": {
     "amc": "LIC Mutual Fund",
     "total_schemes": 27,
-    "last_updated": "2026-08-31 10:25"
+    "last_updated": "2026-09-01 09:24"
   },
   "schemes": {
     "lic-mf-aggressive-hybrid-fund-g": {
@@ -630,7 +630,7 @@
       "alpha": 1.04,
       "sharpe": 0.3,
       "sortino": 0.66,
-      "beta": 0.58,
+      "beta": 0.59,
       "standard_deviation": 14.06,
       "classification": "Equity : Sectoral - Pharma",
       "exit_load_remarks": "Nil upto 12% of units and 1% for remaining units on or before 90D Nil after 90D"
@@ -727,7 +727,7 @@
     },
     "lic-mf-large-cap-fund-reg-g": {
       "name": "LIC MF Large Cap Fund-Reg(G)",
-      "ns_score": 3.23,
+      "ns_score": 3.24,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=LCGFGP-GR&type=purchase",
@@ -762,10 +762,10 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": -0.18,
+      "alpha": -0.17,
       "sharpe": 0.07,
-      "sortino": 0.11,
-      "beta": 1.01,
+      "sortino": 0.12,
+      "beta": 1.02,
       "standard_deviation": 13.16,
       "classification": "Equity : Large Cap",
       "exit_load_remarks": "Nil upto 12% on units and 1% on remaining units on or before 3M Nil after 3M"
@@ -807,7 +807,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 0.11,
+      "alpha": 0.1,
       "sharpe": 0.09,
       "sortino": 0.17,
       "beta": 1.16,
