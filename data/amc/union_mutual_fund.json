@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Union Mutual Fund",
     "total_schemes": 23,
-    "last_updated": "2026-08-31 10:26"
+    "last_updated": "2026-09-01 09:25"
   },
   "schemes": {
     "union-active-momentum-fund-reg-g": {
@@ -862,7 +862,7 @@
     },
     "union-multicap-fund-reg-g": {
       "name": "Union Multicap Fund-Reg(G)",
-      "ns_score": 6.28,
+      "ns_score": 6.27,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UNMCRG-GR&type=purchase",
@@ -897,7 +897,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 0.11,
+      "alpha": 0.1,
       "sharpe": 0.2,
       "sortino": 0.35,
       "beta": 0.95,
@@ -987,10 +987,10 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 0.35,
+      "alpha": 0.34,
       "sharpe": 0.2,
       "sortino": 0.36,
-      "beta": 0.9,
+      "beta": 0.89,
       "standard_deviation": 18.89,
       "classification": "Equity : Small Cap",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
