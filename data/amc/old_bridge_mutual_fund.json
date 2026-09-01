@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Old Bridge Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-08-31 10:25"
+    "last_updated": "2026-09-01 09:24"
   },
   "schemes": {
     "old-bridge-arbitrage-fund-reg-g": {
@@ -19,8 +19,8 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-11-12T18:30:00.000Z",
       "benchmark_index": "Nifty 50 Arbitrage - TRI",
-      "nav": 10.44,
-      "52_weekhigh_nav_": 10.46,
+      "nav": 10.47,
+      "52_weekhigh_nav_": 10.47,
       "52_weeklow_nav_": 10,
       "return_1_mo": 0.44,
       "return_3_mo": 2.01,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-01T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 11.42,
+      "nav": 11.41,
       "52_weekhigh_nav_": 11.53,
       "52_weeklow_nav_": 9.85,
       "return_1_mo": 4.58,
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2024-01-23T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 13.83,
+      "nav": 13.76,
       "52_weekhigh_nav_": 14.01,
       "52_weeklow_nav_": 11.09,
       "return_1_mo": 5.01,
