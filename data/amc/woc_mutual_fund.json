@@ -2,7 +2,7 @@
   "meta": {
     "amc": "WOC Mutual Fund",
     "total_schemes": 18,
-    "last_updated": "2026-08-31 10:26"
+    "last_updated": "2026-09-01 09:25"
   },
   "schemes": {
     "woc-aggressive-hybrid-fund-reg-g": {
@@ -402,7 +402,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 0.6,
+      "alpha": 0.59,
       "sharpe": 0.22,
       "sortino": 0.41,
       "beta": 1.04,
@@ -637,7 +637,7 @@
     },
     "woc-mid-cap-fund-reg-g": {
       "name": "WOC Mid Cap Fund-Reg(G)",
-      "ns_score": 8.94,
+      "ns_score": 8.93,
       "stars": "????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=YE101G-GR&type=purchase",
@@ -672,7 +672,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 1.06,
+      "alpha": 1.05,
       "sharpe": 0.3,
       "sortino": 0.56,
       "beta": 1.06,
