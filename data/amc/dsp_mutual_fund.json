@@ -2,7 +2,7 @@
   "meta": {
     "amc": "DSP Mutual Fund",
     "total_schemes": 46,
-    "last_updated": "2026-08-31 10:25"
+    "last_updated": "2026-09-01 09:24"
   },
   "schemes": {
     "dsp-aggressive-hybrid-fund-reg-g": {
@@ -277,7 +277,7 @@
     },
     "dsp-elss-tax-saver-fund-reg-g": {
       "name": "DSP ELSS Tax Saver Fund-Reg(G)",
-      "ns_score": 6.32,
+      "ns_score": 6.31,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP110-GR&type=purchase",
@@ -312,7 +312,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 0.12,
+      "alpha": 0.11,
       "sharpe": 0.18,
       "sortino": 0.33,
       "beta": 1,
@@ -627,7 +627,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 1.02,
+      "alpha": 1.03,
       "sharpe": 0.3,
       "sortino": 0.65,
       "beta": 0.58,
@@ -717,7 +717,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 0.98,
+      "alpha": 0.97,
       "sharpe": 0.24,
       "sortino": 0.47,
       "beta": 1.13,
@@ -762,7 +762,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 0.03,
+      "alpha": 0.02,
       "sharpe": 0.19,
       "sortino": 0.35,
       "beta": 0.95,
@@ -1807,7 +1807,7 @@
     },
     "dsp-small-cap-fund-reg-g": {
       "name": "DSP Small Cap Fund-Reg(G)",
-      "ns_score": 10.44,
+      "ns_score": 10.45,
       "stars": "?????",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=DSP157-GR&type=purchase",
@@ -1842,7 +1842,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 0.76,
+      "alpha": 0.77,
       "sharpe": 0.2,
       "sortino": 0.37,
       "beta": 1.1,
