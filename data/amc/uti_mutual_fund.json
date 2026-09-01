@@ -2,7 +2,7 @@
   "meta": {
     "amc": "UTI Mutual Fund",
     "total_schemes": 44,
-    "last_updated": "2026-08-31 10:26"
+    "last_updated": "2026-09-01 09:25"
   },
   "schemes": {
     "uti-aggressive-hybrid-fund-reg-g": {
@@ -179,7 +179,7 @@
       "yield_to_maturity_": null,
       "alpha": 0.2,
       "sharpe": 0.14,
-      "sortino": 0.25,
+      "sortino": 0.26,
       "beta": 0.94,
       "standard_deviation": 14.48,
       "classification": "Equity : Sectoral - Financial Services",
@@ -862,7 +862,7 @@
     },
     "uti-innovation-fund-reg-g": {
       "name": "UTI Innovation Fund-Reg(G)",
-      "ns_score": 0.65,
+      "ns_score": 0.66,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=UTFIGPG-GR&type=purchase",
@@ -897,10 +897,10 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": -0.54,
+      "alpha": -0.53,
       "sharpe": 0.03,
       "sortino": 0.06,
-      "beta": 1.12,
+      "beta": 1.13,
       "standard_deviation": null,
       "classification": "Equity : Thematic",
       "exit_load_remarks": "1% on or before 12M Nil after 12M"
@@ -1167,9 +1167,9 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": 0.04,
-      "sharpe": 0.01,
-      "sortino": 0.02,
+      "alpha": 0.05,
+      "sharpe": 0.02,
+      "sortino": 0.03,
       "beta": 0.89,
       "standard_deviation": null,
       "classification": "Equity : Multi Cap",
