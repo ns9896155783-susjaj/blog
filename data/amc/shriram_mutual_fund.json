@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Shriram Mutual Fund",
     "total_schemes": 6,
-    "last_updated": "2026-08-31 10:25"
+    "last_updated": "2026-09-01 09:25"
   },
   "schemes": {
     "shriram-aggressive-hybrid-fund-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2013-11-28T18:30:00.000Z",
       "benchmark_index": "CRISIL Hybrid 35+65 - Aggressive Index",
-      "nav": 32.16,
+      "nav": 32.14,
       "52_weekhigh_nav_": 32.68,
       "52_weeklow_nav_": 29.26,
       "return_1_mo": 1.07,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2019-07-04T18:30:00.000Z",
       "benchmark_index": "CRISIL Hybrid 50+50 - Moderate Index",
-      "nav": 16.7,
+      "nav": 16.68,
       "52_weekhigh_nav_": 17.32,
       "52_weeklow_nav_": 15.57,
       "return_1_mo": 0.86,
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2019-01-24T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 20.94,
+      "nav": 20.9,
       "52_weekhigh_nav_": 21.8,
       "52_weeklow_nav_": 18.54,
       "return_1_mo": 0.48,
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2018-09-27T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 19.95,
+      "nav": 19.91,
       "52_weekhigh_nav_": 20.86,
       "52_weeklow_nav_": 17.72,
       "return_1_mo": 0.32,
@@ -199,7 +199,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2023-09-07T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 - TRI",
-      "nav": 13.38,
+      "nav": 13.31,
       "52_weekhigh_nav_": 13.72,
       "52_weeklow_nav_": 12,
       "return_1_mo": 2.67,
