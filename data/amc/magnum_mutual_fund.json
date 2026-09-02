@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Magnum Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-09-01 10:25"
+    "last_updated": "2026-09-02 09:08"
   },
   "schemes": {
     "magnum-equity-ex-top-100-long-short-fund-reg-g": {
@@ -81,8 +81,8 @@
       "no_ofstocks": 34,
       "avg_market_cap_in_rs_cr_": 298997,
       "large_cap_": 57.39,
-      "mid_cap_": 6.7,
-      "small_cap_": 2.66,
+      "mid_cap_": 8.78,
+      "small_cap_": 0.59,
       "highest_sector": "Financials",
       "avg_maturity_in_yrs_": 1.52,
       "mod_duration_in_yrs_": 1.32,
