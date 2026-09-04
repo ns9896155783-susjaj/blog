@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Diviniti Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-09-03 10:25"
+    "last_updated": "2026-09-04 09:26"
   },
   "schemes": {
     "diviniti-equity-long-short-fund-reg-g": {
@@ -19,12 +19,12 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-11-30T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 - TRI",
-      "nav": 919.99,
+      "nav": 921.73,
       "52_weekhigh_nav_": 1006.06,
       "52_weeklow_nav_": 905.86,
-      "return_1_mo": -0.37,
-      "return_3_mo": 2.11,
-      "return_6_mo": -4.51,
+      "return_1_mo": -0.86,
+      "return_3_mo": 1.98,
+      "return_6_mo": -4.97,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
