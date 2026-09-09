@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Arudha MutualFund",
     "total_schemes": 2,
-    "last_updated": "2026-09-08 10:25"
+    "last_updated": "2026-09-09 09:35"
   },
   "schemes": {
     "arudha-equity-long-short-fund-reg-g": {
@@ -22,8 +22,8 @@
       "nav": 10.42,
       "52_weekhigh_nav_": 10.58,
       "52_weeklow_nav_": 9.82,
-      "return_1_mo": -0.91,
-      "return_3_mo": 4.41,
+      "return_1_mo": -1.15,
+      "return_3_mo": 4.03,
       "return_6_mo": null,
       "return_1_yr": null,
       "return_2_yrs": null,
@@ -67,9 +67,9 @@
       "nav": 10.38,
       "52_weekhigh_nav_": 10.38,
       "52_weeklow_nav_": 10,
-      "return_1_mo": 0.07,
-      "return_3_mo": 2.1,
-      "return_6_mo": 2.95,
+      "return_1_mo": 0.22,
+      "return_3_mo": 2.04,
+      "return_6_mo": 3.01,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
