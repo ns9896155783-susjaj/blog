@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Qsif Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-10-07 10:26"
+    "last_updated": "2026-10-07 10:34"
   },
   "schemes": {
     "qsif-active-asset-allocator-long-short-fund-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-04-20T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 12.9,
+      "nav": 12.87,
       "52_weekhigh_nav_": 13.32,
       "52_weeklow_nav_": 10,
       "return_1_mo": 12.37,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-11-11T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 11.22,
+      "nav": 11.31,
       "52_weekhigh_nav_": 11.58,
       "52_weeklow_nav_": 8.56,
       "return_1_mo": -1.85,
@@ -97,7 +97,7 @@
     },
     "qsif-equity-long-short-fund-reg-g": {
       "name": "Qsif Equity Long-Short Fund-Reg(G)",
-      "ns_score": 0,
+      "ns_score": 0.31,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=QUSLSGP-GR&type=purchase",
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-06T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.84,
+      "nav": 10.9,
       "52_weekhigh_nav_": 11.13,
       "52_weeklow_nav_": 8.86,
       "return_1_mo": -2.32,
@@ -132,10 +132,10 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": null,
-      "sharpe": null,
-      "sortino": null,
-      "beta": null,
+      "alpha": 0.99,
+      "sharpe": 0.08,
+      "sortino": 0.17,
+      "beta": 0.91,
       "standard_deviation": null,
       "classification": "Hybrid : Long - Short",
       "exit_load_remarks": "1% on or before 15D Nil after 15D"
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-14T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-      "nav": 12.77,
+      "nav": 12.72,
       "52_weekhigh_nav_": 13.18,
       "52_weeklow_nav_": 9.71,
       "return_1_mo": 16.86,
@@ -199,7 +199,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-05-14T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.25,
+      "nav": 10.32,
       "52_weekhigh_nav_": 10.44,
       "52_weeklow_nav_": 10,
       "return_1_mo": -0.24,
