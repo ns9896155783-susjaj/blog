@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Capitalmind Mutual Fund",
     "total_schemes": 3,
-    "last_updated": "2026-10-12 10:25"
+    "last_updated": "2026-10-13 10:19"
   },
   "schemes": {
     "capitalmind-arbitrage-fund-reg-g": {
@@ -19,8 +19,8 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-03-15T18:30:00.000Z",
       "benchmark_index": "Nifty 50 Arbitrage - TRI",
-      "nav": 10.29,
-      "52_weekhigh_nav_": 10.3,
+      "nav": 10.31,
+      "52_weekhigh_nav_": 10.31,
       "52_weeklow_nav_": 10,
       "return_1_mo": 0.52,
       "return_3_mo": 1.23,
@@ -32,7 +32,7 @@
       "return_10_yrs": null,
       "pe_ratio": 14.63,
       "pb_ratio": 2.5,
-      "turnover_ratio_": 69,
+      "turnover_ratio_": 96,
       "no_ofstocks": 46,
       "avg_market_cap_in_rs_cr_": 185047,
       "large_cap_": 52.55,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-08-03T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 9.92,
+      "nav": 10,
       "52_weekhigh_nav_": 10.48,
       "52_weeklow_nav_": 9.39,
       "return_1_mo": -3.9,
@@ -77,7 +77,7 @@
       "return_10_yrs": null,
       "pe_ratio": 31.02,
       "pb_ratio": 4.86,
-      "turnover_ratio_": 14,
+      "turnover_ratio_": 24,
       "no_ofstocks": 32,
       "avg_market_cap_in_rs_cr_": 75125,
       "large_cap_": 25.11,
@@ -122,7 +122,7 @@
       "return_10_yrs": null,
       "pe_ratio": 12.21,
       "pb_ratio": 1.97,
-      "turnover_ratio_": 20,
+      "turnover_ratio_": 3,
       "no_ofstocks": 25,
       "avg_market_cap_in_rs_cr_": 143865,
       "large_cap_": 35.99,
