@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Magnum Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-10-24 10:25"
+    "last_updated": "2026-10-24 11:26"
   },
   "schemes": {
     "magnum-equity-ex-top-100-long-short-fund-reg-g": {
@@ -19,10 +19,10 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-08-26T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 9.53,
+      "nav": 9.21,
       "52_weekhigh_nav_": 10.01,
-      "52_weeklow_nav_": 9.53,
-      "return_1_mo": -1.72,
+      "52_weeklow_nav_": 9.21,
+      "return_1_mo": -4.11,
       "return_3_mo": null,
       "return_6_mo": null,
       "return_1_yr": null,
@@ -52,7 +52,7 @@
     },
     "magnum-hybrid-long-short-fund-reg-g": {
       "name": "Magnum Hybrid Long Short Fund-Reg(G)",
-      "ns_score": 0,
+      "ns_score": -0.1,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SBS901G-GR&type=purchase",
@@ -64,12 +64,12 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-22T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-      "nav": 10.24,
+      "nav": 10.16,
       "52_weekhigh_nav_": 10.58,
       "52_weeklow_nav_": 9.96,
-      "return_1_mo": -1.58,
-      "return_3_mo": -1.9,
-      "return_6_mo": 1.35,
+      "return_1_mo": -2.49,
+      "return_3_mo": -2.21,
+      "return_6_mo": 0.4,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
@@ -87,10 +87,10 @@
       "avg_maturity_in_yrs_": 2.04,
       "mod_duration_in_yrs_": 1.59,
       "yield_to_maturity_": 7.26,
-      "alpha": null,
-      "sharpe": null,
-      "sortino": null,
-      "beta": null,
+      "alpha": 0.18,
+      "sharpe": -0.22,
+      "sortino": -0.37,
+      "beta": 0.28,
       "standard_deviation": null,
       "classification": "Hybrid : Long - Short",
       "exit_load_remarks": "0.50% on or before 15D 0.25% after 15D but on on or before 30D Nil after 30D"
