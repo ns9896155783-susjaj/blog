@@ -2,7 +2,7 @@
   "meta": {
     "amc": "BHARAT Bond Mutual Fund",
     "total_schemes": 4,
-    "last_updated": "2026-11-04 10:24"
+    "last_updated": "2026-11-05 09:57"
   },
   "schemes": {
     "bharat-bond-etf-fof-april-2032-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2021-12-14T18:30:00.000Z",
       "benchmark_index": "NIFTY BHARAT Bond Index - April 2032",
-      "nav": 13.24,
+      "nav": 13.26,
       "52_weekhigh_nav_": 13.55,
       "52_weeklow_nav_": 12.91,
       "return_1_mo": -0.44,
@@ -44,9 +44,9 @@
       "yield_to_maturity_": 7.76,
       "alpha": 0.04,
       "sharpe": 0.02,
-      "sortino": 0.04,
+      "sortino": 0.05,
       "beta": 0.79,
-      "standard_deviation": 2.96,
+      "standard_deviation": 2.97,
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     },
@@ -91,13 +91,13 @@
       "sharpe": 0.02,
       "sortino": 0.05,
       "beta": 0.82,
-      "standard_deviation": 3.13,
+      "standard_deviation": 3.14,
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     },
     "bharat-bond-fof-april-2030-reg-g": {
       "name": "BHARAT Bond FOF - April 2030 -Reg(G)",
-      "ns_score": 3.24,
+      "ns_score": 3.25,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=EDFTRG-GR&type=purchase",
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2019-12-29T18:30:00.000Z",
       "benchmark_index": "NIFTY BHARAT Bond Index - April 2030",
-      "nav": 15.91,
+      "nav": 15.93,
       "52_weekhigh_nav_": 16.09,
       "52_weeklow_nav_": 15.41,
       "return_1_mo": -0.19,
@@ -134,9 +134,9 @@
       "yield_to_maturity_": 7.66,
       "alpha": 0.05,
       "sharpe": 0.04,
-      "sortino": 0.1,
+      "sortino": 0.11,
       "beta": 0.59,
-      "standard_deviation": 2.3,
+      "standard_deviation": 2.31,
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     },
@@ -179,9 +179,9 @@
       "yield_to_maturity_": 7.72,
       "alpha": 0.06,
       "sharpe": 0.05,
-      "sortino": 0.11,
+      "sortino": 0.12,
       "beta": 0.71,
-      "standard_deviation": 2.66,
+      "standard_deviation": 2.67,
       "classification": "FoFs : Domestic",
       "exit_load_remarks": "0.10% on or before 30D Nil after 30D"
     }
