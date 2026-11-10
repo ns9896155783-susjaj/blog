@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Qsif Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-11-09 10:26"
+    "last_updated": "2026-11-10 10:22"
   },
   "schemes": {
     "qsif-active-asset-allocator-long-short-fund-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-04-20T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 12.85,
+      "nav": 12.84,
       "52_weekhigh_nav_": 13.32,
       "52_weeklow_nav_": 10,
       "return_1_mo": -0.41,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-11-11T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 11.42,
+      "nav": 11.54,
       "52_weekhigh_nav_": 11.58,
       "52_weeklow_nav_": 8.56,
       "return_1_mo": 1.01,
@@ -109,8 +109,8 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-06T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 11.19,
-      "52_weekhigh_nav_": 11.19,
+      "nav": 11.24,
+      "52_weekhigh_nav_": 11.24,
       "52_weeklow_nav_": 8.86,
       "return_1_mo": 2.73,
       "return_3_mo": 1.48,
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-14T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-      "nav": 12.73,
+      "nav": 12.75,
       "52_weekhigh_nav_": 13.18,
       "52_weeklow_nav_": 9.71,
       "return_1_mo": 0.08,
@@ -199,8 +199,8 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-05-14T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.6,
-      "52_weekhigh_nav_": 10.6,
+      "nav": 10.68,
+      "52_weekhigh_nav_": 10.68,
       "52_weeklow_nav_": 9.93,
       "return_1_mo": 2.73,
       "return_3_mo": 4.75,
