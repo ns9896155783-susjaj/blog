@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Diviniti Mutual Fund",
     "total_schemes": 1,
-    "last_updated": "2026-11-12 10:25"
+    "last_updated": "2026-11-12 13:11"
   },
   "schemes": {
     "diviniti-equity-long-short-fund-reg-g": {
@@ -14,17 +14,17 @@
       "fund_manager": "Alok Ranjan",
       "category": "HY-LS",
       "rupeevestrating": "Unrated",
-      "aum_in_rs_cr_": 246,
+      "aum_in_rs_cr_": 224.7,
       "expenseratio_": 4.6,
       "fund_type": "Open Ended",
       "inception_date": "2025-11-30T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 - TRI",
-      "nav": 907.07,
+      "nav": 913.94,
       "52_weekhigh_nav_": 1006.06,
       "52_weeklow_nav_": 849.37,
-      "return_1_mo": 2.83,
-      "return_3_mo": -4.44,
-      "return_6_mo": -4.99,
+      "return_1_mo": 5.04,
+      "return_3_mo": -3.8,
+      "return_6_mo": -3.79,
       "return_1_yr": null,
       "return_2_yrs": null,
       "return_3_yrs": null,
@@ -34,7 +34,7 @@
       "pb_ratio": 2.71,
       "turnover_ratio_": 1154,
       "no_ofstocks": 48,
-      "avg_market_cap_in_rs_cr_": 381255,
+      "avg_market_cap_in_rs_cr_": 325732,
       "large_cap_": 60.87,
       "mid_cap_": 5.68,
       "small_cap_": 6.37,
