@@ -2,7 +2,7 @@
   "meta": {
     "amc": "Magnum Mutual Fund",
     "total_schemes": 2,
-    "last_updated": "2026-11-12 10:25"
+    "last_updated": "2026-11-12 13:11"
   },
   "schemes": {
     "magnum-equity-ex-top-100-long-short-fund-reg-g": {
@@ -19,10 +19,10 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-08-26T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 9.8,
+      "nav": 10,
       "52_weekhigh_nav_": 10.01,
       "52_weeklow_nav_": 9.21,
-      "return_1_mo": -0.95,
+      "return_1_mo": 1.11,
       "return_3_mo": null,
       "return_6_mo": null,
       "return_1_yr": null,
@@ -52,7 +52,7 @@
     },
     "magnum-hybrid-long-short-fund-reg-g": {
       "name": "Magnum Hybrid Long Short Fund-Reg(G)",
-      "ns_score": 0.98,
+      "ns_score": 1,
       "stars": "??",
       "amc_list": null,
       "invest_online_link": "https://app.niveshsansar.com/transact?amount=1000&exc=b&sch=SBS901G-GR&type=purchase",
@@ -64,13 +64,13 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-10-22T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-      "nav": 10.45,
+      "nav": 10.48,
       "52_weekhigh_nav_": 10.58,
       "52_weeklow_nav_": 9.96,
-      "return_1_mo": 1.03,
-      "return_3_mo": -0.49,
-      "return_6_mo": 2.15,
-      "return_1_yr": 4.51,
+      "return_1_mo": 1.66,
+      "return_3_mo": -0.4,
+      "return_6_mo": 2.09,
+      "return_1_yr": 4.62,
       "return_2_yrs": null,
       "return_3_yrs": null,
       "return_5_yrs": null,
@@ -87,10 +87,10 @@
       "avg_maturity_in_yrs_": 2.04,
       "mod_duration_in_yrs_": 1.59,
       "yield_to_maturity_": 7.26,
-      "alpha": 0.06,
+      "alpha": 0.04,
       "sharpe": -0.25,
       "sortino": -0.41,
-      "beta": 0.26,
+      "beta": 0.25,
       "standard_deviation": null,
       "classification": "Hybrid : Long - Short",
       "exit_load_remarks": "0.50% on or before 15D 0.25% after 15D but on on or before 30D Nil after 30D"
