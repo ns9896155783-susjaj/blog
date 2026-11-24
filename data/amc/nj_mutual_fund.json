@@ -2,7 +2,7 @@
   "meta": {
     "amc": "NJ Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-11-24 10:25"
+    "last_updated": "2026-11-24 10:30"
   },
   "schemes": {
     "nj-balanced-advantage-fund-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2021-10-28T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
-      "nav": 13.78,
+      "nav": 13.71,
       "52_weekhigh_nav_": 13.93,
       "52_weeklow_nav_": 12.58,
       "return_1_mo": 4,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2023-06-15T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 13.49,
+      "nav": 13.45,
       "52_weekhigh_nav_": 14.46,
       "52_weeklow_nav_": 12.45,
       "return_1_mo": 1.43,
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2023-09-04T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 13.12,
+      "nav": 13.03,
       "52_weekhigh_nav_": 13.58,
       "52_weeklow_nav_": 11.55,
       "return_1_mo": 5.81,
@@ -132,7 +132,7 @@
       "avg_maturity_in_yrs_": null,
       "mod_duration_in_yrs_": null,
       "yield_to_maturity_": null,
-      "alpha": -0.24,
+      "alpha": -0.25,
       "sharpe": 0.05,
       "sortino": 0.1,
       "beta": 1.01,
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-07-29T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 10.06,
+      "nav": 10.04,
       "52_weekhigh_nav_": 10.3,
       "52_weeklow_nav_": 9.16,
       "return_1_mo": 3.93,
@@ -199,7 +199,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2026-07-29T18:30:00.000Z",
       "benchmark_index": "NIFTY 500 - TRI",
-      "nav": 9.71,
+      "nav": 9.6,
       "52_weekhigh_nav_": 10.04,
       "52_weeklow_nav_": 8.93,
       "return_1_mo": 5.2,
