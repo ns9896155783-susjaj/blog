@@ -2,7 +2,7 @@
   "meta": {
     "amc": "360 One Mutual Fund",
     "total_schemes": 5,
-    "last_updated": "2026-11-24 10:25"
+    "last_updated": "2026-11-24 10:29"
   },
   "schemes": {
     "360-one-elss-tax-saver-nifty-50-index-fund-reg-g": {
@@ -19,7 +19,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2022-12-27T18:30:00.000Z",
       "benchmark_index": "NIFTY 50 - TRI",
-      "nav": 14.53,
+      "nav": 14.28,
       "52_weekhigh_nav_": 14.74,
       "52_weeklow_nav_": 12.53,
       "return_1_mo": 12.7,
@@ -64,7 +64,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2023-06-29T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 16.84,
+      "nav": 16.65,
       "52_weekhigh_nav_": 16.87,
       "52_weeklow_nav_": 13.13,
       "return_1_mo": 6.36,
@@ -109,7 +109,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2014-10-29T18:30:00.000Z",
       "benchmark_index": "BSE 500 - TRI",
-      "nav": 51.44,
+      "nav": 50.76,
       "52_weekhigh_nav_": 51.44,
       "52_weeklow_nav_": 41.32,
       "return_1_mo": 8.83,
@@ -119,7 +119,7 @@
       "return_2_yrs": 6.51,
       "return_3_yrs": 12.13,
       "return_5_yrs": 10.57,
-      "return_10_yrs": 15.76,
+      "return_10_yrs": 15.92,
       "pe_ratio": 27.45,
       "pb_ratio": 4.24,
       "turnover_ratio_": 73,
@@ -154,7 +154,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2025-08-19T18:30:00.000Z",
       "benchmark_index": "NIFTY Composite Debt Index",
-      "nav": 11.45,
+      "nav": 11.43,
       "52_weekhigh_nav_": 12.54,
       "52_weeklow_nav_": 11,
       "return_1_mo": -3.31,
@@ -199,7 +199,7 @@
       "fund_type": "Open Ended",
       "inception_date": "2021-11-28T18:30:00.000Z",
       "benchmark_index": "BSE 200 - TRI",
-      "nav": 18.7,
+      "nav": 18.51,
       "52_weekhigh_nav_": 20.13,
       "52_weeklow_nav_": 17,
       "return_1_mo": 5.22,
